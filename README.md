@@ -56,7 +56,7 @@ The current baseline discovers and loads all 18 files and ingests 5,056 rows. Al
 ## Project Structure
 
 ```text
-MyBestSim/
+Yourfolder/
 ├── app.py
 ├── assets/
 │   ├── bestsim.png
@@ -84,7 +84,7 @@ Clone the repository, then from its root create and activate a virtual environme
 
 ```bash
 git clone <repository-url>
-cd raquel-mybestsim-recruitment-test
+cd your chemin
 python -m venv .venv
 ```
 
