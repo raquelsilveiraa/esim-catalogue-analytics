@@ -1,0 +1,343 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+gigsky-102099,GigSky,eSIM Amérique du Nord 1 Go 30 jours,NA,Amérique du Nord,1,1 Go,30,9.79,EUR,4G,oui
+gigsky-102100,GigSky,eSIM Norvège 20 Go 15 jours,NO,Norvège,20,20 Go,15,30.22,EUR,4G,oui
+gigsky-102101,GigSky,eSIM Asie 10 Go 7 jours,AS,Asie,10,10 Go,7,25.59,EUR,4G,oui
+gigsky-102102,GigSky,eSIM Pologne 10 Go 30 jours,PL,Pologne,10,10 Go,30,25.48,EUR,4G,non
+gigsky-102103,GigSky,eSIM Vietnam 3 Go 30 jours,VN,Vietnam,3,3 Go,30,13.09,EUR,4G,oui
+gigsky-102104,GigSky,eSIM Vietnam 3 Go 15 jours,VN,Vietnam,3,3 Go,15,10.53,EUR,5G,oui
+gigsky-102105,GigSky,eSIM Rép. dominicaine 5 Go 30 jours,DO,Rép. dominicaine,5,5 Go,30,14.63,EUR,4G,non
+gigsky-102106,GigSky,eSIM Croatie 20 Go 30 jours,HR,Croatie,20,20 Go,30,39.53,EUR,4G,non
+gigsky-102107,GigSky,eSIM Monde 3 Go 7 jours,WW,Monde,3,3 Go,7,12.05,EUR,4G,non
+gigsky-102108,GigSky,eSIM Turquie 50 Go 15 jours,TR,Turquie,50,50 Go,15,57.27,EUR,4G,non
+gigsky-102109,GigSky,eSIM Philippines Illimité 30 jours,PH,Philippines,,Illimité,30,81.71,EUR,5G,non
+gigsky-102110,GigSky,eSIM Espagne 3 Go 7 jours,ES,Espagne,3,3 Go,7,9.51,EUR,4G,oui
+gigsky-102111,GigSky,eSIM Belgique 10 Go 7 jours,BE,Belgique,10,10 Go,7,19.97,EUR,4G,oui
+gigsky-102112,GigSky,eSIM Grèce 10 Go 15 jours,GR,Grèce,10,10 Go,15,18.84,EUR,4G,oui
+gigsky-102113,GigSky,eSIM Grèce 10 Go 15 jours,GR,Grèce,10,10 Go,15,21.26,EUR,5G,non
+gigsky-102114,GigSky,eSIM Corée du Sud 50 Go 7 jours,KR,Corée du Sud,50,50 Go,7,52.74,EUR,4G,oui
+gigsky-102115,GigSky,eSIM Allemagne 1 Go 30 jours,DE,Allemagne,1,1 Go,30,7.43,EUR,4G,oui
+gigsky-102116,GigSky,eSIM Autriche 50 Go 30 jours,AT,Autriche,50,50 Go,30,62.43,EUR,4G,oui
+gigsky-102117,GigSky,eSIM Chine 1 Go 30 jours,CN,Chine,1,1 Go,30,8.31,EUR,5G,oui
+gigsky-102118,GigSky,eSIM Émirats arabes unis 3 Go 30 jours,AE,Émirats arabes unis,3,3 Go,30,11.61,EUR,4G,oui
+gigsky-102119,GigSky,eSIM Canada 20 Go 15 jours,CA,Canada,20,20 Go,15,30.83,EUR,4G,oui
+gigsky-102120,GigSky,eSIM Pays-Bas 10 Go 7 jours,NL,Pays-Bas,10,10 Go,7,18.33,EUR,4G,non
+gigsky-102121,GigSky,eSIM Maroc 3 Go 15 jours,MA,Maroc,3,3 Go,15,11.42,EUR,5G,oui
+gigsky-102122,GigSky,eSIM Belgique 50 Go 7 jours,BE,Belgique,50,50 Go,7,48.91,EUR,4G,oui
+gigsky-102123,GigSky,eSIM Asie 3 Go 15 jours,AS,Asie,3,3 Go,15,13.91,EUR,4G,non
+gigsky-102124,GigSky,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,13.71,EUR,4G,oui
+gigsky-102125,GigSky,eSIM Argentine Illimité 7 jours,AR,Argentine,,Illimité,7,36.17,EUR,5G,non
+gigsky-102126,GigSky,eSIM Turquie 10 Go 7 jours,TR,Turquie,10,10 Go,7,16.82,EUR,4G,oui
+gigsky-102127,GigSky,eSIM Croatie 5 Go 30 jours,HR,Croatie,5,5 Go,30,15.81,EUR,4G,non
+gigsky-102128,GigSky,eSIM Tanzanie 50 Go 7 jours,TZ,Tanzanie,50,50 Go,7,50.62,EUR,4G,non
+gigsky-102129,GigSky,eSIM Portugal Illimité 15 jours,PT,Portugal,,Illimité,15,46.35,EUR,5G,oui
+gigsky-102130,GigSky,eSIM Mexique 10 Go 15 jours,MX,Mexique,10,10 Go,15,19.38,EUR,4G,oui
+gigsky-102131,GigSky,eSIM Rép. dominicaine Illimité 30 jours,DO,Rép. dominicaine,,Illimité,30,71.13,EUR,4G,oui
+gigsky-102132,GigSky,eSIM Afrique du Sud 50 Go 30 jours,ZA,Afrique du Sud,50,50 Go,30,71.01,EUR,4G,non
+gigsky-102133,GigSky,eSIM Amérique du Nord 10 Go 7 jours,NA,Amérique du Nord,10,10 Go,7,23.58,EUR,4G,oui
+gigsky-102134,GigSky,eSIM Espagne 50 Go 15 jours,ES,Espagne,50,50 Go,15,50.21,EUR,4G,oui
+gigsky-102135,GigSky,eSIM Argentine 3 Go 15 jours,AR,Argentine,3,3 Go,15,10.6,EUR,4G,oui
+gigsky-102136,GigSky,eSIM Portugal 3 Go 15 jours,PT,Portugal,3,3 Go,15,10.2,EUR,4G,oui
+gigsky-102137,GigSky,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,13.12,EUR,5G,oui
+gigsky-102138,GigSky,eSIM Turquie 1 Go 15 jours,TR,Turquie,1,1 Go,15,6.29,EUR,5G,oui
+gigsky-102139,GigSky,eSIM Kenya 1 Go 7 jours,KE,Kenya,1,1 Go,7,5.52,EUR,4G,non
+gigsky-102140,GigSky,eSIM États-Unis 3 Go 30 jours,US,États-Unis,3,3 Go,30,12.17,EUR,5G,non
+gigsky-102141,GigSky,eSIM Espagne Illimité 15 jours,ES,Espagne,,Illimité,15,46.52,EUR,4G,non
+gigsky-102142,GigSky,eSIM Nouvelle-Zélande 3 Go 7 jours,NZ,Nouvelle-Zélande,3,3 Go,7,9.92,EUR,4G,oui
+gigsky-102143,GigSky,eSIM Mexique Illimité 30 jours,MX,Mexique,,Illimité,30,79.29,EUR,5G,oui
+gigsky-102144,GigSky,eSIM Belgique 20 Go 30 jours,BE,Belgique,20,20 Go,30,38.42,EUR,5G,oui
+gigsky-102145,GigSky,eSIM Vietnam 1 Go 7 jours,VN,Vietnam,1,1 Go,7,5.36,EUR,5G,non
+gigsky-102146,GigSky,eSIM Égypte 1 Go 30 jours,EG,Égypte,1,1 Go,30,8.12,EUR,5G,oui
+gigsky-102147,GigSky,eSIM Rép. dominicaine 50 Go 15 jours,DO,Rép. dominicaine,50,50 Go,15,53.18,EUR,4G,oui
+gigsky-102148,GigSky,eSIM Colombie 20 Go 15 jours,CO,Colombie,20,20 Go,15,33.33,EUR,4G,oui
+gigsky-102149,GigSky,eSIM Mexique Illimité 7 jours,MX,Mexique,,Illimité,7,33.98,EUR,5G,non
+gigsky-102150,GigSky,eSIM Afrique du Sud Illimité 7 jours,ZA,Afrique du Sud,,Illimité,7,36.7,EUR,5G,oui
+gigsky-102151,GigSky,eSIM Italie 50 Go 15 jours,IT,Italie,50,50 Go,15,54.63,EUR,4G,non
+gigsky-102152,GigSky,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,101.27,EUR,4G,non
+gigsky-102153,GigSky,eSIM Chili 50 Go 15 jours,CL,Chili,50,50 Go,15,58.99,EUR,4G,oui
+gigsky-102154,GigSky,eSIM Pérou 50 Go 15 jours,PE,Pérou,50,50 Go,15,56.45,EUR,4G,non
+gigsky-102155,GigSky,eSIM Chili Illimité 7 jours,CL,Chili,,Illimité,7,31.59,EUR,4G,oui
+gigsky-102156,GigSky,eSIM Chili 5 Go 7 jours,CL,Chili,5,5 Go,7,11.72,EUR,4G,non
+gigsky-102157,GigSky,eSIM Monde 10 Go 30 jours,WW,Monde,10,10 Go,30,31.07,EUR,4G,oui
+gigsky-102158,GigSky,eSIM Philippines 5 Go 30 jours,PH,Philippines,5,5 Go,30,16.58,EUR,4G,non
+gigsky-102159,GigSky,eSIM Émirats arabes unis Illimité 30 jours,AE,Émirats arabes unis,,Illimité,30,83.33,EUR,5G,non
+gigsky-102160,GigSky,eSIM France 3 Go 30 jours,FR,France,3,3 Go,30,12.8,EUR,5G,non
+gigsky-102161,GigSky,eSIM Arabie saoudite 5 Go 15 jours,SA,Arabie saoudite,5,5 Go,15,13.45,EUR,4G,non
+gigsky-102162,GigSky,eSIM Mexique 3 Go 30 jours,MX,Mexique,3,3 Go,30,12.29,EUR,4G,non
+gigsky-102163,GigSky,eSIM Monde 50 Go 30 jours,WW,Monde,50,50 Go,30,96.05,EUR,4G,oui
+gigsky-102164,GigSky,eSIM Argentine 50 Go 7 jours,AR,Argentine,50,50 Go,7,51.22,EUR,4G,oui
+gigsky-102165,GigSky,eSIM Colombie 10 Go 15 jours,CO,Colombie,10,10 Go,15,20.17,EUR,4G,oui
+gigsky-102166,GigSky,eSIM Kenya 5 Go 7 jours,KE,Kenya,5,5 Go,7,13.24,EUR,4G,oui
+gigsky-102167,GigSky,eSIM Tanzanie 5 Go 30 jours,TZ,Tanzanie,5,5 Go,30,15.66,EUR,5G,non
+gigsky-102168,GigSky,eSIM Autriche 20 Go 15 jours,AT,Autriche,20,20 Go,15,28.83,EUR,5G,non
+gigsky-102169,GigSky,eSIM Pérou 20 Go 30 jours,PE,Pérou,20,20 Go,30,37.61,EUR,5G,oui
+gigsky-102170,GigSky,eSIM Singapour 1 Go 15 jours,SG,Singapour,1,1 Go,15,7.19,EUR,5G,non
+gigsky-102171,GigSky,eSIM Irlande 50 Go 30 jours,IE,Irlande,50,50 Go,30,62.09,EUR,4G,non
+gigsky-102172,GigSky,eSIM Belgique 1 Go 30 jours,BE,Belgique,1,1 Go,30,7.35,EUR,4G,non
+gigsky-102173,GigSky,eSIM Belgique 50 Go 30 jours,BE,Belgique,50,50 Go,30,61.74,EUR,4G,non
+gigsky-102174,GigSky,eSIM Inde 3 Go 15 jours,IN,Inde,3,3 Go,15,10.39,EUR,4G,oui
+gigsky-102175,GigSky,eSIM Singapour 10 Go 15 jours,SG,Singapour,10,10 Go,15,20.15,EUR,5G,non
+gigsky-102176,GigSky,eSIM Indonésie 10 Go 7 jours,ID,Indonésie,10,10 Go,7,19.48,EUR,4G,non
+gigsky-102177,GigSky,eSIM Pérou 20 Go 15 jours,PE,Pérou,20,20 Go,15,27.98,EUR,4G,oui
+gigsky-102178,GigSky,eSIM Monde 5 Go 7 jours,WW,Monde,5,5 Go,7,18.72,EUR,4G,oui
+gigsky-102179,GigSky,eSIM Émirats arabes unis 1 Go 7 jours,AE,Émirats arabes unis,1,1 Go,7,5.86,EUR,5G,non
+gigsky-102180,GigSky,eSIM Espagne Illimité 30 jours,ES,Espagne,,Illimité,30,77.58,EUR,5G,oui
+gigsky-102181,GigSky,eSIM Afrique du Sud 3 Go 15 jours,ZA,Afrique du Sud,3,3 Go,15,11.21,EUR,4G,non
+gigsky-102182,GigSky,eSIM Mexique 50 Go 15 jours,MX,Mexique,50,50 Go,15,58.18,EUR,5G,non
+gigsky-102183,GigSky,eSIM Norvège 5 Go 7 jours,NO,Norvège,5,5 Go,7,13.05,EUR,5G,non
+gigsky-102184,GigSky,eSIM Amérique du Nord 5 Go 30 jours,NA,Amérique du Nord,5,5 Go,30,21.74,EUR,4G,non
+gigsky-102185,GigSky,eSIM Pérou 50 Go 15 jours,PE,Pérou,50,50 Go,15,57.97,EUR,4G,oui
+gigsky-102186,GigSky,eSIM Monde 3 Go 7 jours,WW,Monde,3,3 Go,7,14.08,EUR,5G,non
+gigsky-102187,GigSky,eSIM Espagne 50 Go 30 jours,ES,Espagne,50,50 Go,30,66.92,EUR,5G,oui
+gigsky-102188,GigSky,eSIM Nigeria 10 Go 30 jours,NG,Nigeria,10,10 Go,30,24.34,EUR,4G,non
+gigsky-102189,GigSky,eSIM Colombie 10 Go 15 jours,CO,Colombie,10,10 Go,15,20.53,EUR,4G,oui
+gigsky-102190,GigSky,eSIM Suisse 50 Go 7 jours,CH,Suisse,50,50 Go,7,49.39,EUR,4G,non
+gigsky-102191,GigSky,eSIM Pays-Bas 1 Go 30 jours,NL,Pays-Bas,1,1 Go,30,7.78,EUR,5G,non
+gigsky-102192,GigSky,eSIM Argentine 10 Go 30 jours,AR,Argentine,10,10 Go,30,21.82,EUR,4G,non
+gigsky-102193,GigSky,eSIM Croatie 5 Go 15 jours,HR,Croatie,5,5 Go,15,12.67,EUR,5G,non
+gigsky-102194,GigSky,eSIM Émirats arabes unis 5 Go 7 jours,AE,Émirats arabes unis,5,5 Go,7,11.67,EUR,5G,oui
+gigsky-102195,GigSky,eSIM Israël 50 Go 15 jours,IL,Israël,50,50 Go,15,60.03,EUR,5G,oui
+gigsky-102196,GigSky,eSIM Tchéquie Illimité 30 jours,CZ,Tchéquie,,Illimité,30,82.22,EUR,5G,oui
+gigsky-102197,GigSky,eSIM Malaisie 3 Go 30 jours,MY,Malaisie,3,3 Go,30,11.6,EUR,4G,non
+gigsky-102198,GigSky,eSIM Belgique 1 Go 7 jours,BE,Belgique,1,1 Go,7,5.38,EUR,4G,non
+gigsky-102199,GigSky,eSIM Royaume-Uni Illimité 7 jours,GB,Royaume-Uni,,Illimité,7,33.23,EUR,5G,non
+gigsky-102200,GigSky,eSIM Malaisie 50 Go 15 jours,MY,Malaisie,50,50 Go,15,58.92,EUR,4G,oui
+gigsky-102201,GigSky,eSIM Asie 3 Go 15 jours,AS,Asie,3,3 Go,15,13.42,EUR,4G,non
+gigsky-102202,GigSky,eSIM Vietnam 50 Go 30 jours,VN,Vietnam,50,50 Go,30,70.12,EUR,5G,oui
+gigsky-102203,GigSky,eSIM Canada 20 Go 30 jours,CA,Canada,20,20 Go,30,36.63,EUR,4G,oui
+gigsky-102204,GigSky,eSIM Afrique du Sud 1 Go 15 jours,ZA,Afrique du Sud,1,1 Go,15,6,EUR,5G,oui
+gigsky-102205,GigSky,eSIM Émirats arabes unis 1 Go 7 jours,AE,Émirats arabes unis,1,1 Go,7,5.52,EUR,4G,oui
+gigsky-102206,GigSky,eSIM Inde 50 Go 7 jours,IN,Inde,50,50 Go,7,50.38,EUR,4G,oui
+gigsky-102207,GigSky,eSIM Qatar 20 Go 15 jours,QA,Qatar,20,20 Go,15,29.97,EUR,4G,non
+gigsky-102208,GigSky,eSIM Pays-Bas 3 Go 30 jours,NL,Pays-Bas,3,3 Go,30,11.75,EUR,5G,oui
+gigsky-102209,GigSky,eSIM Indonésie 5 Go 15 jours,ID,Indonésie,5,5 Go,15,12.77,EUR,4G,oui
+gigsky-102210,GigSky,eSIM Grèce 20 Go 7 jours,GR,Grèce,20,20 Go,7,29.57,EUR,5G,oui
+gigsky-102211,GigSky,eSIM Turquie Illimité 15 jours,TR,Turquie,,Illimité,15,46.71,EUR,4G,oui
+gigsky-102212,GigSky,eSIM Belgique 1 Go 15 jours,BE,Belgique,1,1 Go,15,6.8,EUR,4G,oui
+gigsky-102213,GigSky,eSIM Suisse 50 Go 7 jours,CH,Suisse,50,50 Go,7,47.97,EUR,4G,non
+gigsky-102214,GigSky,eSIM Nigeria 5 Go 7 jours,NG,Nigeria,5,5 Go,7,12.61,EUR,4G,oui
+gigsky-102215,GigSky,eSIM Émirats arabes unis 50 Go 7 jours,AE,Émirats arabes unis,50,50 Go,7,52.74,EUR,4G,oui
+gigsky-102216,GigSky,eSIM Suisse 5 Go 30 jours,CH,Suisse,5,5 Go,30,15.68,EUR,4G,non
+gigsky-102217,GigSky,eSIM Espagne 1 Go 30 jours,ES,Espagne,1,1 Go,30,7.31,EUR,4G,non
+gigsky-102218,GigSky,eSIM Autriche 20 Go 15 jours,AT,Autriche,20,20 Go,15,31.82,EUR,4G,oui
+gigsky-102219,GigSky,eSIM Singapour 5 Go 30 jours,SG,Singapour,5,5 Go,30,16.51,EUR,4G,non
+gigsky-102220,GigSky,eSIM Rép. dominicaine 10 Go 7 jours,DO,Rép. dominicaine,10,10 Go,7,17.77,EUR,4G,oui
+gigsky-102221,GigSky,eSIM Nouvelle-Zélande 1 Go 7 jours,NZ,Nouvelle-Zélande,1,1 Go,7,6.37,EUR,5G,non
+gigsky-102222,GigSky,eSIM États-Unis Illimité 30 jours,US,États-Unis,,Illimité,30,85.76,EUR,4G,non
+gigsky-102223,GigSky,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,6.19,EUR,4G,oui
+gigsky-102224,GigSky,eSIM Turquie Illimité 30 jours,TR,Turquie,,Illimité,30,70.93,EUR,4G,non
+gigsky-102225,GigSky,eSIM Vietnam 5 Go 15 jours,VN,Vietnam,5,5 Go,15,14.51,EUR,4G,non
+gigsky-102226,GigSky,eSIM Pérou 20 Go 30 jours,PE,Pérou,20,20 Go,30,37.24,EUR,4G,non
+gigsky-102227,GigSky,eSIM Suède 50 Go 30 jours,SE,Suède,50,50 Go,30,64.17,EUR,4G,non
+gigsky-102228,GigSky,eSIM Japon 1 Go 15 jours,JP,Japon,1,1 Go,15,6.86,EUR,4G,non
+gigsky-102229,GigSky,eSIM Mexique Illimité 15 jours,MX,Mexique,,Illimité,15,50.37,EUR,5G,non
+gigsky-102230,GigSky,eSIM Irlande 5 Go 30 jours,IE,Irlande,5,5 Go,30,17.22,EUR,4G,non
+gigsky-102231,GigSky,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,12.97,EUR,4G,non
+gigsky-102232,GigSky,eSIM Afrique du Sud 3 Go 15 jours,ZA,Afrique du Sud,3,3 Go,15,10.88,EUR,5G,non
+gigsky-102233,GigSky,eSIM Suisse 1 Go 30 jours,CH,Suisse,1,1 Go,30,7.05,EUR,4G,oui
+gigsky-102234,GigSky,eSIM Suède 20 Go 30 jours,SE,Suède,20,20 Go,30,34.16,EUR,5G,non
+gigsky-102235,GigSky,eSIM Japon 5 Go 15 jours,JP,Japon,5,5 Go,15,12.91,EUR,5G,oui
+gigsky-102236,GigSky,eSIM Amérique du Nord 50 Go 30 jours,NA,Amérique du Nord,50,50 Go,30,98.11,EUR,4G,non
+gigsky-102237,GigSky,eSIM Chine Illimité 15 jours,CN,Chine,,Illimité,15,49,EUR,5G,non
+gigsky-102238,GigSky,eSIM Tanzanie Illimité 30 jours,TZ,Tanzanie,,Illimité,30,81.2,EUR,5G,non
+gigsky-102239,GigSky,eSIM Maroc 3 Go 15 jours,MA,Maroc,3,3 Go,15,10.57,EUR,4G,non
+gigsky-102240,GigSky,eSIM France 20 Go 15 jours,FR,France,20,20 Go,15,32.56,EUR,4G,oui
+gigsky-102241,GigSky,eSIM Corée du Sud 3 Go 15 jours,KR,Corée du Sud,3,3 Go,15,11.19,EUR,4G,non
+gigsky-102242,GigSky,eSIM Philippines 50 Go 7 jours,PH,Philippines,50,50 Go,7,47.72,EUR,5G,oui
+gigsky-102243,GigSky,eSIM Nouvelle-Zélande 50 Go 15 jours,NZ,Nouvelle-Zélande,50,50 Go,15,58.35,EUR,5G,oui
+gigsky-102244,GigSky,eSIM Émirats arabes unis 10 Go 15 jours,AE,Émirats arabes unis,10,10 Go,15,18.36,EUR,4G,non
+gigsky-102245,GigSky,eSIM Corée du Sud Illimité 7 jours,KR,Corée du Sud,,Illimité,7,35.89,EUR,5G,non
+gigsky-102246,GigSky,eSIM Grèce 50 Go 30 jours,GR,Grèce,50,50 Go,30,66.13,EUR,5G,oui
+gigsky-102247,GigSky,eSIM Israël 20 Go 7 jours,IL,Israël,20,20 Go,7,25.91,EUR,4G,oui
+gigsky-102248,GigSky,eSIM Pays-Bas 5 Go 30 jours,NL,Pays-Bas,5,5 Go,30,16.83,EUR,5G,non
+gigsky-102249,GigSky,eSIM Jordanie Illimité 15 jours,JO,Jordanie,,Illimité,15,46.04,EUR,5G,oui
+gigsky-102250,GigSky,eSIM Mexique Illimité 15 jours,MX,Mexique,,Illimité,15,48.01,EUR,4G,oui
+gigsky-102251,GigSky,eSIM Philippines 1 Go 7 jours,PH,Philippines,1,1 Go,7,6.41,EUR,4G,oui
+gigsky-102252,GigSky,eSIM Chine 5 Go 15 jours,CN,Chine,5,5 Go,15,14.04,EUR,5G,non
+gigsky-102253,GigSky,eSIM Croatie 1 Go 30 jours,HR,Croatie,1,1 Go,30,8.19,EUR,4G,non
+gigsky-102254,GigSky,eSIM Croatie 50 Go 15 jours,HR,Croatie,50,50 Go,15,56.56,EUR,5G,oui
+gigsky-102255,GigSky,eSIM Chili 1 Go 15 jours,CL,Chili,1,1 Go,15,6.33,EUR,4G,oui
+gigsky-102256,GigSky,eSIM Autriche 20 Go 30 jours,AT,Autriche,20,20 Go,30,33.29,EUR,4G,oui
+gigsky-102257,GigSky,eSIM Argentine 10 Go 15 jours,AR,Argentine,10,10 Go,15,19.67,EUR,4G,non
+gigsky-102258,GigSky,eSIM Égypte Illimité 30 jours,EG,Égypte,,Illimité,30,72.94,EUR,4G,non
+gigsky-102259,GigSky,eSIM Jordanie 10 Go 15 jours,JO,Jordanie,10,10 Go,15,21.96,EUR,5G,oui
+gigsky-102260,GigSky,eSIM Vietnam 50 Go 30 jours,VN,Vietnam,50,50 Go,30,68.91,EUR,4G,oui
+gigsky-102261,GigSky,eSIM Europe 50 Go 30 jours,EU,Europe,50,50 Go,30,89.49,EUR,4G,oui
+gigsky-102262,GigSky,eSIM Monde 20 Go 15 jours,WW,Monde,20,20 Go,15,39.22,EUR,4G,non
+gigsky-102263,GigSky,eSIM Chine 50 Go 7 jours,CN,Chine,50,50 Go,7,53.58,EUR,4G,non
+gigsky-102264,GigSky,eSIM Nouvelle-Zélande 20 Go 30 jours,NZ,Nouvelle-Zélande,20,20 Go,30,33.32,EUR,5G,non
+gigsky-102265,GigSky,eSIM Monde 10 Go 7 jours,WW,Monde,10,10 Go,7,25.95,EUR,5G,oui
+gigsky-102266,GigSky,eSIM Europe 50 Go 7 jours,EU,Europe,50,50 Go,7,63.92,EUR,4G,oui
+gigsky-102267,GigSky,eSIM Malaisie 1 Go 7 jours,MY,Malaisie,1,1 Go,7,6.49,EUR,4G,oui
+gigsky-102268,GigSky,eSIM Norvège 1 Go 15 jours,NO,Norvège,1,1 Go,15,6.41,EUR,4G,oui
+gigsky-102269,GigSky,eSIM Allemagne 3 Go 15 jours,DE,Allemagne,3,3 Go,15,9.52,EUR,4G,oui
+gigsky-102270,GigSky,eSIM Pérou 5 Go 7 jours,PE,Pérou,5,5 Go,7,12.32,EUR,5G,non
+gigsky-102271,GigSky,eSIM Croatie 5 Go 7 jours,HR,Croatie,5,5 Go,7,12.89,EUR,4G,oui
+gigsky-102272,GigSky,eSIM Belgique 50 Go 15 jours,BE,Belgique,50,50 Go,15,57.85,EUR,4G,non
+gigsky-102273,GigSky,eSIM Irlande Illimité 30 jours,IE,Irlande,,Illimité,30,74.17,EUR,4G,non
+gigsky-102274,GigSky,eSIM Inde 3 Go 15 jours,IN,Inde,3,3 Go,15,9.61,EUR,4G,oui
+gigsky-102275,GigSky,eSIM Pologne 20 Go 15 jours,PL,Pologne,20,20 Go,15,27.74,EUR,5G,oui
+gigsky-102276,GigSky,eSIM France Illimité 30 jours,FR,France,,Illimité,30,76.7,EUR,4G,oui
+gigsky-102277,GigSky,eSIM Irlande 1 Go 30 jours,IE,Irlande,1,1 Go,30,7.85,EUR,4G,oui
+gigsky-102278,GigSky,eSIM Monde 3 Go 15 jours,WW,Monde,3,3 Go,15,13.59,EUR,4G,oui
+gigsky-102279,GigSky,eSIM Pérou 3 Go 7 jours,PE,Pérou,3,3 Go,7,9.21,EUR,4G,non
+gigsky-102280,GigSky,eSIM Kenya 3 Go 15 jours,KE,Kenya,3,3 Go,15,9.99,EUR,4G,oui
+gigsky-102281,GigSky,eSIM Grèce 10 Go 15 jours,GR,Grèce,10,10 Go,15,18.31,EUR,4G,oui
+gigsky-102282,GigSky,eSIM Pologne 1 Go 7 jours,PL,Pologne,1,1 Go,7,6.16,EUR,4G,non
+gigsky-102283,GigSky,eSIM Turquie 50 Go 30 jours,TR,Turquie,50,50 Go,30,65.89,EUR,4G,non
+gigsky-102284,GigSky,eSIM Japon 1 Go 30 jours,JP,Japon,1,1 Go,30,8.15,EUR,5G,oui
+gigsky-102285,GigSky,eSIM Norvège 3 Go 7 jours,NO,Norvège,3,3 Go,7,10.17,EUR,4G,non
+gigsky-102286,GigSky,eSIM Qatar 10 Go 7 jours,QA,Qatar,10,10 Go,7,19.83,EUR,4G,non
+gigsky-102287,GigSky,eSIM Grèce Illimité 15 jours,GR,Grèce,,Illimité,15,54.25,EUR,4G,non
+gigsky-102288,GigSky,eSIM Colombie 10 Go 30 jours,CO,Colombie,10,10 Go,30,25.56,EUR,4G,non
+gigsky-102289,GigSky,eSIM Indonésie 20 Go 30 jours,ID,Indonésie,20,20 Go,30,34.13,EUR,5G,non
+gigsky-102290,GigSky,eSIM Chine 1 Go 15 jours,CN,Chine,1,1 Go,15,7.17,EUR,4G,non
+gigsky-102291,GigSky,eSIM Indonésie 50 Go 15 jours,ID,Indonésie,50,50 Go,15,52.79,EUR,5G,non
+gigsky-102292,GigSky,eSIM Maroc 5 Go 15 jours,MA,Maroc,5,5 Go,15,13.27,EUR,4G,non
+gigsky-102293,GigSky,eSIM Kenya Illimité 15 jours,KE,Kenya,,Illimité,15,47.64,EUR,5G,oui
+gigsky-102294,GigSky,eSIM Espagne 10 Go 15 jours,ES,Espagne,10,10 Go,15,21.82,EUR,4G,non
+gigsky-102295,GigSky,eSIM Corée du Sud 50 Go 7 jours,KR,Corée du Sud,50,50 Go,7,47.81,EUR,4G,non
+gigsky-102296,GigSky,eSIM Croatie 3 Go 30 jours,HR,Croatie,3,3 Go,30,11.49,EUR,5G,non
+gigsky-102297,GigSky,eSIM Arabie saoudite Illimité 7 jours,SA,Arabie saoudite,,Illimité,7,30.99,EUR,4G,oui
+gigsky-102298,GigSky,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,13.75,EUR,4G,oui
+gigsky-102299,GigSky,eSIM Autriche 3 Go 30 jours,AT,Autriche,3,3 Go,30,11.5,EUR,4G,non
+gigsky-102300,GigSky,eSIM Amérique du Nord 10 Go 30 jours,NA,Amérique du Nord,10,10 Go,30,35.44,EUR,4G,oui
+gigsky-102301,GigSky,eSIM Rép. dominicaine 3 Go 30 jours,DO,Rép. dominicaine,3,3 Go,30,13.21,EUR,4G,oui
+gigsky-102302,GigSky,eSIM Kenya 20 Go 15 jours,KE,Kenya,20,20 Go,15,33.44,EUR,4G,non
+gigsky-102303,GigSky,eSIM Émirats arabes unis Illimité 15 jours,AE,Émirats arabes unis,,Illimité,15,53.86,EUR,4G,oui
+gigsky-102304,GigSky,eSIM Égypte Illimité 30 jours,EG,Égypte,,Illimité,30,71.16,EUR,5G,oui
+gigsky-102305,GigSky,eSIM Malaisie 20 Go 15 jours,MY,Malaisie,20,20 Go,15,30.66,EUR,4G,non
+gigsky-102306,GigSky,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,83.57,EUR,5G,non
+gigsky-102307,GigSky,eSIM Japon 20 Go 15 jours,JP,Japon,20,20 Go,15,28.47,EUR,5G,non
+gigsky-102308,GigSky,eSIM Suisse 1 Go 30 jours,CH,Suisse,1,1 Go,30,7.78,EUR,4G,oui
+gigsky-102309,GigSky,eSIM Turquie 20 Go 30 jours,TR,Turquie,20,20 Go,30,38.66,EUR,4G,oui
+gigsky-102310,GigSky,eSIM France 10 Go 7 jours,FR,France,10,10 Go,7,17.25,EUR,5G,oui
+gigsky-102311,GigSky,eSIM Égypte 50 Go 15 jours,EG,Égypte,50,50 Go,15,50.54,EUR,5G,oui
+gigsky-102312,GigSky,eSIM Portugal 20 Go 30 jours,PT,Portugal,20,20 Go,30,33.61,EUR,4G,oui
+gigsky-102313,GigSky,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,106.91,EUR,5G,oui
+gigsky-102314,GigSky,eSIM États-Unis 20 Go 30 jours,US,États-Unis,20,20 Go,30,36.68,EUR,4G,oui
+gigsky-102315,GigSky,eSIM Grèce 10 Go 7 jours,GR,Grèce,10,10 Go,7,17.57,EUR,5G,non
+gigsky-102316,GigSky,eSIM Nouvelle-Zélande 1 Go 15 jours,NZ,Nouvelle-Zélande,1,1 Go,15,5.96,EUR,4G,oui
+gigsky-102317,GigSky,eSIM Europe 20 Go 7 jours,EU,Europe,20,20 Go,7,36.26,EUR,5G,oui
+gigsky-102318,GigSky,eSIM Allemagne 3 Go 15 jours,DE,Allemagne,3,3 Go,15,11.06,EUR,5G,oui
+gigsky-102319,GigSky,eSIM Europe 3 Go 7 jours,EU,Europe,3,3 Go,7,13.14,EUR,4G,non
+gigsky-102320,GigSky,eSIM Afrique du Sud 50 Go 7 jours,ZA,Afrique du Sud,50,50 Go,7,45.96,EUR,4G,oui
+gigsky-102321,GigSky,eSIM France 5 Go 30 jours,FR,France,5,5 Go,30,16.72,EUR,4G,non
+gigsky-102322,GigSky,eSIM Turquie 20 Go 30 jours,TR,Turquie,20,20 Go,30,37.84,EUR,5G,oui
+gigsky-102323,GigSky,eSIM Pays-Bas 10 Go 15 jours,NL,Pays-Bas,10,10 Go,15,19.1,EUR,4G,oui
+gigsky-102324,GigSky,eSIM Maroc 1 Go 7 jours,MA,Maroc,1,1 Go,7,6.31,EUR,5G,oui
+gigsky-102325,GigSky,eSIM Europe 3 Go 7 jours,EU,Europe,3,3 Go,7,13.31,EUR,4G,oui
+gigsky-102326,GigSky,eSIM Corée du Sud 20 Go 30 jours,KR,Corée du Sud,20,20 Go,30,36.97,EUR,5G,oui
+gigsky-102327,GigSky,eSIM Qatar 1 Go 7 jours,QA,Qatar,1,1 Go,7,6.15,EUR,4G,non
+gigsky-102328,GigSky,eSIM Argentine 1 Go 7 jours,AR,Argentine,1,1 Go,7,5.97,EUR,5G,oui
+gigsky-102329,GigSky,eSIM Suisse 20 Go 30 jours,CH,Suisse,20,20 Go,30,38.76,EUR,4G,non
+gigsky-102330,GigSky,eSIM France 20 Go 15 jours,FR,France,20,20 Go,15,28.03,EUR,4G,oui
+gigsky-102331,GigSky,eSIM Israël 3 Go 7 jours,IL,Israël,3,3 Go,7,9.5,EUR,5G,non
+gigsky-102332,GigSky,eSIM Jordanie 50 Go 15 jours,JO,Jordanie,50,50 Go,15,59.29,EUR,4G,non
+gigsky-102333,GigSky,eSIM Monde 3 Go 7 jours,WW,Monde,3,3 Go,7,13.19,EUR,4G,non
+gigsky-102334,GigSky,eSIM Asie 20 Go 15 jours,AS,Asie,20,20 Go,15,47.21,EUR,5G,oui
+gigsky-102335,GigSky,eSIM Monde 3 Go 30 jours,WW,Monde,3,3 Go,30,18.37,EUR,4G,non
+gigsky-102336,GigSky,eSIM Tanzanie 1 Go 30 jours,TZ,Tanzanie,1,1 Go,30,8.2,EUR,4G,oui
+gigsky-102337,GigSky,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,6.31,EUR,5G,non
+gigsky-102338,GigSky,eSIM Norvège 5 Go 15 jours,NO,Norvège,5,5 Go,15,12.89,EUR,4G,oui
+gigsky-102339,GigSky,eSIM Pays-Bas 3 Go 15 jours,NL,Pays-Bas,3,3 Go,15,11.18,EUR,4G,non
+gigsky-102340,GigSky,eSIM Japon 10 Go 7 jours,JP,Japon,10,10 Go,7,18.91,EUR,4G,oui
+gigsky-102341,GigSky,eSIM Amérique du Nord 3 Go 15 jours,NA,Amérique du Nord,3,3 Go,15,13.37,EUR,4G,non
+gigsky-102342,GigSky,eSIM Inde 5 Go 15 jours,IN,Inde,5,5 Go,15,14.85,EUR,5G,oui
+gigsky-102343,GigSky,eSIM Afrique du Sud 20 Go 15 jours,ZA,Afrique du Sud,20,20 Go,15,33.54,EUR,5G,oui
+gigsky-102344,GigSky,eSIM Thaïlande 1 Go 7 jours,TH,Thaïlande,1,1 Go,7,5.58,EUR,4G,non
+gigsky-102345,GigSky,eSIM Malaisie 10 Go 30 jours,MY,Malaisie,10,10 Go,30,24.74,EUR,4G,non
+gigsky-102346,GigSky,eSIM Afrique du Sud 3 Go 15 jours,ZA,Afrique du Sud,3,3 Go,15,10.67,EUR,4G,oui
+gigsky-102347,GigSky,eSIM Rép. dominicaine 3 Go 30 jours,DO,Rép. dominicaine,3,3 Go,30,11.73,EUR,5G,oui
+gigsky-102348,GigSky,eSIM Suisse 5 Go 15 jours,CH,Suisse,5,5 Go,15,14.38,EUR,4G,non
+gigsky-102349,GigSky,eSIM Italie 3 Go 15 jours,IT,Italie,3,3 Go,15,10.26,EUR,5G,oui
+gigsky-102350,GigSky,eSIM Amérique du Nord 20 Go 7 jours,NA,Amérique du Nord,20,20 Go,7,38.92,EUR,4G,oui
+gigsky-102351,GigSky,eSIM Tanzanie 20 Go 15 jours,TZ,Tanzanie,20,20 Go,15,30.51,EUR,5G,non
+gigsky-102352,GigSky,eSIM Inde 50 Go 7 jours,IN,Inde,50,50 Go,7,54.75,EUR,5G,oui
+gigsky-102353,GigSky,eSIM Mexique 3 Go 30 jours,MX,Mexique,3,3 Go,30,13.52,EUR,4G,non
+gigsky-102354,GigSky,eSIM Grèce 10 Go 30 jours,GR,Grèce,10,10 Go,30,23.81,EUR,5G,oui
+gigsky-102355,GigSky,eSIM Thaïlande 10 Go 7 jours,TH,Thaïlande,10,10 Go,7,17.26,EUR,4G,oui
+gigsky-102356,GigSky,eSIM Kenya 3 Go 30 jours,KE,Kenya,3,3 Go,30,12.49,EUR,4G,non
+gigsky-102357,GigSky,eSIM Autriche 10 Go 7 jours,AT,Autriche,10,10 Go,7,17.67,EUR,4G,non
+gigsky-102358,GigSky,eSIM Qatar 10 Go 15 jours,QA,Qatar,10,10 Go,15,19.82,EUR,4G,non
+gigsky-102359,GigSky,eSIM Nouvelle-Zélande 20 Go 7 jours,NZ,Nouvelle-Zélande,20,20 Go,7,25.36,EUR,4G,oui
+gigsky-102360,GigSky,eSIM Italie 10 Go 15 jours,IT,Italie,10,10 Go,15,19.12,EUR,4G,non
+gigsky-102361,GigSky,eSIM Singapour 10 Go 7 jours,SG,Singapour,10,10 Go,7,19.02,EUR,4G,oui
+gigsky-102362,GigSky,eSIM Singapour 1 Go 7 jours,SG,Singapour,1,1 Go,7,5.91,EUR,4G,oui
+gigsky-102363,GigSky,eSIM Portugal 10 Go 30 jours,PT,Portugal,10,10 Go,30,22.36,EUR,4G,oui
+gigsky-102364,GigSky,eSIM Thaïlande 20 Go 7 jours,TH,Thaïlande,20,20 Go,7,29.2,EUR,5G,non
+gigsky-102365,GigSky,eSIM Inde 3 Go 7 jours,IN,Inde,3,3 Go,7,8.95,EUR,4G,oui
+gigsky-102366,GigSky,eSIM Pérou 50 Go 30 jours,PE,Pérou,50,50 Go,30,68.76,EUR,4G,oui
+gigsky-102367,GigSky,eSIM Norvège 1 Go 15 jours,NO,Norvège,1,1 Go,15,6.67,EUR,4G,non
+gigsky-102368,GigSky,eSIM Monde 5 Go 15 jours,WW,Monde,5,5 Go,15,17.7,EUR,4G,oui
+gigsky-102369,GigSky,eSIM Rép. dominicaine 3 Go 7 jours,DO,Rép. dominicaine,3,3 Go,7,9.14,EUR,4G,oui
+gigsky-102370,GigSky,eSIM Pologne 50 Go 30 jours,PL,Pologne,50,50 Go,30,68.58,EUR,4G,oui
+gigsky-102371,GigSky,eSIM Égypte 20 Go 7 jours,EG,Égypte,20,20 Go,7,26.4,EUR,4G,oui
+gigsky-102372,GigSky,eSIM Amérique du Nord 5 Go 30 jours,NA,Amérique du Nord,5,5 Go,30,23.06,EUR,5G,oui
+gigsky-102373,GigSky,eSIM Europe 1 Go 15 jours,EU,Europe,1,1 Go,15,9.18,EUR,5G,non
+gigsky-102374,GigSky,eSIM Vietnam 1 Go 15 jours,VN,Vietnam,1,1 Go,15,6.84,EUR,4G,non
+gigsky-102375,GigSky,eSIM Italie 10 Go 7 jours,IT,Italie,10,10 Go,7,17.11,EUR,4G,oui
+gigsky-102376,GigSky,eSIM Suisse 3 Go 30 jours,CH,Suisse,3,3 Go,30,12.6,EUR,5G,oui
+gigsky-102377,GigSky,eSIM Monde 5 Go 7 jours,WW,Monde,5,5 Go,7,17.63,EUR,4G,oui
+gigsky-102378,GigSky,eSIM Colombie 50 Go 15 jours,CO,Colombie,50,50 Go,15,51.82,EUR,4G,oui
+gigsky-102379,GigSky,eSIM Égypte 3 Go 7 jours,EG,Égypte,3,3 Go,7,9.67,EUR,4G,non
+gigsky-102380,GigSky,eSIM Turquie Illimité 15 jours,TR,Turquie,,Illimité,15,53.13,EUR,4G,non
+gigsky-102381,GigSky,eSIM Qatar 20 Go 15 jours,QA,Qatar,20,20 Go,15,30.6,EUR,4G,non
+gigsky-102382,GigSky,eSIM Chine Illimité 7 jours,CN,Chine,,Illimité,7,33.03,EUR,5G,non
+gigsky-102383,GigSky,eSIM Maroc 50 Go 15 jours,MA,Maroc,50,50 Go,15,51.43,EUR,4G,oui
+gigsky-102384,GigSky,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,102.1,EUR,4G,oui
+gigsky-102385,GigSky,eSIM Turquie 5 Go 15 jours,TR,Turquie,5,5 Go,15,14.88,EUR,5G,non
+gigsky-102386,GigSky,eSIM Pérou 20 Go 30 jours,PE,Pérou,20,20 Go,30,36.05,EUR,4G,oui
+gigsky-102387,GigSky,eSIM Arabie saoudite 10 Go 15 jours,SA,Arabie saoudite,10,10 Go,15,21.95,EUR,4G,non
+gigsky-102388,GigSky,eSIM Pays-Bas 5 Go 7 jours,NL,Pays-Bas,5,5 Go,7,12.03,EUR,4G,oui
+gigsky-102389,GigSky,eSIM Chine 10 Go 15 jours,CN,Chine,10,10 Go,15,18.99,EUR,5G,oui
+gigsky-102390,GigSky,eSIM Nigeria 3 Go 15 jours,NG,Nigeria,3,3 Go,15,11.34,EUR,4G,oui
+gigsky-102391,GigSky,eSIM Chine 10 Go 30 jours,CN,Chine,10,10 Go,30,22.29,EUR,5G,non
+gigsky-102392,GigSky,eSIM Grèce 10 Go 30 jours,GR,Grèce,10,10 Go,30,23.64,EUR,4G,non
+gigsky-102393,GigSky,eSIM Rép. dominicaine 10 Go 15 jours,DO,Rép. dominicaine,10,10 Go,15,18.76,EUR,4G,non
+gigsky-102394,GigSky,eSIM Philippines 50 Go 7 jours,PH,Philippines,50,50 Go,7,47.52,EUR,4G,oui
+gigsky-102395,GigSky,eSIM Afrique du Sud 3 Go 7 jours,ZA,Afrique du Sud,3,3 Go,7,8.77,EUR,5G,non
+gigsky-102396,GigSky,eSIM Égypte 1 Go 7 jours,EG,Égypte,1,1 Go,7,5.8,EUR,4G,non
+gigsky-102397,GigSky,eSIM Indonésie 20 Go 7 jours,ID,Indonésie,20,20 Go,7,30.49,EUR,5G,oui
+gigsky-102398,GigSky,eSIM Inde 50 Go 15 jours,IN,Inde,50,50 Go,15,55.18,EUR,4G,non
+gigsky-102399,GigSky,eSIM Canada 1 Go 30 jours,CA,Canada,1,1 Go,30,7.52,EUR,5G,oui
+gigsky-102400,GigSky,eSIM Émirats arabes unis Illimité 30 jours,AE,Émirats arabes unis,,Illimité,30,77.58,EUR,5G,oui
+gigsky-102401,GigSky,eSIM Tanzanie 5 Go 30 jours,TZ,Tanzanie,5,5 Go,30,15.58,EUR,4G,non
+gigsky-102402,GigSky,eSIM Vietnam 1 Go 15 jours,VN,Vietnam,1,1 Go,15,6.36,EUR,5G,oui
+gigsky-102403,GigSky,eSIM Europe 20 Go 30 jours,EU,Europe,20,20 Go,30,48.16,EUR,4G,oui
+gigsky-102404,GigSky,eSIM Colombie Illimité 15 jours,CO,Colombie,,Illimité,15,52.95,EUR,5G,non
+gigsky-102405,GigSky,eSIM Italie 50 Go 15 jours,IT,Italie,50,50 Go,15,58.51,EUR,4G,non
+gigsky-102406,GigSky,eSIM Colombie 1 Go 30 jours,CO,Colombie,1,1 Go,30,7.16,EUR,4G,oui
+gigsky-102407,GigSky,eSIM Pérou 50 Go 30 jours,PE,Pérou,50,50 Go,30,61.62,EUR,4G,non
+gigsky-102408,GigSky,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,104.85,EUR,5G,oui
+gigsky-102409,GigSky,eSIM Indonésie 20 Go 7 jours,ID,Indonésie,20,20 Go,7,25.27,EUR,4G,oui
+gigsky-102410,GigSky,eSIM Australie 5 Go 30 jours,AU,Australie,5,5 Go,30,16.72,EUR,5G,oui
+gigsky-102411,GigSky,eSIM Australie Illimité 30 jours,AU,Australie,,Illimité,30,76.41,EUR,5G,non
+gigsky-102412,GigSky,eSIM Kenya 20 Go 7 jours,KE,Kenya,20,20 Go,7,30.23,EUR,5G,oui
+gigsky-102413,GigSky,eSIM Jordanie 20 Go 7 jours,JO,Jordanie,20,20 Go,7,27.9,EUR,4G,non
+gigsky-102414,GigSky,eSIM Italie 5 Go 7 jours,IT,Italie,5,5 Go,7,11.74,EUR,5G,non
+gigsky-102415,GigSky,eSIM Autriche 10 Go 15 jours,AT,Autriche,10,10 Go,15,21.03,EUR,5G,oui
+gigsky-102416,GigSky,eSIM Afrique du Sud 1 Go 7 jours,ZA,Afrique du Sud,1,1 Go,7,6.08,EUR,4G,oui
+gigsky-102417,GigSky,eSIM Israël 50 Go 30 jours,IL,Israël,50,50 Go,30,68.24,EUR,5G,non
+gigsky-102418,GigSky,eSIM Égypte 1 Go 7 jours,EG,Égypte,1,1 Go,7,6.08,EUR,4G,non
+gigsky-102419,GigSky,eSIM Monde 50 Go 7 jours,WW,Monde,50,50 Go,7,69.21,EUR,4G,non
+gigsky-102420,GigSky,eSIM Mexique 20 Go 30 jours,MX,Mexique,20,20 Go,30,32.76,EUR,5G,non
+gigsky-102421,GigSky,eSIM Philippines 20 Go 7 jours,PH,Philippines,20,20 Go,7,28.25,EUR,5G,non
+gigsky-102422,GigSky,eSIM Australie Illimité 15 jours,AU,Australie,,Illimité,15,49.72,EUR,4G,non
+gigsky-102423,GigSky,eSIM Argentine 3 Go 7 jours,AR,Argentine,3,3 Go,7,8.9,EUR,4G,non
+gigsky-102424,GigSky,eSIM Portugal 10 Go 30 jours,PT,Portugal,10,10 Go,30,22.67,EUR,4G,oui
+gigsky-102425,GigSky,eSIM Italie 3 Go 30 jours,IT,Italie,3,3 Go,30,12.73,EUR,5G,oui
+gigsky-102426,GigSky,eSIM Allemagne 20 Go 30 jours,DE,Allemagne,20,20 Go,30,38.39,EUR,4G,non
+gigsky-102427,GigSky,eSIM Monde 50 Go 7 jours,WW,Monde,50,50 Go,7,70.43,EUR,5G,non
+gigsky-102428,GigSky,eSIM Arabie saoudite 3 Go 30 jours,SA,Arabie saoudite,3,3 Go,30,12.11,EUR,5G,non
+gigsky-102429,GigSky,eSIM Irlande 5 Go 30 jours,IE,Irlande,5,5 Go,30,14.51,EUR,4G,non
+gigsky-102430,GigSky,eSIM Suède 20 Go 7 jours,SE,Suède,20,20 Go,7,29.37,EUR,4G,oui
+gigsky-102431,GigSky,eSIM Monde 5 Go 30 jours,WW,Monde,5,5 Go,30,21.42,EUR,4G,oui
+gigsky-102432,GigSky,eSIM Turquie Illimité 30 jours,TR,Turquie,,Illimité,30,82.33,EUR,4G,oui
+gigsky-102433,GigSky,eSIM Argentine 3 Go 30 jours,AR,Argentine,3,3 Go,30,12.87,EUR,4G,oui
+gigsky-102434,GigSky,eSIM Australie 10 Go 30 jours,AU,Australie,10,10 Go,30,25.99,EUR,4G,oui
+gigsky-102435,GigSky,eSIM Mexique 5 Go 15 jours,MX,Mexique,5,5 Go,15,12.81,EUR,4G,non
+gigsky-102436,GigSky,eSIM Maroc Illimité 15 jours,MA,Maroc,,Illimité,15,53.41,EUR,5G,oui
+gigsky-102437,GigSky,eSIM Chili 5 Go 30 jours,CL,Chili,5,5 Go,30,17.03,EUR,5G,oui
+gigsky-102438,GigSky,eSIM Royaume-Uni 3 Go 7 jours,GB,Royaume-Uni,3,3 Go,7,9.76,EUR,5G,oui
+gigsky-102439,GigSky,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,149.53,EUR,5G,non
+gigsky-102440,GigSky,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,122.47,EUR,5G,oui

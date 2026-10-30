@@ -1,0 +1,723 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+airalo-100001,Airalo,eSIM Espagne 3 Go 15 jours,ES,Espagne,3,3 Go,15,11.43,EUR,4G,non
+airalo-100002,Airalo,eSIM Nigeria 10 Go 7 jours,NG,Nigeria,10,10 Go,7,17.4,EUR,5G,oui
+airalo-100003,Airalo,eSIM Émirats arabes unis 1 Go 30 jours,AE,Émirats arabes unis,1,1 Go,30,7.34,EUR,4G,non
+airalo-100004,Airalo,eSIM Égypte 5 Go 15 jours,EG,Égypte,5,5 Go,15,12.32,EUR,4G,non
+airalo-100005,Airalo,eSIM Asie 1 Go 15 jours,AS,Asie,1,1 Go,15,9.45,EUR,5G,non
+airalo-100006,Airalo,eSIM Espagne 1 Go 15 jours,ES,Espagne,1,1 Go,15,6.05,EUR,4G,non
+airalo-100007,Airalo,eSIM Espagne 50 Go 30 jours,ES,Espagne,50,50 Go,30,61.22,EUR,4G,non
+airalo-100008,Airalo,eSIM Tchéquie 1 Go 15 jours,CZ,Tchéquie,1,1 Go,15,6.5,EUR,4G,oui
+airalo-100009,Airalo,eSIM Indonésie 1 Go 7 jours,ID,Indonésie,1,1 Go,7,5.38,EUR,4G,oui
+airalo-100010,Airalo,eSIM Indonésie 1 Go 7 jours,ID,Indonésie,1,1 Go,7,6.45,EUR,5G,non
+airalo-100011,Airalo,eSIM Rép. dominicaine 3 Go 7 jours,DO,Rép. dominicaine,3,3 Go,7,10.19,EUR,4G,oui
+airalo-100012,Airalo,eSIM Italie 10 Go 30 jours,IT,Italie,10,10 Go,30,23.13,EUR,4G,non
+airalo-100013,Airalo,eSIM Arabie saoudite 3 Go 15 jours,SA,Arabie saoudite,3,3 Go,15,10.26,EUR,4G,oui
+airalo-100014,Airalo,eSIM Italie 5 Go 15 jours,IT,Italie,5,5 Go,15,14.24,EUR,5G,oui
+airalo-100015,Airalo,eSIM Tanzanie Illimité 15 jours,TZ,Tanzanie,,Illimité,15,50.2,EUR,5G,non
+airalo-100016,Airalo,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,9.04,EUR,5G,non
+airalo-100017,Airalo,eSIM Indonésie 3 Go 7 jours,ID,Indonésie,3,3 Go,7,10.24,EUR,4G,oui
+airalo-100018,Airalo,eSIM Suisse 5 Go 7 jours,CH,Suisse,5,5 Go,7,13.43,EUR,4G,oui
+airalo-100019,Airalo,eSIM Nouvelle-Zélande 1 Go 7 jours,NZ,Nouvelle-Zélande,1,1 Go,7,5.84,EUR,4G,non
+airalo-100020,Airalo,eSIM Colombie Illimité 7 jours,CO,Colombie,,Illimité,7,31.55,EUR,5G,non
+airalo-100021,Airalo,eSIM Thaïlande 1 Go 7 jours,TH,Thaïlande,1,1 Go,7,5.54,EUR,5G,non
+airalo-100022,Airalo,eSIM Arabie saoudite 1 Go 15 jours,SA,Arabie saoudite,1,1 Go,15,6.56,EUR,5G,oui
+airalo-100023,Airalo,eSIM Europe 3 Go 7 jours,EU,Europe,3,3 Go,7,14.25,EUR,5G,oui
+airalo-100024,Airalo,eSIM Pérou 1 Go 15 jours,PE,Pérou,1,1 Go,15,6.91,EUR,4G,non
+airalo-100025,Airalo,eSIM Israël 50 Go 15 jours,IL,Israël,50,50 Go,15,58.45,EUR,4G,non
+airalo-100026,Airalo,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,15.98,EUR,4G,non
+airalo-100027,Airalo,eSIM Australie 1 Go 7 jours,AU,Australie,1,1 Go,7,6.15,EUR,5G,oui
+airalo-100028,Airalo,eSIM Asie 10 Go 30 jours,AS,Asie,10,10 Go,30,31,EUR,4G,oui
+airalo-100029,Airalo,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,7.7,EUR,4G,non
+airalo-100030,Airalo,eSIM Asie 3 Go 7 jours,AS,Asie,3,3 Go,7,13.19,EUR,4G,oui
+airalo-100031,Airalo,eSIM Indonésie 1 Go 15 jours,ID,Indonésie,1,1 Go,15,5.97,EUR,4G,oui
+airalo-100032,Airalo,eSIM France 20 Go 7 jours,FR,France,20,20 Go,7,26.73,EUR,4G,non
+airalo-100033,Airalo,eSIM Amérique du Nord Illimité 15 jours,NA,Amérique du Nord,,Illimité,15,67.14,EUR,5G,non
+airalo-100034,Airalo,eSIM Colombie 3 Go 15 jours,CO,Colombie,3,3 Go,15,10.37,EUR,4G,oui
+airalo-100035,Airalo,eSIM Pays-Bas 50 Go 15 jours,NL,Pays-Bas,50,50 Go,15,53.45,EUR,4G,non
+airalo-100036,Airalo,eSIM États-Unis 20 Go 7 jours,US,États-Unis,20,20 Go,7,25.69,EUR,4G,non
+airalo-100037,Airalo,eSIM Afrique du Sud 1 Go 30 jours,ZA,Afrique du Sud,1,1 Go,30,7.13,EUR,4G,non
+airalo-100038,Airalo,eSIM Belgique Illimité 15 jours,BE,Belgique,,Illimité,15,50.11,EUR,5G,non
+airalo-100039,Airalo,eSIM Suède 50 Go 30 jours,SE,Suède,50,50 Go,30,62.98,EUR,4G,oui
+airalo-100040,Airalo,eSIM Allemagne Illimité 15 jours,DE,Allemagne,,Illimité,15,52.49,EUR,4G,oui
+airalo-100041,Airalo,eSIM Philippines 5 Go 15 jours,PH,Philippines,5,5 Go,15,13.81,EUR,4G,non
+airalo-100042,Airalo,eSIM Indonésie 20 Go 30 jours,ID,Indonésie,20,20 Go,30,37.89,EUR,4G,oui
+airalo-100043,Airalo,eSIM Europe 20 Go 15 jours,EU,Europe,20,20 Go,15,40.93,EUR,5G,non
+airalo-100044,Airalo,eSIM Australie 3 Go 30 jours,AU,Australie,3,3 Go,30,11.89,EUR,5G,non
+airalo-100045,Airalo,eSIM Malaisie 20 Go 7 jours,MY,Malaisie,20,20 Go,7,27.92,EUR,4G,oui
+airalo-100046,Airalo,eSIM Tanzanie 5 Go 15 jours,TZ,Tanzanie,5,5 Go,15,13.91,EUR,4G,non
+airalo-100047,Airalo,eSIM Nigeria 5 Go 30 jours,NG,Nigeria,5,5 Go,30,16.93,EUR,4G,oui
+airalo-100048,Airalo,eSIM Italie 50 Go 30 jours,IT,Italie,50,50 Go,30,61.13,EUR,5G,non
+airalo-100049,Airalo,eSIM Argentine 50 Go 15 jours,AR,Argentine,50,50 Go,15,50.73,EUR,5G,oui
+airalo-100050,Airalo,eSIM Grèce 10 Go 7 jours,GR,Grèce,10,10 Go,7,16.55,EUR,4G,oui
+airalo-100051,Airalo,eSIM Thaïlande 3 Go 30 jours,TH,Thaïlande,3,3 Go,30,11.81,EUR,5G,oui
+airalo-100052,Airalo,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,77.53,EUR,5G,non
+airalo-100053,Airalo,eSIM États-Unis Illimité 30 jours,US,États-Unis,,Illimité,30,84.99,EUR,4G,oui
+airalo-100054,Airalo,eSIM Europe 5 Go 7 jours,EU,Europe,5,5 Go,7,16.58,EUR,5G,oui
+airalo-100055,Airalo,eSIM Qatar 3 Go 7 jours,QA,Qatar,3,3 Go,7,9.93,EUR,4G,oui
+airalo-100056,Airalo,eSIM Malaisie 3 Go 7 jours,MY,Malaisie,3,3 Go,7,9.01,EUR,4G,non
+airalo-100057,Airalo,eSIM Autriche 10 Go 15 jours,AT,Autriche,10,10 Go,15,18.96,EUR,4G,non
+airalo-100058,Airalo,eSIM Asie 3 Go 30 jours,AS,Asie,3,3 Go,30,18.02,EUR,4G,oui
+airalo-100059,Airalo,eSIM Espagne 10 Go 7 jours,ES,Espagne,10,10 Go,7,16.51,EUR,4G,non
+airalo-100060,Airalo,eSIM Brésil 50 Go 7 jours,BR,Brésil,50,50 Go,7,52.84,EUR,4G,non
+airalo-100061,Airalo,eSIM Malaisie 10 Go 15 jours,MY,Malaisie,10,10 Go,15,18.44,EUR,4G,oui
+airalo-100062,Airalo,eSIM Nouvelle-Zélande 5 Go 15 jours,NZ,Nouvelle-Zélande,5,5 Go,15,14.53,EUR,5G,non
+airalo-100063,Airalo,eSIM Égypte 20 Go 15 jours,EG,Égypte,20,20 Go,15,29.58,EUR,4G,non
+airalo-100064,Airalo,eSIM Royaume-Uni 1 Go 15 jours,GB,Royaume-Uni,1,1 Go,15,6.15,EUR,4G,non
+airalo-100065,Airalo,eSIM Israël 50 Go 30 jours,IL,Israël,50,50 Go,30,64.77,EUR,4G,oui
+airalo-100066,Airalo,eSIM Europe 5 Go 15 jours,EU,Europe,5,5 Go,15,17.21,EUR,4G,oui
+airalo-100067,Airalo,eSIM Asie 1 Go 15 jours,AS,Asie,1,1 Go,15,8.55,EUR,4G,oui
+airalo-100068,Airalo,eSIM Singapour 10 Go 7 jours,SG,Singapour,10,10 Go,7,16.88,EUR,5G,non
+airalo-100069,Airalo,eSIM Royaume-Uni 5 Go 15 jours,GB,Royaume-Uni,5,5 Go,15,14.15,EUR,5G,oui
+airalo-100070,Airalo,eSIM Maroc 10 Go 15 jours,MA,Maroc,10,10 Go,15,19.42,EUR,5G,oui
+airalo-100071,Airalo,eSIM Kenya Illimité 30 jours,KE,Kenya,,Illimité,30,86.24,EUR,4G,non
+airalo-100072,Airalo,eSIM Irlande 10 Go 15 jours,IE,Irlande,10,10 Go,15,21.06,EUR,4G,non
+airalo-100073,Airalo,eSIM Australie 1 Go 7 jours,AU,Australie,1,1 Go,7,5.49,EUR,4G,oui
+airalo-100074,Airalo,eSIM Argentine 1 Go 7 jours,AR,Argentine,1,1 Go,7,5.89,EUR,4G,non
+airalo-100075,Airalo,eSIM Allemagne 1 Go 15 jours,DE,Allemagne,1,1 Go,15,6.76,EUR,4G,oui
+airalo-100076,Airalo,eSIM Amérique du Nord 5 Go 7 jours,NA,Amérique du Nord,5,5 Go,7,18.07,EUR,4G,oui
+airalo-100077,Airalo,eSIM Tanzanie 5 Go 30 jours,TZ,Tanzanie,5,5 Go,30,15.94,EUR,4G,non
+airalo-100078,Airalo,eSIM Tanzanie 3 Go 30 jours,TZ,Tanzanie,3,3 Go,30,11.78,EUR,4G,oui
+airalo-100079,Airalo,eSIM Thaïlande Illimité 15 jours,TH,Thaïlande,,Illimité,15,50.97,EUR,5G,oui
+airalo-100080,Airalo,eSIM Kenya 3 Go 15 jours,KE,Kenya,3,3 Go,15,9.65,EUR,4G,non
+airalo-100081,Airalo,eSIM Pérou 3 Go 15 jours,PE,Pérou,3,3 Go,15,11.17,EUR,4G,non
+airalo-100082,Airalo,eSIM Pologne 20 Go 7 jours,PL,Pologne,20,20 Go,7,27.07,EUR,4G,non
+airalo-100083,Airalo,eSIM Afrique du Sud 1 Go 15 jours,ZA,Afrique du Sud,1,1 Go,15,6.07,EUR,4G,non
+airalo-100084,Airalo,eSIM Japon 5 Go 30 jours,JP,Japon,5,5 Go,30,16.34,EUR,5G,oui
+airalo-100085,Airalo,eSIM Canada 20 Go 7 jours,CA,Canada,20,20 Go,7,28.67,EUR,4G,oui
+airalo-100086,Airalo,eSIM Espagne 50 Go 15 jours,ES,Espagne,50,50 Go,15,52.06,EUR,4G,non
+airalo-100087,Airalo,eSIM Pérou 5 Go 15 jours,PE,Pérou,5,5 Go,15,13.57,EUR,4G,oui
+airalo-100088,Airalo,eSIM Asie 1 Go 15 jours,AS,Asie,1,1 Go,15,9.27,EUR,4G,oui
+airalo-100089,Airalo,eSIM Colombie 20 Go 15 jours,CO,Colombie,20,20 Go,15,31.02,EUR,5G,oui
+airalo-100090,Airalo,eSIM Émirats arabes unis 5 Go 7 jours,AE,Émirats arabes unis,5,5 Go,7,13,EUR,4G,non
+airalo-100091,Airalo,eSIM Qatar 50 Go 30 jours,QA,Qatar,50,50 Go,30,68.01,EUR,5G,non
+airalo-100092,Airalo,eSIM Chili 1 Go 15 jours,CL,Chili,1,1 Go,15,6.41,EUR,4G,oui
+airalo-100093,Airalo,eSIM Turquie 1 Go 30 jours,TR,Turquie,1,1 Go,30,7.35,EUR,5G,non
+airalo-100094,Airalo,eSIM Portugal 5 Go 30 jours,PT,Portugal,5,5 Go,30,17.22,EUR,4G,oui
+airalo-100095,Airalo,eSIM Norvège 1 Go 15 jours,NO,Norvège,1,1 Go,15,6.05,EUR,4G,non
+airalo-100096,Airalo,eSIM Chili 3 Go 15 jours,CL,Chili,3,3 Go,15,11.22,EUR,5G,oui
+airalo-100097,Airalo,eSIM Pérou 20 Go 30 jours,PE,Pérou,20,20 Go,30,34.4,EUR,4G,oui
+airalo-100098,Airalo,eSIM Canada 20 Go 30 jours,CA,Canada,20,20 Go,30,34.81,EUR,4G,oui
+airalo-100099,Airalo,eSIM Mexique 10 Go 15 jours,MX,Mexique,10,10 Go,15,19.86,EUR,4G,oui
+airalo-100100,Airalo,eSIM Mexique 1 Go 30 jours,MX,Mexique,1,1 Go,30,7.26,EUR,4G,oui
+airalo-100101,Airalo,eSIM Canada 1 Go 7 jours,CA,Canada,1,1 Go,7,5.41,EUR,5G,oui
+airalo-100102,Airalo,eSIM Amérique du Nord 5 Go 15 jours,NA,Amérique du Nord,5,5 Go,15,20.75,EUR,4G,non
+airalo-100103,Airalo,eSIM Philippines 10 Go 30 jours,PH,Philippines,10,10 Go,30,25.77,EUR,4G,oui
+airalo-100104,Airalo,eSIM Singapour 20 Go 7 jours,SG,Singapour,20,20 Go,7,25.26,EUR,4G,oui
+airalo-100105,Airalo,eSIM Nigeria 50 Go 30 jours,NG,Nigeria,50,50 Go,30,69.27,EUR,5G,non
+airalo-100106,Airalo,eSIM Nigeria 3 Go 15 jours,NG,Nigeria,3,3 Go,15,10.07,EUR,4G,oui
+airalo-100107,Airalo,eSIM Égypte 20 Go 30 jours,EG,Égypte,20,20 Go,30,38.63,EUR,5G,non
+airalo-100108,Airalo,eSIM Pays-Bas 5 Go 7 jours,NL,Pays-Bas,5,5 Go,7,12.31,EUR,5G,oui
+airalo-100109,Airalo,eSIM Suisse 10 Go 30 jours,CH,Suisse,10,10 Go,30,22.33,EUR,4G,oui
+airalo-100110,Airalo,eSIM Égypte 5 Go 15 jours,EG,Égypte,5,5 Go,15,14.67,EUR,4G,non
+airalo-100111,Airalo,eSIM Belgique 1 Go 30 jours,BE,Belgique,1,1 Go,30,7.88,EUR,4G,non
+airalo-100112,Airalo,eSIM Grèce 3 Go 30 jours,GR,Grèce,3,3 Go,30,11.43,EUR,4G,oui
+airalo-100113,Airalo,eSIM Asie 5 Go 7 jours,AS,Asie,5,5 Go,7,15.72,EUR,4G,non
+airalo-100114,Airalo,eSIM Amérique du Nord 20 Go 30 jours,NA,Amérique du Nord,20,20 Go,30,48.07,EUR,4G,non
+airalo-100115,Airalo,eSIM Suède 3 Go 30 jours,SE,Suède,3,3 Go,30,12.98,EUR,4G,oui
+airalo-100116,Airalo,eSIM Suède 10 Go 15 jours,SE,Suède,10,10 Go,15,21.41,EUR,4G,non
+airalo-100117,Airalo,eSIM Irlande 5 Go 7 jours,IE,Irlande,5,5 Go,7,13.12,EUR,5G,oui
+airalo-100118,Airalo,eSIM États-Unis 10 Go 7 jours,US,États-Unis,10,10 Go,7,19,EUR,5G,oui
+airalo-100119,Airalo,eSIM Belgique 1 Go 7 jours,BE,Belgique,1,1 Go,7,5.97,EUR,4G,non
+airalo-100120,Airalo,eSIM Israël Illimité 7 jours,IL,Israël,,Illimité,7,36.94,EUR,5G,non
+airalo-100121,Airalo,eSIM Qatar 50 Go 30 jours,QA,Qatar,50,50 Go,30,68.88,EUR,4G,non
+airalo-100122,Airalo,eSIM Chili 50 Go 7 jours,CL,Chili,50,50 Go,7,48.6,EUR,4G,oui
+airalo-100123,Airalo,eSIM Turquie 10 Go 7 jours,TR,Turquie,10,10 Go,7,19.92,EUR,5G,non
+airalo-100124,Airalo,eSIM Maroc 50 Go 15 jours,MA,Maroc,50,50 Go,15,52.15,EUR,4G,non
+airalo-100125,Airalo,eSIM France 20 Go 15 jours,FR,France,20,20 Go,15,31.81,EUR,4G,oui
+airalo-100126,Airalo,eSIM Mexique 50 Go 15 jours,MX,Mexique,50,50 Go,15,54.78,EUR,4G,non
+airalo-100127,Airalo,eSIM Australie 5 Go 7 jours,AU,Australie,5,5 Go,7,11.19,EUR,4G,non
+airalo-100128,Airalo,eSIM Vietnam 1 Go 15 jours,VN,Vietnam,1,1 Go,15,6.47,EUR,4G,non
+airalo-100129,Airalo,eSIM Allemagne 3 Go 7 jours,DE,Allemagne,3,3 Go,7,9.67,EUR,5G,oui
+airalo-100130,Airalo,eSIM États-Unis 20 Go 15 jours,US,États-Unis,20,20 Go,15,30.71,EUR,4G,oui
+airalo-100131,Airalo,eSIM Israël 10 Go 30 jours,IL,Israël,10,10 Go,30,23.46,EUR,4G,oui
+airalo-100132,Airalo,eSIM Pays-Bas 50 Go 15 jours,NL,Pays-Bas,50,50 Go,15,58.68,EUR,4G,oui
+airalo-100133,Airalo,eSIM Autriche 1 Go 30 jours,AT,Autriche,1,1 Go,30,7.39,EUR,4G,non
+airalo-100134,Airalo,eSIM Canada 20 Go 15 jours,CA,Canada,20,20 Go,15,32.16,EUR,5G,oui
+airalo-100135,Airalo,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,7.53,EUR,4G,oui
+airalo-100136,Airalo,eSIM Chili 20 Go 7 jours,CL,Chili,20,20 Go,7,26.16,EUR,5G,oui
+airalo-100137,Airalo,eSIM Corée du Sud 50 Go 7 jours,KR,Corée du Sud,50,50 Go,7,49.36,EUR,4G,non
+airalo-100138,Airalo,eSIM Belgique 20 Go 15 jours,BE,Belgique,20,20 Go,15,33.67,EUR,4G,non
+airalo-100139,Airalo,eSIM Croatie Illimité 7 jours,HR,Croatie,,Illimité,7,30.94,EUR,5G,oui
+airalo-100140,Airalo,eSIM Rép. dominicaine 10 Go 15 jours,DO,Rép. dominicaine,10,10 Go,15,20.82,EUR,5G,non
+airalo-100141,Airalo,eSIM Amérique du Nord 20 Go 7 jours,NA,Amérique du Nord,20,20 Go,7,37,EUR,4G,non
+airalo-100142,Airalo,eSIM Irlande 1 Go 15 jours,IE,Irlande,1,1 Go,15,6.5,EUR,4G,non
+airalo-100143,Airalo,eSIM Égypte 1 Go 15 jours,EG,Égypte,1,1 Go,15,6.47,EUR,4G,oui
+airalo-100144,Airalo,eSIM Royaume-Uni 3 Go 15 jours,GB,Royaume-Uni,3,3 Go,15,11.46,EUR,4G,non
+airalo-100145,Airalo,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,8.2,EUR,4G,oui
+airalo-100146,Airalo,eSIM Thaïlande 10 Go 15 jours,TH,Thaïlande,10,10 Go,15,18.5,EUR,4G,non
+airalo-100147,Airalo,eSIM Amérique du Nord 3 Go 7 jours,NA,Amérique du Nord,3,3 Go,7,13.65,EUR,5G,oui
+airalo-100148,Airalo,eSIM Japon 10 Go 30 jours,JP,Japon,10,10 Go,30,24.91,EUR,4G,oui
+airalo-100149,Airalo,eSIM Asie 10 Go 15 jours,AS,Asie,10,10 Go,15,28.23,EUR,4G,oui
+airalo-100150,Airalo,eSIM Royaume-Uni 1 Go 30 jours,GB,Royaume-Uni,1,1 Go,30,7.58,EUR,5G,non
+airalo-100151,Airalo,eSIM Monde 1 Go 7 jours,WW,Monde,1,1 Go,7,7.91,EUR,4G,non
+airalo-100152,Airalo,eSIM Tanzanie 50 Go 7 jours,TZ,Tanzanie,50,50 Go,7,51.29,EUR,4G,oui
+airalo-100153,Airalo,eSIM Indonésie 3 Go 15 jours,ID,Indonésie,3,3 Go,15,11.42,EUR,4G,non
+airalo-100154,Airalo,eSIM Tanzanie 10 Go 7 jours,TZ,Tanzanie,10,10 Go,7,18.33,EUR,4G,oui
+airalo-100155,Airalo,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,14.39,EUR,5G,oui
+airalo-100156,Airalo,eSIM Portugal 5 Go 7 jours,PT,Portugal,5,5 Go,7,11.77,EUR,5G,oui
+airalo-100157,Airalo,eSIM Pologne 10 Go 30 jours,PL,Pologne,10,10 Go,30,24.77,EUR,5G,oui
+airalo-100158,Airalo,eSIM Europe 20 Go 7 jours,EU,Europe,20,20 Go,7,42.65,EUR,4G,oui
+airalo-100159,Airalo,eSIM Corée du Sud 20 Go 15 jours,KR,Corée du Sud,20,20 Go,15,31.08,EUR,4G,oui
+airalo-100160,Airalo,eSIM Brésil 10 Go 30 jours,BR,Brésil,10,10 Go,30,25.37,EUR,4G,non
+airalo-100161,Airalo,eSIM Mexique 10 Go 7 jours,MX,Mexique,10,10 Go,7,17.13,EUR,4G,oui
+airalo-100162,Airalo,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,30.18,EUR,5G,non
+airalo-100163,Airalo,eSIM Tchéquie 20 Go 7 jours,CZ,Tchéquie,20,20 Go,7,26.88,EUR,4G,oui
+airalo-100164,Airalo,eSIM Autriche 3 Go 15 jours,AT,Autriche,3,3 Go,15,10.21,EUR,4G,non
+airalo-100165,Airalo,eSIM Pays-Bas 5 Go 15 jours,NL,Pays-Bas,5,5 Go,15,14.92,EUR,4G,oui
+airalo-100166,Airalo,eSIM Europe Illimité 7 jours,EU,Europe,,Illimité,7,41.33,EUR,4G,oui
+airalo-100167,Airalo,eSIM Royaume-Uni 20 Go 30 jours,GB,Royaume-Uni,20,20 Go,30,35.93,EUR,4G,non
+airalo-100168,Airalo,eSIM Italie 5 Go 30 jours,IT,Italie,5,5 Go,30,16.41,EUR,4G,oui
+airalo-100169,Airalo,eSIM Inde 20 Go 30 jours,IN,Inde,20,20 Go,30,34.12,EUR,5G,oui
+airalo-100170,Airalo,eSIM Mexique Illimité 7 jours,MX,Mexique,,Illimité,7,32.38,EUR,5G,oui
+airalo-100171,Airalo,eSIM Émirats arabes unis 5 Go 30 jours,AE,Émirats arabes unis,5,5 Go,30,17.26,EUR,5G,oui
+airalo-100172,Airalo,eSIM Suède Illimité 15 jours,SE,Suède,,Illimité,15,46.34,EUR,5G,non
+airalo-100173,Airalo,eSIM Mexique 20 Go 15 jours,MX,Mexique,20,20 Go,15,31.19,EUR,4G,oui
+airalo-100174,Airalo,eSIM Nouvelle-Zélande 1 Go 30 jours,NZ,Nouvelle-Zélande,1,1 Go,30,7.37,EUR,4G,oui
+airalo-100175,Airalo,eSIM Rép. dominicaine 1 Go 30 jours,DO,Rép. dominicaine,1,1 Go,30,7.43,EUR,4G,oui
+airalo-100176,Airalo,eSIM Émirats arabes unis 1 Go 30 jours,AE,Émirats arabes unis,1,1 Go,30,7.76,EUR,4G,non
+airalo-100177,Airalo,eSIM Mexique 20 Go 7 jours,MX,Mexique,20,20 Go,7,28.72,EUR,4G,non
+airalo-100178,Airalo,eSIM Australie 50 Go 30 jours,AU,Australie,50,50 Go,30,61.81,EUR,5G,non
+airalo-100179,Airalo,eSIM Qatar 1 Go 7 jours,QA,Qatar,1,1 Go,7,5.38,EUR,4G,non
+airalo-100180,Airalo,eSIM Amérique du Nord Illimité 7 jours,NA,Amérique du Nord,,Illimité,7,46.49,EUR,5G,non
+airalo-100181,Airalo,eSIM Norvège Illimité 15 jours,NO,Norvège,,Illimité,15,46,EUR,4G,non
+airalo-100182,Airalo,eSIM Turquie 5 Go 7 jours,TR,Turquie,5,5 Go,7,12.9,EUR,4G,oui
+airalo-100183,Airalo,eSIM France Illimité 30 jours,FR,France,,Illimité,30,76.95,EUR,4G,non
+airalo-100184,Airalo,eSIM Italie 3 Go 30 jours,IT,Italie,3,3 Go,30,12.1,EUR,5G,oui
+airalo-100185,Airalo,eSIM Italie 20 Go 7 jours,IT,Italie,20,20 Go,7,27.1,EUR,4G,oui
+airalo-100186,Airalo,eSIM Italie 3 Go 30 jours,IT,Italie,3,3 Go,30,12.41,EUR,4G,oui
+airalo-100187,Airalo,eSIM Pérou 20 Go 30 jours,PE,Pérou,20,20 Go,30,38.94,EUR,4G,oui
+airalo-100188,Airalo,eSIM Malaisie Illimité 15 jours,MY,Malaisie,,Illimité,15,46.17,EUR,4G,non
+airalo-100189,Airalo,eSIM Maroc Illimité 7 jours,MA,Maroc,,Illimité,7,32.91,EUR,5G,non
+airalo-100190,Airalo,eSIM Kenya 10 Go 7 jours,KE,Kenya,10,10 Go,7,18.31,EUR,4G,oui
+airalo-100191,Airalo,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,93.26,EUR,5G,oui
+airalo-100192,Airalo,eSIM Pologne 20 Go 30 jours,PL,Pologne,20,20 Go,30,35.52,EUR,4G,oui
+airalo-100193,Airalo,eSIM Indonésie 20 Go 30 jours,ID,Indonésie,20,20 Go,30,35.79,EUR,4G,non
+airalo-100194,Airalo,eSIM Turquie 5 Go 30 jours,TR,Turquie,5,5 Go,30,15.94,EUR,4G,non
+airalo-100195,Airalo,eSIM Arabie saoudite 5 Go 30 jours,SA,Arabie saoudite,5,5 Go,30,16.53,EUR,4G,oui
+airalo-100196,Airalo,eSIM Jordanie Illimité 15 jours,JO,Jordanie,,Illimité,15,49.63,EUR,5G,non
+airalo-100197,Airalo,eSIM Chili 10 Go 7 jours,CL,Chili,10,10 Go,7,17.86,EUR,5G,oui
+airalo-100198,Airalo,eSIM Émirats arabes unis 10 Go 15 jours,AE,Émirats arabes unis,10,10 Go,15,18.3,EUR,4G,non
+airalo-100199,Airalo,eSIM Irlande Illimité 7 jours,IE,Irlande,,Illimité,7,36.65,EUR,5G,oui
+airalo-100200,Airalo,eSIM États-Unis 20 Go 30 jours,US,États-Unis,20,20 Go,30,37.17,EUR,4G,oui
+airalo-100201,Airalo,eSIM Norvège 5 Go 15 jours,NO,Norvège,5,5 Go,15,12.78,EUR,5G,oui
+airalo-100202,Airalo,eSIM Kenya 10 Go 15 jours,KE,Kenya,10,10 Go,15,19.54,EUR,5G,non
+airalo-100203,Airalo,eSIM Émirats arabes unis 10 Go 30 jours,AE,Émirats arabes unis,10,10 Go,30,22.99,EUR,4G,oui
+airalo-100204,Airalo,eSIM Royaume-Uni 20 Go 30 jours,GB,Royaume-Uni,20,20 Go,30,33.33,EUR,5G,non
+airalo-100205,Airalo,eSIM Espagne Illimité 30 jours,ES,Espagne,,Illimité,30,70.98,EUR,5G,oui
+airalo-100206,Airalo,eSIM Égypte Illimité 15 jours,EG,Égypte,,Illimité,15,54.14,EUR,5G,oui
+airalo-100207,Airalo,eSIM Belgique 20 Go 7 jours,BE,Belgique,20,20 Go,7,26.01,EUR,4G,oui
+airalo-100208,Airalo,eSIM Autriche 50 Go 7 jours,AT,Autriche,50,50 Go,7,52.9,EUR,4G,non
+airalo-100209,Airalo,eSIM Australie Illimité 30 jours,AU,Australie,,Illimité,30,72.16,EUR,5G,oui
+airalo-100210,Airalo,eSIM Italie 20 Go 15 jours,IT,Italie,20,20 Go,15,31.29,EUR,4G,non
+airalo-100211,Airalo,eSIM Monde 5 Go 30 jours,WW,Monde,5,5 Go,30,21.41,EUR,5G,oui
+airalo-100212,Airalo,eSIM Irlande 50 Go 30 jours,IE,Irlande,50,50 Go,30,70.02,EUR,4G,non
+airalo-100213,Airalo,eSIM Norvège 20 Go 30 jours,NO,Norvège,20,20 Go,30,36.04,EUR,4G,non
+airalo-100214,Airalo,eSIM Rép. dominicaine Illimité 7 jours,DO,Rép. dominicaine,,Illimité,7,33.49,EUR,4G,non
+airalo-100215,Airalo,eSIM Autriche 10 Go 30 jours,AT,Autriche,10,10 Go,30,23.07,EUR,4G,oui
+airalo-100216,Airalo,eSIM Asie 3 Go 7 jours,AS,Asie,3,3 Go,7,13.56,EUR,4G,oui
+airalo-100217,Airalo,eSIM Égypte 3 Go 30 jours,EG,Égypte,3,3 Go,30,12.41,EUR,4G,oui
+airalo-100218,Airalo,eSIM Philippines 3 Go 7 jours,PH,Philippines,3,3 Go,7,10.21,EUR,4G,non
+airalo-100219,Airalo,eSIM Arabie saoudite 10 Go 15 jours,SA,Arabie saoudite,10,10 Go,15,21.44,EUR,4G,non
+airalo-100220,Airalo,eSIM Irlande 50 Go 7 jours,IE,Irlande,50,50 Go,7,46.41,EUR,4G,non
+airalo-100221,Airalo,eSIM Espagne 5 Go 15 jours,ES,Espagne,5,5 Go,15,13.38,EUR,4G,non
+airalo-100222,Airalo,eSIM Allemagne 1 Go 7 jours,DE,Allemagne,1,1 Go,7,6.26,EUR,4G,non
+airalo-100223,Airalo,eSIM Tchéquie 20 Go 15 jours,CZ,Tchéquie,20,20 Go,15,30.99,EUR,4G,non
+airalo-100224,Airalo,eSIM Belgique 1 Go 30 jours,BE,Belgique,1,1 Go,30,8.04,EUR,4G,oui
+airalo-100225,Airalo,eSIM Norvège 3 Go 15 jours,NO,Norvège,3,3 Go,15,11.43,EUR,4G,non
+airalo-100226,Airalo,eSIM Croatie Illimité 7 jours,HR,Croatie,,Illimité,7,31.01,EUR,5G,non
+airalo-100227,Airalo,eSIM Monde 5 Go 15 jours,WW,Monde,5,5 Go,15,19.29,EUR,5G,oui
+airalo-100228,Airalo,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,5.47,EUR,4G,oui
+airalo-100229,Airalo,eSIM Europe 5 Go 30 jours,EU,Europe,5,5 Go,30,20.79,EUR,4G,non
+airalo-100230,Airalo,eSIM Colombie 50 Go 30 jours,CO,Colombie,50,50 Go,30,63.88,EUR,4G,non
+airalo-100231,Airalo,eSIM Asie 3 Go 7 jours,AS,Asie,3,3 Go,7,14.31,EUR,4G,oui
+airalo-100232,Airalo,eSIM Asie 50 Go 15 jours,AS,Asie,50,50 Go,15,71.96,EUR,4G,non
+airalo-100233,Airalo,eSIM Monde Illimité 15 jours,WW,Monde,,Illimité,15,66.04,EUR,5G,oui
+airalo-100234,Airalo,eSIM Nouvelle-Zélande 50 Go 15 jours,NZ,Nouvelle-Zélande,50,50 Go,15,59.68,EUR,4G,non
+airalo-100235,Airalo,eSIM Rép. dominicaine 50 Go 7 jours,DO,Rép. dominicaine,50,50 Go,7,45.95,EUR,4G,non
+airalo-100236,Airalo,eSIM Suède 50 Go 30 jours,SE,Suède,50,50 Go,30,61.22,EUR,4G,non
+airalo-100237,Airalo,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,79.75,EUR,5G,non
+airalo-100238,Airalo,eSIM Colombie 5 Go 15 jours,CO,Colombie,5,5 Go,15,13.03,EUR,4G,oui
+airalo-100239,Airalo,eSIM Colombie 20 Go 15 jours,CO,Colombie,20,20 Go,15,28.03,EUR,4G,oui
+airalo-100240,Airalo,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,28.62,EUR,4G,oui
+airalo-100241,Airalo,eSIM Afrique du Sud 1 Go 15 jours,ZA,Afrique du Sud,1,1 Go,15,6.6,EUR,4G,oui
+airalo-100242,Airalo,eSIM Émirats arabes unis 20 Go 30 jours,AE,Émirats arabes unis,20,20 Go,30,35.36,EUR,4G,non
+airalo-100243,Airalo,eSIM Afrique du Sud Illimité 30 jours,ZA,Afrique du Sud,,Illimité,30,79.39,EUR,4G,oui
+airalo-100244,Airalo,eSIM Japon 5 Go 15 jours,JP,Japon,5,5 Go,15,12.62,EUR,5G,non
+airalo-100245,Airalo,eSIM Italie 10 Go 7 jours,IT,Italie,10,10 Go,7,16.85,EUR,4G,non
+airalo-100246,Airalo,eSIM Espagne 50 Go 7 jours,ES,Espagne,50,50 Go,7,48.82,EUR,4G,non
+airalo-100247,Airalo,eSIM Nigeria 20 Go 30 jours,NG,Nigeria,20,20 Go,30,33.77,EUR,5G,non
+airalo-100248,Airalo,eSIM Rép. dominicaine 10 Go 7 jours,DO,Rép. dominicaine,10,10 Go,7,16.5,EUR,4G,oui
+airalo-100249,Airalo,eSIM Suède 1 Go 30 jours,SE,Suède,1,1 Go,30,7.42,EUR,5G,non
+airalo-100250,Airalo,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,26.06,EUR,5G,non
+airalo-100251,Airalo,eSIM Colombie Illimité 7 jours,CO,Colombie,,Illimité,7,34.27,EUR,4G,non
+airalo-100252,Airalo,eSIM Nouvelle-Zélande 10 Go 15 jours,NZ,Nouvelle-Zélande,10,10 Go,15,20.52,EUR,4G,oui
+airalo-100253,Airalo,eSIM Brésil 5 Go 30 jours,BR,Brésil,5,5 Go,30,17.26,EUR,5G,non
+airalo-100254,Airalo,eSIM Rép. dominicaine Illimité 15 jours,DO,Rép. dominicaine,,Illimité,15,48.31,EUR,4G,oui
+airalo-100255,Airalo,eSIM Mexique 5 Go 30 jours,MX,Mexique,5,5 Go,30,16.84,EUR,4G,non
+airalo-100256,Airalo,eSIM Croatie 5 Go 30 jours,HR,Croatie,5,5 Go,30,17.3,EUR,5G,non
+airalo-100257,Airalo,eSIM Amérique du Nord 3 Go 7 jours,NA,Amérique du Nord,3,3 Go,7,13.75,EUR,4G,oui
+airalo-100258,Airalo,eSIM Norvège 3 Go 30 jours,NO,Norvège,3,3 Go,30,12.54,EUR,5G,oui
+airalo-100259,Airalo,eSIM Italie Illimité 30 jours,IT,Italie,,Illimité,30,77.47,EUR,5G,non
+airalo-100260,Airalo,eSIM Europe 5 Go 30 jours,EU,Europe,5,5 Go,30,21.4,EUR,4G,non
+airalo-100261,Airalo,eSIM Arabie saoudite 5 Go 15 jours,SA,Arabie saoudite,5,5 Go,15,12.69,EUR,5G,oui
+airalo-100262,Airalo,eSIM Japon 10 Go 15 jours,JP,Japon,10,10 Go,15,21.26,EUR,5G,oui
+airalo-100263,Airalo,eSIM Belgique Illimité 15 jours,BE,Belgique,,Illimité,15,49.56,EUR,4G,non
+airalo-100264,Airalo,eSIM Mexique 10 Go 7 jours,MX,Mexique,10,10 Go,7,16.63,EUR,5G,oui
+airalo-100265,Airalo,eSIM Kenya 10 Go 15 jours,KE,Kenya,10,10 Go,15,21.99,EUR,4G,oui
+airalo-100266,Airalo,eSIM Belgique 1 Go 15 jours,BE,Belgique,1,1 Go,15,6.78,EUR,5G,oui
+airalo-100267,Airalo,eSIM Inde 5 Go 7 jours,IN,Inde,5,5 Go,7,12.75,EUR,4G,oui
+airalo-100268,Airalo,eSIM Europe 5 Go 7 jours,EU,Europe,5,5 Go,7,17.27,EUR,4G,non
+airalo-100269,Airalo,eSIM Jordanie 5 Go 7 jours,JO,Jordanie,5,5 Go,7,13.28,EUR,5G,oui
+airalo-100270,Airalo,eSIM États-Unis 5 Go 7 jours,US,États-Unis,5,5 Go,7,13.13,EUR,4G,oui
+airalo-100271,Airalo,eSIM Suède 1 Go 15 jours,SE,Suède,1,1 Go,15,6.26,EUR,5G,oui
+airalo-100272,Airalo,eSIM Indonésie 1 Go 15 jours,ID,Indonésie,1,1 Go,15,7.03,EUR,4G,oui
+airalo-100273,Airalo,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,5.53,EUR,4G,non
+airalo-100274,Airalo,eSIM Canada 5 Go 15 jours,CA,Canada,5,5 Go,15,14.68,EUR,4G,oui
+airalo-100275,Airalo,eSIM Asie Illimité 15 jours,AS,Asie,,Illimité,15,68.01,EUR,4G,oui
+airalo-100276,Airalo,eSIM Amérique du Nord 3 Go 7 jours,NA,Amérique du Nord,3,3 Go,7,14.49,EUR,4G,non
+airalo-100277,Airalo,eSIM Qatar 1 Go 30 jours,QA,Qatar,1,1 Go,30,7.8,EUR,4G,oui
+airalo-100278,Airalo,eSIM Rép. dominicaine 10 Go 15 jours,DO,Rép. dominicaine,10,10 Go,15,19.69,EUR,4G,non
+airalo-100279,Airalo,eSIM Philippines 3 Go 15 jours,PH,Philippines,3,3 Go,15,9.79,EUR,5G,oui
+airalo-100280,Airalo,eSIM Chili 3 Go 7 jours,CL,Chili,3,3 Go,7,9.93,EUR,4G,oui
+airalo-100281,Airalo,eSIM Qatar 20 Go 15 jours,QA,Qatar,20,20 Go,15,31.36,EUR,4G,non
+airalo-100282,Airalo,eSIM Colombie Illimité 15 jours,CO,Colombie,,Illimité,15,49.03,EUR,5G,non
+airalo-100283,Airalo,eSIM Thaïlande 3 Go 7 jours,TH,Thaïlande,3,3 Go,7,9.64,EUR,4G,oui
+airalo-100284,Airalo,eSIM Japon 5 Go 15 jours,JP,Japon,5,5 Go,15,14.4,EUR,4G,non
+airalo-100285,Airalo,eSIM Suède 20 Go 30 jours,SE,Suède,20,20 Go,30,33.98,EUR,5G,non
+airalo-100286,Airalo,eSIM Europe Illimité 7 jours,EU,Europe,,Illimité,7,45.84,EUR,4G,non
+airalo-100287,Airalo,eSIM Émirats arabes unis Illimité 7 jours,AE,Émirats arabes unis,,Illimité,7,35.87,EUR,4G,oui
+airalo-100288,Airalo,eSIM Monde 50 Go 7 jours,WW,Monde,50,50 Go,7,63.83,EUR,4G,oui
+airalo-100289,Airalo,eSIM Inde 5 Go 30 jours,IN,Inde,5,5 Go,30,17.2,EUR,5G,oui
+airalo-100290,Airalo,eSIM Argentine 3 Go 15 jours,AR,Argentine,3,3 Go,15,10.65,EUR,5G,oui
+airalo-100291,Airalo,eSIM Amérique du Nord 3 Go 30 jours,NA,Amérique du Nord,3,3 Go,30,18.63,EUR,4G,non
+airalo-100292,Airalo,eSIM Thaïlande 1 Go 7 jours,TH,Thaïlande,1,1 Go,7,5.7,EUR,5G,non
+airalo-100293,Airalo,eSIM Portugal 1 Go 7 jours,PT,Portugal,1,1 Go,7,5.89,EUR,4G,oui
+airalo-100294,Airalo,eSIM Australie Illimité 15 jours,AU,Australie,,Illimité,15,46.81,EUR,4G,oui
+airalo-100295,Airalo,eSIM Turquie 1 Go 7 jours,TR,Turquie,1,1 Go,7,5.56,EUR,4G,oui
+airalo-100296,Airalo,eSIM Tanzanie 50 Go 15 jours,TZ,Tanzanie,50,50 Go,15,55.89,EUR,5G,non
+airalo-100297,Airalo,eSIM Japon 3 Go 15 jours,JP,Japon,3,3 Go,15,10.82,EUR,4G,non
+airalo-100298,Airalo,eSIM Tanzanie 1 Go 7 jours,TZ,Tanzanie,1,1 Go,7,5.44,EUR,4G,oui
+airalo-100299,Airalo,eSIM Irlande 1 Go 7 jours,IE,Irlande,1,1 Go,7,5.99,EUR,4G,oui
+airalo-100300,Airalo,eSIM Malaisie Illimité 30 jours,MY,Malaisie,,Illimité,30,77.03,EUR,4G,non
+airalo-100301,Airalo,eSIM Allemagne 5 Go 30 jours,DE,Allemagne,5,5 Go,30,16.28,EUR,4G,non
+airalo-100302,Airalo,eSIM Tchéquie 20 Go 30 jours,CZ,Tchéquie,20,20 Go,30,37.72,EUR,4G,oui
+airalo-100303,Airalo,eSIM Mexique 20 Go 15 jours,MX,Mexique,20,20 Go,15,32.63,EUR,4G,non
+airalo-100304,Airalo,eSIM Pologne 1 Go 7 jours,PL,Pologne,1,1 Go,7,6.16,EUR,4G,oui
+airalo-100305,Airalo,eSIM Europe 5 Go 30 jours,EU,Europe,5,5 Go,30,22.04,EUR,4G,non
+airalo-100306,Airalo,eSIM Qatar 5 Go 30 jours,QA,Qatar,5,5 Go,30,16.06,EUR,4G,non
+airalo-100307,Airalo,eSIM Autriche Illimité 7 jours,AT,Autriche,,Illimité,7,32.52,EUR,5G,non
+airalo-100308,Airalo,eSIM Japon 10 Go 15 jours,JP,Japon,10,10 Go,15,21.62,EUR,4G,oui
+airalo-100309,Airalo,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,29.77,EUR,5G,non
+airalo-100310,Airalo,eSIM Allemagne 1 Go 15 jours,DE,Allemagne,1,1 Go,15,6.81,EUR,5G,oui
+airalo-100311,Airalo,eSIM Rép. dominicaine 3 Go 7 jours,DO,Rép. dominicaine,3,3 Go,7,9.29,EUR,4G,non
+airalo-100312,Airalo,eSIM Nouvelle-Zélande Illimité 30 jours,NZ,Nouvelle-Zélande,,Illimité,30,72.18,EUR,5G,non
+airalo-100313,Airalo,eSIM Pérou Illimité 7 jours,PE,Pérou,,Illimité,7,33.56,EUR,4G,non
+airalo-100314,Airalo,eSIM Arabie saoudite 20 Go 7 jours,SA,Arabie saoudite,20,20 Go,7,26.79,EUR,4G,oui
+airalo-100315,Airalo,eSIM Indonésie 50 Go 15 jours,ID,Indonésie,50,50 Go,15,55.59,EUR,4G,non
+airalo-100316,Airalo,eSIM Malaisie 1 Go 7 jours,MY,Malaisie,1,1 Go,7,5.46,EUR,4G,oui
+airalo-100317,Airalo,eSIM Suisse Illimité 30 jours,CH,Suisse,,Illimité,30,76.59,EUR,5G,non
+airalo-100318,Airalo,eSIM Monde 5 Go 7 jours,WW,Monde,5,5 Go,7,17.01,EUR,5G,non
+airalo-100319,Airalo,eSIM Israël 5 Go 15 jours,IL,Israël,5,5 Go,15,14.21,EUR,5G,oui
+airalo-100320,Airalo,eSIM Malaisie 10 Go 7 jours,MY,Malaisie,10,10 Go,7,16.92,EUR,4G,oui
+airalo-100321,Airalo,eSIM Argentine 3 Go 7 jours,AR,Argentine,3,3 Go,7,9.63,EUR,4G,non
+airalo-100322,Airalo,eSIM Pérou 1 Go 15 jours,PE,Pérou,1,1 Go,15,6.58,EUR,4G,oui
+airalo-100323,Airalo,eSIM Suède 10 Go 30 jours,SE,Suède,10,10 Go,30,21.8,EUR,4G,oui
+airalo-100324,Airalo,eSIM Israël 10 Go 7 jours,IL,Israël,10,10 Go,7,18.47,EUR,5G,oui
+airalo-100325,Airalo,eSIM Portugal 10 Go 7 jours,PT,Portugal,10,10 Go,7,18.32,EUR,4G,non
+airalo-100326,Airalo,eSIM Singapour 10 Go 7 jours,SG,Singapour,10,10 Go,7,19.13,EUR,4G,oui
+airalo-100327,Airalo,eSIM Grèce 1 Go 7 jours,GR,Grèce,1,1 Go,7,5.69,EUR,4G,non
+airalo-100328,Airalo,eSIM Rép. dominicaine 20 Go 30 jours,DO,Rép. dominicaine,20,20 Go,30,39.19,EUR,4G,non
+airalo-100329,Airalo,eSIM Qatar 50 Go 15 jours,QA,Qatar,50,50 Go,15,58.88,EUR,4G,non
+airalo-100330,Airalo,eSIM Nouvelle-Zélande 50 Go 30 jours,NZ,Nouvelle-Zélande,50,50 Go,30,69.89,EUR,4G,non
+airalo-100331,Airalo,eSIM Suède 20 Go 15 jours,SE,Suède,20,20 Go,15,28.52,EUR,5G,non
+airalo-100332,Airalo,eSIM Maroc 10 Go 30 jours,MA,Maroc,10,10 Go,30,25.69,EUR,4G,oui
+airalo-100333,Airalo,eSIM Indonésie 1 Go 30 jours,ID,Indonésie,1,1 Go,30,7.78,EUR,5G,oui
+airalo-100334,Airalo,eSIM Jordanie 5 Go 15 jours,JO,Jordanie,5,5 Go,15,14.34,EUR,5G,oui
+airalo-100335,Airalo,eSIM Pérou 3 Go 30 jours,PE,Pérou,3,3 Go,30,12.73,EUR,4G,non
+airalo-100336,Airalo,eSIM Nouvelle-Zélande 5 Go 15 jours,NZ,Nouvelle-Zélande,5,5 Go,15,14.49,EUR,4G,oui
+airalo-100337,Airalo,eSIM Afrique du Sud 5 Go 7 jours,ZA,Afrique du Sud,5,5 Go,7,13.25,EUR,4G,oui
+airalo-100338,Airalo,eSIM Espagne 20 Go 30 jours,ES,Espagne,20,20 Go,30,36.06,EUR,5G,oui
+airalo-100339,Airalo,eSIM Amérique du Nord 5 Go 30 jours,NA,Amérique du Nord,5,5 Go,30,23.5,EUR,4G,oui
+airalo-100340,Airalo,eSIM Belgique 10 Go 7 jours,BE,Belgique,10,10 Go,7,18.44,EUR,4G,oui
+airalo-100341,Airalo,eSIM Espagne 10 Go 7 jours,ES,Espagne,10,10 Go,7,17.9,EUR,5G,oui
+airalo-100342,Airalo,eSIM Thaïlande 5 Go 7 jours,TH,Thaïlande,5,5 Go,7,11.96,EUR,5G,oui
+airalo-100343,Airalo,eSIM Philippines Illimité 7 jours,PH,Philippines,,Illimité,7,32.4,EUR,4G,non
+airalo-100344,Airalo,eSIM Rép. dominicaine 5 Go 7 jours,DO,Rép. dominicaine,5,5 Go,7,13.04,EUR,4G,non
+airalo-100345,Airalo,eSIM Suisse 50 Go 15 jours,CH,Suisse,50,50 Go,15,52.17,EUR,4G,oui
+airalo-100346,Airalo,eSIM Kenya 3 Go 7 jours,KE,Kenya,3,3 Go,7,10.1,EUR,5G,oui
+airalo-100347,Airalo,eSIM Suède 5 Go 30 jours,SE,Suède,5,5 Go,30,15.78,EUR,4G,oui
+airalo-100348,Airalo,eSIM Jordanie 5 Go 15 jours,JO,Jordanie,5,5 Go,15,12.9,EUR,4G,oui
+airalo-100349,Airalo,eSIM Asie 10 Go 15 jours,AS,Asie,10,10 Go,15,29.67,EUR,4G,non
+airalo-100350,Airalo,eSIM Irlande 20 Go 30 jours,IE,Irlande,20,20 Go,30,39.25,EUR,5G,oui
+airalo-100351,Airalo,eSIM Belgique 50 Go 15 jours,BE,Belgique,50,50 Go,15,51.07,EUR,4G,oui
+airalo-100352,Airalo,eSIM Tanzanie 10 Go 7 jours,TZ,Tanzanie,10,10 Go,7,18.98,EUR,4G,non
+airalo-100353,Airalo,eSIM Monde 20 Go 30 jours,WW,Monde,20,20 Go,30,48.55,EUR,4G,non
+airalo-100354,Airalo,eSIM Chine Illimité 15 jours,CN,Chine,,Illimité,15,50.77,EUR,4G,non
+airalo-100355,Airalo,eSIM Inde 5 Go 30 jours,IN,Inde,5,5 Go,30,15.22,EUR,4G,oui
+airalo-100356,Airalo,eSIM Asie 10 Go 7 jours,AS,Asie,10,10 Go,7,27.12,EUR,4G,oui
+airalo-100357,Airalo,eSIM Europe 1 Go 30 jours,EU,Europe,1,1 Go,30,10.13,EUR,5G,oui
+airalo-100358,Airalo,eSIM Turquie 1 Go 30 jours,TR,Turquie,1,1 Go,30,8.07,EUR,4G,non
+airalo-100359,Airalo,eSIM Allemagne 20 Go 7 jours,DE,Allemagne,20,20 Go,7,30.32,EUR,4G,non
+airalo-100360,Airalo,eSIM Croatie Illimité 15 jours,HR,Croatie,,Illimité,15,48.37,EUR,4G,oui
+airalo-100361,Airalo,eSIM Suisse 50 Go 30 jours,CH,Suisse,50,50 Go,30,71.39,EUR,4G,non
+airalo-100362,Airalo,eSIM Pays-Bas 3 Go 7 jours,NL,Pays-Bas,3,3 Go,7,8.96,EUR,4G,non
+airalo-100363,Airalo,eSIM France 5 Go 15 jours,FR,France,5,5 Go,15,12.78,EUR,4G,oui
+airalo-100364,Airalo,eSIM Pologne 20 Go 7 jours,PL,Pologne,20,20 Go,7,28.16,EUR,4G,non
+airalo-100365,Airalo,eSIM Thaïlande 5 Go 30 jours,TH,Thaïlande,5,5 Go,30,16.51,EUR,5G,oui
+airalo-100366,Airalo,eSIM Europe 50 Go 7 jours,EU,Europe,50,50 Go,7,64.87,EUR,4G,non
+airalo-100367,Airalo,eSIM Amérique du Nord 3 Go 15 jours,NA,Amérique du Nord,3,3 Go,15,14.8,EUR,4G,oui
+airalo-100368,Airalo,eSIM Croatie 10 Go 30 jours,HR,Croatie,10,10 Go,30,24.56,EUR,5G,oui
+airalo-100369,Airalo,eSIM Pays-Bas 3 Go 7 jours,NL,Pays-Bas,3,3 Go,7,9.17,EUR,4G,non
+airalo-100370,Airalo,eSIM Norvège 5 Go 30 jours,NO,Norvège,5,5 Go,30,14.95,EUR,4G,oui
+airalo-100371,Airalo,eSIM Norvège Illimité 30 jours,NO,Norvège,,Illimité,30,71.81,EUR,5G,non
+airalo-100372,Airalo,eSIM Europe 10 Go 15 jours,EU,Europe,10,10 Go,15,25.83,EUR,4G,non
+airalo-100373,Airalo,eSIM Égypte 20 Go 15 jours,EG,Égypte,20,20 Go,15,30.36,EUR,4G,oui
+airalo-100374,Airalo,eSIM Jordanie 50 Go 7 jours,JO,Jordanie,50,50 Go,7,46.22,EUR,4G,non
+airalo-100375,Airalo,eSIM France 3 Go 7 jours,FR,France,3,3 Go,7,9.29,EUR,4G,oui
+airalo-100376,Airalo,eSIM Pologne 3 Go 7 jours,PL,Pologne,3,3 Go,7,9.38,EUR,4G,oui
+airalo-100377,Airalo,eSIM Pérou Illimité 15 jours,PE,Pérou,,Illimité,15,50.72,EUR,5G,non
+airalo-100378,Airalo,eSIM Portugal 20 Go 15 jours,PT,Portugal,20,20 Go,15,28.17,EUR,4G,oui
+airalo-100379,Airalo,eSIM Kenya Illimité 30 jours,KE,Kenya,,Illimité,30,85.17,EUR,5G,non
+airalo-100380,Airalo,eSIM Asie 3 Go 15 jours,AS,Asie,3,3 Go,15,15.39,EUR,4G,non
+airalo-100381,Airalo,eSIM Singapour 20 Go 30 jours,SG,Singapour,20,20 Go,30,33.25,EUR,5G,oui
+airalo-100382,Airalo,eSIM Chili Illimité 30 jours,CL,Chili,,Illimité,30,75.17,EUR,4G,non
+airalo-100383,Airalo,eSIM Israël 5 Go 7 jours,IL,Israël,5,5 Go,7,12.53,EUR,4G,oui
+airalo-100384,Airalo,eSIM Pays-Bas Illimité 7 jours,NL,Pays-Bas,,Illimité,7,36.22,EUR,5G,oui
+airalo-100385,Airalo,eSIM Pologne 3 Go 15 jours,PL,Pologne,3,3 Go,15,9.99,EUR,5G,oui
+airalo-100386,Airalo,eSIM Asie 5 Go 30 jours,AS,Asie,5,5 Go,30,24.31,EUR,5G,oui
+airalo-100387,Airalo,eSIM Monde 10 Go 15 jours,WW,Monde,10,10 Go,15,26.05,EUR,5G,non
+airalo-100388,Airalo,eSIM Singapour 20 Go 15 jours,SG,Singapour,20,20 Go,15,30.75,EUR,4G,non
+airalo-100389,Airalo,eSIM Europe 50 Go 30 jours,EU,Europe,50,50 Go,30,93.53,EUR,5G,oui
+airalo-100390,Airalo,eSIM États-Unis 20 Go 7 jours,US,États-Unis,20,20 Go,7,28.65,EUR,4G,non
+airalo-100391,Airalo,eSIM Pays-Bas 3 Go 30 jours,NL,Pays-Bas,3,3 Go,30,12.18,EUR,4G,non
+airalo-100392,Airalo,eSIM Portugal 10 Go 7 jours,PT,Portugal,10,10 Go,7,18.25,EUR,4G,non
+airalo-100393,Airalo,eSIM Amérique du Nord 20 Go 30 jours,NA,Amérique du Nord,20,20 Go,30,48.14,EUR,4G,non
+airalo-100394,Airalo,eSIM Mexique 50 Go 30 jours,MX,Mexique,50,50 Go,30,65.02,EUR,5G,oui
+airalo-100395,Airalo,eSIM Amérique du Nord Illimité 7 jours,NA,Amérique du Nord,,Illimité,7,41.39,EUR,5G,oui
+airalo-100396,Airalo,eSIM Asie 10 Go 15 jours,AS,Asie,10,10 Go,15,29.81,EUR,4G,oui
+airalo-100397,Airalo,eSIM Qatar 1 Go 15 jours,QA,Qatar,1,1 Go,15,6.26,EUR,4G,non
+airalo-100398,Airalo,eSIM Asie 10 Go 15 jours,AS,Asie,10,10 Go,15,27.76,EUR,5G,oui
+airalo-100399,Airalo,eSIM Malaisie 1 Go 15 jours,MY,Malaisie,1,1 Go,15,6.54,EUR,4G,non
+airalo-100400,Airalo,eSIM Corée du Sud 3 Go 15 jours,KR,Corée du Sud,3,3 Go,15,11.51,EUR,4G,oui
+airalo-100401,Airalo,eSIM Pays-Bas 1 Go 30 jours,NL,Pays-Bas,1,1 Go,30,7.61,EUR,4G,non
+airalo-100402,Airalo,eSIM Nouvelle-Zélande 3 Go 15 jours,NZ,Nouvelle-Zélande,3,3 Go,15,11.36,EUR,5G,oui
+airalo-100403,Airalo,eSIM Afrique du Sud 5 Go 30 jours,ZA,Afrique du Sud,5,5 Go,30,15.89,EUR,5G,non
+airalo-100404,Airalo,eSIM Kenya Illimité 30 jours,KE,Kenya,,Illimité,30,73.31,EUR,4G,oui
+airalo-100405,Airalo,eSIM Singapour Illimité 15 jours,SG,Singapour,,Illimité,15,49.67,EUR,4G,non
+airalo-100406,Airalo,eSIM Europe 1 Go 30 jours,EU,Europe,1,1 Go,30,9.97,EUR,4G,oui
+airalo-100407,Airalo,eSIM Belgique 5 Go 30 jours,BE,Belgique,5,5 Go,30,15.41,EUR,5G,non
+airalo-100408,Airalo,eSIM Chine 1 Go 30 jours,CN,Chine,1,1 Go,30,7.44,EUR,4G,non
+airalo-100409,Airalo,eSIM Croatie 5 Go 7 jours,HR,Croatie,5,5 Go,7,12.1,EUR,4G,oui
+airalo-100410,Airalo,eSIM Afrique du Sud Illimité 15 jours,ZA,Afrique du Sud,,Illimité,15,49.29,EUR,4G,oui
+airalo-100411,Airalo,eSIM Pologne 5 Go 7 jours,PL,Pologne,5,5 Go,7,12.98,EUR,4G,non
+airalo-100412,Airalo,eSIM Pérou 3 Go 7 jours,PE,Pérou,3,3 Go,7,8.91,EUR,5G,oui
+airalo-100413,Airalo,eSIM Turquie 10 Go 15 jours,TR,Turquie,10,10 Go,15,21.61,EUR,4G,oui
+airalo-100414,Airalo,eSIM Nigeria Illimité 30 jours,NG,Nigeria,,Illimité,30,70.85,EUR,5G,oui
+airalo-100415,Airalo,eSIM Pérou 1 Go 7 jours,PE,Pérou,1,1 Go,7,6.31,EUR,4G,oui
+airalo-100416,Airalo,eSIM Égypte 50 Go 30 jours,EG,Égypte,50,50 Go,30,67.17,EUR,4G,oui
+airalo-100417,Airalo,eSIM États-Unis 1 Go 15 jours,US,États-Unis,1,1 Go,15,7.2,EUR,4G,non
+airalo-100418,Airalo,eSIM Allemagne Illimité 7 jours,DE,Allemagne,,Illimité,7,31.64,EUR,5G,non
+airalo-100419,Airalo,eSIM Singapour Illimité 7 jours,SG,Singapour,,Illimité,7,36.06,EUR,5G,oui
+airalo-100420,Airalo,eSIM Croatie 50 Go 15 jours,HR,Croatie,50,50 Go,15,56.85,EUR,4G,oui
+airalo-100421,Airalo,eSIM Australie 1 Go 7 jours,AU,Australie,1,1 Go,7,6.37,EUR,4G,non
+airalo-100422,Airalo,eSIM Thaïlande 5 Go 7 jours,TH,Thaïlande,5,5 Go,7,11.51,EUR,4G,oui
+airalo-100423,Airalo,eSIM Malaisie 3 Go 30 jours,MY,Malaisie,3,3 Go,30,13.14,EUR,4G,non
+airalo-100424,Airalo,eSIM Nouvelle-Zélande 20 Go 15 jours,NZ,Nouvelle-Zélande,20,20 Go,15,30.84,EUR,4G,oui
+airalo-100425,Airalo,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,100.49,EUR,4G,non
+airalo-100426,Airalo,eSIM Chili 20 Go 30 jours,CL,Chili,20,20 Go,30,36.68,EUR,4G,non
+airalo-100427,Airalo,eSIM Malaisie 3 Go 15 jours,MY,Malaisie,3,3 Go,15,11.46,EUR,4G,non
+airalo-100428,Airalo,eSIM Amérique du Nord 50 Go 30 jours,NA,Amérique du Nord,50,50 Go,30,89.54,EUR,4G,oui
+airalo-100429,Airalo,eSIM Espagne 50 Go 30 jours,ES,Espagne,50,50 Go,30,64.44,EUR,5G,non
+airalo-100430,Airalo,eSIM Afrique du Sud 1 Go 7 jours,ZA,Afrique du Sud,1,1 Go,7,5.78,EUR,4G,non
+airalo-100431,Airalo,eSIM Allemagne 5 Go 7 jours,DE,Allemagne,5,5 Go,7,12.74,EUR,5G,oui
+airalo-100432,Airalo,eSIM Brésil 10 Go 7 jours,BR,Brésil,10,10 Go,7,17.78,EUR,4G,non
+airalo-100433,Airalo,eSIM Croatie 10 Go 30 jours,HR,Croatie,10,10 Go,30,24.45,EUR,5G,oui
+airalo-100434,Airalo,eSIM Arabie saoudite 3 Go 7 jours,SA,Arabie saoudite,3,3 Go,7,10.38,EUR,4G,non
+airalo-100435,Airalo,eSIM Thaïlande 5 Go 15 jours,TH,Thaïlande,5,5 Go,15,13.43,EUR,4G,oui
+airalo-100436,Airalo,eSIM Croatie 50 Go 7 jours,HR,Croatie,50,50 Go,7,47.69,EUR,4G,oui
+airalo-100437,Airalo,eSIM Allemagne Illimité 15 jours,DE,Allemagne,,Illimité,15,44.63,EUR,4G,non
+airalo-100438,Airalo,eSIM Vietnam 50 Go 30 jours,VN,Vietnam,50,50 Go,30,69.08,EUR,4G,non
+airalo-100439,Airalo,eSIM Europe 20 Go 7 jours,EU,Europe,20,20 Go,7,40.36,EUR,4G,oui
+airalo-100440,Airalo,eSIM Amérique du Nord 50 Go 7 jours,NA,Amérique du Nord,50,50 Go,7,74.03,EUR,4G,non
+airalo-100441,Airalo,eSIM Asie 5 Go 15 jours,AS,Asie,5,5 Go,15,19.32,EUR,4G,non
+airalo-100442,Airalo,eSIM Rép. dominicaine 20 Go 15 jours,DO,Rép. dominicaine,20,20 Go,15,29.64,EUR,4G,non
+airalo-100443,Airalo,eSIM Colombie 5 Go 30 jours,CO,Colombie,5,5 Go,30,15.81,EUR,4G,non
+airalo-100444,Airalo,eSIM Vietnam 1 Go 15 jours,VN,Vietnam,1,1 Go,15,6.03,EUR,5G,non
+airalo-100445,Airalo,eSIM Maroc 50 Go 15 jours,MA,Maroc,50,50 Go,15,59.98,EUR,5G,non
+airalo-100446,Airalo,eSIM Italie 50 Go 7 jours,IT,Italie,50,50 Go,7,46.17,EUR,4G,non
+airalo-100447,Airalo,eSIM Monde 20 Go 15 jours,WW,Monde,20,20 Go,15,45.98,EUR,4G,non
+airalo-100448,Airalo,eSIM Autriche 3 Go 30 jours,AT,Autriche,3,3 Go,30,11.55,EUR,4G,oui
+airalo-100449,Airalo,eSIM Chine 5 Go 15 jours,CN,Chine,5,5 Go,15,12.68,EUR,4G,oui
+airalo-100450,Airalo,eSIM Nigeria 1 Go 15 jours,NG,Nigeria,1,1 Go,15,6.54,EUR,4G,oui
+airalo-100451,Airalo,eSIM Italie 5 Go 15 jours,IT,Italie,5,5 Go,15,14.92,EUR,5G,oui
+airalo-100452,Airalo,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,8.09,EUR,4G,oui
+airalo-100453,Airalo,eSIM Pays-Bas Illimité 7 jours,NL,Pays-Bas,,Illimité,7,30.96,EUR,5G,non
+airalo-100454,Airalo,eSIM Pays-Bas 1 Go 7 jours,NL,Pays-Bas,1,1 Go,7,6.43,EUR,4G,oui
+airalo-100455,Airalo,eSIM Corée du Sud 20 Go 30 jours,KR,Corée du Sud,20,20 Go,30,38.57,EUR,4G,oui
+airalo-100456,Airalo,eSIM Tanzanie 50 Go 7 jours,TZ,Tanzanie,50,50 Go,7,47.9,EUR,4G,oui
+airalo-100457,Airalo,eSIM Colombie 1 Go 7 jours,CO,Colombie,1,1 Go,7,5.47,EUR,4G,oui
+airalo-100458,Airalo,eSIM Thaïlande 10 Go 15 jours,TH,Thaïlande,10,10 Go,15,18.66,EUR,5G,oui
+airalo-100459,Airalo,eSIM Afrique du Sud 10 Go 30 jours,ZA,Afrique du Sud,10,10 Go,30,21.78,EUR,4G,non
+airalo-100460,Airalo,eSIM Asie 1 Go 15 jours,AS,Asie,1,1 Go,15,8.32,EUR,4G,oui
+airalo-100461,Airalo,eSIM Qatar 50 Go 7 jours,QA,Qatar,50,50 Go,7,46.87,EUR,4G,oui
+airalo-100462,Airalo,eSIM Singapour 3 Go 15 jours,SG,Singapour,3,3 Go,15,9.46,EUR,4G,non
+airalo-100463,Airalo,eSIM Amérique du Nord 1 Go 7 jours,NA,Amérique du Nord,1,1 Go,7,8.8,EUR,4G,non
+airalo-100464,Airalo,eSIM Nigeria 50 Go 15 jours,NG,Nigeria,50,50 Go,15,58.57,EUR,5G,oui
+airalo-100465,Airalo,eSIM Indonésie 1 Go 30 jours,ID,Indonésie,1,1 Go,30,8.38,EUR,5G,non
+airalo-100466,Airalo,eSIM Qatar 3 Go 7 jours,QA,Qatar,3,3 Go,7,8.59,EUR,4G,non
+airalo-100467,Airalo,eSIM Monde 5 Go 15 jours,WW,Monde,5,5 Go,15,17.58,EUR,4G,oui
+airalo-100468,Airalo,eSIM Thaïlande 5 Go 7 jours,TH,Thaïlande,5,5 Go,7,13.4,EUR,4G,oui
+airalo-100469,Airalo,eSIM Portugal 5 Go 7 jours,PT,Portugal,5,5 Go,7,12.88,EUR,4G,non
+airalo-100470,Airalo,eSIM Colombie 3 Go 15 jours,CO,Colombie,3,3 Go,15,9.83,EUR,4G,oui
+airalo-100471,Airalo,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,8.45,EUR,4G,oui
+airalo-100472,Airalo,eSIM Allemagne Illimité 30 jours,DE,Allemagne,,Illimité,30,79.25,EUR,4G,non
+airalo-100473,Airalo,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,101.88,EUR,5G,oui
+airalo-100474,Airalo,eSIM Pérou 1 Go 7 jours,PE,Pérou,1,1 Go,7,5.93,EUR,5G,oui
+airalo-100475,Airalo,eSIM Vietnam 20 Go 7 jours,VN,Vietnam,20,20 Go,7,26.06,EUR,4G,non
+airalo-100476,Airalo,eSIM Norvège 1 Go 7 jours,NO,Norvège,1,1 Go,7,6.21,EUR,4G,non
+airalo-100477,Airalo,eSIM Kenya 20 Go 15 jours,KE,Kenya,20,20 Go,15,32.76,EUR,4G,oui
+airalo-100478,Airalo,eSIM Japon 20 Go 15 jours,JP,Japon,20,20 Go,15,32.79,EUR,5G,non
+airalo-100479,Airalo,eSIM Arabie saoudite Illimité 30 jours,SA,Arabie saoudite,,Illimité,30,71.74,EUR,4G,non
+airalo-100480,Airalo,eSIM Nigeria 5 Go 30 jours,NG,Nigeria,5,5 Go,30,15.48,EUR,4G,non
+airalo-100481,Airalo,eSIM Turquie 5 Go 7 jours,TR,Turquie,5,5 Go,7,12.01,EUR,5G,oui
+airalo-100482,Airalo,eSIM Chili 10 Go 30 jours,CL,Chili,10,10 Go,30,22.46,EUR,5G,oui
+airalo-100483,Airalo,eSIM Qatar Illimité 7 jours,QA,Qatar,,Illimité,7,35.54,EUR,5G,non
+airalo-100484,Airalo,eSIM États-Unis 5 Go 30 jours,US,États-Unis,5,5 Go,30,16.91,EUR,5G,oui
+airalo-100485,Airalo,eSIM Espagne 5 Go 30 jours,ES,Espagne,5,5 Go,30,15.78,EUR,5G,non
+airalo-100486,Airalo,eSIM Corée du Sud 5 Go 7 jours,KR,Corée du Sud,5,5 Go,7,12.02,EUR,4G,non
+airalo-100487,Airalo,eSIM Asie 3 Go 30 jours,AS,Asie,3,3 Go,30,18.17,EUR,4G,non
+airalo-100488,Airalo,eSIM Kenya 5 Go 30 jours,KE,Kenya,5,5 Go,30,14.82,EUR,4G,oui
+airalo-100489,Airalo,eSIM États-Unis 3 Go 30 jours,US,États-Unis,3,3 Go,30,12.12,EUR,4G,oui
+airalo-100490,Airalo,eSIM Nouvelle-Zélande 5 Go 15 jours,NZ,Nouvelle-Zélande,5,5 Go,15,13.47,EUR,4G,oui
+airalo-100491,Airalo,eSIM Rép. dominicaine 20 Go 15 jours,DO,Rép. dominicaine,20,20 Go,15,31.84,EUR,4G,non
+airalo-100492,Airalo,eSIM Croatie 20 Go 15 jours,HR,Croatie,20,20 Go,15,29.5,EUR,4G,oui
+airalo-100493,Airalo,eSIM Égypte 20 Go 15 jours,EG,Égypte,20,20 Go,15,28.71,EUR,4G,oui
+airalo-100494,Airalo,eSIM France 3 Go 7 jours,FR,France,3,3 Go,7,9.22,EUR,4G,oui
+airalo-100495,Airalo,eSIM Pologne Illimité 15 jours,PL,Pologne,,Illimité,15,50.01,EUR,4G,non
+airalo-100496,Airalo,eSIM Rép. dominicaine 20 Go 30 jours,DO,Rép. dominicaine,20,20 Go,30,38.22,EUR,4G,oui
+airalo-100497,Airalo,eSIM Corée du Sud 20 Go 30 jours,KR,Corée du Sud,20,20 Go,30,37.69,EUR,4G,oui
+airalo-100498,Airalo,eSIM Maroc 1 Go 15 jours,MA,Maroc,1,1 Go,15,6.37,EUR,4G,non
+airalo-100499,Airalo,eSIM Europe 20 Go 30 jours,EU,Europe,20,20 Go,30,55.38,EUR,5G,oui
+airalo-100500,Airalo,eSIM Amérique du Nord 5 Go 7 jours,NA,Amérique du Nord,5,5 Go,7,17.6,EUR,5G,non
+airalo-100501,Airalo,eSIM Grèce 20 Go 30 jours,GR,Grèce,20,20 Go,30,36.77,EUR,4G,non
+airalo-100502,Airalo,eSIM Royaume-Uni 10 Go 30 jours,GB,Royaume-Uni,10,10 Go,30,24.86,EUR,4G,non
+airalo-100503,Airalo,eSIM Irlande 1 Go 30 jours,IE,Irlande,1,1 Go,30,8.05,EUR,4G,oui
+airalo-100504,Airalo,eSIM Singapour 5 Go 7 jours,SG,Singapour,5,5 Go,7,12.42,EUR,4G,oui
+airalo-100505,Airalo,eSIM Pologne 10 Go 30 jours,PL,Pologne,10,10 Go,30,24.77,EUR,4G,non
+airalo-100506,Airalo,eSIM Arabie saoudite 1 Go 30 jours,SA,Arabie saoudite,1,1 Go,30,8.41,EUR,4G,oui
+airalo-100507,Airalo,eSIM Monde 3 Go 7 jours,WW,Monde,3,3 Go,7,14.53,EUR,4G,non
+airalo-100508,Airalo,eSIM Asie 50 Go 30 jours,AS,Asie,50,50 Go,30,93.62,EUR,4G,non
+airalo-100509,Airalo,eSIM Colombie Illimité 30 jours,CO,Colombie,,Illimité,30,75.41,EUR,5G,non
+airalo-100510,Airalo,eSIM Chine 10 Go 15 jours,CN,Chine,10,10 Go,15,21.28,EUR,5G,non
+airalo-100511,Airalo,eSIM Égypte Illimité 30 jours,EG,Égypte,,Illimité,30,84.48,EUR,5G,oui
+airalo-100512,Airalo,eSIM Chine 5 Go 7 jours,CN,Chine,5,5 Go,7,12.6,EUR,4G,oui
+airalo-100513,Airalo,eSIM Philippines 3 Go 7 jours,PH,Philippines,3,3 Go,7,9.53,EUR,4G,non
+airalo-100514,Airalo,eSIM Malaisie 5 Go 7 jours,MY,Malaisie,5,5 Go,7,12.24,EUR,4G,non
+airalo-100515,Airalo,eSIM Indonésie 10 Go 7 jours,ID,Indonésie,10,10 Go,7,17.7,EUR,5G,non
+airalo-100516,Airalo,eSIM Kenya 5 Go 30 jours,KE,Kenya,5,5 Go,30,16.5,EUR,4G,non
+airalo-100517,Airalo,eSIM Indonésie 5 Go 30 jours,ID,Indonésie,5,5 Go,30,17.29,EUR,4G,non
+airalo-100518,Airalo,eSIM Grèce 3 Go 30 jours,GR,Grèce,3,3 Go,30,12.06,EUR,4G,non
+airalo-100519,Airalo,eSIM Italie 50 Go 15 jours,IT,Italie,50,50 Go,15,53.93,EUR,4G,non
+airalo-100520,Airalo,eSIM Autriche 3 Go 7 jours,AT,Autriche,3,3 Go,7,10,EUR,4G,non
+airalo-100521,Airalo,eSIM Malaisie 10 Go 7 jours,MY,Malaisie,10,10 Go,7,19.06,EUR,5G,oui
+airalo-100522,Airalo,eSIM Maroc 1 Go 7 jours,MA,Maroc,1,1 Go,7,6.01,EUR,4G,non
+airalo-100523,Airalo,eSIM États-Unis 5 Go 15 jours,US,États-Unis,5,5 Go,15,13.2,EUR,4G,non
+airalo-100524,Airalo,eSIM Mexique 20 Go 7 jours,MX,Mexique,20,20 Go,7,25.38,EUR,4G,oui
+airalo-100525,Airalo,eSIM Singapour 3 Go 7 jours,SG,Singapour,3,3 Go,7,9.99,EUR,4G,oui
+airalo-100526,Airalo,eSIM Allemagne 1 Go 15 jours,DE,Allemagne,1,1 Go,15,6.38,EUR,5G,oui
+airalo-100527,Airalo,eSIM Corée du Sud 20 Go 15 jours,KR,Corée du Sud,20,20 Go,15,32.46,EUR,4G,oui
+airalo-100528,Airalo,eSIM Égypte 10 Go 15 jours,EG,Égypte,10,10 Go,15,21.87,EUR,4G,non
+airalo-100529,Airalo,eSIM Corée du Sud 3 Go 30 jours,KR,Corée du Sud,3,3 Go,30,12.39,EUR,4G,oui
+airalo-100530,Airalo,eSIM Jordanie 5 Go 30 jours,JO,Jordanie,5,5 Go,30,17.41,EUR,4G,oui
+airalo-100531,Airalo,eSIM Tanzanie 10 Go 30 jours,TZ,Tanzanie,10,10 Go,30,22.59,EUR,4G,oui
+airalo-100532,Airalo,eSIM Philippines 1 Go 30 jours,PH,Philippines,1,1 Go,30,8.3,EUR,4G,oui
+airalo-100533,Airalo,eSIM Nouvelle-Zélande 3 Go 7 jours,NZ,Nouvelle-Zélande,3,3 Go,7,10.06,EUR,4G,oui
+airalo-100534,Airalo,eSIM Jordanie 3 Go 30 jours,JO,Jordanie,3,3 Go,30,11.74,EUR,4G,non
+airalo-100535,Airalo,eSIM Amérique du Nord 20 Go 30 jours,NA,Amérique du Nord,20,20 Go,30,53.39,EUR,5G,oui
+airalo-100536,Airalo,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,104.64,EUR,5G,oui
+airalo-100537,Airalo,eSIM Portugal 50 Go 15 jours,PT,Portugal,50,50 Go,15,55.81,EUR,4G,non
+airalo-100538,Airalo,eSIM Croatie 5 Go 30 jours,HR,Croatie,5,5 Go,30,17.38,EUR,4G,non
+airalo-100539,Airalo,eSIM Turquie 20 Go 7 jours,TR,Turquie,20,20 Go,7,25.67,EUR,4G,non
+airalo-100540,Airalo,eSIM Arabie saoudite 3 Go 30 jours,SA,Arabie saoudite,3,3 Go,30,11.56,EUR,5G,non
+airalo-100541,Airalo,eSIM Arabie saoudite 20 Go 15 jours,SA,Arabie saoudite,20,20 Go,15,28.64,EUR,4G,oui
+airalo-100542,Airalo,eSIM Indonésie 1 Go 7 jours,ID,Indonésie,1,1 Go,7,5.44,EUR,4G,non
+airalo-100543,Airalo,eSIM Corée du Sud 20 Go 7 jours,KR,Corée du Sud,20,20 Go,7,26.18,EUR,5G,non
+airalo-100544,Airalo,eSIM Asie Illimité 15 jours,AS,Asie,,Illimité,15,60.08,EUR,5G,oui
+airalo-100545,Airalo,eSIM Turquie 20 Go 15 jours,TR,Turquie,20,20 Go,15,30.18,EUR,4G,oui
+airalo-100546,Airalo,eSIM Espagne 1 Go 15 jours,ES,Espagne,1,1 Go,15,6.34,EUR,5G,oui
+airalo-100547,Airalo,eSIM Tanzanie 5 Go 30 jours,TZ,Tanzanie,5,5 Go,30,16.69,EUR,5G,oui
+airalo-100548,Airalo,eSIM Nigeria 1 Go 7 jours,NG,Nigeria,1,1 Go,7,5.9,EUR,4G,non
+airalo-100549,Airalo,eSIM Kenya 1 Go 15 jours,KE,Kenya,1,1 Go,15,6.03,EUR,5G,oui
+airalo-100550,Airalo,eSIM Suède 1 Go 30 jours,SE,Suède,1,1 Go,30,7.58,EUR,4G,oui
+airalo-100551,Airalo,eSIM Pologne 1 Go 30 jours,PL,Pologne,1,1 Go,30,8.13,EUR,5G,oui
+airalo-100552,Airalo,eSIM Irlande 5 Go 30 jours,IE,Irlande,5,5 Go,30,16.45,EUR,4G,oui
+airalo-100553,Airalo,eSIM Indonésie 3 Go 30 jours,ID,Indonésie,3,3 Go,30,12.37,EUR,4G,oui
+airalo-100554,Airalo,eSIM Israël 10 Go 7 jours,IL,Israël,10,10 Go,7,18.5,EUR,5G,oui
+airalo-100555,Airalo,eSIM Inde Illimité 15 jours,IN,Inde,,Illimité,15,48.55,EUR,5G,oui
+airalo-100556,Airalo,eSIM Thaïlande 50 Go 15 jours,TH,Thaïlande,50,50 Go,15,50.1,EUR,4G,non
+airalo-100557,Airalo,eSIM Rép. dominicaine 1 Go 30 jours,DO,Rép. dominicaine,1,1 Go,30,7.22,EUR,4G,non
+airalo-100558,Airalo,eSIM Grèce 10 Go 30 jours,GR,Grèce,10,10 Go,30,25.72,EUR,4G,oui
+airalo-100559,Airalo,eSIM Asie 20 Go 15 jours,AS,Asie,20,20 Go,15,41.67,EUR,4G,non
+airalo-100560,Airalo,eSIM Canada 1 Go 15 jours,CA,Canada,1,1 Go,15,6.35,EUR,4G,non
+airalo-100561,Airalo,eSIM Égypte Illimité 30 jours,EG,Égypte,,Illimité,30,77.31,EUR,4G,oui
+airalo-100562,Airalo,eSIM Colombie Illimité 15 jours,CO,Colombie,,Illimité,15,52.65,EUR,5G,non
+airalo-100563,Airalo,eSIM Australie 5 Go 7 jours,AU,Australie,5,5 Go,7,12.34,EUR,4G,oui
+airalo-100564,Airalo,eSIM Irlande 10 Go 15 jours,IE,Irlande,10,10 Go,15,21.41,EUR,4G,oui
+airalo-100565,Airalo,eSIM Asie 10 Go 7 jours,AS,Asie,10,10 Go,7,26.62,EUR,5G,non
+airalo-100566,Airalo,eSIM Rép. dominicaine 1 Go 15 jours,DO,Rép. dominicaine,1,1 Go,15,6.57,EUR,4G,non
+airalo-100567,Airalo,eSIM Rép. dominicaine 3 Go 7 jours,DO,Rép. dominicaine,3,3 Go,7,9.9,EUR,4G,oui
+airalo-100568,Airalo,eSIM Pologne 20 Go 30 jours,PL,Pologne,20,20 Go,30,39.39,EUR,4G,oui
+airalo-100569,Airalo,eSIM Nouvelle-Zélande 1 Go 30 jours,NZ,Nouvelle-Zélande,1,1 Go,30,8.33,EUR,4G,oui
+airalo-100570,Airalo,eSIM Suède 1 Go 15 jours,SE,Suède,1,1 Go,15,6.4,EUR,5G,non
+airalo-100571,Airalo,eSIM Afrique du Sud 1 Go 15 jours,ZA,Afrique du Sud,1,1 Go,15,5.93,EUR,4G,oui
+airalo-100572,Airalo,eSIM Indonésie Illimité 15 jours,ID,Indonésie,,Illimité,15,47.11,EUR,5G,oui
+airalo-100573,Airalo,eSIM Pologne 10 Go 7 jours,PL,Pologne,10,10 Go,7,19.54,EUR,4G,oui
+airalo-100574,Airalo,eSIM Belgique 10 Go 15 jours,BE,Belgique,10,10 Go,15,21.91,EUR,4G,non
+airalo-100575,Airalo,eSIM Grèce 1 Go 30 jours,GR,Grèce,1,1 Go,30,7.73,EUR,4G,non
+airalo-100576,Airalo,eSIM Colombie 3 Go 15 jours,CO,Colombie,3,3 Go,15,11.2,EUR,4G,oui
+airalo-100577,Airalo,eSIM Chili 10 Go 15 jours,CL,Chili,10,10 Go,15,21.34,EUR,4G,non
+airalo-100578,Airalo,eSIM Portugal 20 Go 7 jours,PT,Portugal,20,20 Go,7,26.4,EUR,4G,non
+airalo-100579,Airalo,eSIM Turquie 20 Go 15 jours,TR,Turquie,20,20 Go,15,29.7,EUR,4G,oui
+airalo-100580,Airalo,eSIM Australie 50 Go 7 jours,AU,Australie,50,50 Go,7,46.57,EUR,4G,oui
+airalo-100581,Airalo,eSIM Turquie 10 Go 15 jours,TR,Turquie,10,10 Go,15,20,EUR,5G,oui
+airalo-100582,Airalo,eSIM Mexique 1 Go 30 jours,MX,Mexique,1,1 Go,30,8.44,EUR,4G,oui
+airalo-100583,Airalo,eSIM Monde 5 Go 30 jours,WW,Monde,5,5 Go,30,24.2,EUR,4G,non
+airalo-100584,Airalo,eSIM Thaïlande 3 Go 15 jours,TH,Thaïlande,3,3 Go,15,9.58,EUR,4G,oui
+airalo-100585,Airalo,eSIM États-Unis 3 Go 30 jours,US,États-Unis,3,3 Go,30,11.33,EUR,5G,oui
+airalo-100586,Airalo,eSIM Inde 3 Go 7 jours,IN,Inde,3,3 Go,7,10.03,EUR,4G,non
+airalo-100587,Airalo,eSIM Norvège 1 Go 30 jours,NO,Norvège,1,1 Go,30,7.02,EUR,5G,oui
+airalo-100588,Airalo,eSIM Maroc 10 Go 7 jours,MA,Maroc,10,10 Go,7,17.92,EUR,5G,oui
+airalo-100589,Airalo,eSIM Colombie 10 Go 30 jours,CO,Colombie,10,10 Go,30,25.21,EUR,4G,oui
+airalo-100590,Airalo,eSIM Égypte Illimité 30 jours,EG,Égypte,,Illimité,30,71.02,EUR,5G,non
+airalo-100591,Airalo,eSIM Thaïlande Illimité 30 jours,TH,Thaïlande,,Illimité,30,83.44,EUR,5G,oui
+airalo-100592,Airalo,eSIM Autriche 5 Go 7 jours,AT,Autriche,5,5 Go,7,11.25,EUR,4G,oui
+airalo-100593,Airalo,eSIM Canada 1 Go 30 jours,CA,Canada,1,1 Go,30,8.47,EUR,5G,non
+airalo-100594,Airalo,eSIM Brésil 10 Go 15 jours,BR,Brésil,10,10 Go,15,20.79,EUR,4G,non
+airalo-100595,Airalo,eSIM Égypte 3 Go 15 jours,EG,Égypte,3,3 Go,15,11.32,EUR,4G,non
+airalo-100596,Airalo,eSIM France 50 Go 30 jours,FR,France,50,50 Go,30,60.43,EUR,4G,non
+airalo-100597,Airalo,eSIM Chili Illimité 15 jours,CL,Chili,,Illimité,15,48.03,EUR,4G,non
+airalo-100598,Airalo,eSIM Nouvelle-Zélande 3 Go 15 jours,NZ,Nouvelle-Zélande,3,3 Go,15,9.67,EUR,5G,oui
+airalo-100599,Airalo,eSIM Japon 10 Go 15 jours,JP,Japon,10,10 Go,15,19.62,EUR,4G,non
+airalo-100600,Airalo,eSIM Malaisie Illimité 7 jours,MY,Malaisie,,Illimité,7,32.07,EUR,5G,oui
+airalo-100601,Airalo,eSIM Émirats arabes unis Illimité 30 jours,AE,Émirats arabes unis,,Illimité,30,86.1,EUR,5G,oui
+airalo-100602,Airalo,eSIM Espagne 5 Go 30 jours,ES,Espagne,5,5 Go,30,15.37,EUR,5G,oui
+airalo-100603,Airalo,eSIM Pologne Illimité 7 jours,PL,Pologne,,Illimité,7,31.48,EUR,4G,non
+airalo-100604,Airalo,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,81.84,EUR,4G,oui
+airalo-100605,Airalo,eSIM Kenya 1 Go 15 jours,KE,Kenya,1,1 Go,15,6.15,EUR,5G,non
+airalo-100606,Airalo,eSIM Kenya 10 Go 7 jours,KE,Kenya,10,10 Go,7,17.85,EUR,4G,oui
+airalo-100607,Airalo,eSIM Inde 20 Go 30 jours,IN,Inde,20,20 Go,30,36.61,EUR,4G,non
+airalo-100608,Airalo,eSIM Indonésie 1 Go 15 jours,ID,Indonésie,1,1 Go,15,6.62,EUR,4G,oui
+airalo-100609,Airalo,eSIM Asie 3 Go 7 jours,AS,Asie,3,3 Go,7,14.49,EUR,4G,oui
+airalo-100610,Airalo,eSIM Chine 1 Go 15 jours,CN,Chine,1,1 Go,15,7.16,EUR,4G,non
+airalo-100611,Airalo,eSIM Portugal 3 Go 15 jours,PT,Portugal,3,3 Go,15,9.96,EUR,5G,oui
+airalo-100612,Airalo,eSIM Europe 20 Go 7 jours,EU,Europe,20,20 Go,7,36.44,EUR,5G,oui
+airalo-100613,Airalo,eSIM Belgique 1 Go 30 jours,BE,Belgique,1,1 Go,30,7.12,EUR,4G,oui
+airalo-100614,Airalo,eSIM Irlande 3 Go 30 jours,IE,Irlande,3,3 Go,30,11.67,EUR,4G,non
+airalo-100615,Airalo,eSIM Kenya Illimité 30 jours,KE,Kenya,,Illimité,30,84.68,EUR,5G,non
+airalo-100616,Airalo,eSIM Singapour Illimité 7 jours,SG,Singapour,,Illimité,7,32.62,EUR,5G,non
+airalo-100617,Airalo,eSIM Allemagne 5 Go 30 jours,DE,Allemagne,5,5 Go,30,17.37,EUR,4G,oui
+airalo-100618,Airalo,eSIM Suède 20 Go 30 jours,SE,Suède,20,20 Go,30,34.82,EUR,4G,oui
+airalo-100619,Airalo,eSIM Indonésie 3 Go 7 jours,ID,Indonésie,3,3 Go,7,8.76,EUR,5G,non
+airalo-100620,Airalo,eSIM Europe 5 Go 7 jours,EU,Europe,5,5 Go,7,15.97,EUR,4G,oui
+airalo-100621,Airalo,eSIM Nigeria 5 Go 15 jours,NG,Nigeria,5,5 Go,15,14.28,EUR,4G,oui
+airalo-100622,Airalo,eSIM Amérique du Nord 3 Go 15 jours,NA,Amérique du Nord,3,3 Go,15,14.16,EUR,4G,oui
+airalo-100623,Airalo,eSIM Égypte 50 Go 30 jours,EG,Égypte,50,50 Go,30,70.11,EUR,4G,non
+airalo-100624,Airalo,eSIM Chine 5 Go 15 jours,CN,Chine,5,5 Go,15,13.82,EUR,4G,non
+airalo-100625,Airalo,eSIM Turquie Illimité 30 jours,TR,Turquie,,Illimité,30,81.31,EUR,5G,oui
+airalo-100626,Airalo,eSIM Singapour Illimité 30 jours,SG,Singapour,,Illimité,30,84.1,EUR,4G,non
+airalo-100627,Airalo,eSIM Rép. dominicaine 3 Go 15 jours,DO,Rép. dominicaine,3,3 Go,15,10.36,EUR,4G,oui
+airalo-100628,Airalo,eSIM Argentine 10 Go 30 jours,AR,Argentine,10,10 Go,30,25.37,EUR,5G,non
+airalo-100629,Airalo,eSIM Argentine 1 Go 30 jours,AR,Argentine,1,1 Go,30,8.2,EUR,4G,oui
+airalo-100630,Airalo,eSIM Philippines 20 Go 15 jours,PH,Philippines,20,20 Go,15,32.15,EUR,5G,oui
+airalo-100631,Airalo,eSIM Amérique du Nord 10 Go 7 jours,NA,Amérique du Nord,10,10 Go,7,26.21,EUR,4G,non
+airalo-100632,Airalo,eSIM Rép. dominicaine 5 Go 30 jours,DO,Rép. dominicaine,5,5 Go,30,16.56,EUR,4G,oui
+airalo-100633,Airalo,eSIM Singapour 1 Go 15 jours,SG,Singapour,1,1 Go,15,6.6,EUR,5G,oui
+airalo-100634,Airalo,eSIM Amérique du Nord 10 Go 7 jours,NA,Amérique du Nord,10,10 Go,7,26.71,EUR,5G,oui
+airalo-100635,Airalo,eSIM Singapour 1 Go 30 jours,SG,Singapour,1,1 Go,30,7.94,EUR,4G,non
+airalo-100636,Airalo,eSIM Asie 10 Go 15 jours,AS,Asie,10,10 Go,15,29.32,EUR,4G,oui
+airalo-100637,Airalo,eSIM Autriche 3 Go 30 jours,AT,Autriche,3,3 Go,30,11.85,EUR,4G,non
+airalo-100638,Airalo,eSIM Qatar 50 Go 15 jours,QA,Qatar,50,50 Go,15,55.68,EUR,4G,oui
+airalo-100639,Airalo,eSIM Croatie 1 Go 30 jours,HR,Croatie,1,1 Go,30,8.09,EUR,5G,oui
+airalo-100640,Airalo,eSIM Europe 5 Go 30 jours,EU,Europe,5,5 Go,30,24.7,EUR,4G,non
+airalo-100641,Airalo,eSIM Kenya 20 Go 15 jours,KE,Kenya,20,20 Go,15,29.98,EUR,4G,non
+airalo-100642,Airalo,eSIM Grèce 5 Go 30 jours,GR,Grèce,5,5 Go,30,16.15,EUR,4G,oui
+airalo-100643,Airalo,eSIM Jordanie 20 Go 7 jours,JO,Jordanie,20,20 Go,7,27.79,EUR,5G,oui
+airalo-100644,Airalo,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,83.68,EUR,5G,oui
+airalo-100645,Airalo,eSIM Inde 5 Go 7 jours,IN,Inde,5,5 Go,7,11.15,EUR,4G,oui
+airalo-100646,Airalo,eSIM Croatie Illimité 30 jours,HR,Croatie,,Illimité,30,71.61,EUR,4G,oui
+airalo-100647,Airalo,eSIM Autriche 50 Go 30 jours,AT,Autriche,50,50 Go,30,71.75,EUR,4G,non
+airalo-100648,Airalo,eSIM Suisse 10 Go 30 jours,CH,Suisse,10,10 Go,30,24.04,EUR,4G,oui
+airalo-100649,Airalo,eSIM Tanzanie 50 Go 7 jours,TZ,Tanzanie,50,50 Go,7,48.72,EUR,4G,oui
+airalo-100650,Airalo,eSIM Irlande 20 Go 7 jours,IE,Irlande,20,20 Go,7,29.35,EUR,4G,oui
+airalo-100651,Airalo,eSIM Suède 3 Go 15 jours,SE,Suède,3,3 Go,15,10.26,EUR,5G,non
+airalo-100652,Airalo,eSIM Portugal 50 Go 15 jours,PT,Portugal,50,50 Go,15,57.65,EUR,4G,oui
+airalo-100653,Airalo,eSIM Monde 5 Go 15 jours,WW,Monde,5,5 Go,15,18.65,EUR,4G,oui
+airalo-100654,Airalo,eSIM Suisse 3 Go 7 jours,CH,Suisse,3,3 Go,7,10.12,EUR,4G,oui
+airalo-100655,Airalo,eSIM Asie 5 Go 30 jours,AS,Asie,5,5 Go,30,23.27,EUR,4G,oui
+airalo-100656,Airalo,eSIM Belgique Illimité 30 jours,BE,Belgique,,Illimité,30,77.54,EUR,5G,non
+airalo-100657,Airalo,eSIM Allemagne 1 Go 15 jours,DE,Allemagne,1,1 Go,15,6.53,EUR,5G,oui
+airalo-100658,Airalo,eSIM Arabie saoudite 3 Go 7 jours,SA,Arabie saoudite,3,3 Go,7,9.45,EUR,4G,non
+airalo-100659,Airalo,eSIM Irlande Illimité 7 jours,IE,Irlande,,Illimité,7,34.45,EUR,4G,non
+airalo-100660,Airalo,eSIM Argentine 3 Go 30 jours,AR,Argentine,3,3 Go,30,11.34,EUR,5G,non
+airalo-100661,Airalo,eSIM Allemagne 50 Go 15 jours,DE,Allemagne,50,50 Go,15,59.94,EUR,4G,non
+airalo-100662,Airalo,eSIM Royaume-Uni 20 Go 30 jours,GB,Royaume-Uni,20,20 Go,30,36.33,EUR,4G,oui
+airalo-100663,Airalo,eSIM Émirats arabes unis 50 Go 30 jours,AE,Émirats arabes unis,50,50 Go,30,61.37,EUR,4G,oui
+airalo-100664,Airalo,eSIM Philippines 1 Go 7 jours,PH,Philippines,1,1 Go,7,6.12,EUR,4G,non
+airalo-100665,Airalo,eSIM Arabie saoudite 3 Go 7 jours,SA,Arabie saoudite,3,3 Go,7,9.67,EUR,4G,non
+airalo-100666,Airalo,eSIM Royaume-Uni Illimité 15 jours,GB,Royaume-Uni,,Illimité,15,50.46,EUR,5G,non
+airalo-100667,Airalo,eSIM Émirats arabes unis 3 Go 30 jours,AE,Émirats arabes unis,3,3 Go,30,12.81,EUR,4G,oui
+airalo-100668,Airalo,eSIM Pérou 3 Go 7 jours,PE,Pérou,3,3 Go,7,9.54,EUR,4G,non
+airalo-100669,Airalo,eSIM Asie 1 Go 30 jours,AS,Asie,1,1 Go,30,10.02,EUR,4G,oui
+airalo-100670,Airalo,eSIM Pays-Bas 1 Go 7 jours,NL,Pays-Bas,1,1 Go,7,5.52,EUR,5G,oui
+airalo-100671,Airalo,eSIM Argentine 1 Go 30 jours,AR,Argentine,1,1 Go,30,7.06,EUR,4G,oui
+airalo-100672,Airalo,eSIM Qatar 3 Go 15 jours,QA,Qatar,3,3 Go,15,9.98,EUR,5G,non
+airalo-100673,Airalo,eSIM Europe 10 Go 15 jours,EU,Europe,10,10 Go,15,29.9,EUR,4G,non
+airalo-100674,Airalo,eSIM Argentine 10 Go 15 jours,AR,Argentine,10,10 Go,15,19.59,EUR,4G,oui
+airalo-100675,Airalo,eSIM Chine 10 Go 7 jours,CN,Chine,10,10 Go,7,18.14,EUR,5G,oui
+airalo-100676,Airalo,eSIM Émirats arabes unis 20 Go 7 jours,AE,Émirats arabes unis,20,20 Go,7,28.21,EUR,5G,non
+airalo-100677,Airalo,eSIM Amérique du Nord 20 Go 7 jours,NA,Amérique du Nord,20,20 Go,7,36.34,EUR,4G,oui
+airalo-100678,Airalo,eSIM Malaisie 20 Go 7 jours,MY,Malaisie,20,20 Go,7,28.53,EUR,4G,oui
+airalo-100679,Airalo,eSIM Turquie 20 Go 15 jours,TR,Turquie,20,20 Go,15,32.74,EUR,4G,non
+airalo-100680,Airalo,eSIM Vietnam 50 Go 15 jours,VN,Vietnam,50,50 Go,15,59.94,EUR,5G,oui
+airalo-100681,Airalo,eSIM Suède 10 Go 30 jours,SE,Suède,10,10 Go,30,25.83,EUR,5G,non
+airalo-100682,Airalo,eSIM Suisse 10 Go 15 jours,CH,Suisse,10,10 Go,15,18.25,EUR,4G,oui
+airalo-100683,Airalo,eSIM Colombie 20 Go 7 jours,CO,Colombie,20,20 Go,7,25.3,EUR,4G,oui
+airalo-100684,Airalo,eSIM Canada 3 Go 7 jours,CA,Canada,3,3 Go,7,8.93,EUR,5G,non
+airalo-100685,Airalo,eSIM Monde 20 Go 30 jours,WW,Monde,20,20 Go,30,47.74,EUR,5G,oui
+airalo-100686,Airalo,eSIM Chili 3 Go 30 jours,CL,Chili,3,3 Go,30,13.2,EUR,4G,non
+airalo-100687,Airalo,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,78.74,EUR,4G,oui
+airalo-100688,Airalo,eSIM Japon 10 Go 30 jours,JP,Japon,10,10 Go,30,25.45,EUR,4G,oui
+airalo-100689,Airalo,eSIM Grèce 20 Go 7 jours,GR,Grèce,20,20 Go,7,27.76,EUR,4G,oui
+airalo-100690,Airalo,eSIM Pérou 1 Go 30 jours,PE,Pérou,1,1 Go,30,8.26,EUR,4G,oui
+airalo-100691,Airalo,eSIM Amérique du Nord 10 Go 7 jours,NA,Amérique du Nord,10,10 Go,7,26.69,EUR,4G,non
+airalo-100692,Airalo,eSIM Amérique du Nord 5 Go 7 jours,NA,Amérique du Nord,5,5 Go,7,17.11,EUR,4G,oui
+airalo-100693,Airalo,eSIM Jordanie 50 Go 7 jours,JO,Jordanie,50,50 Go,7,46.38,EUR,5G,oui
+airalo-100694,Airalo,eSIM Nigeria 50 Go 15 jours,NG,Nigeria,50,50 Go,15,56.78,EUR,5G,oui
+airalo-100695,Airalo,eSIM Grèce 5 Go 15 jours,GR,Grèce,5,5 Go,15,12.77,EUR,4G,oui
+airalo-100696,Airalo,eSIM Chine 3 Go 30 jours,CN,Chine,3,3 Go,30,12.34,EUR,4G,non
+airalo-100697,Airalo,eSIM Maroc 3 Go 7 jours,MA,Maroc,3,3 Go,7,10.08,EUR,4G,non
+airalo-100698,Airalo,eSIM Chine 50 Go 15 jours,CN,Chine,50,50 Go,15,50.27,EUR,4G,non
+airalo-100699,Airalo,eSIM Nigeria 1 Go 30 jours,NG,Nigeria,1,1 Go,30,8.18,EUR,4G,non
+airalo-100700,Airalo,eSIM Royaume-Uni 1 Go 15 jours,GB,Royaume-Uni,1,1 Go,15,6.4,EUR,4G,non
+airalo-100701,Airalo,eSIM Nigeria 20 Go 15 jours,NG,Nigeria,20,20 Go,15,33.36,EUR,4G,oui
+airalo-100702,Airalo,eSIM Norvège 1 Go 30 jours,NO,Norvège,1,1 Go,30,8.4,EUR,5G,oui
+airalo-100703,Airalo,eSIM Indonésie 20 Go 15 jours,ID,Indonésie,20,20 Go,15,32.88,EUR,5G,non
+airalo-100704,Airalo,eSIM Autriche 1 Go 15 jours,AT,Autriche,1,1 Go,15,6.29,EUR,4G,non
+airalo-100705,Airalo,eSIM Pays-Bas Illimité 7 jours,NL,Pays-Bas,,Illimité,7,30.87,EUR,4G,non
+airalo-100706,Airalo,eSIM Autriche 1 Go 30 jours,AT,Autriche,1,1 Go,30,7.18,EUR,5G,non
+airalo-100707,Airalo,eSIM Nigeria 20 Go 15 jours,NG,Nigeria,20,20 Go,15,29.91,EUR,4G,non
+airalo-100708,Airalo,eSIM Japon 5 Go 15 jours,JP,Japon,5,5 Go,15,13.78,EUR,4G,non
+airalo-100709,Airalo,eSIM Allemagne 5 Go 30 jours,DE,Allemagne,5,5 Go,30,16.82,EUR,4G,non
+airalo-100710,Airalo,eSIM Allemagne 10 Go 15 jours,DE,Allemagne,10,10 Go,15,18.74,EUR,4G,oui
+airalo-100711,Airalo,eSIM Nigeria 3 Go 7 jours,NG,Nigeria,3,3 Go,7,8.96,EUR,4G,oui
+airalo-100712,Airalo,eSIM Tanzanie 50 Go 7 jours,TZ,Tanzanie,50,50 Go,7,49.88,EUR,4G,oui
+airalo-100713,Airalo,eSIM Amérique du Nord 10 Go 30 jours,NA,Amérique du Nord,10,10 Go,30,32.53,EUR,4G,oui
+airalo-100714,Airalo,eSIM Belgique 20 Go 7 jours,BE,Belgique,20,20 Go,7,29.8,EUR,4G,non
+airalo-100715,Airalo,eSIM Suisse 20 Go 30 jours,CH,Suisse,20,20 Go,30,39.68,EUR,4G,non
+airalo-100716,Airalo,eSIM Nouvelle-Zélande 1 Go 30 jours,NZ,Nouvelle-Zélande,1,1 Go,30,8.11,EUR,4G,oui
+airalo-100717,Airalo,eSIM Brésil 10 Go 7 jours,BR,Brésil,10,10 Go,7,18.19,EUR,4G,non
+airalo-100718,Airalo,eSIM Maroc Illimité 15 jours,MA,Maroc,,Illimité,15,48.55,EUR,5G,non
+airalo-100719,Airalo,eSIM Royaume-Uni 10 Go 7 jours,GB,Royaume-Uni,10,10 Go,7,17.48,EUR,4G,non
+airalo-100720,Airalo,eSIM Tanzanie 3 Go 15 jours,TZ,Tanzanie,3,3 Go,15,10.02,EUR,4G,oui
+airalo-100721,Airalo,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,136.98,EUR,5G,non
+airalo-100722,Airalo,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,136.91,EUR,5G,oui

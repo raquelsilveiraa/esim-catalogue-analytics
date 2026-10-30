@@ -1,0 +1,213 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+jetpac-103761,Jetpac,eSIM Grèce Illimité 15 jours,GR,Grèce,,Illimité,15,53.05,EUR,4G,oui
+jetpac-103762,Jetpac,eSIM Indonésie 5 Go 30 jours,ID,Indonésie,5,5 Go,30,14.75,EUR,4G,oui
+jetpac-103763,Jetpac,eSIM Brésil Illimité 15 jours,BR,Brésil,,Illimité,15,45.67,EUR,5G,oui
+jetpac-103764,Jetpac,eSIM Vietnam 5 Go 15 jours,VN,Vietnam,5,5 Go,15,12.66,EUR,4G,oui
+jetpac-103765,Jetpac,eSIM Rép. dominicaine 1 Go 15 jours,DO,Rép. dominicaine,1,1 Go,15,6.22,EUR,4G,oui
+jetpac-103766,Jetpac,eSIM Belgique 10 Go 7 jours,BE,Belgique,10,10 Go,7,19.23,EUR,4G,non
+jetpac-103767,Jetpac,eSIM Amérique du Nord 3 Go 30 jours,NA,Amérique du Nord,3,3 Go,30,16.65,EUR,5G,non
+jetpac-103768,Jetpac,eSIM Afrique du Sud Illimité 30 jours,ZA,Afrique du Sud,,Illimité,30,86.21,EUR,5G,oui
+jetpac-103769,Jetpac,eSIM Israël 1 Go 15 jours,IL,Israël,1,1 Go,15,6.99,EUR,4G,non
+jetpac-103770,Jetpac,eSIM Australie 5 Go 15 jours,AU,Australie,5,5 Go,15,13.48,EUR,4G,non
+jetpac-103771,Jetpac,eSIM Autriche 10 Go 7 jours,AT,Autriche,10,10 Go,7,19.04,EUR,4G,non
+jetpac-103772,Jetpac,eSIM Mexique 5 Go 15 jours,MX,Mexique,5,5 Go,15,12.37,EUR,5G,non
+jetpac-103773,Jetpac,eSIM Autriche 5 Go 30 jours,AT,Autriche,5,5 Go,30,15.09,EUR,4G,non
+jetpac-103774,Jetpac,eSIM Japon 10 Go 7 jours,JP,Japon,10,10 Go,7,19.05,EUR,5G,non
+jetpac-103775,Jetpac,eSIM Turquie 50 Go 30 jours,TR,Turquie,50,50 Go,30,69.24,EUR,5G,oui
+jetpac-103776,Jetpac,eSIM Chili 50 Go 30 jours,CL,Chili,50,50 Go,30,59.93,EUR,4G,oui
+jetpac-103777,Jetpac,eSIM Croatie 50 Go 30 jours,HR,Croatie,50,50 Go,30,60.84,EUR,5G,non
+jetpac-103778,Jetpac,eSIM Thaïlande 10 Go 30 jours,TH,Thaïlande,10,10 Go,30,23.85,EUR,4G,oui
+jetpac-103779,Jetpac,eSIM Chine 1 Go 15 jours,CN,Chine,1,1 Go,15,6.01,EUR,4G,non
+jetpac-103780,Jetpac,eSIM États-Unis 10 Go 15 jours,US,États-Unis,10,10 Go,15,18.25,EUR,4G,oui
+jetpac-103781,Jetpac,eSIM Irlande Illimité 7 jours,IE,Irlande,,Illimité,7,34.57,EUR,4G,non
+jetpac-103782,Jetpac,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,7.52,EUR,5G,oui
+jetpac-103783,Jetpac,eSIM Europe 1 Go 30 jours,EU,Europe,1,1 Go,30,9.85,EUR,4G,non
+jetpac-103784,Jetpac,eSIM Irlande 5 Go 7 jours,IE,Irlande,5,5 Go,7,12.44,EUR,5G,non
+jetpac-103785,Jetpac,eSIM Vietnam 1 Go 30 jours,VN,Vietnam,1,1 Go,30,8.14,EUR,4G,non
+jetpac-103786,Jetpac,eSIM Portugal 3 Go 15 jours,PT,Portugal,3,3 Go,15,9.47,EUR,4G,oui
+jetpac-103787,Jetpac,eSIM Monde 5 Go 15 jours,WW,Monde,5,5 Go,15,18.82,EUR,4G,non
+jetpac-103788,Jetpac,eSIM Colombie 1 Go 15 jours,CO,Colombie,1,1 Go,15,6.38,EUR,4G,oui
+jetpac-103789,Jetpac,eSIM Pérou Illimité 30 jours,PE,Pérou,,Illimité,30,81.92,EUR,4G,non
+jetpac-103790,Jetpac,eSIM Norvège 1 Go 15 jours,NO,Norvège,1,1 Go,15,6.87,EUR,5G,oui
+jetpac-103791,Jetpac,eSIM Pologne Illimité 15 jours,PL,Pologne,,Illimité,15,53.08,EUR,5G,oui
+jetpac-103792,Jetpac,eSIM Arabie saoudite 5 Go 15 jours,SA,Arabie saoudite,5,5 Go,15,14.4,EUR,4G,non
+jetpac-103793,Jetpac,eSIM Thaïlande 20 Go 15 jours,TH,Thaïlande,20,20 Go,15,30.03,EUR,4G,oui
+jetpac-103794,Jetpac,eSIM Royaume-Uni Illimité 30 jours,GB,Royaume-Uni,,Illimité,30,72.63,EUR,4G,non
+jetpac-103795,Jetpac,eSIM Égypte 3 Go 15 jours,EG,Égypte,3,3 Go,15,10.63,EUR,4G,non
+jetpac-103796,Jetpac,eSIM Japon 3 Go 7 jours,JP,Japon,3,3 Go,7,9.53,EUR,4G,oui
+jetpac-103797,Jetpac,eSIM Pays-Bas 50 Go 7 jours,NL,Pays-Bas,50,50 Go,7,52.65,EUR,5G,oui
+jetpac-103798,Jetpac,eSIM Italie 10 Go 30 jours,IT,Italie,10,10 Go,30,24.38,EUR,4G,oui
+jetpac-103799,Jetpac,eSIM Monde 20 Go 30 jours,WW,Monde,20,20 Go,30,46.12,EUR,4G,non
+jetpac-103800,Jetpac,eSIM Jordanie 20 Go 30 jours,JO,Jordanie,20,20 Go,30,37.91,EUR,4G,non
+jetpac-103801,Jetpac,eSIM Pays-Bas 1 Go 30 jours,NL,Pays-Bas,1,1 Go,30,8.4,EUR,4G,non
+jetpac-103802,Jetpac,eSIM Pologne 10 Go 30 jours,PL,Pologne,10,10 Go,30,26.08,EUR,5G,oui
+jetpac-103803,Jetpac,eSIM Asie Illimité 15 jours,AS,Asie,,Illimité,15,58.19,EUR,5G,oui
+jetpac-103804,Jetpac,eSIM Corée du Sud 20 Go 30 jours,KR,Corée du Sud,20,20 Go,30,37.62,EUR,4G,oui
+jetpac-103805,Jetpac,eSIM Arabie saoudite Illimité 15 jours,SA,Arabie saoudite,,Illimité,15,48.46,EUR,5G,non
+jetpac-103806,Jetpac,eSIM Suède Illimité 15 jours,SE,Suède,,Illimité,15,53.27,EUR,5G,non
+jetpac-103807,Jetpac,eSIM Suède 1 Go 15 jours,SE,Suède,1,1 Go,15,6.71,EUR,4G,oui
+jetpac-103808,Jetpac,eSIM France 1 Go 15 jours,FR,France,1,1 Go,15,6.01,EUR,4G,non
+jetpac-103809,Jetpac,eSIM Norvège 20 Go 30 jours,NO,Norvège,20,20 Go,30,36.45,EUR,4G,oui
+jetpac-103810,Jetpac,eSIM Israël 3 Go 30 jours,IL,Israël,3,3 Go,30,12.34,EUR,5G,non
+jetpac-103811,Jetpac,eSIM Arabie saoudite 5 Go 30 jours,SA,Arabie saoudite,5,5 Go,30,14.66,EUR,4G,non
+jetpac-103812,Jetpac,eSIM Corée du Sud Illimité 15 jours,KR,Corée du Sud,,Illimité,15,49.13,EUR,5G,oui
+jetpac-103813,Jetpac,eSIM Royaume-Uni Illimité 7 jours,GB,Royaume-Uni,,Illimité,7,31.52,EUR,4G,oui
+jetpac-103814,Jetpac,eSIM Turquie 1 Go 7 jours,TR,Turquie,1,1 Go,7,5.53,EUR,4G,oui
+jetpac-103815,Jetpac,eSIM Monde 10 Go 15 jours,WW,Monde,10,10 Go,15,30.81,EUR,5G,oui
+jetpac-103816,Jetpac,eSIM Turquie 3 Go 15 jours,TR,Turquie,3,3 Go,15,9.59,EUR,5G,oui
+jetpac-103817,Jetpac,eSIM Malaisie 5 Go 15 jours,MY,Malaisie,5,5 Go,15,14.44,EUR,5G,non
+jetpac-103818,Jetpac,eSIM Amérique du Nord 20 Go 15 jours,NA,Amérique du Nord,20,20 Go,15,43.04,EUR,4G,oui
+jetpac-103819,Jetpac,eSIM Asie 50 Go 15 jours,AS,Asie,50,50 Go,15,78.02,EUR,4G,oui
+jetpac-103820,Jetpac,eSIM Israël 10 Go 15 jours,IL,Israël,10,10 Go,15,21.42,EUR,5G,non
+jetpac-103821,Jetpac,eSIM Turquie 50 Go 7 jours,TR,Turquie,50,50 Go,7,49.54,EUR,4G,oui
+jetpac-103822,Jetpac,eSIM Suisse 10 Go 7 jours,CH,Suisse,10,10 Go,7,17.53,EUR,4G,non
+jetpac-103823,Jetpac,eSIM Asie 20 Go 30 jours,AS,Asie,20,20 Go,30,51.59,EUR,4G,non
+jetpac-103824,Jetpac,eSIM Australie Illimité 7 jours,AU,Australie,,Illimité,7,35.73,EUR,4G,oui
+jetpac-103825,Jetpac,eSIM Jordanie 20 Go 30 jours,JO,Jordanie,20,20 Go,30,35.82,EUR,5G,oui
+jetpac-103826,Jetpac,eSIM Maroc 20 Go 7 jours,MA,Maroc,20,20 Go,7,26.76,EUR,4G,oui
+jetpac-103827,Jetpac,eSIM Thaïlande 1 Go 7 jours,TH,Thaïlande,1,1 Go,7,5.85,EUR,5G,oui
+jetpac-103828,Jetpac,eSIM Afrique du Sud 5 Go 7 jours,ZA,Afrique du Sud,5,5 Go,7,11.58,EUR,4G,oui
+jetpac-103829,Jetpac,eSIM Singapour 50 Go 30 jours,SG,Singapour,50,50 Go,30,69.82,EUR,5G,non
+jetpac-103830,Jetpac,eSIM Brésil 10 Go 15 jours,BR,Brésil,10,10 Go,15,20.7,EUR,4G,non
+jetpac-103831,Jetpac,eSIM Grèce 3 Go 30 jours,GR,Grèce,3,3 Go,30,11.33,EUR,4G,non
+jetpac-103832,Jetpac,eSIM Allemagne 20 Go 7 jours,DE,Allemagne,20,20 Go,7,26.12,EUR,4G,oui
+jetpac-103833,Jetpac,eSIM Arabie saoudite 10 Go 30 jours,SA,Arabie saoudite,10,10 Go,30,23.95,EUR,4G,non
+jetpac-103834,Jetpac,eSIM Monde 3 Go 15 jours,WW,Monde,3,3 Go,15,14.98,EUR,4G,non
+jetpac-103835,Jetpac,eSIM Royaume-Uni 3 Go 15 jours,GB,Royaume-Uni,3,3 Go,15,10.52,EUR,5G,non
+jetpac-103836,Jetpac,eSIM Philippines Illimité 15 jours,PH,Philippines,,Illimité,15,51.16,EUR,4G,non
+jetpac-103837,Jetpac,eSIM Singapour 5 Go 15 jours,SG,Singapour,5,5 Go,15,14.81,EUR,4G,oui
+jetpac-103838,Jetpac,eSIM Croatie 5 Go 7 jours,HR,Croatie,5,5 Go,7,13.17,EUR,4G,oui
+jetpac-103839,Jetpac,eSIM Suède 50 Go 30 jours,SE,Suède,50,50 Go,30,63.15,EUR,4G,oui
+jetpac-103840,Jetpac,eSIM Indonésie 10 Go 15 jours,ID,Indonésie,10,10 Go,15,18.25,EUR,5G,non
+jetpac-103841,Jetpac,eSIM Amérique du Nord 20 Go 30 jours,NA,Amérique du Nord,20,20 Go,30,47.78,EUR,4G,non
+jetpac-103842,Jetpac,eSIM Indonésie 1 Go 15 jours,ID,Indonésie,1,1 Go,15,5.93,EUR,4G,oui
+jetpac-103843,Jetpac,eSIM Turquie 5 Go 15 jours,TR,Turquie,5,5 Go,15,13.92,EUR,4G,oui
+jetpac-103844,Jetpac,eSIM Philippines 5 Go 15 jours,PH,Philippines,5,5 Go,15,13.61,EUR,4G,non
+jetpac-103845,Jetpac,eSIM Nouvelle-Zélande 1 Go 7 jours,NZ,Nouvelle-Zélande,1,1 Go,7,5.61,EUR,4G,non
+jetpac-103846,Jetpac,eSIM Afrique du Sud 3 Go 30 jours,ZA,Afrique du Sud,3,3 Go,30,13.51,EUR,4G,oui
+jetpac-103847,Jetpac,eSIM Allemagne 5 Go 7 jours,DE,Allemagne,5,5 Go,7,11.64,EUR,4G,non
+jetpac-103848,Jetpac,eSIM Philippines 20 Go 7 jours,PH,Philippines,20,20 Go,7,29.53,EUR,4G,oui
+jetpac-103849,Jetpac,eSIM Afrique du Sud 50 Go 7 jours,ZA,Afrique du Sud,50,50 Go,7,45.79,EUR,5G,non
+jetpac-103850,Jetpac,eSIM Philippines 50 Go 7 jours,PH,Philippines,50,50 Go,7,46.25,EUR,5G,oui
+jetpac-103851,Jetpac,eSIM Chine Illimité 30 jours,CN,Chine,,Illimité,30,84.82,EUR,5G,oui
+jetpac-103852,Jetpac,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,11.11,EUR,5G,oui
+jetpac-103853,Jetpac,eSIM Autriche 1 Go 15 jours,AT,Autriche,1,1 Go,15,6.71,EUR,4G,oui
+jetpac-103854,Jetpac,eSIM Vietnam 5 Go 7 jours,VN,Vietnam,5,5 Go,7,12.84,EUR,5G,non
+jetpac-103855,Jetpac,eSIM Pays-Bas 50 Go 7 jours,NL,Pays-Bas,50,50 Go,7,46.59,EUR,4G,oui
+jetpac-103856,Jetpac,eSIM Jordanie 3 Go 30 jours,JO,Jordanie,3,3 Go,30,12.06,EUR,4G,non
+jetpac-103857,Jetpac,eSIM Malaisie 1 Go 15 jours,MY,Malaisie,1,1 Go,15,6.54,EUR,4G,oui
+jetpac-103858,Jetpac,eSIM Nouvelle-Zélande 1 Go 15 jours,NZ,Nouvelle-Zélande,1,1 Go,15,7.16,EUR,4G,oui
+jetpac-103859,Jetpac,eSIM Jordanie 20 Go 30 jours,JO,Jordanie,20,20 Go,30,33.26,EUR,4G,non
+jetpac-103860,Jetpac,eSIM Europe 50 Go 7 jours,EU,Europe,50,50 Go,7,73.98,EUR,5G,oui
+jetpac-103861,Jetpac,eSIM Indonésie 20 Go 30 jours,ID,Indonésie,20,20 Go,30,32.76,EUR,4G,oui
+jetpac-103862,Jetpac,eSIM Autriche 1 Go 30 jours,AT,Autriche,1,1 Go,30,7.42,EUR,5G,non
+jetpac-103863,Jetpac,eSIM Afrique du Sud 3 Go 30 jours,ZA,Afrique du Sud,3,3 Go,30,12.6,EUR,4G,non
+jetpac-103864,Jetpac,eSIM Inde 50 Go 15 jours,IN,Inde,50,50 Go,15,56.48,EUR,4G,non
+jetpac-103865,Jetpac,eSIM Arabie saoudite 5 Go 7 jours,SA,Arabie saoudite,5,5 Go,7,12.16,EUR,4G,oui
+jetpac-103866,Jetpac,eSIM Émirats arabes unis 10 Go 30 jours,AE,Émirats arabes unis,10,10 Go,30,23.57,EUR,4G,oui
+jetpac-103867,Jetpac,eSIM Chine 50 Go 7 jours,CN,Chine,50,50 Go,7,52.34,EUR,4G,oui
+jetpac-103868,Jetpac,eSIM Égypte 50 Go 7 jours,EG,Égypte,50,50 Go,7,53.5,EUR,4G,oui
+jetpac-103869,Jetpac,eSIM Nouvelle-Zélande 3 Go 15 jours,NZ,Nouvelle-Zélande,3,3 Go,15,11.01,EUR,4G,non
+jetpac-103870,Jetpac,eSIM Portugal 20 Go 7 jours,PT,Portugal,20,20 Go,7,25.19,EUR,5G,non
+jetpac-103871,Jetpac,eSIM Qatar 3 Go 7 jours,QA,Qatar,3,3 Go,7,9.6,EUR,4G,non
+jetpac-103872,Jetpac,eSIM Royaume-Uni 10 Go 15 jours,GB,Royaume-Uni,10,10 Go,15,18.72,EUR,4G,oui
+jetpac-103873,Jetpac,eSIM Irlande 20 Go 15 jours,IE,Irlande,20,20 Go,15,31.75,EUR,4G,non
+jetpac-103874,Jetpac,eSIM Canada 1 Go 7 jours,CA,Canada,1,1 Go,7,5.65,EUR,4G,non
+jetpac-103875,Jetpac,eSIM Irlande 50 Go 15 jours,IE,Irlande,50,50 Go,15,50.71,EUR,4G,oui
+jetpac-103876,Jetpac,eSIM Jordanie 5 Go 30 jours,JO,Jordanie,5,5 Go,30,17.57,EUR,4G,oui
+jetpac-103877,Jetpac,eSIM Tanzanie 20 Go 7 jours,TZ,Tanzanie,20,20 Go,7,29.51,EUR,4G,oui
+jetpac-103878,Jetpac,eSIM Italie 50 Go 30 jours,IT,Italie,50,50 Go,30,69.16,EUR,4G,oui
+jetpac-103879,Jetpac,eSIM Turquie 5 Go 30 jours,TR,Turquie,5,5 Go,30,15.43,EUR,5G,non
+jetpac-103880,Jetpac,eSIM Colombie 5 Go 30 jours,CO,Colombie,5,5 Go,30,14.94,EUR,4G,oui
+jetpac-103881,Jetpac,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,13.84,EUR,4G,oui
+jetpac-103882,Jetpac,eSIM Philippines 20 Go 15 jours,PH,Philippines,20,20 Go,15,28.04,EUR,4G,oui
+jetpac-103883,Jetpac,eSIM Tchéquie 50 Go 15 jours,CZ,Tchéquie,50,50 Go,15,57.26,EUR,4G,non
+jetpac-103884,Jetpac,eSIM Asie 50 Go 30 jours,AS,Asie,50,50 Go,30,91.9,EUR,4G,oui
+jetpac-103885,Jetpac,eSIM Monde 1 Go 15 jours,WW,Monde,1,1 Go,15,9.1,EUR,4G,oui
+jetpac-103886,Jetpac,eSIM Chili Illimité 7 jours,CL,Chili,,Illimité,7,35.08,EUR,5G,non
+jetpac-103887,Jetpac,eSIM Chili Illimité 7 jours,CL,Chili,,Illimité,7,31.77,EUR,5G,oui
+jetpac-103888,Jetpac,eSIM Nigeria 50 Go 30 jours,NG,Nigeria,50,50 Go,30,70.37,EUR,4G,non
+jetpac-103889,Jetpac,eSIM Belgique 3 Go 15 jours,BE,Belgique,3,3 Go,15,11.05,EUR,4G,oui
+jetpac-103890,Jetpac,eSIM Inde 50 Go 15 jours,IN,Inde,50,50 Go,15,60.27,EUR,4G,non
+jetpac-103891,Jetpac,eSIM Australie 3 Go 15 jours,AU,Australie,3,3 Go,15,11.04,EUR,4G,oui
+jetpac-103892,Jetpac,eSIM Philippines 50 Go 30 jours,PH,Philippines,50,50 Go,30,61.82,EUR,4G,oui
+jetpac-103893,Jetpac,eSIM Kenya 3 Go 30 jours,KE,Kenya,3,3 Go,30,11.56,EUR,4G,oui
+jetpac-103894,Jetpac,eSIM Amérique du Nord 3 Go 30 jours,NA,Amérique du Nord,3,3 Go,30,17.6,EUR,5G,non
+jetpac-103895,Jetpac,eSIM Pologne 3 Go 30 jours,PL,Pologne,3,3 Go,30,12.09,EUR,5G,oui
+jetpac-103896,Jetpac,eSIM Pologne 50 Go 30 jours,PL,Pologne,50,50 Go,30,68.68,EUR,5G,oui
+jetpac-103897,Jetpac,eSIM Royaume-Uni 20 Go 30 jours,GB,Royaume-Uni,20,20 Go,30,36.54,EUR,5G,non
+jetpac-103898,Jetpac,eSIM Croatie 3 Go 15 jours,HR,Croatie,3,3 Go,15,10.45,EUR,5G,non
+jetpac-103899,Jetpac,eSIM Tanzanie 10 Go 7 jours,TZ,Tanzanie,10,10 Go,7,18.81,EUR,4G,non
+jetpac-103900,Jetpac,eSIM Norvège 10 Go 15 jours,NO,Norvège,10,10 Go,15,19.18,EUR,5G,oui
+jetpac-103901,Jetpac,eSIM France 5 Go 7 jours,FR,France,5,5 Go,7,11.24,EUR,4G,oui
+jetpac-103902,Jetpac,eSIM Chili Illimité 15 jours,CL,Chili,,Illimité,15,49.6,EUR,4G,non
+jetpac-103903,Jetpac,eSIM Espagne 5 Go 30 jours,ES,Espagne,5,5 Go,30,16,EUR,4G,non
+jetpac-103904,Jetpac,eSIM Kenya 5 Go 30 jours,KE,Kenya,5,5 Go,30,17.09,EUR,4G,non
+jetpac-103905,Jetpac,eSIM Norvège 50 Go 30 jours,NO,Norvège,50,50 Go,30,63.78,EUR,4G,oui
+jetpac-103906,Jetpac,eSIM Pologne 50 Go 15 jours,PL,Pologne,50,50 Go,15,50.66,EUR,5G,non
+jetpac-103907,Jetpac,eSIM Qatar 20 Go 7 jours,QA,Qatar,20,20 Go,7,29,EUR,5G,oui
+jetpac-103908,Jetpac,eSIM Amérique du Nord 3 Go 7 jours,NA,Amérique du Nord,3,3 Go,7,13.44,EUR,5G,oui
+jetpac-103909,Jetpac,eSIM France 20 Go 30 jours,FR,France,20,20 Go,30,37.03,EUR,4G,oui
+jetpac-103910,Jetpac,eSIM Japon 10 Go 30 jours,JP,Japon,10,10 Go,30,24.95,EUR,4G,non
+jetpac-103911,Jetpac,eSIM Afrique du Sud 10 Go 7 jours,ZA,Afrique du Sud,10,10 Go,7,18.72,EUR,4G,non
+jetpac-103912,Jetpac,eSIM Singapour 20 Go 15 jours,SG,Singapour,20,20 Go,15,33.69,EUR,5G,oui
+jetpac-103913,Jetpac,eSIM Autriche 20 Go 30 jours,AT,Autriche,20,20 Go,30,35.99,EUR,4G,non
+jetpac-103914,Jetpac,eSIM Émirats arabes unis 3 Go 15 jours,AE,Émirats arabes unis,3,3 Go,15,10.35,EUR,4G,oui
+jetpac-103915,Jetpac,eSIM Croatie 20 Go 15 jours,HR,Croatie,20,20 Go,15,32.95,EUR,4G,oui
+jetpac-103916,Jetpac,eSIM Irlande 5 Go 7 jours,IE,Irlande,5,5 Go,7,11.76,EUR,5G,non
+jetpac-103917,Jetpac,eSIM Norvège 20 Go 7 jours,NO,Norvège,20,20 Go,7,30.46,EUR,4G,oui
+jetpac-103918,Jetpac,eSIM Singapour 50 Go 7 jours,SG,Singapour,50,50 Go,7,46.37,EUR,5G,oui
+jetpac-103919,Jetpac,eSIM Chili Illimité 7 jours,CL,Chili,,Illimité,7,36.09,EUR,4G,non
+jetpac-103920,Jetpac,eSIM Mexique 3 Go 30 jours,MX,Mexique,3,3 Go,30,11.63,EUR,4G,oui
+jetpac-103921,Jetpac,eSIM Autriche 20 Go 15 jours,AT,Autriche,20,20 Go,15,30.87,EUR,4G,oui
+jetpac-103922,Jetpac,eSIM Belgique 1 Go 30 jours,BE,Belgique,1,1 Go,30,7.79,EUR,4G,oui
+jetpac-103923,Jetpac,eSIM Espagne 5 Go 30 jours,ES,Espagne,5,5 Go,30,16.8,EUR,4G,non
+jetpac-103924,Jetpac,eSIM Mexique 10 Go 30 jours,MX,Mexique,10,10 Go,30,24.06,EUR,4G,non
+jetpac-103925,Jetpac,eSIM États-Unis 5 Go 7 jours,US,États-Unis,5,5 Go,7,12.36,EUR,4G,non
+jetpac-103926,Jetpac,eSIM Belgique 3 Go 30 jours,BE,Belgique,3,3 Go,30,11.93,EUR,5G,non
+jetpac-103927,Jetpac,eSIM Suisse Illimité 30 jours,CH,Suisse,,Illimité,30,80.54,EUR,4G,non
+jetpac-103928,Jetpac,eSIM Norvège Illimité 15 jours,NO,Norvège,,Illimité,15,51.8,EUR,4G,oui
+jetpac-103929,Jetpac,eSIM Maroc 3 Go 30 jours,MA,Maroc,3,3 Go,30,13.34,EUR,4G,oui
+jetpac-103930,Jetpac,eSIM Japon 3 Go 30 jours,JP,Japon,3,3 Go,30,12.66,EUR,4G,non
+jetpac-103931,Jetpac,eSIM Pays-Bas 20 Go 15 jours,NL,Pays-Bas,20,20 Go,15,29.75,EUR,4G,non
+jetpac-103932,Jetpac,eSIM Qatar 1 Go 7 jours,QA,Qatar,1,1 Go,7,5.85,EUR,4G,oui
+jetpac-103933,Jetpac,eSIM Chine 50 Go 7 jours,CN,Chine,50,50 Go,7,48.28,EUR,4G,non
+jetpac-103934,Jetpac,eSIM Malaisie 5 Go 30 jours,MY,Malaisie,5,5 Go,30,16.27,EUR,5G,oui
+jetpac-103935,Jetpac,eSIM Afrique du Sud 5 Go 30 jours,ZA,Afrique du Sud,5,5 Go,30,15.86,EUR,4G,oui
+jetpac-103936,Jetpac,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,98.4,EUR,4G,oui
+jetpac-103937,Jetpac,eSIM Arabie saoudite 50 Go 15 jours,SA,Arabie saoudite,50,50 Go,15,50.52,EUR,5G,non
+jetpac-103938,Jetpac,eSIM Nouvelle-Zélande 20 Go 15 jours,NZ,Nouvelle-Zélande,20,20 Go,15,30.95,EUR,4G,non
+jetpac-103939,Jetpac,eSIM Pologne 1 Go 7 jours,PL,Pologne,1,1 Go,7,5.73,EUR,5G,oui
+jetpac-103940,Jetpac,eSIM Pologne 10 Go 15 jours,PL,Pologne,10,10 Go,15,18.89,EUR,4G,non
+jetpac-103941,Jetpac,eSIM Israël 10 Go 15 jours,IL,Israël,10,10 Go,15,19.36,EUR,4G,oui
+jetpac-103942,Jetpac,eSIM Mexique 10 Go 7 jours,MX,Mexique,10,10 Go,7,17.66,EUR,4G,oui
+jetpac-103943,Jetpac,eSIM Espagne 50 Go 15 jours,ES,Espagne,50,50 Go,15,50.32,EUR,4G,oui
+jetpac-103944,Jetpac,eSIM Amérique du Nord 50 Go 15 jours,NA,Amérique du Nord,50,50 Go,15,74.33,EUR,4G,oui
+jetpac-103945,Jetpac,eSIM Europe 20 Go 15 jours,EU,Europe,20,20 Go,15,39.62,EUR,4G,oui
+jetpac-103946,Jetpac,eSIM Vietnam 5 Go 15 jours,VN,Vietnam,5,5 Go,15,14.75,EUR,4G,oui
+jetpac-103947,Jetpac,eSIM Nigeria 20 Go 15 jours,NG,Nigeria,20,20 Go,15,32.51,EUR,4G,non
+jetpac-103948,Jetpac,eSIM Pologne 3 Go 7 jours,PL,Pologne,3,3 Go,7,10.08,EUR,5G,oui
+jetpac-103949,Jetpac,eSIM Philippines 50 Go 15 jours,PH,Philippines,50,50 Go,15,54.81,EUR,5G,non
+jetpac-103950,Jetpac,eSIM Rép. dominicaine 20 Go 30 jours,DO,Rép. dominicaine,20,20 Go,30,38.45,EUR,4G,non
+jetpac-103951,Jetpac,eSIM Canada 5 Go 30 jours,CA,Canada,5,5 Go,30,17.55,EUR,5G,non
+jetpac-103952,Jetpac,eSIM Canada 3 Go 7 jours,CA,Canada,3,3 Go,7,10.3,EUR,5G,oui
+jetpac-103953,Jetpac,eSIM Argentine Illimité 30 jours,AR,Argentine,,Illimité,30,75.44,EUR,4G,non
+jetpac-103954,Jetpac,eSIM Colombie 10 Go 15 jours,CO,Colombie,10,10 Go,15,18.54,EUR,4G,oui
+jetpac-103955,Jetpac,eSIM Singapour 3 Go 7 jours,SG,Singapour,3,3 Go,7,9.52,EUR,4G,non
+jetpac-103956,Jetpac,eSIM Espagne 5 Go 30 jours,ES,Espagne,5,5 Go,30,15.56,EUR,4G,oui
+jetpac-103957,Jetpac,eSIM Monde Illimité 7 jours,WW,Monde,,Illimité,7,46.02,EUR,5G,oui
+jetpac-103958,Jetpac,eSIM Australie Illimité 30 jours,AU,Australie,,Illimité,30,73.65,EUR,5G,oui
+jetpac-103959,Jetpac,eSIM Amérique du Nord 1 Go 7 jours,NA,Amérique du Nord,1,1 Go,7,8.76,EUR,4G,oui
+jetpac-103960,Jetpac,eSIM Argentine 50 Go 7 jours,AR,Argentine,50,50 Go,7,48.13,EUR,4G,non
+jetpac-103961,Jetpac,eSIM États-Unis 5 Go 15 jours,US,États-Unis,5,5 Go,15,13.66,EUR,4G,oui
+jetpac-103962,Jetpac,eSIM France 3 Go 15 jours,FR,France,3,3 Go,15,10.25,EUR,4G,non
+jetpac-103963,Jetpac,eSIM Autriche 5 Go 7 jours,AT,Autriche,5,5 Go,7,12.65,EUR,5G,non
+jetpac-103964,Jetpac,eSIM États-Unis 5 Go 30 jours,US,États-Unis,5,5 Go,30,15.97,EUR,5G,non
+jetpac-103965,Jetpac,eSIM Suède Illimité 30 jours,SE,Suède,,Illimité,30,77.7,EUR,5G,non
+jetpac-103966,Jetpac,eSIM Nigeria 3 Go 30 jours,NG,Nigeria,3,3 Go,30,12.01,EUR,4G,oui
+jetpac-103967,Jetpac,eSIM Arabie saoudite 5 Go 30 jours,SA,Arabie saoudite,5,5 Go,30,17.54,EUR,4G,oui
+jetpac-103968,Jetpac,eSIM Maroc 5 Go 30 jours,MA,Maroc,5,5 Go,30,16.38,EUR,5G,oui
+jetpac-103969,Jetpac,eSIM Indonésie 3 Go 7 jours,ID,Indonésie,3,3 Go,7,8.9,EUR,4G,oui
+jetpac-103970,Jetpac,eSIM Europe 1 Go 30 jours,EU,Europe,1,1 Go,30,11.83,EUR,4G,non
+jetpac-103971,Jetpac,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,131.37,EUR,5G,oui
+jetpac-103972,Jetpac,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,135.33,EUR,4G,oui

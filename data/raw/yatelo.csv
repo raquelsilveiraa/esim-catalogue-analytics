@@ -1,0 +1,163 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+yatelo-104529,Yatelo,eSIM Afrique du Sud 5 Go 7 jours,ZA,Afrique du Sud,5,5 Go,7,12.62,EUR,5G,oui
+yatelo-104530,Yatelo,eSIM Royaume-Uni 1 Go 30 jours,GB,Royaume-Uni,1,1 Go,30,7.81,EUR,5G,oui
+yatelo-104531,Yatelo,eSIM Tchéquie 50 Go 7 jours,CZ,Tchéquie,50,50 Go,7,45.49,EUR,4G,non
+yatelo-104532,Yatelo,eSIM Mexique 50 Go 15 jours,MX,Mexique,50,50 Go,15,52.68,EUR,5G,non
+yatelo-104533,Yatelo,eSIM Inde 1 Go 7 jours,IN,Inde,1,1 Go,7,5.89,EUR,4G,non
+yatelo-104534,Yatelo,eSIM Turquie 10 Go 15 jours,TR,Turquie,10,10 Go,15,18.72,EUR,4G,oui
+yatelo-104535,Yatelo,eSIM Kenya 5 Go 15 jours,KE,Kenya,5,5 Go,15,12.62,EUR,5G,oui
+yatelo-104536,Yatelo,eSIM Autriche 3 Go 15 jours,AT,Autriche,3,3 Go,15,11.4,EUR,4G,non
+yatelo-104537,Yatelo,eSIM Kenya 3 Go 7 jours,KE,Kenya,3,3 Go,7,8.88,EUR,4G,oui
+yatelo-104538,Yatelo,eSIM Inde 5 Go 15 jours,IN,Inde,5,5 Go,15,13.83,EUR,4G,non
+yatelo-104539,Yatelo,eSIM Inde 10 Go 30 jours,IN,Inde,10,10 Go,30,24.65,EUR,4G,non
+yatelo-104540,Yatelo,eSIM États-Unis 3 Go 7 jours,US,États-Unis,3,3 Go,7,9.44,EUR,4G,non
+yatelo-104541,Yatelo,eSIM Vietnam 5 Go 7 jours,VN,Vietnam,5,5 Go,7,12.24,EUR,4G,non
+yatelo-104542,Yatelo,eSIM Tchéquie 20 Go 7 jours,CZ,Tchéquie,20,20 Go,7,26.67,EUR,4G,oui
+yatelo-104543,Yatelo,eSIM Tanzanie 50 Go 30 jours,TZ,Tanzanie,50,50 Go,30,63.92,EUR,5G,non
+yatelo-104544,Yatelo,eSIM Thaïlande Illimité 7 jours,TH,Thaïlande,,Illimité,7,34.8,EUR,5G,non
+yatelo-104545,Yatelo,eSIM Amérique du Nord 3 Go 15 jours,NA,Amérique du Nord,3,3 Go,15,13.89,EUR,5G,non
+yatelo-104546,Yatelo,eSIM Brésil 10 Go 7 jours,BR,Brésil,10,10 Go,7,18.31,EUR,4G,non
+yatelo-104547,Yatelo,eSIM Indonésie 1 Go 7 jours,ID,Indonésie,1,1 Go,7,6.51,EUR,5G,non
+yatelo-104548,Yatelo,eSIM Japon 5 Go 15 jours,JP,Japon,5,5 Go,15,13.65,EUR,5G,non
+yatelo-104549,Yatelo,eSIM Autriche Illimité 15 jours,AT,Autriche,,Illimité,15,48.42,EUR,5G,oui
+yatelo-104550,Yatelo,eSIM Monde 3 Go 30 jours,WW,Monde,3,3 Go,30,17.74,EUR,4G,non
+yatelo-104551,Yatelo,eSIM Monde 10 Go 15 jours,WW,Monde,10,10 Go,15,29.94,EUR,4G,non
+yatelo-104552,Yatelo,eSIM Arabie saoudite 50 Go 15 jours,SA,Arabie saoudite,50,50 Go,15,50.57,EUR,4G,oui
+yatelo-104553,Yatelo,eSIM Indonésie 10 Go 15 jours,ID,Indonésie,10,10 Go,15,19.06,EUR,4G,oui
+yatelo-104554,Yatelo,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,73.19,EUR,4G,non
+yatelo-104555,Yatelo,eSIM Argentine 3 Go 7 jours,AR,Argentine,3,3 Go,7,9.99,EUR,4G,oui
+yatelo-104556,Yatelo,eSIM Monde 20 Go 15 jours,WW,Monde,20,20 Go,15,40.21,EUR,4G,oui
+yatelo-104557,Yatelo,eSIM Nouvelle-Zélande 20 Go 30 jours,NZ,Nouvelle-Zélande,20,20 Go,30,33.72,EUR,5G,oui
+yatelo-104558,Yatelo,eSIM Jordanie 5 Go 15 jours,JO,Jordanie,5,5 Go,15,12.54,EUR,4G,non
+yatelo-104559,Yatelo,eSIM Arabie saoudite 50 Go 15 jours,SA,Arabie saoudite,50,50 Go,15,52.15,EUR,4G,oui
+yatelo-104560,Yatelo,eSIM Allemagne 50 Go 7 jours,DE,Allemagne,50,50 Go,7,46.46,EUR,4G,non
+yatelo-104561,Yatelo,eSIM Royaume-Uni 50 Go 30 jours,GB,Royaume-Uni,50,50 Go,30,59.62,EUR,4G,oui
+yatelo-104562,Yatelo,eSIM Belgique 20 Go 15 jours,BE,Belgique,20,20 Go,15,33.27,EUR,4G,oui
+yatelo-104563,Yatelo,eSIM Belgique Illimité 7 jours,BE,Belgique,,Illimité,7,34.26,EUR,5G,oui
+yatelo-104564,Yatelo,eSIM Pérou 5 Go 7 jours,PE,Pérou,5,5 Go,7,12.84,EUR,4G,oui
+yatelo-104565,Yatelo,eSIM Singapour 3 Go 30 jours,SG,Singapour,3,3 Go,30,12.31,EUR,4G,non
+yatelo-104566,Yatelo,eSIM Pologne 1 Go 7 jours,PL,Pologne,1,1 Go,7,5.82,EUR,4G,oui
+yatelo-104567,Yatelo,eSIM Afrique du Sud 3 Go 7 jours,ZA,Afrique du Sud,3,3 Go,7,10.02,EUR,5G,non
+yatelo-104568,Yatelo,eSIM Chine 10 Go 15 jours,CN,Chine,10,10 Go,15,18.28,EUR,5G,oui
+yatelo-104569,Yatelo,eSIM Europe 1 Go 30 jours,EU,Europe,1,1 Go,30,11.86,EUR,4G,non
+yatelo-104570,Yatelo,eSIM Italie 50 Go 30 jours,IT,Italie,50,50 Go,30,68.2,EUR,4G,non
+yatelo-104571,Yatelo,eSIM Colombie 20 Go 30 jours,CO,Colombie,20,20 Go,30,38.95,EUR,4G,oui
+yatelo-104572,Yatelo,eSIM Europe 3 Go 30 jours,EU,Europe,3,3 Go,30,17.78,EUR,4G,non
+yatelo-104573,Yatelo,eSIM Monde 10 Go 15 jours,WW,Monde,10,10 Go,15,25.71,EUR,4G,oui
+yatelo-104574,Yatelo,eSIM Autriche 1 Go 7 jours,AT,Autriche,1,1 Go,7,5.84,EUR,5G,non
+yatelo-104575,Yatelo,eSIM Qatar 10 Go 7 jours,QA,Qatar,10,10 Go,7,16.57,EUR,4G,oui
+yatelo-104576,Yatelo,eSIM Japon 1 Go 7 jours,JP,Japon,1,1 Go,7,6.01,EUR,5G,non
+yatelo-104577,Yatelo,eSIM Vietnam 50 Go 30 jours,VN,Vietnam,50,50 Go,30,60.74,EUR,4G,oui
+yatelo-104578,Yatelo,eSIM Pays-Bas 3 Go 15 jours,NL,Pays-Bas,3,3 Go,15,11.24,EUR,4G,oui
+yatelo-104579,Yatelo,eSIM États-Unis Illimité 30 jours,US,États-Unis,,Illimité,30,73.57,EUR,5G,non
+yatelo-104580,Yatelo,eSIM Mexique 50 Go 15 jours,MX,Mexique,50,50 Go,15,53.41,EUR,5G,oui
+yatelo-104581,Yatelo,eSIM Pays-Bas 10 Go 30 jours,NL,Pays-Bas,10,10 Go,30,23.01,EUR,4G,non
+yatelo-104582,Yatelo,eSIM Argentine 50 Go 15 jours,AR,Argentine,50,50 Go,15,55.74,EUR,4G,non
+yatelo-104583,Yatelo,eSIM Israël 20 Go 30 jours,IL,Israël,20,20 Go,30,33.34,EUR,4G,oui
+yatelo-104584,Yatelo,eSIM Tchéquie 1 Go 7 jours,CZ,Tchéquie,1,1 Go,7,5.71,EUR,4G,oui
+yatelo-104585,Yatelo,eSIM France 20 Go 15 jours,FR,France,20,20 Go,15,29.5,EUR,4G,oui
+yatelo-104586,Yatelo,eSIM Irlande 1 Go 15 jours,IE,Irlande,1,1 Go,15,6.18,EUR,5G,oui
+yatelo-104587,Yatelo,eSIM Asie 3 Go 7 jours,AS,Asie,3,3 Go,7,14.49,EUR,4G,oui
+yatelo-104588,Yatelo,eSIM Afrique du Sud 1 Go 15 jours,ZA,Afrique du Sud,1,1 Go,15,5.92,EUR,4G,oui
+yatelo-104589,Yatelo,eSIM Europe 3 Go 30 jours,EU,Europe,3,3 Go,30,17.61,EUR,4G,non
+yatelo-104590,Yatelo,eSIM Turquie 10 Go 7 jours,TR,Turquie,10,10 Go,7,19.5,EUR,4G,oui
+yatelo-104591,Yatelo,eSIM Pérou 10 Go 30 jours,PE,Pérou,10,10 Go,30,23.19,EUR,4G,oui
+yatelo-104592,Yatelo,eSIM Corée du Sud 1 Go 7 jours,KR,Corée du Sud,1,1 Go,7,5.84,EUR,4G,oui
+yatelo-104593,Yatelo,eSIM Italie Illimité 30 jours,IT,Italie,,Illimité,30,85.98,EUR,5G,oui
+yatelo-104594,Yatelo,eSIM Brésil 1 Go 7 jours,BR,Brésil,1,1 Go,7,6.42,EUR,4G,oui
+yatelo-104595,Yatelo,eSIM Japon 50 Go 30 jours,JP,Japon,50,50 Go,30,61.37,EUR,5G,oui
+yatelo-104596,Yatelo,eSIM Égypte 3 Go 30 jours,EG,Égypte,3,3 Go,30,13.04,EUR,5G,non
+yatelo-104597,Yatelo,eSIM Kenya 20 Go 7 jours,KE,Kenya,20,20 Go,7,26.4,EUR,4G,non
+yatelo-104598,Yatelo,eSIM France 20 Go 7 jours,FR,France,20,20 Go,7,30.07,EUR,4G,oui
+yatelo-104599,Yatelo,eSIM Europe 5 Go 7 jours,EU,Europe,5,5 Go,7,16.46,EUR,4G,oui
+yatelo-104600,Yatelo,eSIM Monde Illimité 7 jours,WW,Monde,,Illimité,7,45.73,EUR,4G,non
+yatelo-104601,Yatelo,eSIM Nouvelle-Zélande 3 Go 7 jours,NZ,Nouvelle-Zélande,3,3 Go,7,9.38,EUR,5G,oui
+yatelo-104602,Yatelo,eSIM Pérou 20 Go 7 jours,PE,Pérou,20,20 Go,7,30.35,EUR,5G,oui
+yatelo-104603,Yatelo,eSIM Corée du Sud Illimité 30 jours,KR,Corée du Sud,,Illimité,30,71.4,EUR,5G,non
+yatelo-104604,Yatelo,eSIM Colombie 20 Go 7 jours,CO,Colombie,20,20 Go,7,28.52,EUR,4G,oui
+yatelo-104605,Yatelo,eSIM Tchéquie 1 Go 30 jours,CZ,Tchéquie,1,1 Go,30,7.5,EUR,4G,oui
+yatelo-104606,Yatelo,eSIM Autriche 20 Go 15 jours,AT,Autriche,20,20 Go,15,31.34,EUR,4G,non
+yatelo-104607,Yatelo,eSIM Mexique 10 Go 15 jours,MX,Mexique,10,10 Go,15,21.95,EUR,4G,non
+yatelo-104608,Yatelo,eSIM Chili 20 Go 7 jours,CL,Chili,20,20 Go,7,26.37,EUR,4G,oui
+yatelo-104609,Yatelo,eSIM États-Unis 3 Go 15 jours,US,États-Unis,3,3 Go,15,9.77,EUR,4G,oui
+yatelo-104610,Yatelo,eSIM Nigeria 50 Go 30 jours,NG,Nigeria,50,50 Go,30,71.9,EUR,5G,non
+yatelo-104611,Yatelo,eSIM Royaume-Uni 20 Go 7 jours,GB,Royaume-Uni,20,20 Go,7,25.11,EUR,4G,oui
+yatelo-104612,Yatelo,eSIM Malaisie 3 Go 30 jours,MY,Malaisie,3,3 Go,30,12.73,EUR,5G,oui
+yatelo-104613,Yatelo,eSIM Singapour 3 Go 15 jours,SG,Singapour,3,3 Go,15,11.35,EUR,4G,oui
+yatelo-104614,Yatelo,eSIM Asie 10 Go 30 jours,AS,Asie,10,10 Go,30,35.5,EUR,4G,non
+yatelo-104615,Yatelo,eSIM Autriche 5 Go 15 jours,AT,Autriche,5,5 Go,15,13.66,EUR,4G,non
+yatelo-104616,Yatelo,eSIM Pologne Illimité 15 jours,PL,Pologne,,Illimité,15,46.54,EUR,5G,non
+yatelo-104617,Yatelo,eSIM Royaume-Uni 20 Go 30 jours,GB,Royaume-Uni,20,20 Go,30,38.97,EUR,4G,non
+yatelo-104618,Yatelo,eSIM Monde 10 Go 15 jours,WW,Monde,10,10 Go,15,29.16,EUR,4G,non
+yatelo-104619,Yatelo,eSIM Suisse 50 Go 7 jours,CH,Suisse,50,50 Go,7,45.33,EUR,5G,non
+yatelo-104620,Yatelo,eSIM Chili 1 Go 30 jours,CL,Chili,1,1 Go,30,7,EUR,5G,non
+yatelo-104621,Yatelo,eSIM Italie 20 Go 7 jours,IT,Italie,20,20 Go,7,28.89,EUR,4G,oui
+yatelo-104622,Yatelo,eSIM Nouvelle-Zélande 3 Go 30 jours,NZ,Nouvelle-Zélande,3,3 Go,30,12.54,EUR,5G,oui
+yatelo-104623,Yatelo,eSIM Arabie saoudite 1 Go 30 jours,SA,Arabie saoudite,1,1 Go,30,7.05,EUR,4G,non
+yatelo-104624,Yatelo,eSIM Égypte 1 Go 15 jours,EG,Égypte,1,1 Go,15,6.77,EUR,4G,non
+yatelo-104625,Yatelo,eSIM Pays-Bas 10 Go 30 jours,NL,Pays-Bas,10,10 Go,30,25.31,EUR,4G,non
+yatelo-104626,Yatelo,eSIM Israël 1 Go 15 jours,IL,Israël,1,1 Go,15,6.6,EUR,5G,non
+yatelo-104627,Yatelo,eSIM Monde Illimité 15 jours,WW,Monde,,Illimité,15,63.11,EUR,5G,oui
+yatelo-104628,Yatelo,eSIM Portugal Illimité 15 jours,PT,Portugal,,Illimité,15,49.62,EUR,5G,non
+yatelo-104629,Yatelo,eSIM Colombie 20 Go 30 jours,CO,Colombie,20,20 Go,30,32.91,EUR,4G,oui
+yatelo-104630,Yatelo,eSIM Pérou 1 Go 30 jours,PE,Pérou,1,1 Go,30,8.12,EUR,4G,non
+yatelo-104631,Yatelo,eSIM Chine 20 Go 15 jours,CN,Chine,20,20 Go,15,29.99,EUR,4G,oui
+yatelo-104632,Yatelo,eSIM Asie 3 Go 7 jours,AS,Asie,3,3 Go,7,12.71,EUR,4G,non
+yatelo-104633,Yatelo,eSIM Allemagne 5 Go 30 jours,DE,Allemagne,5,5 Go,30,17.37,EUR,4G,non
+yatelo-104634,Yatelo,eSIM Brésil Illimité 7 jours,BR,Brésil,,Illimité,7,37.24,EUR,5G,oui
+yatelo-104635,Yatelo,eSIM Émirats arabes unis 50 Go 15 jours,AE,Émirats arabes unis,50,50 Go,15,51.61,EUR,4G,oui
+yatelo-104636,Yatelo,eSIM Émirats arabes unis 5 Go 15 jours,AE,Émirats arabes unis,5,5 Go,15,12.41,EUR,4G,oui
+yatelo-104637,Yatelo,eSIM Afrique du Sud 50 Go 7 jours,ZA,Afrique du Sud,50,50 Go,7,49.87,EUR,4G,oui
+yatelo-104638,Yatelo,eSIM Asie 10 Go 30 jours,AS,Asie,10,10 Go,30,32.37,EUR,4G,oui
+yatelo-104639,Yatelo,eSIM Tchéquie 5 Go 30 jours,CZ,Tchéquie,5,5 Go,30,15.53,EUR,4G,oui
+yatelo-104640,Yatelo,eSIM Tanzanie 20 Go 30 jours,TZ,Tanzanie,20,20 Go,30,37.81,EUR,4G,oui
+yatelo-104641,Yatelo,eSIM Indonésie Illimité 7 jours,ID,Indonésie,,Illimité,7,36.15,EUR,4G,non
+yatelo-104642,Yatelo,eSIM Qatar 50 Go 15 jours,QA,Qatar,50,50 Go,15,55.16,EUR,4G,oui
+yatelo-104643,Yatelo,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,15.16,EUR,5G,non
+yatelo-104644,Yatelo,eSIM États-Unis 1 Go 7 jours,US,États-Unis,1,1 Go,7,5.54,EUR,4G,oui
+yatelo-104645,Yatelo,eSIM Thaïlande 1 Go 30 jours,TH,Thaïlande,1,1 Go,30,7.58,EUR,4G,oui
+yatelo-104646,Yatelo,eSIM Singapour 20 Go 7 jours,SG,Singapour,20,20 Go,7,29.14,EUR,5G,non
+yatelo-104647,Yatelo,eSIM Allemagne 20 Go 30 jours,DE,Allemagne,20,20 Go,30,33.25,EUR,4G,non
+yatelo-104648,Yatelo,eSIM Kenya 10 Go 30 jours,KE,Kenya,10,10 Go,30,22.37,EUR,4G,non
+yatelo-104649,Yatelo,eSIM Indonésie 1 Go 7 jours,ID,Indonésie,1,1 Go,7,6.04,EUR,4G,oui
+yatelo-104650,Yatelo,eSIM Suisse 3 Go 30 jours,CH,Suisse,3,3 Go,30,12.08,EUR,5G,oui
+yatelo-104651,Yatelo,eSIM Grèce 20 Go 30 jours,GR,Grèce,20,20 Go,30,34.9,EUR,4G,non
+yatelo-104652,Yatelo,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,28.65,EUR,4G,non
+yatelo-104653,Yatelo,eSIM Brésil 5 Go 30 jours,BR,Brésil,5,5 Go,30,14.82,EUR,5G,oui
+yatelo-104654,Yatelo,eSIM Indonésie 1 Go 30 jours,ID,Indonésie,1,1 Go,30,8.33,EUR,4G,non
+yatelo-104655,Yatelo,eSIM Grèce Illimité 30 jours,GR,Grèce,,Illimité,30,72.6,EUR,4G,non
+yatelo-104656,Yatelo,eSIM Vietnam 20 Go 15 jours,VN,Vietnam,20,20 Go,15,33.17,EUR,4G,oui
+yatelo-104657,Yatelo,eSIM Vietnam 50 Go 7 jours,VN,Vietnam,50,50 Go,7,51.82,EUR,5G,oui
+yatelo-104658,Yatelo,eSIM Jordanie 3 Go 7 jours,JO,Jordanie,3,3 Go,7,9.08,EUR,4G,oui
+yatelo-104659,Yatelo,eSIM Arabie saoudite 1 Go 15 jours,SA,Arabie saoudite,1,1 Go,15,6.62,EUR,4G,oui
+yatelo-104660,Yatelo,eSIM Canada 1 Go 15 jours,CA,Canada,1,1 Go,15,6.4,EUR,5G,non
+yatelo-104661,Yatelo,eSIM Égypte 10 Go 30 jours,EG,Égypte,10,10 Go,30,23.39,EUR,4G,non
+yatelo-104662,Yatelo,eSIM Allemagne 3 Go 7 jours,DE,Allemagne,3,3 Go,7,9.34,EUR,5G,non
+yatelo-104663,Yatelo,eSIM Kenya 50 Go 7 jours,KE,Kenya,50,50 Go,7,51.69,EUR,4G,oui
+yatelo-104664,Yatelo,eSIM Europe 20 Go 30 jours,EU,Europe,20,20 Go,30,50.46,EUR,5G,non
+yatelo-104665,Yatelo,eSIM Pologne Illimité 30 jours,PL,Pologne,,Illimité,30,71.41,EUR,5G,oui
+yatelo-104666,Yatelo,eSIM Suisse 1 Go 15 jours,CH,Suisse,1,1 Go,15,6.53,EUR,4G,oui
+yatelo-104667,Yatelo,eSIM Tanzanie 50 Go 15 jours,TZ,Tanzanie,50,50 Go,15,50.64,EUR,4G,oui
+yatelo-104668,Yatelo,eSIM Turquie 50 Go 15 jours,TR,Turquie,50,50 Go,15,52.29,EUR,5G,non
+yatelo-104669,Yatelo,eSIM Asie 50 Go 15 jours,AS,Asie,50,50 Go,15,75.7,EUR,5G,oui
+yatelo-104670,Yatelo,eSIM Brésil 3 Go 30 jours,BR,Brésil,3,3 Go,30,11.49,EUR,4G,oui
+yatelo-104671,Yatelo,eSIM Vietnam 20 Go 15 jours,VN,Vietnam,20,20 Go,15,30.09,EUR,4G,oui
+yatelo-104672,Yatelo,eSIM Nigeria 5 Go 7 jours,NG,Nigeria,5,5 Go,7,12.12,EUR,4G,oui
+yatelo-104673,Yatelo,eSIM Chili Illimité 15 jours,CL,Chili,,Illimité,15,45.27,EUR,5G,oui
+yatelo-104674,Yatelo,eSIM Amérique du Nord 3 Go 7 jours,NA,Amérique du Nord,3,3 Go,7,13.87,EUR,4G,oui
+yatelo-104675,Yatelo,eSIM Singapour 5 Go 30 jours,SG,Singapour,5,5 Go,30,15.88,EUR,4G,non
+yatelo-104676,Yatelo,eSIM Canada 50 Go 30 jours,CA,Canada,50,50 Go,30,68.84,EUR,5G,non
+yatelo-104677,Yatelo,eSIM Mexique 10 Go 30 jours,MX,Mexique,10,10 Go,30,25.38,EUR,4G,non
+yatelo-104678,Yatelo,eSIM États-Unis 3 Go 15 jours,US,États-Unis,3,3 Go,15,9.77,EUR,5G,non
+yatelo-104679,Yatelo,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,111.04,EUR,5G,oui
+yatelo-104680,Yatelo,eSIM Jordanie 20 Go 7 jours,JO,Jordanie,20,20 Go,7,29.02,EUR,4G,oui
+yatelo-104681,Yatelo,eSIM Europe Illimité 7 jours,EU,Europe,,Illimité,7,43.8,EUR,4G,non
+yatelo-104682,Yatelo,eSIM Portugal 3 Go 15 jours,PT,Portugal,3,3 Go,15,9.86,EUR,4G,oui
+yatelo-104683,Yatelo,eSIM Asie 10 Go 30 jours,AS,Asie,10,10 Go,30,36.38,EUR,5G,non
+yatelo-104684,Yatelo,eSIM États-Unis 5 Go 15 jours,US,États-Unis,5,5 Go,15,14.38,EUR,5G,non
+yatelo-104685,Yatelo,eSIM Jordanie Illimité 30 jours,JO,Jordanie,,Illimité,30,82.18,EUR,5G,oui
+yatelo-104686,Yatelo,eSIM Allemagne Illimité 30 jours,DE,Allemagne,,Illimité,30,78.81,EUR,5G,non
+yatelo-104687,Yatelo,eSIM Mexique 1 Go 15 jours,MX,Mexique,1,1 Go,15,5.92,EUR,4G,oui
+yatelo-104688,Yatelo,eSIM Inde 3 Go 7 jours,IN,Inde,3,3 Go,7,8.71,EUR,5G,non
+yatelo-104689,Yatelo,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,143.14,EUR,5G,oui
+yatelo-104690,Yatelo,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,143.83,EUR,5G,oui

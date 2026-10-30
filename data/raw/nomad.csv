@@ -1,0 +1,313 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+nomad-102441,Nomad,eSIM Suisse 10 Go 15 jours,CH,Suisse,10,10 Go,15,21.72,EUR,4G,oui
+nomad-102442,Nomad,eSIM Chili 50 Go 30 jours,CL,Chili,50,50 Go,30,71.02,EUR,4G,oui
+nomad-102443,Nomad,eSIM Grèce 5 Go 30 jours,GR,Grèce,5,5 Go,30,15.73,EUR,4G,non
+nomad-102444,Nomad,eSIM Corée du Sud 10 Go 30 jours,KR,Corée du Sud,10,10 Go,30,22.3,EUR,4G,non
+nomad-102445,Nomad,eSIM Maroc 1 Go 15 jours,MA,Maroc,1,1 Go,15,6.93,EUR,4G,non
+nomad-102446,Nomad,eSIM Pérou Illimité 15 jours,PE,Pérou,,Illimité,15,44.76,EUR,5G,oui
+nomad-102447,Nomad,eSIM Suède 3 Go 30 jours,SE,Suède,3,3 Go,30,13.47,EUR,5G,non
+nomad-102448,Nomad,eSIM Croatie 50 Go 30 jours,HR,Croatie,50,50 Go,30,67.19,EUR,4G,oui
+nomad-102449,Nomad,eSIM Portugal 20 Go 30 jours,PT,Portugal,20,20 Go,30,36.3,EUR,4G,oui
+nomad-102450,Nomad,eSIM Chine 1 Go 15 jours,CN,Chine,1,1 Go,15,6.72,EUR,5G,non
+nomad-102451,Nomad,eSIM Kenya 10 Go 15 jours,KE,Kenya,10,10 Go,15,21.04,EUR,4G,oui
+nomad-102452,Nomad,eSIM Vietnam 20 Go 15 jours,VN,Vietnam,20,20 Go,15,32.76,EUR,4G,oui
+nomad-102453,Nomad,eSIM Tanzanie 10 Go 15 jours,TZ,Tanzanie,10,10 Go,15,21.76,EUR,5G,oui
+nomad-102454,Nomad,eSIM Malaisie 50 Go 15 jours,MY,Malaisie,50,50 Go,15,52.21,EUR,5G,non
+nomad-102455,Nomad,eSIM Croatie 3 Go 7 jours,HR,Croatie,3,3 Go,7,8.95,EUR,4G,non
+nomad-102456,Nomad,eSIM Pérou 50 Go 15 jours,PE,Pérou,50,50 Go,15,53.65,EUR,5G,oui
+nomad-102457,Nomad,eSIM Pays-Bas 50 Go 15 jours,NL,Pays-Bas,50,50 Go,15,50.22,EUR,4G,oui
+nomad-102458,Nomad,eSIM Monde 20 Go 7 jours,WW,Monde,20,20 Go,7,35.7,EUR,5G,non
+nomad-102459,Nomad,eSIM Israël 10 Go 15 jours,IL,Israël,10,10 Go,15,18.97,EUR,5G,oui
+nomad-102460,Nomad,eSIM Australie 10 Go 7 jours,AU,Australie,10,10 Go,7,18.86,EUR,4G,non
+nomad-102461,Nomad,eSIM Brésil 20 Go 15 jours,BR,Brésil,20,20 Go,15,29.33,EUR,5G,oui
+nomad-102462,Nomad,eSIM Rép. dominicaine Illimité 30 jours,DO,Rép. dominicaine,,Illimité,30,81.77,EUR,4G,oui
+nomad-102463,Nomad,eSIM Grèce 5 Go 7 jours,GR,Grèce,5,5 Go,7,11.48,EUR,5G,non
+nomad-102464,Nomad,eSIM Grèce 1 Go 7 jours,GR,Grèce,1,1 Go,7,6.31,EUR,5G,non
+nomad-102465,Nomad,eSIM Norvège Illimité 15 jours,NO,Norvège,,Illimité,15,45.47,EUR,4G,oui
+nomad-102466,Nomad,eSIM Kenya 50 Go 7 jours,KE,Kenya,50,50 Go,7,54.83,EUR,4G,oui
+nomad-102467,Nomad,eSIM Corée du Sud 10 Go 7 jours,KR,Corée du Sud,10,10 Go,7,17.34,EUR,4G,oui
+nomad-102468,Nomad,eSIM Monde 5 Go 30 jours,WW,Monde,5,5 Go,30,21.06,EUR,4G,non
+nomad-102469,Nomad,eSIM Australie 3 Go 30 jours,AU,Australie,3,3 Go,30,13.47,EUR,4G,oui
+nomad-102470,Nomad,eSIM Pérou 1 Go 7 jours,PE,Pérou,1,1 Go,7,6.34,EUR,5G,non
+nomad-102471,Nomad,eSIM Afrique du Sud Illimité 15 jours,ZA,Afrique du Sud,,Illimité,15,51.61,EUR,4G,non
+nomad-102472,Nomad,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,7.8,EUR,5G,non
+nomad-102473,Nomad,eSIM États-Unis 20 Go 15 jours,US,États-Unis,20,20 Go,15,29.46,EUR,4G,oui
+nomad-102474,Nomad,eSIM Philippines Illimité 7 jours,PH,Philippines,,Illimité,7,30.7,EUR,4G,non
+nomad-102475,Nomad,eSIM Belgique 5 Go 7 jours,BE,Belgique,5,5 Go,7,11.42,EUR,4G,oui
+nomad-102476,Nomad,eSIM Nigeria 1 Go 15 jours,NG,Nigeria,1,1 Go,15,7.09,EUR,5G,oui
+nomad-102477,Nomad,eSIM Japon 50 Go 30 jours,JP,Japon,50,50 Go,30,63.4,EUR,5G,oui
+nomad-102478,Nomad,eSIM Inde 3 Go 30 jours,IN,Inde,3,3 Go,30,12.47,EUR,4G,oui
+nomad-102479,Nomad,eSIM Brésil 3 Go 7 jours,BR,Brésil,3,3 Go,7,8.66,EUR,4G,non
+nomad-102480,Nomad,eSIM Pologne 3 Go 7 jours,PL,Pologne,3,3 Go,7,10.36,EUR,4G,oui
+nomad-102481,Nomad,eSIM Portugal 1 Go 15 jours,PT,Portugal,1,1 Go,15,6.95,EUR,4G,oui
+nomad-102482,Nomad,eSIM Asie 3 Go 15 jours,AS,Asie,3,3 Go,15,14.45,EUR,5G,non
+nomad-102483,Nomad,eSIM États-Unis 3 Go 30 jours,US,États-Unis,3,3 Go,30,11.34,EUR,4G,oui
+nomad-102484,Nomad,eSIM Rép. dominicaine 3 Go 15 jours,DO,Rép. dominicaine,3,3 Go,15,10.3,EUR,4G,non
+nomad-102485,Nomad,eSIM Égypte Illimité 30 jours,EG,Égypte,,Illimité,30,73.23,EUR,5G,oui
+nomad-102486,Nomad,eSIM Croatie 10 Go 30 jours,HR,Croatie,10,10 Go,30,21.81,EUR,4G,oui
+nomad-102487,Nomad,eSIM Italie 1 Go 7 jours,IT,Italie,1,1 Go,7,6.01,EUR,4G,non
+nomad-102488,Nomad,eSIM Nigeria 3 Go 7 jours,NG,Nigeria,3,3 Go,7,10.26,EUR,4G,non
+nomad-102489,Nomad,eSIM Allemagne 50 Go 30 jours,DE,Allemagne,50,50 Go,30,60.68,EUR,5G,oui
+nomad-102490,Nomad,eSIM Portugal Illimité 30 jours,PT,Portugal,,Illimité,30,80.07,EUR,5G,non
+nomad-102491,Nomad,eSIM Suisse 20 Go 15 jours,CH,Suisse,20,20 Go,15,28.18,EUR,4G,oui
+nomad-102492,Nomad,eSIM Amérique du Nord 5 Go 30 jours,NA,Amérique du Nord,5,5 Go,30,21.41,EUR,4G,non
+nomad-102493,Nomad,eSIM Turquie 20 Go 7 jours,TR,Turquie,20,20 Go,7,28.12,EUR,4G,oui
+nomad-102494,Nomad,eSIM Pays-Bas 50 Go 7 jours,NL,Pays-Bas,50,50 Go,7,48.45,EUR,4G,non
+nomad-102495,Nomad,eSIM Suisse 1 Go 30 jours,CH,Suisse,1,1 Go,30,7.79,EUR,4G,oui
+nomad-102496,Nomad,eSIM Chine 10 Go 15 jours,CN,Chine,10,10 Go,15,19.47,EUR,4G,oui
+nomad-102497,Nomad,eSIM Asie 1 Go 15 jours,AS,Asie,1,1 Go,15,8.35,EUR,4G,non
+nomad-102498,Nomad,eSIM Colombie Illimité 15 jours,CO,Colombie,,Illimité,15,51.07,EUR,5G,non
+nomad-102499,Nomad,eSIM Amérique du Nord 20 Go 30 jours,NA,Amérique du Nord,20,20 Go,30,55.36,EUR,5G,oui
+nomad-102500,Nomad,eSIM Allemagne 3 Go 15 jours,DE,Allemagne,3,3 Go,15,10.88,EUR,5G,oui
+nomad-102501,Nomad,eSIM Rép. dominicaine 3 Go 7 jours,DO,Rép. dominicaine,3,3 Go,7,8.67,EUR,4G,non
+nomad-102502,Nomad,eSIM Asie 1 Go 15 jours,AS,Asie,1,1 Go,15,9.45,EUR,4G,oui
+nomad-102503,Nomad,eSIM Italie 1 Go 7 jours,IT,Italie,1,1 Go,7,5.38,EUR,4G,non
+nomad-102504,Nomad,eSIM Qatar 50 Go 7 jours,QA,Qatar,50,50 Go,7,55.04,EUR,5G,non
+nomad-102505,Nomad,eSIM Maroc 50 Go 15 jours,MA,Maroc,50,50 Go,15,53.56,EUR,5G,non
+nomad-102506,Nomad,eSIM Israël 10 Go 15 jours,IL,Israël,10,10 Go,15,21.44,EUR,5G,oui
+nomad-102507,Nomad,eSIM Israël 10 Go 30 jours,IL,Israël,10,10 Go,30,23.4,EUR,4G,non
+nomad-102508,Nomad,eSIM Turquie 20 Go 30 jours,TR,Turquie,20,20 Go,30,33.62,EUR,4G,non
+nomad-102509,Nomad,eSIM Malaisie 20 Go 7 jours,MY,Malaisie,20,20 Go,7,29.71,EUR,4G,non
+nomad-102510,Nomad,eSIM Norvège 1 Go 15 jours,NO,Norvège,1,1 Go,15,6.64,EUR,4G,oui
+nomad-102511,Nomad,eSIM Inde Illimité 30 jours,IN,Inde,,Illimité,30,71.2,EUR,4G,oui
+nomad-102512,Nomad,eSIM Croatie 20 Go 30 jours,HR,Croatie,20,20 Go,30,37.91,EUR,4G,oui
+nomad-102513,Nomad,eSIM Croatie 10 Go 7 jours,HR,Croatie,10,10 Go,7,16.8,EUR,4G,oui
+nomad-102514,Nomad,eSIM Corée du Sud 5 Go 7 jours,KR,Corée du Sud,5,5 Go,7,12.73,EUR,4G,non
+nomad-102515,Nomad,eSIM Australie 1 Go 30 jours,AU,Australie,1,1 Go,30,7.01,EUR,4G,oui
+nomad-102516,Nomad,eSIM Nouvelle-Zélande 3 Go 30 jours,NZ,Nouvelle-Zélande,3,3 Go,30,12.56,EUR,4G,oui
+nomad-102517,Nomad,eSIM Corée du Sud 50 Go 15 jours,KR,Corée du Sud,50,50 Go,15,59.24,EUR,4G,non
+nomad-102518,Nomad,eSIM Canada Illimité 30 jours,CA,Canada,,Illimité,30,84.74,EUR,4G,oui
+nomad-102519,Nomad,eSIM Rép. dominicaine 50 Go 7 jours,DO,Rép. dominicaine,50,50 Go,7,46.19,EUR,4G,oui
+nomad-102520,Nomad,eSIM Belgique 10 Go 15 jours,BE,Belgique,10,10 Go,15,20.67,EUR,4G,non
+nomad-102521,Nomad,eSIM Émirats arabes unis 20 Go 7 jours,AE,Émirats arabes unis,20,20 Go,7,27.58,EUR,5G,non
+nomad-102522,Nomad,eSIM Canada 3 Go 7 jours,CA,Canada,3,3 Go,7,9.54,EUR,5G,non
+nomad-102523,Nomad,eSIM Afrique du Sud 1 Go 30 jours,ZA,Afrique du Sud,1,1 Go,30,8.25,EUR,4G,non
+nomad-102524,Nomad,eSIM Irlande 3 Go 7 jours,IE,Irlande,3,3 Go,7,9.45,EUR,4G,non
+nomad-102525,Nomad,eSIM Singapour 10 Go 15 jours,SG,Singapour,10,10 Go,15,20.01,EUR,4G,non
+nomad-102526,Nomad,eSIM Singapour 10 Go 30 jours,SG,Singapour,10,10 Go,30,22.2,EUR,4G,oui
+nomad-102527,Nomad,eSIM Corée du Sud 5 Go 7 jours,KR,Corée du Sud,5,5 Go,7,13.27,EUR,5G,oui
+nomad-102528,Nomad,eSIM Australie 3 Go 15 jours,AU,Australie,3,3 Go,15,10.59,EUR,4G,oui
+nomad-102529,Nomad,eSIM Chine 20 Go 15 jours,CN,Chine,20,20 Go,15,30.98,EUR,4G,oui
+nomad-102530,Nomad,eSIM Thaïlande 5 Go 30 jours,TH,Thaïlande,5,5 Go,30,15.67,EUR,4G,oui
+nomad-102531,Nomad,eSIM Israël 10 Go 30 jours,IL,Israël,10,10 Go,30,25.34,EUR,4G,non
+nomad-102532,Nomad,eSIM Monde Illimité 15 jours,WW,Monde,,Illimité,15,70.42,EUR,4G,oui
+nomad-102533,Nomad,eSIM Portugal 3 Go 30 jours,PT,Portugal,3,3 Go,30,11.5,EUR,4G,oui
+nomad-102534,Nomad,eSIM Argentine 5 Go 30 jours,AR,Argentine,5,5 Go,30,17.07,EUR,4G,oui
+nomad-102535,Nomad,eSIM Allemagne 10 Go 30 jours,DE,Allemagne,10,10 Go,30,24.28,EUR,4G,non
+nomad-102536,Nomad,eSIM Philippines Illimité 7 jours,PH,Philippines,,Illimité,7,33.58,EUR,4G,oui
+nomad-102537,Nomad,eSIM Allemagne Illimité 15 jours,DE,Allemagne,,Illimité,15,49.17,EUR,5G,oui
+nomad-102538,Nomad,eSIM Monde 3 Go 15 jours,WW,Monde,3,3 Go,15,13.84,EUR,4G,oui
+nomad-102539,Nomad,eSIM Asie 10 Go 7 jours,AS,Asie,10,10 Go,7,23.01,EUR,5G,non
+nomad-102540,Nomad,eSIM Brésil 3 Go 7 jours,BR,Brésil,3,3 Go,7,8.85,EUR,4G,oui
+nomad-102541,Nomad,eSIM Afrique du Sud 10 Go 15 jours,ZA,Afrique du Sud,10,10 Go,15,20.71,EUR,4G,non
+nomad-102542,Nomad,eSIM Suisse 50 Go 7 jours,CH,Suisse,50,50 Go,7,50.14,EUR,4G,oui
+nomad-102543,Nomad,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,97.57,EUR,5G,oui
+nomad-102544,Nomad,eSIM Belgique 3 Go 30 jours,BE,Belgique,3,3 Go,30,13.09,EUR,4G,oui
+nomad-102545,Nomad,eSIM Portugal 1 Go 30 jours,PT,Portugal,1,1 Go,30,7.35,EUR,4G,oui
+nomad-102546,Nomad,eSIM Suède 20 Go 30 jours,SE,Suède,20,20 Go,30,32.86,EUR,4G,non
+nomad-102547,Nomad,eSIM États-Unis 10 Go 7 jours,US,États-Unis,10,10 Go,7,16.75,EUR,5G,oui
+nomad-102548,Nomad,eSIM États-Unis 5 Go 7 jours,US,États-Unis,5,5 Go,7,13.43,EUR,5G,non
+nomad-102549,Nomad,eSIM Chili 20 Go 30 jours,CL,Chili,20,20 Go,30,39.51,EUR,5G,oui
+nomad-102550,Nomad,eSIM Arabie saoudite 20 Go 7 jours,SA,Arabie saoudite,20,20 Go,7,27.16,EUR,4G,oui
+nomad-102551,Nomad,eSIM Monde 3 Go 15 jours,WW,Monde,3,3 Go,15,13.25,EUR,5G,non
+nomad-102552,Nomad,eSIM Inde 3 Go 30 jours,IN,Inde,3,3 Go,30,11.58,EUR,4G,oui
+nomad-102553,Nomad,eSIM Pays-Bas 20 Go 30 jours,NL,Pays-Bas,20,20 Go,30,37.19,EUR,4G,oui
+nomad-102554,Nomad,eSIM Israël 20 Go 15 jours,IL,Israël,20,20 Go,15,31.22,EUR,4G,oui
+nomad-102555,Nomad,eSIM Europe 3 Go 30 jours,EU,Europe,3,3 Go,30,18.44,EUR,4G,non
+nomad-102556,Nomad,eSIM Australie 3 Go 30 jours,AU,Australie,3,3 Go,30,13.17,EUR,5G,oui
+nomad-102557,Nomad,eSIM Qatar 5 Go 7 jours,QA,Qatar,5,5 Go,7,12.83,EUR,5G,oui
+nomad-102558,Nomad,eSIM Singapour 20 Go 7 jours,SG,Singapour,20,20 Go,7,29.1,EUR,4G,oui
+nomad-102559,Nomad,eSIM Japon 20 Go 7 jours,JP,Japon,20,20 Go,7,29.48,EUR,4G,oui
+nomad-102560,Nomad,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,97.7,EUR,4G,oui
+nomad-102561,Nomad,eSIM Inde 10 Go 15 jours,IN,Inde,10,10 Go,15,19.13,EUR,4G,non
+nomad-102562,Nomad,eSIM Indonésie 50 Go 7 jours,ID,Indonésie,50,50 Go,7,53.11,EUR,5G,oui
+nomad-102563,Nomad,eSIM Amérique du Nord Illimité 7 jours,NA,Amérique du Nord,,Illimité,7,46.13,EUR,5G,oui
+nomad-102564,Nomad,eSIM Maroc 50 Go 7 jours,MA,Maroc,50,50 Go,7,47.82,EUR,4G,non
+nomad-102565,Nomad,eSIM Europe 10 Go 30 jours,EU,Europe,10,10 Go,30,31.89,EUR,4G,oui
+nomad-102566,Nomad,eSIM Monde 50 Go 30 jours,WW,Monde,50,50 Go,30,99.2,EUR,4G,non
+nomad-102567,Nomad,eSIM Pérou Illimité 7 jours,PE,Pérou,,Illimité,7,32.62,EUR,4G,non
+nomad-102568,Nomad,eSIM Pologne 20 Go 30 jours,PL,Pologne,20,20 Go,30,39.52,EUR,4G,oui
+nomad-102569,Nomad,eSIM Asie 5 Go 30 jours,AS,Asie,5,5 Go,30,24.69,EUR,5G,oui
+nomad-102570,Nomad,eSIM Grèce 3 Go 30 jours,GR,Grèce,3,3 Go,30,13.19,EUR,4G,oui
+nomad-102571,Nomad,eSIM Amérique du Nord 5 Go 15 jours,NA,Amérique du Nord,5,5 Go,15,18.42,EUR,4G,non
+nomad-102572,Nomad,eSIM Japon 5 Go 30 jours,JP,Japon,5,5 Go,30,16.19,EUR,4G,oui
+nomad-102573,Nomad,eSIM Belgique Illimité 7 jours,BE,Belgique,,Illimité,7,34.66,EUR,5G,non
+nomad-102574,Nomad,eSIM Autriche 10 Go 7 jours,AT,Autriche,10,10 Go,7,19.51,EUR,4G,oui
+nomad-102575,Nomad,eSIM Asie 50 Go 15 jours,AS,Asie,50,50 Go,15,75.55,EUR,5G,oui
+nomad-102576,Nomad,eSIM Amérique du Nord 1 Go 30 jours,NA,Amérique du Nord,1,1 Go,30,11.11,EUR,4G,oui
+nomad-102577,Nomad,eSIM Portugal 5 Go 30 jours,PT,Portugal,5,5 Go,30,14.63,EUR,4G,non
+nomad-102578,Nomad,eSIM Argentine 20 Go 7 jours,AR,Argentine,20,20 Go,7,25.11,EUR,5G,oui
+nomad-102579,Nomad,eSIM Italie Illimité 30 jours,IT,Italie,,Illimité,30,71.79,EUR,5G,oui
+nomad-102580,Nomad,eSIM Singapour 50 Go 15 jours,SG,Singapour,50,50 Go,15,50.59,EUR,5G,non
+nomad-102581,Nomad,eSIM Tanzanie 20 Go 30 jours,TZ,Tanzanie,20,20 Go,30,33.46,EUR,5G,non
+nomad-102582,Nomad,eSIM Indonésie 5 Go 15 jours,ID,Indonésie,5,5 Go,15,13.37,EUR,4G,oui
+nomad-102583,Nomad,eSIM Chine 3 Go 7 jours,CN,Chine,3,3 Go,7,9.14,EUR,4G,non
+nomad-102584,Nomad,eSIM Asie 50 Go 30 jours,AS,Asie,50,50 Go,30,97.4,EUR,4G,oui
+nomad-102585,Nomad,eSIM Pérou 5 Go 30 jours,PE,Pérou,5,5 Go,30,17.64,EUR,4G,oui
+nomad-102586,Nomad,eSIM Israël 1 Go 15 jours,IL,Israël,1,1 Go,15,6.79,EUR,5G,oui
+nomad-102587,Nomad,eSIM Nigeria 1 Go 15 jours,NG,Nigeria,1,1 Go,15,6.17,EUR,4G,non
+nomad-102588,Nomad,eSIM Belgique Illimité 30 jours,BE,Belgique,,Illimité,30,80.98,EUR,5G,non
+nomad-102589,Nomad,eSIM États-Unis 20 Go 7 jours,US,États-Unis,20,20 Go,7,27.02,EUR,4G,oui
+nomad-102590,Nomad,eSIM Nigeria 1 Go 15 jours,NG,Nigeria,1,1 Go,15,7.16,EUR,5G,oui
+nomad-102591,Nomad,eSIM Suisse 1 Go 7 jours,CH,Suisse,1,1 Go,7,5.86,EUR,4G,non
+nomad-102592,Nomad,eSIM Suisse Illimité 7 jours,CH,Suisse,,Illimité,7,33.26,EUR,5G,oui
+nomad-102593,Nomad,eSIM Royaume-Uni 20 Go 15 jours,GB,Royaume-Uni,20,20 Go,15,33.55,EUR,5G,non
+nomad-102594,Nomad,eSIM Mexique 20 Go 30 jours,MX,Mexique,20,20 Go,30,33.62,EUR,4G,non
+nomad-102595,Nomad,eSIM Amérique du Nord 10 Go 7 jours,NA,Amérique du Nord,10,10 Go,7,24.44,EUR,4G,non
+nomad-102596,Nomad,eSIM Colombie Illimité 7 jours,CO,Colombie,,Illimité,7,32.28,EUR,4G,oui
+nomad-102597,Nomad,eSIM Pologne 50 Go 30 jours,PL,Pologne,50,50 Go,30,65.67,EUR,5G,oui
+nomad-102598,Nomad,eSIM Australie 5 Go 7 jours,AU,Australie,5,5 Go,7,11.51,EUR,5G,non
+nomad-102599,Nomad,eSIM Asie 20 Go 30 jours,AS,Asie,20,20 Go,30,55.62,EUR,4G,non
+nomad-102600,Nomad,eSIM Israël 5 Go 15 jours,IL,Israël,5,5 Go,15,14.33,EUR,4G,oui
+nomad-102601,Nomad,eSIM Turquie Illimité 7 jours,TR,Turquie,,Illimité,7,35.4,EUR,4G,oui
+nomad-102602,Nomad,eSIM Allemagne 10 Go 30 jours,DE,Allemagne,10,10 Go,30,23.6,EUR,5G,oui
+nomad-102603,Nomad,eSIM Belgique 5 Go 7 jours,BE,Belgique,5,5 Go,7,11.36,EUR,4G,non
+nomad-102604,Nomad,eSIM Afrique du Sud 20 Go 30 jours,ZA,Afrique du Sud,20,20 Go,30,39.67,EUR,4G,non
+nomad-102605,Nomad,eSIM Irlande 3 Go 15 jours,IE,Irlande,3,3 Go,15,10.67,EUR,4G,non
+nomad-102606,Nomad,eSIM Nigeria 3 Go 15 jours,NG,Nigeria,3,3 Go,15,10.64,EUR,4G,oui
+nomad-102607,Nomad,eSIM Maroc 5 Go 7 jours,MA,Maroc,5,5 Go,7,11.46,EUR,4G,non
+nomad-102608,Nomad,eSIM Mexique Illimité 15 jours,MX,Mexique,,Illimité,15,53.13,EUR,5G,non
+nomad-102609,Nomad,eSIM Norvège 50 Go 30 jours,NO,Norvège,50,50 Go,30,59.66,EUR,5G,non
+nomad-102610,Nomad,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,7.49,EUR,5G,oui
+nomad-102611,Nomad,eSIM États-Unis 10 Go 15 jours,US,États-Unis,10,10 Go,15,19.62,EUR,5G,non
+nomad-102612,Nomad,eSIM Asie 3 Go 30 jours,AS,Asie,3,3 Go,30,18.79,EUR,4G,oui
+nomad-102613,Nomad,eSIM Chili 50 Go 30 jours,CL,Chili,50,50 Go,30,65.62,EUR,5G,oui
+nomad-102614,Nomad,eSIM Suède 5 Go 7 jours,SE,Suède,5,5 Go,7,12.12,EUR,5G,non
+nomad-102615,Nomad,eSIM Corée du Sud Illimité 30 jours,KR,Corée du Sud,,Illimité,30,77.13,EUR,5G,oui
+nomad-102616,Nomad,eSIM Afrique du Sud 1 Go 15 jours,ZA,Afrique du Sud,1,1 Go,15,7.15,EUR,5G,non
+nomad-102617,Nomad,eSIM Corée du Sud 3 Go 7 jours,KR,Corée du Sud,3,3 Go,7,10.04,EUR,4G,oui
+nomad-102618,Nomad,eSIM Autriche Illimité 30 jours,AT,Autriche,,Illimité,30,71.54,EUR,5G,oui
+nomad-102619,Nomad,eSIM Suisse 50 Go 30 jours,CH,Suisse,50,50 Go,30,61.74,EUR,5G,oui
+nomad-102620,Nomad,eSIM Amérique du Nord 10 Go 30 jours,NA,Amérique du Nord,10,10 Go,30,31.66,EUR,4G,non
+nomad-102621,Nomad,eSIM Italie 5 Go 15 jours,IT,Italie,5,5 Go,15,12.91,EUR,4G,non
+nomad-102622,Nomad,eSIM Nigeria 20 Go 15 jours,NG,Nigeria,20,20 Go,15,28.5,EUR,5G,oui
+nomad-102623,Nomad,eSIM États-Unis 1 Go 7 jours,US,États-Unis,1,1 Go,7,6.33,EUR,4G,non
+nomad-102624,Nomad,eSIM Inde 20 Go 15 jours,IN,Inde,20,20 Go,15,31.58,EUR,4G,oui
+nomad-102625,Nomad,eSIM Pologne Illimité 7 jours,PL,Pologne,,Illimité,7,33.86,EUR,4G,oui
+nomad-102626,Nomad,eSIM États-Unis 3 Go 15 jours,US,États-Unis,3,3 Go,15,10.84,EUR,4G,non
+nomad-102627,Nomad,eSIM Tanzanie 5 Go 30 jours,TZ,Tanzanie,5,5 Go,30,17.15,EUR,4G,non
+nomad-102628,Nomad,eSIM Asie 10 Go 30 jours,AS,Asie,10,10 Go,30,36.51,EUR,5G,oui
+nomad-102629,Nomad,eSIM Kenya Illimité 15 jours,KE,Kenya,,Illimité,15,48.39,EUR,5G,non
+nomad-102630,Nomad,eSIM Suède 3 Go 15 jours,SE,Suède,3,3 Go,15,9.51,EUR,5G,oui
+nomad-102631,Nomad,eSIM Allemagne 1 Go 7 jours,DE,Allemagne,1,1 Go,7,5.56,EUR,4G,oui
+nomad-102632,Nomad,eSIM Royaume-Uni 1 Go 15 jours,GB,Royaume-Uni,1,1 Go,15,6.42,EUR,4G,non
+nomad-102633,Nomad,eSIM Amérique du Nord 10 Go 30 jours,NA,Amérique du Nord,10,10 Go,30,33.02,EUR,4G,oui
+nomad-102634,Nomad,eSIM Pérou Illimité 30 jours,PE,Pérou,,Illimité,30,80.34,EUR,5G,oui
+nomad-102635,Nomad,eSIM Philippines 3 Go 30 jours,PH,Philippines,3,3 Go,30,12.12,EUR,4G,oui
+nomad-102636,Nomad,eSIM Malaisie 50 Go 30 jours,MY,Malaisie,50,50 Go,30,71.51,EUR,4G,oui
+nomad-102637,Nomad,eSIM Norvège 50 Go 30 jours,NO,Norvège,50,50 Go,30,64,EUR,4G,oui
+nomad-102638,Nomad,eSIM Arabie saoudite 50 Go 30 jours,SA,Arabie saoudite,50,50 Go,30,60.66,EUR,4G,non
+nomad-102639,Nomad,eSIM Amérique du Nord 1 Go 7 jours,NA,Amérique du Nord,1,1 Go,7,8.04,EUR,5G,oui
+nomad-102640,Nomad,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,8.15,EUR,4G,oui
+nomad-102641,Nomad,eSIM Australie 1 Go 15 jours,AU,Australie,1,1 Go,15,5.92,EUR,4G,non
+nomad-102642,Nomad,eSIM Turquie 1 Go 7 jours,TR,Turquie,1,1 Go,7,5.57,EUR,4G,oui
+nomad-102643,Nomad,eSIM Pologne 1 Go 7 jours,PL,Pologne,1,1 Go,7,6.44,EUR,5G,non
+nomad-102644,Nomad,eSIM Pérou 5 Go 15 jours,PE,Pérou,5,5 Go,15,13.23,EUR,5G,non
+nomad-102645,Nomad,eSIM Brésil 5 Go 7 jours,BR,Brésil,5,5 Go,7,11.77,EUR,5G,non
+nomad-102646,Nomad,eSIM Italie 3 Go 15 jours,IT,Italie,3,3 Go,15,10.31,EUR,5G,oui
+nomad-102647,Nomad,eSIM Australie 50 Go 30 jours,AU,Australie,50,50 Go,30,65.97,EUR,4G,non
+nomad-102648,Nomad,eSIM Indonésie 3 Go 7 jours,ID,Indonésie,3,3 Go,7,10.22,EUR,4G,oui
+nomad-102649,Nomad,eSIM Colombie 20 Go 7 jours,CO,Colombie,20,20 Go,7,29.67,EUR,5G,oui
+nomad-102650,Nomad,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,26.12,EUR,4G,oui
+nomad-102651,Nomad,eSIM Singapour 1 Go 30 jours,SG,Singapour,1,1 Go,30,7.49,EUR,4G,non
+nomad-102652,Nomad,eSIM Australie 50 Go 7 jours,AU,Australie,50,50 Go,7,46.53,EUR,4G,non
+nomad-102653,Nomad,eSIM Europe 5 Go 30 jours,EU,Europe,5,5 Go,30,24.63,EUR,4G,non
+nomad-102654,Nomad,eSIM États-Unis 10 Go 7 jours,US,États-Unis,10,10 Go,7,18.6,EUR,4G,oui
+nomad-102655,Nomad,eSIM Italie 5 Go 15 jours,IT,Italie,5,5 Go,15,13.39,EUR,4G,oui
+nomad-102656,Nomad,eSIM Kenya 1 Go 7 jours,KE,Kenya,1,1 Go,7,5.64,EUR,5G,oui
+nomad-102657,Nomad,eSIM Italie 50 Go 30 jours,IT,Italie,50,50 Go,30,68.03,EUR,4G,non
+nomad-102658,Nomad,eSIM Qatar 1 Go 7 jours,QA,Qatar,1,1 Go,7,6.29,EUR,4G,oui
+nomad-102659,Nomad,eSIM Colombie Illimité 7 jours,CO,Colombie,,Illimité,7,33.73,EUR,4G,non
+nomad-102660,Nomad,eSIM Italie 5 Go 30 jours,IT,Italie,5,5 Go,30,16.84,EUR,5G,oui
+nomad-102661,Nomad,eSIM Irlande 3 Go 30 jours,IE,Irlande,3,3 Go,30,11.19,EUR,5G,non
+nomad-102662,Nomad,eSIM Chili 10 Go 7 jours,CL,Chili,10,10 Go,7,16.65,EUR,4G,non
+nomad-102663,Nomad,eSIM Suède 50 Go 15 jours,SE,Suède,50,50 Go,15,51.91,EUR,4G,oui
+nomad-102664,Nomad,eSIM Maroc 3 Go 7 jours,MA,Maroc,3,3 Go,7,9.89,EUR,5G,oui
+nomad-102665,Nomad,eSIM Asie 5 Go 7 jours,AS,Asie,5,5 Go,7,16.4,EUR,5G,oui
+nomad-102666,Nomad,eSIM Mexique 3 Go 15 jours,MX,Mexique,3,3 Go,15,10.61,EUR,5G,non
+nomad-102667,Nomad,eSIM Égypte 5 Go 7 jours,EG,Égypte,5,5 Go,7,12,EUR,5G,non
+nomad-102668,Nomad,eSIM Malaisie 10 Go 15 jours,MY,Malaisie,10,10 Go,15,20,EUR,4G,non
+nomad-102669,Nomad,eSIM Allemagne 5 Go 15 jours,DE,Allemagne,5,5 Go,15,13.77,EUR,5G,non
+nomad-102670,Nomad,eSIM Europe 20 Go 7 jours,EU,Europe,20,20 Go,7,37.64,EUR,4G,oui
+nomad-102671,Nomad,eSIM Monde 20 Go 7 jours,WW,Monde,20,20 Go,7,41.25,EUR,4G,non
+nomad-102672,Nomad,eSIM Chili 3 Go 7 jours,CL,Chili,3,3 Go,7,9.24,EUR,5G,non
+nomad-102673,Nomad,eSIM Asie Illimité 15 jours,AS,Asie,,Illimité,15,69.22,EUR,4G,oui
+nomad-102674,Nomad,eSIM Chine 1 Go 7 jours,CN,Chine,1,1 Go,7,5.96,EUR,4G,oui
+nomad-102675,Nomad,eSIM Suisse 10 Go 30 jours,CH,Suisse,10,10 Go,30,23.09,EUR,4G,non
+nomad-102676,Nomad,eSIM Croatie Illimité 30 jours,HR,Croatie,,Illimité,30,85.49,EUR,5G,non
+nomad-102677,Nomad,eSIM Émirats arabes unis 5 Go 7 jours,AE,Émirats arabes unis,5,5 Go,7,12.08,EUR,5G,oui
+nomad-102678,Nomad,eSIM Royaume-Uni 50 Go 7 jours,GB,Royaume-Uni,50,50 Go,7,46.32,EUR,4G,non
+nomad-102679,Nomad,eSIM Chine 3 Go 15 jours,CN,Chine,3,3 Go,15,10.73,EUR,5G,oui
+nomad-102680,Nomad,eSIM Égypte 1 Go 7 jours,EG,Égypte,1,1 Go,7,6.39,EUR,4G,oui
+nomad-102681,Nomad,eSIM Tchéquie 5 Go 7 jours,CZ,Tchéquie,5,5 Go,7,12.52,EUR,4G,oui
+nomad-102682,Nomad,eSIM Asie 5 Go 7 jours,AS,Asie,5,5 Go,7,17.1,EUR,4G,non
+nomad-102683,Nomad,eSIM Maroc 10 Go 7 jours,MA,Maroc,10,10 Go,7,16.77,EUR,4G,non
+nomad-102684,Nomad,eSIM Turquie 1 Go 7 jours,TR,Turquie,1,1 Go,7,5.48,EUR,4G,oui
+nomad-102685,Nomad,eSIM Australie Illimité 15 jours,AU,Australie,,Illimité,15,53.3,EUR,5G,non
+nomad-102686,Nomad,eSIM Égypte Illimité 15 jours,EG,Égypte,,Illimité,15,52.18,EUR,5G,non
+nomad-102687,Nomad,eSIM Malaisie 50 Go 30 jours,MY,Malaisie,50,50 Go,30,60.46,EUR,4G,oui
+nomad-102688,Nomad,eSIM Kenya 50 Go 30 jours,KE,Kenya,50,50 Go,30,69.37,EUR,4G,non
+nomad-102689,Nomad,eSIM Pérou Illimité 30 jours,PE,Pérou,,Illimité,30,78.75,EUR,4G,oui
+nomad-102690,Nomad,eSIM Kenya 10 Go 30 jours,KE,Kenya,10,10 Go,30,23.76,EUR,4G,non
+nomad-102691,Nomad,eSIM Canada 3 Go 7 jours,CA,Canada,3,3 Go,7,9.09,EUR,4G,oui
+nomad-102692,Nomad,eSIM Monde 50 Go 7 jours,WW,Monde,50,50 Go,7,64.59,EUR,4G,oui
+nomad-102693,Nomad,eSIM Chine Illimité 30 jours,CN,Chine,,Illimité,30,79.54,EUR,5G,oui
+nomad-102694,Nomad,eSIM Europe 50 Go 7 jours,EU,Europe,50,50 Go,7,72.34,EUR,4G,non
+nomad-102695,Nomad,eSIM Suisse 3 Go 30 jours,CH,Suisse,3,3 Go,30,11.36,EUR,4G,non
+nomad-102696,Nomad,eSIM Nouvelle-Zélande 50 Go 30 jours,NZ,Nouvelle-Zélande,50,50 Go,30,66.29,EUR,4G,oui
+nomad-102697,Nomad,eSIM Canada 10 Go 15 jours,CA,Canada,10,10 Go,15,20.7,EUR,5G,oui
+nomad-102698,Nomad,eSIM Suisse Illimité 15 jours,CH,Suisse,,Illimité,15,47.99,EUR,5G,oui
+nomad-102699,Nomad,eSIM Amérique du Nord 10 Go 7 jours,NA,Amérique du Nord,10,10 Go,7,26.29,EUR,5G,oui
+nomad-102700,Nomad,eSIM Grèce 50 Go 7 jours,GR,Grèce,50,50 Go,7,52.73,EUR,4G,oui
+nomad-102701,Nomad,eSIM Tchéquie 1 Go 7 jours,CZ,Tchéquie,1,1 Go,7,6.23,EUR,4G,oui
+nomad-102702,Nomad,eSIM Monde 5 Go 7 jours,WW,Monde,5,5 Go,7,16.03,EUR,4G,non
+nomad-102703,Nomad,eSIM Tchéquie 1 Go 15 jours,CZ,Tchéquie,1,1 Go,15,6.11,EUR,5G,non
+nomad-102704,Nomad,eSIM États-Unis 50 Go 30 jours,US,États-Unis,50,50 Go,30,67.04,EUR,5G,oui
+nomad-102705,Nomad,eSIM Amérique du Nord 5 Go 15 jours,NA,Amérique du Nord,5,5 Go,15,17.86,EUR,4G,oui
+nomad-102706,Nomad,eSIM Colombie 10 Go 15 jours,CO,Colombie,10,10 Go,15,20.02,EUR,4G,non
+nomad-102707,Nomad,eSIM Rép. dominicaine 5 Go 15 jours,DO,Rép. dominicaine,5,5 Go,15,13.76,EUR,5G,non
+nomad-102708,Nomad,eSIM Belgique 20 Go 30 jours,BE,Belgique,20,20 Go,30,37.21,EUR,4G,oui
+nomad-102709,Nomad,eSIM Grèce 5 Go 15 jours,GR,Grèce,5,5 Go,15,12.79,EUR,4G,oui
+nomad-102710,Nomad,eSIM Égypte 20 Go 15 jours,EG,Égypte,20,20 Go,15,33.49,EUR,4G,oui
+nomad-102711,Nomad,eSIM Corée du Sud Illimité 15 jours,KR,Corée du Sud,,Illimité,15,45.56,EUR,5G,non
+nomad-102712,Nomad,eSIM Nigeria 5 Go 30 jours,NG,Nigeria,5,5 Go,30,16.35,EUR,5G,non
+nomad-102713,Nomad,eSIM Suède 5 Go 30 jours,SE,Suède,5,5 Go,30,14.86,EUR,5G,non
+nomad-102714,Nomad,eSIM Royaume-Uni 10 Go 30 jours,GB,Royaume-Uni,10,10 Go,30,26.08,EUR,5G,non
+nomad-102715,Nomad,eSIM Asie 10 Go 7 jours,AS,Asie,10,10 Go,7,25.26,EUR,4G,oui
+nomad-102716,Nomad,eSIM Nouvelle-Zélande 10 Go 7 jours,NZ,Nouvelle-Zélande,10,10 Go,7,18.66,EUR,4G,oui
+nomad-102717,Nomad,eSIM Vietnam Illimité 7 jours,VN,Vietnam,,Illimité,7,36.1,EUR,4G,oui
+nomad-102718,Nomad,eSIM Espagne 20 Go 15 jours,ES,Espagne,20,20 Go,15,29.15,EUR,5G,oui
+nomad-102719,Nomad,eSIM Asie 3 Go 7 jours,AS,Asie,3,3 Go,7,14.41,EUR,4G,oui
+nomad-102720,Nomad,eSIM Italie 3 Go 30 jours,IT,Italie,3,3 Go,30,13.38,EUR,4G,oui
+nomad-102721,Nomad,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,13.29,EUR,4G,oui
+nomad-102722,Nomad,eSIM Brésil 50 Go 15 jours,BR,Brésil,50,50 Go,15,50.71,EUR,5G,non
+nomad-102723,Nomad,eSIM Jordanie 50 Go 15 jours,JO,Jordanie,50,50 Go,15,57.76,EUR,4G,oui
+nomad-102724,Nomad,eSIM Belgique 5 Go 15 jours,BE,Belgique,5,5 Go,15,13.77,EUR,5G,non
+nomad-102725,Nomad,eSIM Belgique 20 Go 7 jours,BE,Belgique,20,20 Go,7,28.13,EUR,4G,oui
+nomad-102726,Nomad,eSIM Inde 20 Go 30 jours,IN,Inde,20,20 Go,30,39.53,EUR,4G,oui
+nomad-102727,Nomad,eSIM Autriche 20 Go 30 jours,AT,Autriche,20,20 Go,30,39.04,EUR,4G,oui
+nomad-102728,Nomad,eSIM Colombie Illimité 30 jours,CO,Colombie,,Illimité,30,72.12,EUR,4G,oui
+nomad-102729,Nomad,eSIM Allemagne 1 Go 7 jours,DE,Allemagne,1,1 Go,7,5.42,EUR,4G,oui
+nomad-102730,Nomad,eSIM Autriche Illimité 30 jours,AT,Autriche,,Illimité,30,72.57,EUR,4G,non
+nomad-102731,Nomad,eSIM Chine 5 Go 7 jours,CN,Chine,5,5 Go,7,11.66,EUR,4G,non
+nomad-102732,Nomad,eSIM Norvège Illimité 7 jours,NO,Norvège,,Illimité,7,34.32,EUR,4G,non
+nomad-102733,Nomad,eSIM Amérique du Nord 5 Go 30 jours,NA,Amérique du Nord,5,5 Go,30,24.58,EUR,5G,non
+nomad-102734,Nomad,eSIM Amérique du Nord 1 Go 7 jours,NA,Amérique du Nord,1,1 Go,7,7.6,EUR,5G,oui
+nomad-102735,Nomad,eSIM Argentine 20 Go 15 jours,AR,Argentine,20,20 Go,15,30.2,EUR,5G,non
+nomad-102736,Nomad,eSIM Italie 20 Go 15 jours,IT,Italie,20,20 Go,15,27.76,EUR,4G,non
+nomad-102737,Nomad,eSIM Inde 3 Go 7 jours,IN,Inde,3,3 Go,7,10.11,EUR,4G,oui
+nomad-102738,Nomad,eSIM Canada 50 Go 15 jours,CA,Canada,50,50 Go,15,56.74,EUR,4G,oui
+nomad-102739,Nomad,eSIM Inde 50 Go 7 jours,IN,Inde,50,50 Go,7,46.62,EUR,4G,non
+nomad-102740,Nomad,eSIM Philippines 5 Go 7 jours,PH,Philippines,5,5 Go,7,11.8,EUR,4G,non
+nomad-102741,Nomad,eSIM Argentine 20 Go 30 jours,AR,Argentine,20,20 Go,30,36.98,EUR,5G,non
+nomad-102742,Nomad,eSIM Thaïlande 5 Go 30 jours,TH,Thaïlande,5,5 Go,30,15.81,EUR,4G,non
+nomad-102743,Nomad,eSIM Jordanie 5 Go 7 jours,JO,Jordanie,5,5 Go,7,11.44,EUR,5G,oui
+nomad-102744,Nomad,eSIM Chine 50 Go 30 jours,CN,Chine,50,50 Go,30,71.63,EUR,4G,oui
+nomad-102745,Nomad,eSIM Indonésie 1 Go 7 jours,ID,Indonésie,1,1 Go,7,5.56,EUR,4G,non
+nomad-102746,Nomad,eSIM Nouvelle-Zélande 5 Go 7 jours,NZ,Nouvelle-Zélande,5,5 Go,7,13.34,EUR,4G,non
+nomad-102747,Nomad,eSIM Qatar 3 Go 30 jours,QA,Qatar,3,3 Go,30,13.3,EUR,4G,oui
+nomad-102748,Nomad,eSIM Maroc Illimité 30 jours,MA,Maroc,,Illimité,30,81.58,EUR,5G,non
+nomad-102749,Nomad,eSIM Égypte 5 Go 15 jours,EG,Égypte,5,5 Go,15,13.05,EUR,5G,non
+nomad-102750,Nomad,eSIM Nigeria 20 Go 30 jours,NG,Nigeria,20,20 Go,30,39.44,EUR,4G,oui
+nomad-102751,Nomad,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,127.55,EUR,4G,oui
+nomad-102752,Nomad,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,130.15,EUR,5G,non

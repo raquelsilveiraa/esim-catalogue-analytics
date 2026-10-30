@@ -1,0 +1,123 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+roamic-104843,Roamic,eSIM Chili 1 Go 7 jours,CL,Chili,1,1 Go,7,5.95,EUR,4G,non
+roamic-104844,Roamic,eSIM Monde 3 Go 15 jours,WW,Monde,3,3 Go,15,14.94,EUR,4G,oui
+roamic-104845,Roamic,eSIM Monde 5 Go 15 jours,WW,Monde,5,5 Go,15,17.86,EUR,4G,non
+roamic-104846,Roamic,eSIM Qatar 3 Go 7 jours,QA,Qatar,3,3 Go,7,9.72,EUR,4G,oui
+roamic-104847,Roamic,eSIM Rép. dominicaine Illimité 7 jours,DO,Rép. dominicaine,,Illimité,7,34.14,EUR,5G,oui
+roamic-104848,Roamic,eSIM Thaïlande 1 Go 30 jours,TH,Thaïlande,1,1 Go,30,8.01,EUR,4G,oui
+roamic-104849,Roamic,eSIM Nouvelle-Zélande 3 Go 30 jours,NZ,Nouvelle-Zélande,3,3 Go,30,11.42,EUR,4G,oui
+roamic-104850,Roamic,eSIM Indonésie 50 Go 7 jours,ID,Indonésie,50,50 Go,7,47.86,EUR,4G,non
+roamic-104851,Roamic,eSIM Israël Illimité 7 jours,IL,Israël,,Illimité,7,31.6,EUR,5G,oui
+roamic-104852,Roamic,eSIM Rép. dominicaine Illimité 7 jours,DO,Rép. dominicaine,,Illimité,7,35.87,EUR,5G,oui
+roamic-104853,Roamic,eSIM Allemagne 3 Go 30 jours,DE,Allemagne,3,3 Go,30,12.24,EUR,4G,non
+roamic-104854,Roamic,eSIM Grèce 5 Go 30 jours,GR,Grèce,5,5 Go,30,15.75,EUR,5G,non
+roamic-104855,Roamic,eSIM Irlande 5 Go 7 jours,IE,Irlande,5,5 Go,7,11.12,EUR,4G,oui
+roamic-104856,Roamic,eSIM Singapour 20 Go 30 jours,SG,Singapour,20,20 Go,30,35.38,EUR,4G,non
+roamic-104857,Roamic,eSIM Qatar 5 Go 30 jours,QA,Qatar,5,5 Go,30,14.53,EUR,4G,oui
+roamic-104858,Roamic,eSIM Malaisie 10 Go 30 jours,MY,Malaisie,10,10 Go,30,21.89,EUR,4G,non
+roamic-104859,Roamic,eSIM Belgique 3 Go 30 jours,BE,Belgique,3,3 Go,30,11.86,EUR,4G,oui
+roamic-104860,Roamic,eSIM Kenya 3 Go 7 jours,KE,Kenya,3,3 Go,7,9.37,EUR,4G,non
+roamic-104861,Roamic,eSIM États-Unis 10 Go 7 jours,US,États-Unis,10,10 Go,7,17.57,EUR,5G,non
+roamic-104862,Roamic,eSIM Thaïlande 1 Go 15 jours,TH,Thaïlande,1,1 Go,15,7.13,EUR,5G,non
+roamic-104863,Roamic,eSIM Nouvelle-Zélande 10 Go 30 jours,NZ,Nouvelle-Zélande,10,10 Go,30,22.52,EUR,4G,oui
+roamic-104864,Roamic,eSIM Kenya 20 Go 7 jours,KE,Kenya,20,20 Go,7,29.46,EUR,4G,oui
+roamic-104865,Roamic,eSIM Croatie Illimité 7 jours,HR,Croatie,,Illimité,7,30.79,EUR,4G,non
+roamic-104866,Roamic,eSIM Amérique du Nord Illimité 15 jours,NA,Amérique du Nord,,Illimité,15,61.23,EUR,4G,non
+roamic-104867,Roamic,eSIM Suède 5 Go 15 jours,SE,Suède,5,5 Go,15,13.18,EUR,4G,non
+roamic-104868,Roamic,eSIM Croatie 50 Go 7 jours,HR,Croatie,50,50 Go,7,45.94,EUR,4G,oui
+roamic-104869,Roamic,eSIM Allemagne 50 Go 7 jours,DE,Allemagne,50,50 Go,7,53.77,EUR,5G,non
+roamic-104870,Roamic,eSIM France 3 Go 30 jours,FR,France,3,3 Go,30,12.83,EUR,5G,oui
+roamic-104871,Roamic,eSIM Corée du Sud Illimité 7 jours,KR,Corée du Sud,,Illimité,7,32.19,EUR,5G,non
+roamic-104872,Roamic,eSIM Nouvelle-Zélande 1 Go 30 jours,NZ,Nouvelle-Zélande,1,1 Go,30,8.25,EUR,4G,oui
+roamic-104873,Roamic,eSIM Arabie saoudite 10 Go 30 jours,SA,Arabie saoudite,10,10 Go,30,25.27,EUR,4G,oui
+roamic-104874,Roamic,eSIM Allemagne 20 Go 30 jours,DE,Allemagne,20,20 Go,30,34.44,EUR,4G,oui
+roamic-104875,Roamic,eSIM Indonésie 5 Go 7 jours,ID,Indonésie,5,5 Go,7,13.09,EUR,5G,non
+roamic-104876,Roamic,eSIM Jordanie 3 Go 15 jours,JO,Jordanie,3,3 Go,15,9.96,EUR,4G,non
+roamic-104877,Roamic,eSIM Mexique 5 Go 30 jours,MX,Mexique,5,5 Go,30,15.82,EUR,4G,oui
+roamic-104878,Roamic,eSIM Europe 1 Go 30 jours,EU,Europe,1,1 Go,30,10.68,EUR,4G,oui
+roamic-104879,Roamic,eSIM Amérique du Nord 20 Go 30 jours,NA,Amérique du Nord,20,20 Go,30,48.05,EUR,4G,non
+roamic-104880,Roamic,eSIM Canada 5 Go 15 jours,CA,Canada,5,5 Go,15,14.43,EUR,4G,oui
+roamic-104881,Roamic,eSIM Arabie saoudite 5 Go 15 jours,SA,Arabie saoudite,5,5 Go,15,12.38,EUR,4G,oui
+roamic-104882,Roamic,eSIM Corée du Sud 5 Go 7 jours,KR,Corée du Sud,5,5 Go,7,12.77,EUR,5G,non
+roamic-104883,Roamic,eSIM Chine 50 Go 7 jours,CN,Chine,50,50 Go,7,52.85,EUR,4G,oui
+roamic-104884,Roamic,eSIM Monde 20 Go 7 jours,WW,Monde,20,20 Go,7,41.57,EUR,4G,oui
+roamic-104885,Roamic,eSIM Israël 1 Go 15 jours,IL,Israël,1,1 Go,15,6.78,EUR,4G,non
+roamic-104886,Roamic,eSIM Autriche 3 Go 30 jours,AT,Autriche,3,3 Go,30,12.17,EUR,4G,non
+roamic-104887,Roamic,eSIM Norvège Illimité 7 jours,NO,Norvège,,Illimité,7,36.88,EUR,5G,oui
+roamic-104888,Roamic,eSIM Thaïlande Illimité 30 jours,TH,Thaïlande,,Illimité,30,71.62,EUR,5G,non
+roamic-104889,Roamic,eSIM Amérique du Nord 5 Go 15 jours,NA,Amérique du Nord,5,5 Go,15,18.35,EUR,5G,oui
+roamic-104890,Roamic,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,11.23,EUR,4G,oui
+roamic-104891,Roamic,eSIM Afrique du Sud 3 Go 30 jours,ZA,Afrique du Sud,3,3 Go,30,13.51,EUR,4G,oui
+roamic-104892,Roamic,eSIM Suisse 50 Go 15 jours,CH,Suisse,50,50 Go,15,52.19,EUR,4G,oui
+roamic-104893,Roamic,eSIM Colombie 3 Go 30 jours,CO,Colombie,3,3 Go,30,12.12,EUR,4G,oui
+roamic-104894,Roamic,eSIM Rép. dominicaine 5 Go 15 jours,DO,Rép. dominicaine,5,5 Go,15,12.9,EUR,4G,non
+roamic-104895,Roamic,eSIM Turquie 1 Go 15 jours,TR,Turquie,1,1 Go,15,5.99,EUR,4G,oui
+roamic-104896,Roamic,eSIM Turquie 5 Go 7 jours,TR,Turquie,5,5 Go,7,12.91,EUR,4G,oui
+roamic-104897,Roamic,eSIM Israël 20 Go 30 jours,IL,Israël,20,20 Go,30,38.97,EUR,5G,oui
+roamic-104898,Roamic,eSIM Norvège 20 Go 15 jours,NO,Norvège,20,20 Go,15,29.6,EUR,5G,non
+roamic-104899,Roamic,eSIM Nouvelle-Zélande Illimité 7 jours,NZ,Nouvelle-Zélande,,Illimité,7,34.47,EUR,5G,oui
+roamic-104900,Roamic,eSIM Asie 3 Go 30 jours,AS,Asie,3,3 Go,30,17.82,EUR,4G,oui
+roamic-104901,Roamic,eSIM Rép. dominicaine 10 Go 15 jours,DO,Rép. dominicaine,10,10 Go,15,20.32,EUR,4G,non
+roamic-104902,Roamic,eSIM Norvège Illimité 30 jours,NO,Norvège,,Illimité,30,72.07,EUR,5G,non
+roamic-104903,Roamic,eSIM Arabie saoudite 10 Go 7 jours,SA,Arabie saoudite,10,10 Go,7,19.77,EUR,4G,oui
+roamic-104904,Roamic,eSIM Europe 3 Go 30 jours,EU,Europe,3,3 Go,30,18.96,EUR,5G,oui
+roamic-104905,Roamic,eSIM Philippines 5 Go 30 jours,PH,Philippines,5,5 Go,30,14.67,EUR,4G,oui
+roamic-104906,Roamic,eSIM Amérique du Nord 20 Go 7 jours,NA,Amérique du Nord,20,20 Go,7,37.59,EUR,4G,non
+roamic-104907,Roamic,eSIM Japon 20 Go 15 jours,JP,Japon,20,20 Go,15,33.56,EUR,4G,non
+roamic-104908,Roamic,eSIM Nouvelle-Zélande 50 Go 15 jours,NZ,Nouvelle-Zélande,50,50 Go,15,56.18,EUR,5G,oui
+roamic-104909,Roamic,eSIM Jordanie 20 Go 7 jours,JO,Jordanie,20,20 Go,7,26.87,EUR,5G,non
+roamic-104910,Roamic,eSIM Europe 50 Go 30 jours,EU,Europe,50,50 Go,30,97.94,EUR,4G,oui
+roamic-104911,Roamic,eSIM Singapour 10 Go 30 jours,SG,Singapour,10,10 Go,30,21.56,EUR,5G,non
+roamic-104912,Roamic,eSIM Tchéquie 50 Go 7 jours,CZ,Tchéquie,50,50 Go,7,48.36,EUR,5G,non
+roamic-104913,Roamic,eSIM Pérou 1 Go 7 jours,PE,Pérou,1,1 Go,7,6.21,EUR,4G,non
+roamic-104914,Roamic,eSIM Asie 1 Go 30 jours,AS,Asie,1,1 Go,30,10.35,EUR,4G,non
+roamic-104915,Roamic,eSIM Italie 10 Go 30 jours,IT,Italie,10,10 Go,30,23.17,EUR,4G,non
+roamic-104916,Roamic,eSIM Pologne 3 Go 7 jours,PL,Pologne,3,3 Go,7,9.02,EUR,5G,non
+roamic-104917,Roamic,eSIM Asie 10 Go 7 jours,AS,Asie,10,10 Go,7,25,EUR,4G,non
+roamic-104918,Roamic,eSIM Philippines 10 Go 15 jours,PH,Philippines,10,10 Go,15,21.24,EUR,4G,oui
+roamic-104919,Roamic,eSIM Amérique du Nord 10 Go 7 jours,NA,Amérique du Nord,10,10 Go,7,26.98,EUR,5G,oui
+roamic-104920,Roamic,eSIM États-Unis 10 Go 30 jours,US,États-Unis,10,10 Go,30,21.65,EUR,4G,oui
+roamic-104921,Roamic,eSIM Vietnam 3 Go 30 jours,VN,Vietnam,3,3 Go,30,13.32,EUR,4G,oui
+roamic-104922,Roamic,eSIM Jordanie 20 Go 15 jours,JO,Jordanie,20,20 Go,15,32.9,EUR,4G,non
+roamic-104923,Roamic,eSIM Colombie 10 Go 7 jours,CO,Colombie,10,10 Go,7,17.86,EUR,4G,oui
+roamic-104924,Roamic,eSIM Portugal 50 Go 15 jours,PT,Portugal,50,50 Go,15,58.88,EUR,4G,oui
+roamic-104925,Roamic,eSIM Canada 20 Go 7 jours,CA,Canada,20,20 Go,7,27.61,EUR,5G,oui
+roamic-104926,Roamic,eSIM Europe 20 Go 7 jours,EU,Europe,20,20 Go,7,41.88,EUR,4G,non
+roamic-104927,Roamic,eSIM Chine 3 Go 7 jours,CN,Chine,3,3 Go,7,10.34,EUR,5G,non
+roamic-104928,Roamic,eSIM Grèce 1 Go 15 jours,GR,Grèce,1,1 Go,15,7.04,EUR,4G,oui
+roamic-104929,Roamic,eSIM Égypte 3 Go 30 jours,EG,Égypte,3,3 Go,30,13.18,EUR,4G,oui
+roamic-104930,Roamic,eSIM Jordanie 3 Go 30 jours,JO,Jordanie,3,3 Go,30,12.97,EUR,4G,non
+roamic-104931,Roamic,eSIM Amérique du Nord 1 Go 15 jours,NA,Amérique du Nord,1,1 Go,15,9.56,EUR,5G,non
+roamic-104932,Roamic,eSIM Indonésie 5 Go 15 jours,ID,Indonésie,5,5 Go,15,12.38,EUR,4G,non
+roamic-104933,Roamic,eSIM Inde 10 Go 7 jours,IN,Inde,10,10 Go,7,19.66,EUR,4G,non
+roamic-104934,Roamic,eSIM Pays-Bas 3 Go 30 jours,NL,Pays-Bas,3,3 Go,30,12.86,EUR,4G,oui
+roamic-104935,Roamic,eSIM Europe 10 Go 15 jours,EU,Europe,10,10 Go,15,25.63,EUR,5G,oui
+roamic-104936,Roamic,eSIM Nigeria 20 Go 30 jours,NG,Nigeria,20,20 Go,30,32.85,EUR,4G,non
+roamic-104937,Roamic,eSIM Chine 5 Go 30 jours,CN,Chine,5,5 Go,30,15.37,EUR,4G,oui
+roamic-104938,Roamic,eSIM Colombie 10 Go 7 jours,CO,Colombie,10,10 Go,7,16.73,EUR,5G,oui
+roamic-104939,Roamic,eSIM Portugal 20 Go 30 jours,PT,Portugal,20,20 Go,30,32.82,EUR,4G,non
+roamic-104940,Roamic,eSIM Colombie 50 Go 15 jours,CO,Colombie,50,50 Go,15,57.77,EUR,4G,oui
+roamic-104941,Roamic,eSIM Royaume-Uni 3 Go 30 jours,GB,Royaume-Uni,3,3 Go,30,13.1,EUR,5G,oui
+roamic-104942,Roamic,eSIM Inde 50 Go 30 jours,IN,Inde,50,50 Go,30,62.24,EUR,4G,oui
+roamic-104943,Roamic,eSIM Belgique 10 Go 30 jours,BE,Belgique,10,10 Go,30,22.12,EUR,5G,non
+roamic-104944,Roamic,eSIM Japon 5 Go 15 jours,JP,Japon,5,5 Go,15,12.48,EUR,5G,oui
+roamic-104945,Roamic,eSIM Amérique du Nord 1 Go 7 jours,NA,Amérique du Nord,1,1 Go,7,7.88,EUR,4G,oui
+roamic-104946,Roamic,eSIM Thaïlande 10 Go 30 jours,TH,Thaïlande,10,10 Go,30,26.08,EUR,5G,non
+roamic-104947,Roamic,eSIM France 50 Go 15 jours,FR,France,50,50 Go,15,55.01,EUR,4G,non
+roamic-104948,Roamic,eSIM Amérique du Nord 50 Go 30 jours,NA,Amérique du Nord,50,50 Go,30,94.92,EUR,4G,oui
+roamic-104949,Roamic,eSIM Nouvelle-Zélande 1 Go 30 jours,NZ,Nouvelle-Zélande,1,1 Go,30,8.19,EUR,4G,oui
+roamic-104950,Roamic,eSIM Colombie 20 Go 15 jours,CO,Colombie,20,20 Go,15,31.56,EUR,5G,non
+roamic-104951,Roamic,eSIM Asie 5 Go 30 jours,AS,Asie,5,5 Go,30,20.67,EUR,5G,non
+roamic-104952,Roamic,eSIM Égypte 20 Go 7 jours,EG,Égypte,20,20 Go,7,27.26,EUR,4G,non
+roamic-104953,Roamic,eSIM Maroc 10 Go 7 jours,MA,Maroc,10,10 Go,7,19.22,EUR,4G,oui
+roamic-104954,Roamic,eSIM Indonésie 10 Go 30 jours,ID,Indonésie,10,10 Go,30,24.83,EUR,4G,non
+roamic-104955,Roamic,eSIM Grèce Illimité 15 jours,GR,Grèce,,Illimité,15,52.6,EUR,5G,non
+roamic-104956,Roamic,eSIM Chili 5 Go 7 jours,CL,Chili,5,5 Go,7,11.33,EUR,4G,non
+roamic-104957,Roamic,eSIM Monde 50 Go 7 jours,WW,Monde,50,50 Go,7,73.94,EUR,4G,non
+roamic-104958,Roamic,eSIM Jordanie 50 Go 7 jours,JO,Jordanie,50,50 Go,7,54.28,EUR,5G,oui
+roamic-104959,Roamic,eSIM Colombie 5 Go 30 jours,CO,Colombie,5,5 Go,30,17.34,EUR,4G,oui
+roamic-104960,Roamic,eSIM Vietnam 5 Go 7 jours,VN,Vietnam,5,5 Go,7,11.83,EUR,4G,non
+roamic-104961,Roamic,eSIM Colombie 1 Go 30 jours,CO,Colombie,1,1 Go,30,7.82,EUR,5G,non
+roamic-104962,Roamic,eSIM Égypte 10 Go 30 jours,EG,Égypte,10,10 Go,30,21.7,EUR,4G,non
+roamic-104963,Roamic,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,142.17,EUR,5G,non
+roamic-104964,Roamic,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,147.07,EUR,5G,non

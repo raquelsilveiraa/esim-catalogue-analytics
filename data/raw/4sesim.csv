@@ -1,0 +1,93 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+4sesim-104965,4S eSIM,eSIM Brésil 3 Go 7 jours,BR,Brésil,3,3 Go,7,9.82,EUR,4G,non
+4sesim-104966,4S eSIM,eSIM Asie 1 Go 15 jours,AS,Asie,1,1 Go,15,8.59,EUR,4G,oui
+4sesim-104967,4S eSIM,eSIM Norvège 5 Go 15 jours,NO,Norvège,5,5 Go,15,13.59,EUR,4G,oui
+4sesim-104968,4S eSIM,eSIM Turquie Illimité 15 jours,TR,Turquie,,Illimité,15,45.36,EUR,5G,oui
+4sesim-104969,4S eSIM,eSIM Égypte 10 Go 30 jours,EG,Égypte,10,10 Go,30,24.28,EUR,4G,oui
+4sesim-104970,4S eSIM,eSIM Irlande 20 Go 7 jours,IE,Irlande,20,20 Go,7,27.88,EUR,4G,oui
+4sesim-104971,4S eSIM,eSIM Suède 5 Go 15 jours,SE,Suède,5,5 Go,15,14.64,EUR,5G,oui
+4sesim-104972,4S eSIM,eSIM Suisse 5 Go 15 jours,CH,Suisse,5,5 Go,15,13,EUR,4G,oui
+4sesim-104973,4S eSIM,eSIM Inde 3 Go 7 jours,IN,Inde,3,3 Go,7,10.06,EUR,5G,non
+4sesim-104974,4S eSIM,eSIM Corée du Sud 1 Go 30 jours,KR,Corée du Sud,1,1 Go,30,7.44,EUR,4G,non
+4sesim-104975,4S eSIM,eSIM Australie 50 Go 15 jours,AU,Australie,50,50 Go,15,58.61,EUR,5G,non
+4sesim-104976,4S eSIM,eSIM Tanzanie 3 Go 15 jours,TZ,Tanzanie,3,3 Go,15,10.49,EUR,4G,oui
+4sesim-104977,4S eSIM,eSIM Chili 3 Go 30 jours,CL,Chili,3,3 Go,30,11.98,EUR,4G,non
+4sesim-104978,4S eSIM,eSIM Pays-Bas 1 Go 15 jours,NL,Pays-Bas,1,1 Go,15,5.94,EUR,5G,oui
+4sesim-104979,4S eSIM,eSIM Norvège 3 Go 15 jours,NO,Norvège,3,3 Go,15,11.31,EUR,4G,non
+4sesim-104980,4S eSIM,eSIM Grèce 5 Go 30 jours,GR,Grèce,5,5 Go,30,15.02,EUR,4G,non
+4sesim-104981,4S eSIM,eSIM Allemagne 5 Go 15 jours,DE,Allemagne,5,5 Go,15,13.06,EUR,4G,oui
+4sesim-104982,4S eSIM,eSIM Nigeria 20 Go 7 jours,NG,Nigeria,20,20 Go,7,28.12,EUR,4G,oui
+4sesim-104983,4S eSIM,eSIM Inde 5 Go 7 jours,IN,Inde,5,5 Go,7,13.43,EUR,4G,oui
+4sesim-104984,4S eSIM,eSIM Allemagne 5 Go 15 jours,DE,Allemagne,5,5 Go,15,14.48,EUR,4G,non
+4sesim-104985,4S eSIM,eSIM Monde 5 Go 7 jours,WW,Monde,5,5 Go,7,16.59,EUR,4G,non
+4sesim-104986,4S eSIM,eSIM Jordanie Illimité 7 jours,JO,Jordanie,,Illimité,7,33.32,EUR,4G,oui
+4sesim-104987,4S eSIM,eSIM Mexique 20 Go 7 jours,MX,Mexique,20,20 Go,7,28.51,EUR,4G,non
+4sesim-104988,4S eSIM,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,77.63,EUR,4G,oui
+4sesim-104989,4S eSIM,eSIM Portugal 5 Go 15 jours,PT,Portugal,5,5 Go,15,13.3,EUR,4G,oui
+4sesim-104990,4S eSIM,eSIM Émirats arabes unis 5 Go 30 jours,AE,Émirats arabes unis,5,5 Go,30,17.5,EUR,5G,non
+4sesim-104991,4S eSIM,eSIM Pologne 1 Go 7 jours,PL,Pologne,1,1 Go,7,6.36,EUR,4G,oui
+4sesim-104992,4S eSIM,eSIM Pérou 3 Go 7 jours,PE,Pérou,3,3 Go,7,9.41,EUR,5G,oui
+4sesim-104993,4S eSIM,eSIM Grèce 50 Go 15 jours,GR,Grèce,50,50 Go,15,60.63,EUR,4G,oui
+4sesim-104994,4S eSIM,eSIM Vietnam 1 Go 7 jours,VN,Vietnam,1,1 Go,7,5.62,EUR,4G,non
+4sesim-104995,4S eSIM,eSIM Malaisie 5 Go 15 jours,MY,Malaisie,5,5 Go,15,12.85,EUR,5G,oui
+4sesim-104996,4S eSIM,eSIM Pologne 20 Go 7 jours,PL,Pologne,20,20 Go,7,29.82,EUR,5G,oui
+4sesim-104997,4S eSIM,eSIM France 50 Go 15 jours,FR,France,50,50 Go,15,60.3,EUR,4G,oui
+4sesim-104998,4S eSIM,eSIM Portugal 3 Go 30 jours,PT,Portugal,3,3 Go,30,11.68,EUR,4G,non
+4sesim-104999,4S eSIM,eSIM Grèce 3 Go 30 jours,GR,Grèce,3,3 Go,30,12.07,EUR,4G,oui
+4sesim-105000,4S eSIM,eSIM Maroc 10 Go 7 jours,MA,Maroc,10,10 Go,7,18.15,EUR,4G,oui
+4sesim-105001,4S eSIM,eSIM Turquie 20 Go 7 jours,TR,Turquie,20,20 Go,7,29.1,EUR,4G,non
+4sesim-105002,4S eSIM,eSIM Allemagne 5 Go 15 jours,DE,Allemagne,5,5 Go,15,13.31,EUR,4G,oui
+4sesim-105003,4S eSIM,eSIM Asie 5 Go 15 jours,AS,Asie,5,5 Go,15,17.83,EUR,4G,non
+4sesim-105004,4S eSIM,eSIM Croatie Illimité 30 jours,HR,Croatie,,Illimité,30,73.72,EUR,5G,oui
+4sesim-105005,4S eSIM,eSIM Mexique 20 Go 30 jours,MX,Mexique,20,20 Go,30,38.99,EUR,5G,oui
+4sesim-105006,4S eSIM,eSIM France 10 Go 15 jours,FR,France,10,10 Go,15,18.18,EUR,5G,non
+4sesim-105007,4S eSIM,eSIM Portugal 5 Go 7 jours,PT,Portugal,5,5 Go,7,12.3,EUR,4G,oui
+4sesim-105008,4S eSIM,eSIM Canada 10 Go 15 jours,CA,Canada,10,10 Go,15,19.58,EUR,4G,oui
+4sesim-105009,4S eSIM,eSIM Colombie 1 Go 7 jours,CO,Colombie,1,1 Go,7,5.6,EUR,4G,non
+4sesim-105010,4S eSIM,eSIM Égypte 1 Go 7 jours,EG,Égypte,1,1 Go,7,6.05,EUR,4G,oui
+4sesim-105011,4S eSIM,eSIM Rép. dominicaine 1 Go 30 jours,DO,Rép. dominicaine,1,1 Go,30,8.39,EUR,4G,non
+4sesim-105012,4S eSIM,eSIM Pérou 10 Go 30 jours,PE,Pérou,10,10 Go,30,22.71,EUR,4G,oui
+4sesim-105013,4S eSIM,eSIM Autriche 3 Go 30 jours,AT,Autriche,3,3 Go,30,11.98,EUR,4G,non
+4sesim-105014,4S eSIM,eSIM Argentine 1 Go 30 jours,AR,Argentine,1,1 Go,30,8.22,EUR,5G,oui
+4sesim-105015,4S eSIM,eSIM France 10 Go 7 jours,FR,France,10,10 Go,7,19.8,EUR,4G,non
+4sesim-105016,4S eSIM,eSIM Croatie 1 Go 15 jours,HR,Croatie,1,1 Go,15,6.02,EUR,4G,oui
+4sesim-105017,4S eSIM,eSIM France 10 Go 30 jours,FR,France,10,10 Go,30,23.48,EUR,4G,non
+4sesim-105018,4S eSIM,eSIM Asie 10 Go 7 jours,AS,Asie,10,10 Go,7,23.67,EUR,4G,oui
+4sesim-105019,4S eSIM,eSIM Canada 1 Go 30 jours,CA,Canada,1,1 Go,30,8.43,EUR,4G,non
+4sesim-105020,4S eSIM,eSIM Philippines 1 Go 15 jours,PH,Philippines,1,1 Go,15,7.13,EUR,4G,non
+4sesim-105021,4S eSIM,eSIM Jordanie 5 Go 30 jours,JO,Jordanie,5,5 Go,30,16.95,EUR,5G,oui
+4sesim-105022,4S eSIM,eSIM Émirats arabes unis 3 Go 30 jours,AE,Émirats arabes unis,3,3 Go,30,11.52,EUR,5G,oui
+4sesim-105023,4S eSIM,eSIM Corée du Sud 10 Go 7 jours,KR,Corée du Sud,10,10 Go,7,17.76,EUR,5G,non
+4sesim-105024,4S eSIM,eSIM Kenya 1 Go 30 jours,KE,Kenya,1,1 Go,30,8.18,EUR,4G,oui
+4sesim-105025,4S eSIM,eSIM Malaisie 10 Go 15 jours,MY,Malaisie,10,10 Go,15,21.64,EUR,4G,oui
+4sesim-105026,4S eSIM,eSIM Philippines 5 Go 7 jours,PH,Philippines,5,5 Go,7,12.32,EUR,5G,oui
+4sesim-105027,4S eSIM,eSIM Turquie 50 Go 7 jours,TR,Turquie,50,50 Go,7,50.91,EUR,5G,non
+4sesim-105028,4S eSIM,eSIM Tchéquie Illimité 15 jours,CZ,Tchéquie,,Illimité,15,47.17,EUR,5G,oui
+4sesim-105029,4S eSIM,eSIM Europe 20 Go 7 jours,EU,Europe,20,20 Go,7,42.64,EUR,4G,oui
+4sesim-105030,4S eSIM,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,102.05,EUR,5G,non
+4sesim-105031,4S eSIM,eSIM Autriche 3 Go 30 jours,AT,Autriche,3,3 Go,30,11.39,EUR,4G,non
+4sesim-105032,4S eSIM,eSIM Pays-Bas 3 Go 30 jours,NL,Pays-Bas,3,3 Go,30,12.25,EUR,4G,oui
+4sesim-105033,4S eSIM,eSIM Égypte 10 Go 15 jours,EG,Égypte,10,10 Go,15,18.82,EUR,5G,oui
+4sesim-105034,4S eSIM,eSIM Thaïlande 1 Go 7 jours,TH,Thaïlande,1,1 Go,7,6.21,EUR,4G,non
+4sesim-105035,4S eSIM,eSIM Égypte 50 Go 15 jours,EG,Égypte,50,50 Go,15,58.41,EUR,4G,non
+4sesim-105036,4S eSIM,eSIM Allemagne 10 Go 30 jours,DE,Allemagne,10,10 Go,30,22.26,EUR,4G,non
+4sesim-105037,4S eSIM,eSIM Qatar Illimité 7 jours,QA,Qatar,,Illimité,7,32.2,EUR,5G,oui
+4sesim-105038,4S eSIM,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,7.85,EUR,5G,non
+4sesim-105039,4S eSIM,eSIM Chili 3 Go 7 jours,CL,Chili,3,3 Go,7,9.11,EUR,4G,oui
+4sesim-105040,4S eSIM,eSIM Pérou 1 Go 15 jours,PE,Pérou,1,1 Go,15,7.12,EUR,5G,non
+4sesim-105041,4S eSIM,eSIM Europe 3 Go 30 jours,EU,Europe,3,3 Go,30,17.44,EUR,4G,oui
+4sesim-105042,4S eSIM,eSIM Nouvelle-Zélande Illimité 7 jours,NZ,Nouvelle-Zélande,,Illimité,7,35.34,EUR,5G,non
+4sesim-105043,4S eSIM,eSIM Arabie saoudite 20 Go 7 jours,SA,Arabie saoudite,20,20 Go,7,28.11,EUR,4G,oui
+4sesim-105044,4S eSIM,eSIM Indonésie 5 Go 30 jours,ID,Indonésie,5,5 Go,30,15.04,EUR,4G,oui
+4sesim-105045,4S eSIM,eSIM Kenya 50 Go 15 jours,KE,Kenya,50,50 Go,15,52.83,EUR,4G,non
+4sesim-105046,4S eSIM,eSIM France 20 Go 7 jours,FR,France,20,20 Go,7,25.85,EUR,5G,non
+4sesim-105047,4S eSIM,eSIM Belgique 20 Go 7 jours,BE,Belgique,20,20 Go,7,25.13,EUR,5G,non
+4sesim-105048,4S eSIM,eSIM Asie 20 Go 15 jours,AS,Asie,20,20 Go,15,47.22,EUR,5G,oui
+4sesim-105049,4S eSIM,eSIM Kenya 5 Go 15 jours,KE,Kenya,5,5 Go,15,14.74,EUR,4G,oui
+4sesim-105050,4S eSIM,eSIM Corée du Sud 1 Go 7 jours,KR,Corée du Sud,1,1 Go,7,6.3,EUR,4G,oui
+4sesim-105051,4S eSIM,eSIM Norvège 10 Go 7 jours,NO,Norvège,10,10 Go,7,19.04,EUR,5G,non
+4sesim-105052,4S eSIM,eSIM Monde 1 Go 30 jours,WW,Monde,1,1 Go,30,10.78,EUR,4G,oui
+4sesim-105053,4S eSIM,eSIM Afrique du Sud 1 Go 7 jours,ZA,Afrique du Sud,1,1 Go,7,6.27,EUR,5G,oui
+4sesim-105054,4S eSIM,eSIM Philippines 3 Go 7 jours,PH,Philippines,3,3 Go,7,8.9,EUR,4G,non
+4sesim-105055,4S eSIM,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,128.8,EUR,4G,non
+4sesim-105056,4S eSIM,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,128.12,EUR,5G,non

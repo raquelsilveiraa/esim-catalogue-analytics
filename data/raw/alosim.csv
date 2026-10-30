@@ -1,0 +1,263 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+alosim-103035,aloSIM,eSIM Irlande 50 Go 30 jours,IE,Irlande,50,50 Go,30,69.19,EUR,4G,oui
+alosim-103036,aloSIM,eSIM Brésil 3 Go 15 jours,BR,Brésil,3,3 Go,15,11.43,EUR,4G,oui
+alosim-103037,aloSIM,eSIM Arabie saoudite 20 Go 30 jours,SA,Arabie saoudite,20,20 Go,30,34.06,EUR,5G,oui
+alosim-103038,aloSIM,eSIM Pérou Illimité 30 jours,PE,Pérou,,Illimité,30,72.53,EUR,5G,oui
+alosim-103039,aloSIM,eSIM Pays-Bas Illimité 7 jours,NL,Pays-Bas,,Illimité,7,34.79,EUR,4G,oui
+alosim-103040,aloSIM,eSIM Australie 20 Go 30 jours,AU,Australie,20,20 Go,30,35.49,EUR,4G,non
+alosim-103041,aloSIM,eSIM Espagne 1 Go 15 jours,ES,Espagne,1,1 Go,15,7.19,EUR,4G,oui
+alosim-103042,aloSIM,eSIM Malaisie 50 Go 7 jours,MY,Malaisie,50,50 Go,7,53.21,EUR,4G,oui
+alosim-103043,aloSIM,eSIM Europe 1 Go 15 jours,EU,Europe,1,1 Go,15,9.4,EUR,5G,oui
+alosim-103044,aloSIM,eSIM Kenya Illimité 30 jours,KE,Kenya,,Illimité,30,78.02,EUR,5G,oui
+alosim-103045,aloSIM,eSIM Amérique du Nord 5 Go 15 jours,NA,Amérique du Nord,5,5 Go,15,19.83,EUR,5G,non
+alosim-103046,aloSIM,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,79.87,EUR,4G,oui
+alosim-103047,aloSIM,eSIM Nigeria 10 Go 15 jours,NG,Nigeria,10,10 Go,15,20.1,EUR,4G,oui
+alosim-103048,aloSIM,eSIM Espagne 1 Go 15 jours,ES,Espagne,1,1 Go,15,7.13,EUR,5G,non
+alosim-103049,aloSIM,eSIM Nouvelle-Zélande 50 Go 30 jours,NZ,Nouvelle-Zélande,50,50 Go,30,60.59,EUR,4G,oui
+alosim-103050,aloSIM,eSIM Europe 5 Go 30 jours,EU,Europe,5,5 Go,30,22.81,EUR,4G,oui
+alosim-103051,aloSIM,eSIM Égypte Illimité 30 jours,EG,Égypte,,Illimité,30,80.74,EUR,5G,oui
+alosim-103052,aloSIM,eSIM Monde 3 Go 7 jours,WW,Monde,3,3 Go,7,14.33,EUR,4G,oui
+alosim-103053,aloSIM,eSIM Asie 1 Go 30 jours,AS,Asie,1,1 Go,30,11.23,EUR,5G,oui
+alosim-103054,aloSIM,eSIM Vietnam 50 Go 15 jours,VN,Vietnam,50,50 Go,15,56.76,EUR,4G,non
+alosim-103055,aloSIM,eSIM Pologne 20 Go 30 jours,PL,Pologne,20,20 Go,30,37.43,EUR,4G,oui
+alosim-103056,aloSIM,eSIM Égypte 10 Go 30 jours,EG,Égypte,10,10 Go,30,22.05,EUR,5G,oui
+alosim-103057,aloSIM,eSIM Espagne 10 Go 15 jours,ES,Espagne,10,10 Go,15,18.96,EUR,4G,oui
+alosim-103058,aloSIM,eSIM Rép. dominicaine 1 Go 30 jours,DO,Rép. dominicaine,1,1 Go,30,7.95,EUR,5G,non
+alosim-103059,aloSIM,eSIM Afrique du Sud 50 Go 7 jours,ZA,Afrique du Sud,50,50 Go,7,48.26,EUR,4G,non
+alosim-103060,aloSIM,eSIM Pérou 5 Go 7 jours,PE,Pérou,5,5 Go,7,12.6,EUR,4G,oui
+alosim-103061,aloSIM,eSIM Philippines 10 Go 7 jours,PH,Philippines,10,10 Go,7,19.48,EUR,4G,oui
+alosim-103062,aloSIM,eSIM Italie 10 Go 15 jours,IT,Italie,10,10 Go,15,19.89,EUR,5G,non
+alosim-103063,aloSIM,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,107.5,EUR,5G,oui
+alosim-103064,aloSIM,eSIM Thaïlande 10 Go 30 jours,TH,Thaïlande,10,10 Go,30,25.9,EUR,4G,oui
+alosim-103065,aloSIM,eSIM États-Unis 50 Go 15 jours,US,États-Unis,50,50 Go,15,60.02,EUR,5G,non
+alosim-103066,aloSIM,eSIM Kenya 3 Go 30 jours,KE,Kenya,3,3 Go,30,12.28,EUR,4G,non
+alosim-103067,aloSIM,eSIM Amérique du Nord 3 Go 30 jours,NA,Amérique du Nord,3,3 Go,30,18.55,EUR,4G,oui
+alosim-103068,aloSIM,eSIM Grèce 1 Go 7 jours,GR,Grèce,1,1 Go,7,5.77,EUR,4G,oui
+alosim-103069,aloSIM,eSIM Monde Illimité 7 jours,WW,Monde,,Illimité,7,44.23,EUR,5G,oui
+alosim-103070,aloSIM,eSIM Rép. dominicaine 3 Go 30 jours,DO,Rép. dominicaine,3,3 Go,30,11.53,EUR,4G,oui
+alosim-103071,aloSIM,eSIM Argentine 20 Go 15 jours,AR,Argentine,20,20 Go,15,32.36,EUR,4G,oui
+alosim-103072,aloSIM,eSIM Arabie saoudite 3 Go 30 jours,SA,Arabie saoudite,3,3 Go,30,12.34,EUR,4G,non
+alosim-103073,aloSIM,eSIM Tchéquie 5 Go 15 jours,CZ,Tchéquie,5,5 Go,15,14.92,EUR,5G,non
+alosim-103074,aloSIM,eSIM Émirats arabes unis 5 Go 7 jours,AE,Émirats arabes unis,5,5 Go,7,12.08,EUR,4G,non
+alosim-103075,aloSIM,eSIM Norvège 10 Go 7 jours,NO,Norvège,10,10 Go,7,18.3,EUR,4G,non
+alosim-103076,aloSIM,eSIM Norvège 20 Go 7 jours,NO,Norvège,20,20 Go,7,28.55,EUR,4G,oui
+alosim-103077,aloSIM,eSIM Qatar 50 Go 7 jours,QA,Qatar,50,50 Go,7,49.76,EUR,5G,oui
+alosim-103078,aloSIM,eSIM Italie 20 Go 30 jours,IT,Italie,20,20 Go,30,36.98,EUR,4G,non
+alosim-103079,aloSIM,eSIM Portugal 10 Go 7 jours,PT,Portugal,10,10 Go,7,17.85,EUR,4G,oui
+alosim-103080,aloSIM,eSIM Nouvelle-Zélande 50 Go 30 jours,NZ,Nouvelle-Zélande,50,50 Go,30,61.52,EUR,4G,oui
+alosim-103081,aloSIM,eSIM Autriche 1 Go 7 jours,AT,Autriche,1,1 Go,7,6.03,EUR,4G,non
+alosim-103082,aloSIM,eSIM Australie Illimité 30 jours,AU,Australie,,Illimité,30,74.8,EUR,5G,oui
+alosim-103083,aloSIM,eSIM Amérique du Nord 5 Go 7 jours,NA,Amérique du Nord,5,5 Go,7,16.59,EUR,5G,non
+alosim-103084,aloSIM,eSIM Corée du Sud 20 Go 15 jours,KR,Corée du Sud,20,20 Go,15,31.76,EUR,4G,non
+alosim-103085,aloSIM,eSIM Amérique du Nord Illimité 15 jours,NA,Amérique du Nord,,Illimité,15,69.5,EUR,5G,non
+alosim-103086,aloSIM,eSIM Émirats arabes unis 20 Go 7 jours,AE,Émirats arabes unis,20,20 Go,7,29.53,EUR,4G,non
+alosim-103087,aloSIM,eSIM France 5 Go 7 jours,FR,France,5,5 Go,7,11.11,EUR,4G,non
+alosim-103088,aloSIM,eSIM Irlande 20 Go 7 jours,IE,Irlande,20,20 Go,7,26.84,EUR,4G,oui
+alosim-103089,aloSIM,eSIM Croatie 20 Go 7 jours,HR,Croatie,20,20 Go,7,27.06,EUR,5G,oui
+alosim-103090,aloSIM,eSIM Corée du Sud Illimité 15 jours,KR,Corée du Sud,,Illimité,15,47.8,EUR,4G,non
+alosim-103091,aloSIM,eSIM Canada 3 Go 15 jours,CA,Canada,3,3 Go,15,10.25,EUR,4G,non
+alosim-103092,aloSIM,eSIM Pologne 50 Go 15 jours,PL,Pologne,50,50 Go,15,56.13,EUR,4G,non
+alosim-103093,aloSIM,eSIM Turquie 50 Go 30 jours,TR,Turquie,50,50 Go,30,60.23,EUR,4G,non
+alosim-103094,aloSIM,eSIM Portugal 50 Go 15 jours,PT,Portugal,50,50 Go,15,52.24,EUR,4G,non
+alosim-103095,aloSIM,eSIM Allemagne 1 Go 30 jours,DE,Allemagne,1,1 Go,30,7.86,EUR,4G,oui
+alosim-103096,aloSIM,eSIM Qatar 20 Go 7 jours,QA,Qatar,20,20 Go,7,25.15,EUR,4G,non
+alosim-103097,aloSIM,eSIM États-Unis 3 Go 15 jours,US,États-Unis,3,3 Go,15,10.78,EUR,5G,oui
+alosim-103098,aloSIM,eSIM Nigeria 10 Go 7 jours,NG,Nigeria,10,10 Go,7,18.94,EUR,4G,oui
+alosim-103099,aloSIM,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,8.97,EUR,5G,non
+alosim-103100,aloSIM,eSIM Espagne 10 Go 7 jours,ES,Espagne,10,10 Go,7,17.14,EUR,4G,oui
+alosim-103101,aloSIM,eSIM Europe 50 Go 30 jours,EU,Europe,50,50 Go,30,88.44,EUR,4G,non
+alosim-103102,aloSIM,eSIM Autriche 20 Go 30 jours,AT,Autriche,20,20 Go,30,39.29,EUR,4G,oui
+alosim-103103,aloSIM,eSIM Suède 10 Go 15 jours,SE,Suède,10,10 Go,15,21.74,EUR,4G,non
+alosim-103104,aloSIM,eSIM Norvège 50 Go 30 jours,NO,Norvège,50,50 Go,30,60.19,EUR,4G,non
+alosim-103105,aloSIM,eSIM Pérou 5 Go 30 jours,PE,Pérou,5,5 Go,30,16.98,EUR,4G,oui
+alosim-103106,aloSIM,eSIM Émirats arabes unis Illimité 15 jours,AE,Émirats arabes unis,,Illimité,15,53.31,EUR,5G,non
+alosim-103107,aloSIM,eSIM Allemagne Illimité 7 jours,DE,Allemagne,,Illimité,7,33.37,EUR,5G,oui
+alosim-103108,aloSIM,eSIM Nouvelle-Zélande Illimité 15 jours,NZ,Nouvelle-Zélande,,Illimité,15,49.09,EUR,4G,non
+alosim-103109,aloSIM,eSIM Pérou 3 Go 15 jours,PE,Pérou,3,3 Go,15,10.05,EUR,4G,oui
+alosim-103110,aloSIM,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,83.15,EUR,4G,non
+alosim-103111,aloSIM,eSIM Allemagne 3 Go 7 jours,DE,Allemagne,3,3 Go,7,9.06,EUR,5G,oui
+alosim-103112,aloSIM,eSIM France 5 Go 15 jours,FR,France,5,5 Go,15,14.31,EUR,5G,oui
+alosim-103113,aloSIM,eSIM Indonésie 1 Go 15 jours,ID,Indonésie,1,1 Go,15,6.47,EUR,4G,non
+alosim-103114,aloSIM,eSIM Qatar 50 Go 15 jours,QA,Qatar,50,50 Go,15,59.2,EUR,4G,oui
+alosim-103115,aloSIM,eSIM Monde 10 Go 30 jours,WW,Monde,10,10 Go,30,33.47,EUR,4G,oui
+alosim-103116,aloSIM,eSIM Suède Illimité 7 jours,SE,Suède,,Illimité,7,37.15,EUR,5G,oui
+alosim-103117,aloSIM,eSIM Chili 10 Go 15 jours,CL,Chili,10,10 Go,15,20.33,EUR,5G,non
+alosim-103118,aloSIM,eSIM Monde 1 Go 15 jours,WW,Monde,1,1 Go,15,9.99,EUR,4G,non
+alosim-103119,aloSIM,eSIM Brésil 50 Go 7 jours,BR,Brésil,50,50 Go,7,45.8,EUR,5G,non
+alosim-103120,aloSIM,eSIM Japon 50 Go 7 jours,JP,Japon,50,50 Go,7,45.47,EUR,4G,oui
+alosim-103121,aloSIM,eSIM Émirats arabes unis 50 Go 30 jours,AE,Émirats arabes unis,50,50 Go,30,68.13,EUR,4G,non
+alosim-103122,aloSIM,eSIM Afrique du Sud 20 Go 30 jours,ZA,Afrique du Sud,20,20 Go,30,34.81,EUR,5G,oui
+alosim-103123,aloSIM,eSIM Mexique 20 Go 7 jours,MX,Mexique,20,20 Go,7,28.06,EUR,5G,non
+alosim-103124,aloSIM,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,71,EUR,4G,oui
+alosim-103125,aloSIM,eSIM Belgique 10 Go 30 jours,BE,Belgique,10,10 Go,30,25.15,EUR,4G,non
+alosim-103126,aloSIM,eSIM Philippines 10 Go 7 jours,PH,Philippines,10,10 Go,7,17.55,EUR,4G,oui
+alosim-103127,aloSIM,eSIM Espagne 5 Go 15 jours,ES,Espagne,5,5 Go,15,14.82,EUR,4G,oui
+alosim-103128,aloSIM,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,99.08,EUR,4G,non
+alosim-103129,aloSIM,eSIM Australie 20 Go 7 jours,AU,Australie,20,20 Go,7,26,EUR,4G,non
+alosim-103130,aloSIM,eSIM Asie 5 Go 30 jours,AS,Asie,5,5 Go,30,24.31,EUR,5G,non
+alosim-103131,aloSIM,eSIM Inde Illimité 30 jours,IN,Inde,,Illimité,30,78.21,EUR,5G,oui
+alosim-103132,aloSIM,eSIM Malaisie 20 Go 7 jours,MY,Malaisie,20,20 Go,7,28.45,EUR,4G,oui
+alosim-103133,aloSIM,eSIM Pays-Bas 5 Go 30 jours,NL,Pays-Bas,5,5 Go,30,16.2,EUR,5G,oui
+alosim-103134,aloSIM,eSIM Monde 3 Go 30 jours,WW,Monde,3,3 Go,30,18.26,EUR,5G,non
+alosim-103135,aloSIM,eSIM Amérique du Nord 50 Go 7 jours,NA,Amérique du Nord,50,50 Go,7,73.34,EUR,5G,oui
+alosim-103136,aloSIM,eSIM Autriche 5 Go 30 jours,AT,Autriche,5,5 Go,30,16.72,EUR,4G,non
+alosim-103137,aloSIM,eSIM Philippines Illimité 15 jours,PH,Philippines,,Illimité,15,49.46,EUR,5G,non
+alosim-103138,aloSIM,eSIM Australie Illimité 30 jours,AU,Australie,,Illimité,30,73.5,EUR,5G,non
+alosim-103139,aloSIM,eSIM Espagne 5 Go 15 jours,ES,Espagne,5,5 Go,15,14.45,EUR,5G,non
+alosim-103140,aloSIM,eSIM Asie Illimité 15 jours,AS,Asie,,Illimité,15,62.28,EUR,5G,oui
+alosim-103141,aloSIM,eSIM Italie 1 Go 30 jours,IT,Italie,1,1 Go,30,7.38,EUR,4G,oui
+alosim-103142,aloSIM,eSIM Monde 10 Go 30 jours,WW,Monde,10,10 Go,30,36.36,EUR,5G,non
+alosim-103143,aloSIM,eSIM Colombie 1 Go 7 jours,CO,Colombie,1,1 Go,7,5.49,EUR,5G,oui
+alosim-103144,aloSIM,eSIM Norvège 50 Go 15 jours,NO,Norvège,50,50 Go,15,59.42,EUR,4G,oui
+alosim-103145,aloSIM,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,29.44,EUR,5G,oui
+alosim-103146,aloSIM,eSIM Australie 50 Go 15 jours,AU,Australie,50,50 Go,15,58.93,EUR,4G,oui
+alosim-103147,aloSIM,eSIM Inde Illimité 15 jours,IN,Inde,,Illimité,15,49.82,EUR,4G,non
+alosim-103148,aloSIM,eSIM Corée du Sud Illimité 15 jours,KR,Corée du Sud,,Illimité,15,49.81,EUR,4G,oui
+alosim-103149,aloSIM,eSIM Nigeria 1 Go 15 jours,NG,Nigeria,1,1 Go,15,7.09,EUR,5G,oui
+alosim-103150,aloSIM,eSIM Jordanie 3 Go 15 jours,JO,Jordanie,3,3 Go,15,11.38,EUR,5G,oui
+alosim-103151,aloSIM,eSIM Tchéquie Illimité 30 jours,CZ,Tchéquie,,Illimité,30,82.68,EUR,5G,oui
+alosim-103152,aloSIM,eSIM Arabie saoudite 5 Go 30 jours,SA,Arabie saoudite,5,5 Go,30,17.45,EUR,4G,oui
+alosim-103153,aloSIM,eSIM Qatar 20 Go 7 jours,QA,Qatar,20,20 Go,7,27.84,EUR,5G,non
+alosim-103154,aloSIM,eSIM Pologne 5 Go 15 jours,PL,Pologne,5,5 Go,15,13.72,EUR,4G,non
+alosim-103155,aloSIM,eSIM Chili 50 Go 30 jours,CL,Chili,50,50 Go,30,63.14,EUR,5G,oui
+alosim-103156,aloSIM,eSIM Corée du Sud 50 Go 7 jours,KR,Corée du Sud,50,50 Go,7,54.37,EUR,4G,non
+alosim-103157,aloSIM,eSIM Japon 20 Go 30 jours,JP,Japon,20,20 Go,30,32.82,EUR,4G,non
+alosim-103158,aloSIM,eSIM Nouvelle-Zélande 10 Go 7 jours,NZ,Nouvelle-Zélande,10,10 Go,7,17.36,EUR,5G,non
+alosim-103159,aloSIM,eSIM Europe 3 Go 30 jours,EU,Europe,3,3 Go,30,16.82,EUR,4G,oui
+alosim-103160,aloSIM,eSIM Royaume-Uni 20 Go 7 jours,GB,Royaume-Uni,20,20 Go,7,29.28,EUR,5G,non
+alosim-103161,aloSIM,eSIM Europe 5 Go 30 jours,EU,Europe,5,5 Go,30,23.8,EUR,4G,non
+alosim-103162,aloSIM,eSIM États-Unis 1 Go 30 jours,US,États-Unis,1,1 Go,30,7.58,EUR,4G,oui
+alosim-103163,aloSIM,eSIM Colombie 20 Go 7 jours,CO,Colombie,20,20 Go,7,28.83,EUR,5G,oui
+alosim-103164,aloSIM,eSIM Jordanie 50 Go 15 jours,JO,Jordanie,50,50 Go,15,55.23,EUR,4G,oui
+alosim-103165,aloSIM,eSIM Philippines 1 Go 15 jours,PH,Philippines,1,1 Go,15,6.42,EUR,4G,oui
+alosim-103166,aloSIM,eSIM Royaume-Uni 50 Go 7 jours,GB,Royaume-Uni,50,50 Go,7,53.86,EUR,4G,oui
+alosim-103167,aloSIM,eSIM États-Unis Illimité 7 jours,US,États-Unis,,Illimité,7,32.49,EUR,5G,non
+alosim-103168,aloSIM,eSIM Corée du Sud 20 Go 30 jours,KR,Corée du Sud,20,20 Go,30,35.62,EUR,4G,oui
+alosim-103169,aloSIM,eSIM Vietnam 3 Go 7 jours,VN,Vietnam,3,3 Go,7,9.55,EUR,5G,oui
+alosim-103170,aloSIM,eSIM France 20 Go 30 jours,FR,France,20,20 Go,30,32.76,EUR,5G,non
+alosim-103171,aloSIM,eSIM Kenya 20 Go 15 jours,KE,Kenya,20,20 Go,15,30.83,EUR,5G,non
+alosim-103172,aloSIM,eSIM Australie 1 Go 30 jours,AU,Australie,1,1 Go,30,7.27,EUR,5G,non
+alosim-103173,aloSIM,eSIM Afrique du Sud 3 Go 30 jours,ZA,Afrique du Sud,3,3 Go,30,12.04,EUR,5G,oui
+alosim-103174,aloSIM,eSIM Amérique du Nord 3 Go 30 jours,NA,Amérique du Nord,3,3 Go,30,16.81,EUR,4G,oui
+alosim-103175,aloSIM,eSIM Jordanie 1 Go 7 jours,JO,Jordanie,1,1 Go,7,5.52,EUR,5G,non
+alosim-103176,aloSIM,eSIM Belgique 50 Go 15 jours,BE,Belgique,50,50 Go,15,59.95,EUR,4G,non
+alosim-103177,aloSIM,eSIM Belgique Illimité 7 jours,BE,Belgique,,Illimité,7,31.14,EUR,5G,oui
+alosim-103178,aloSIM,eSIM Grèce 1 Go 15 jours,GR,Grèce,1,1 Go,15,6.9,EUR,5G,oui
+alosim-103179,aloSIM,eSIM États-Unis 1 Go 7 jours,US,États-Unis,1,1 Go,7,5.87,EUR,5G,non
+alosim-103180,aloSIM,eSIM Croatie 20 Go 7 jours,HR,Croatie,20,20 Go,7,26.01,EUR,5G,non
+alosim-103181,aloSIM,eSIM Singapour 5 Go 30 jours,SG,Singapour,5,5 Go,30,17.45,EUR,5G,oui
+alosim-103182,aloSIM,eSIM Japon 1 Go 30 jours,JP,Japon,1,1 Go,30,7.85,EUR,4G,non
+alosim-103183,aloSIM,eSIM Jordanie 20 Go 30 jours,JO,Jordanie,20,20 Go,30,35.6,EUR,4G,oui
+alosim-103184,aloSIM,eSIM Irlande 3 Go 30 jours,IE,Irlande,3,3 Go,30,12.54,EUR,4G,oui
+alosim-103185,aloSIM,eSIM Monde 5 Go 30 jours,WW,Monde,5,5 Go,30,20.94,EUR,4G,non
+alosim-103186,aloSIM,eSIM Afrique du Sud 50 Go 30 jours,ZA,Afrique du Sud,50,50 Go,30,65.86,EUR,4G,non
+alosim-103187,aloSIM,eSIM Belgique Illimité 7 jours,BE,Belgique,,Illimité,7,36.49,EUR,4G,non
+alosim-103188,aloSIM,eSIM Autriche 50 Go 30 jours,AT,Autriche,50,50 Go,30,65.82,EUR,5G,oui
+alosim-103189,aloSIM,eSIM Philippines 20 Go 15 jours,PH,Philippines,20,20 Go,15,28.59,EUR,4G,oui
+alosim-103190,aloSIM,eSIM Asie 50 Go 7 jours,AS,Asie,50,50 Go,7,72.96,EUR,5G,non
+alosim-103191,aloSIM,eSIM Mexique 20 Go 7 jours,MX,Mexique,20,20 Go,7,26.69,EUR,4G,oui
+alosim-103192,aloSIM,eSIM Rép. dominicaine 1 Go 15 jours,DO,Rép. dominicaine,1,1 Go,15,6.43,EUR,4G,non
+alosim-103193,aloSIM,eSIM Amérique du Nord 20 Go 7 jours,NA,Amérique du Nord,20,20 Go,7,36.03,EUR,5G,non
+alosim-103194,aloSIM,eSIM Amérique du Nord 50 Go 30 jours,NA,Amérique du Nord,50,50 Go,30,88.5,EUR,4G,oui
+alosim-103195,aloSIM,eSIM Corée du Sud 5 Go 15 jours,KR,Corée du Sud,5,5 Go,15,14.37,EUR,5G,non
+alosim-103196,aloSIM,eSIM Chine 5 Go 30 jours,CN,Chine,5,5 Go,30,15.65,EUR,4G,oui
+alosim-103197,aloSIM,eSIM Irlande 10 Go 7 jours,IE,Irlande,10,10 Go,7,18.82,EUR,5G,non
+alosim-103198,aloSIM,eSIM Émirats arabes unis 20 Go 15 jours,AE,Émirats arabes unis,20,20 Go,15,33.22,EUR,4G,non
+alosim-103199,aloSIM,eSIM Malaisie 1 Go 30 jours,MY,Malaisie,1,1 Go,30,7.94,EUR,4G,non
+alosim-103200,aloSIM,eSIM Philippines 3 Go 15 jours,PH,Philippines,3,3 Go,15,11.23,EUR,5G,non
+alosim-103201,aloSIM,eSIM Suède 3 Go 30 jours,SE,Suède,3,3 Go,30,12.34,EUR,4G,non
+alosim-103202,aloSIM,eSIM Tanzanie 10 Go 7 jours,TZ,Tanzanie,10,10 Go,7,17.85,EUR,4G,oui
+alosim-103203,aloSIM,eSIM Portugal Illimité 15 jours,PT,Portugal,,Illimité,15,53.77,EUR,5G,oui
+alosim-103204,aloSIM,eSIM Nouvelle-Zélande 20 Go 30 jours,NZ,Nouvelle-Zélande,20,20 Go,30,34.23,EUR,4G,non
+alosim-103205,aloSIM,eSIM Arabie saoudite 50 Go 7 jours,SA,Arabie saoudite,50,50 Go,7,45.87,EUR,4G,non
+alosim-103206,aloSIM,eSIM Vietnam 3 Go 30 jours,VN,Vietnam,3,3 Go,30,12.51,EUR,4G,non
+alosim-103207,aloSIM,eSIM Amérique du Nord 5 Go 7 jours,NA,Amérique du Nord,5,5 Go,7,15.7,EUR,5G,oui
+alosim-103208,aloSIM,eSIM Mexique 50 Go 15 jours,MX,Mexique,50,50 Go,15,57,EUR,4G,non
+alosim-103209,aloSIM,eSIM Qatar Illimité 15 jours,QA,Qatar,,Illimité,15,48.7,EUR,5G,non
+alosim-103210,aloSIM,eSIM Croatie 20 Go 30 jours,HR,Croatie,20,20 Go,30,32.84,EUR,4G,oui
+alosim-103211,aloSIM,eSIM Qatar Illimité 7 jours,QA,Qatar,,Illimité,7,35.81,EUR,5G,non
+alosim-103212,aloSIM,eSIM Pologne 1 Go 30 jours,PL,Pologne,1,1 Go,30,7.31,EUR,5G,oui
+alosim-103213,aloSIM,eSIM Indonésie Illimité 7 jours,ID,Indonésie,,Illimité,7,33.23,EUR,4G,oui
+alosim-103214,aloSIM,eSIM Pologne Illimité 7 jours,PL,Pologne,,Illimité,7,30.74,EUR,5G,non
+alosim-103215,aloSIM,eSIM Monde 1 Go 15 jours,WW,Monde,1,1 Go,15,10.01,EUR,4G,oui
+alosim-103216,aloSIM,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,11.16,EUR,4G,non
+alosim-103217,aloSIM,eSIM Colombie 20 Go 7 jours,CO,Colombie,20,20 Go,7,29.42,EUR,5G,oui
+alosim-103218,aloSIM,eSIM Mexique 20 Go 15 jours,MX,Mexique,20,20 Go,15,27.92,EUR,4G,oui
+alosim-103219,aloSIM,eSIM Kenya 20 Go 15 jours,KE,Kenya,20,20 Go,15,29.89,EUR,4G,oui
+alosim-103220,aloSIM,eSIM Pologne 5 Go 30 jours,PL,Pologne,5,5 Go,30,16.53,EUR,4G,oui
+alosim-103221,aloSIM,eSIM Monde 1 Go 7 jours,WW,Monde,1,1 Go,7,9.09,EUR,5G,non
+alosim-103222,aloSIM,eSIM Malaisie 20 Go 15 jours,MY,Malaisie,20,20 Go,15,32.87,EUR,4G,oui
+alosim-103223,aloSIM,eSIM Singapour 20 Go 15 jours,SG,Singapour,20,20 Go,15,29.02,EUR,4G,non
+alosim-103224,aloSIM,eSIM Japon 3 Go 30 jours,JP,Japon,3,3 Go,30,13.39,EUR,5G,oui
+alosim-103225,aloSIM,eSIM Arabie saoudite 3 Go 7 jours,SA,Arabie saoudite,3,3 Go,7,9.75,EUR,4G,non
+alosim-103226,aloSIM,eSIM Égypte 3 Go 30 jours,EG,Égypte,3,3 Go,30,12.91,EUR,4G,oui
+alosim-103227,aloSIM,eSIM Pays-Bas 1 Go 7 jours,NL,Pays-Bas,1,1 Go,7,5.95,EUR,4G,non
+alosim-103228,aloSIM,eSIM Belgique Illimité 7 jours,BE,Belgique,,Illimité,7,32.28,EUR,5G,oui
+alosim-103229,aloSIM,eSIM Pérou 1 Go 15 jours,PE,Pérou,1,1 Go,15,6.79,EUR,4G,non
+alosim-103230,aloSIM,eSIM Indonésie 10 Go 15 jours,ID,Indonésie,10,10 Go,15,19.92,EUR,4G,oui
+alosim-103231,aloSIM,eSIM Maroc 3 Go 7 jours,MA,Maroc,3,3 Go,7,10.14,EUR,4G,oui
+alosim-103232,aloSIM,eSIM Irlande 5 Go 7 jours,IE,Irlande,5,5 Go,7,11.4,EUR,4G,oui
+alosim-103233,aloSIM,eSIM Émirats arabes unis 10 Go 30 jours,AE,Émirats arabes unis,10,10 Go,30,25.63,EUR,4G,oui
+alosim-103234,aloSIM,eSIM Suisse 3 Go 7 jours,CH,Suisse,3,3 Go,7,10.05,EUR,5G,non
+alosim-103235,aloSIM,eSIM Singapour 20 Go 15 jours,SG,Singapour,20,20 Go,15,29.87,EUR,4G,oui
+alosim-103236,aloSIM,eSIM Argentine 1 Go 30 jours,AR,Argentine,1,1 Go,30,7.71,EUR,4G,non
+alosim-103237,aloSIM,eSIM Irlande 20 Go 15 jours,IE,Irlande,20,20 Go,15,30.14,EUR,4G,non
+alosim-103238,aloSIM,eSIM Australie 3 Go 7 jours,AU,Australie,3,3 Go,7,9.51,EUR,4G,oui
+alosim-103239,aloSIM,eSIM Belgique 20 Go 15 jours,BE,Belgique,20,20 Go,15,32.82,EUR,4G,non
+alosim-103240,aloSIM,eSIM Belgique 5 Go 30 jours,BE,Belgique,5,5 Go,30,15.26,EUR,4G,non
+alosim-103241,aloSIM,eSIM Irlande 10 Go 7 jours,IE,Irlande,10,10 Go,7,17,EUR,4G,oui
+alosim-103242,aloSIM,eSIM Croatie 1 Go 30 jours,HR,Croatie,1,1 Go,30,7.36,EUR,4G,non
+alosim-103243,aloSIM,eSIM Australie 10 Go 7 jours,AU,Australie,10,10 Go,7,19.09,EUR,5G,non
+alosim-103244,aloSIM,eSIM Chine 20 Go 30 jours,CN,Chine,20,20 Go,30,35.49,EUR,4G,oui
+alosim-103245,aloSIM,eSIM Philippines 3 Go 7 jours,PH,Philippines,3,3 Go,7,8.74,EUR,4G,non
+alosim-103246,aloSIM,eSIM Mexique 10 Go 30 jours,MX,Mexique,10,10 Go,30,23.09,EUR,5G,oui
+alosim-103247,aloSIM,eSIM Europe 10 Go 7 jours,EU,Europe,10,10 Go,7,27.12,EUR,4G,non
+alosim-103248,aloSIM,eSIM Amérique du Nord 20 Go 15 jours,NA,Amérique du Nord,20,20 Go,15,44.59,EUR,4G,oui
+alosim-103249,aloSIM,eSIM Croatie Illimité 15 jours,HR,Croatie,,Illimité,15,44.99,EUR,4G,non
+alosim-103250,aloSIM,eSIM Suisse Illimité 30 jours,CH,Suisse,,Illimité,30,85.24,EUR,5G,non
+alosim-103251,aloSIM,eSIM Tchéquie 5 Go 30 jours,CZ,Tchéquie,5,5 Go,30,15.78,EUR,4G,non
+alosim-103252,aloSIM,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,5.91,EUR,5G,oui
+alosim-103253,aloSIM,eSIM Turquie 20 Go 15 jours,TR,Turquie,20,20 Go,15,33.73,EUR,5G,non
+alosim-103254,aloSIM,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,102.31,EUR,5G,non
+alosim-103255,aloSIM,eSIM Suisse 5 Go 15 jours,CH,Suisse,5,5 Go,15,13.98,EUR,4G,oui
+alosim-103256,aloSIM,eSIM Nigeria 10 Go 15 jours,NG,Nigeria,10,10 Go,15,18.81,EUR,5G,non
+alosim-103257,aloSIM,eSIM Grèce 20 Go 30 jours,GR,Grèce,20,20 Go,30,33.42,EUR,4G,oui
+alosim-103258,aloSIM,eSIM France 3 Go 15 jours,FR,France,3,3 Go,15,10.41,EUR,4G,oui
+alosim-103259,aloSIM,eSIM Corée du Sud 5 Go 7 jours,KR,Corée du Sud,5,5 Go,7,12.75,EUR,4G,oui
+alosim-103260,aloSIM,eSIM Kenya 1 Go 15 jours,KE,Kenya,1,1 Go,15,6.15,EUR,5G,oui
+alosim-103261,aloSIM,eSIM Thaïlande 3 Go 30 jours,TH,Thaïlande,3,3 Go,30,13.3,EUR,5G,oui
+alosim-103262,aloSIM,eSIM Monde 1 Go 7 jours,WW,Monde,1,1 Go,7,8.8,EUR,5G,oui
+alosim-103263,aloSIM,eSIM Canada 3 Go 30 jours,CA,Canada,3,3 Go,30,13.36,EUR,4G,oui
+alosim-103264,aloSIM,eSIM Europe 20 Go 15 jours,EU,Europe,20,20 Go,15,41.93,EUR,5G,oui
+alosim-103265,aloSIM,eSIM Tanzanie 20 Go 7 jours,TZ,Tanzanie,20,20 Go,7,27.94,EUR,4G,non
+alosim-103266,aloSIM,eSIM Japon 5 Go 30 jours,JP,Japon,5,5 Go,30,17.12,EUR,4G,non
+alosim-103267,aloSIM,eSIM Espagne 5 Go 15 jours,ES,Espagne,5,5 Go,15,13.01,EUR,4G,oui
+alosim-103268,aloSIM,eSIM Singapour 20 Go 30 jours,SG,Singapour,20,20 Go,30,34.48,EUR,4G,non
+alosim-103269,aloSIM,eSIM Émirats arabes unis 3 Go 15 jours,AE,Émirats arabes unis,3,3 Go,15,10.28,EUR,4G,oui
+alosim-103270,aloSIM,eSIM Vietnam 20 Go 30 jours,VN,Vietnam,20,20 Go,30,38.48,EUR,4G,oui
+alosim-103271,aloSIM,eSIM Asie 20 Go 30 jours,AS,Asie,20,20 Go,30,53.64,EUR,4G,non
+alosim-103272,aloSIM,eSIM Israël 10 Go 7 jours,IL,Israël,10,10 Go,7,17.16,EUR,4G,non
+alosim-103273,aloSIM,eSIM Grèce 5 Go 15 jours,GR,Grèce,5,5 Go,15,14.61,EUR,5G,oui
+alosim-103274,aloSIM,eSIM France 5 Go 15 jours,FR,France,5,5 Go,15,13.7,EUR,5G,oui
+alosim-103275,aloSIM,eSIM Malaisie 20 Go 7 jours,MY,Malaisie,20,20 Go,7,25.4,EUR,5G,non
+alosim-103276,aloSIM,eSIM Émirats arabes unis 10 Go 30 jours,AE,Émirats arabes unis,10,10 Go,30,21.85,EUR,4G,non
+alosim-103277,aloSIM,eSIM Australie 20 Go 7 jours,AU,Australie,20,20 Go,7,28.05,EUR,4G,non
+alosim-103278,aloSIM,eSIM Suisse 5 Go 30 jours,CH,Suisse,5,5 Go,30,14.69,EUR,5G,non
+alosim-103279,aloSIM,eSIM Monde 1 Go 15 jours,WW,Monde,1,1 Go,15,8.32,EUR,4G,oui
+alosim-103280,aloSIM,eSIM Turquie Illimité 30 jours,TR,Turquie,,Illimité,30,76.51,EUR,5G,non
+alosim-103281,aloSIM,eSIM Corée du Sud 10 Go 30 jours,KR,Corée du Sud,10,10 Go,30,24.94,EUR,4G,non
+alosim-103282,aloSIM,eSIM Pays-Bas 10 Go 15 jours,NL,Pays-Bas,10,10 Go,15,20.52,EUR,4G,non
+alosim-103283,aloSIM,eSIM France 5 Go 7 jours,FR,France,5,5 Go,7,13.16,EUR,4G,non
+alosim-103284,aloSIM,eSIM Australie 5 Go 7 jours,AU,Australie,5,5 Go,7,11.99,EUR,5G,oui
+alosim-103285,aloSIM,eSIM Maroc Illimité 7 jours,MA,Maroc,,Illimité,7,34.28,EUR,5G,non
+alosim-103286,aloSIM,eSIM Amérique du Nord 3 Go 30 jours,NA,Amérique du Nord,3,3 Go,30,18.27,EUR,4G,oui
+alosim-103287,aloSIM,eSIM Indonésie 5 Go 7 jours,ID,Indonésie,5,5 Go,7,13.31,EUR,4G,oui
+alosim-103288,aloSIM,eSIM Autriche 3 Go 30 jours,AT,Autriche,3,3 Go,30,12.56,EUR,4G,oui
+alosim-103289,aloSIM,eSIM Brésil 10 Go 30 jours,BR,Brésil,10,10 Go,30,23.68,EUR,4G,oui
+alosim-103290,aloSIM,eSIM Irlande 1 Go 7 jours,IE,Irlande,1,1 Go,7,5.36,EUR,5G,oui
+alosim-103291,aloSIM,eSIM Autriche 20 Go 7 jours,AT,Autriche,20,20 Go,7,28.41,EUR,4G,non
+alosim-103292,aloSIM,eSIM Monde 20 Go 7 jours,WW,Monde,20,20 Go,7,36.57,EUR,5G,non
+alosim-103293,aloSIM,eSIM Malaisie 20 Go 15 jours,MY,Malaisie,20,20 Go,15,32.57,EUR,5G,oui
+alosim-103294,aloSIM,eSIM Kenya 3 Go 30 jours,KE,Kenya,3,3 Go,30,11.81,EUR,4G,non
+alosim-103295,aloSIM,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,126.11,EUR,5G,non
+alosim-103296,aloSIM,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,154.63,EUR,5G,oui

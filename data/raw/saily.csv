@@ -1,0 +1,383 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+saily-101717,Saily,eSIM Pologne 3 Go 15 jours,PL,Pologne,3,3 Go,15,10.27,EUR,4G,oui
+saily-101718,Saily,eSIM Vietnam 50 Go 15 jours,VN,Vietnam,50,50 Go,15,59.36,EUR,4G,oui
+saily-101719,Saily,eSIM Monde 10 Go 30 jours,WW,Monde,10,10 Go,30,32.33,EUR,4G,oui
+saily-101720,Saily,eSIM Pologne Illimité 7 jours,PL,Pologne,,Illimité,7,36.76,EUR,4G,oui
+saily-101721,Saily,eSIM Espagne Illimité 7 jours,ES,Espagne,,Illimité,7,33.54,EUR,5G,non
+saily-101722,Saily,eSIM Pologne 3 Go 15 jours,PL,Pologne,3,3 Go,15,10.23,EUR,5G,oui
+saily-101723,Saily,eSIM Pologne 5 Go 30 jours,PL,Pologne,5,5 Go,30,14.62,EUR,5G,oui
+saily-101724,Saily,eSIM Arabie saoudite 1 Go 7 jours,SA,Arabie saoudite,1,1 Go,7,6,EUR,5G,oui
+saily-101725,Saily,eSIM Espagne 3 Go 15 jours,ES,Espagne,3,3 Go,15,10.47,EUR,4G,oui
+saily-101726,Saily,eSIM Vietnam 3 Go 30 jours,VN,Vietnam,3,3 Go,30,12.39,EUR,4G,oui
+saily-101727,Saily,eSIM Pologne 3 Go 7 jours,PL,Pologne,3,3 Go,7,9.21,EUR,4G,non
+saily-101728,Saily,eSIM Nouvelle-Zélande 3 Go 30 jours,NZ,Nouvelle-Zélande,3,3 Go,30,11.62,EUR,4G,non
+saily-101729,Saily,eSIM Japon 10 Go 30 jours,JP,Japon,10,10 Go,30,25.11,EUR,4G,non
+saily-101730,Saily,eSIM Pérou 10 Go 7 jours,PE,Pérou,10,10 Go,7,17.56,EUR,4G,oui
+saily-101731,Saily,eSIM Turquie 20 Go 15 jours,TR,Turquie,20,20 Go,15,32,EUR,5G,oui
+saily-101732,Saily,eSIM Inde 10 Go 7 jours,IN,Inde,10,10 Go,7,19.81,EUR,5G,oui
+saily-101733,Saily,eSIM Tanzanie 50 Go 7 jours,TZ,Tanzanie,50,50 Go,7,52.42,EUR,4G,non
+saily-101734,Saily,eSIM Europe 50 Go 7 jours,EU,Europe,50,50 Go,7,63.75,EUR,5G,non
+saily-101735,Saily,eSIM Europe 20 Go 30 jours,EU,Europe,20,20 Go,30,51.48,EUR,4G,non
+saily-101736,Saily,eSIM Argentine 10 Go 30 jours,AR,Argentine,10,10 Go,30,25.98,EUR,4G,oui
+saily-101737,Saily,eSIM Arabie saoudite 1 Go 30 jours,SA,Arabie saoudite,1,1 Go,30,8.44,EUR,5G,non
+saily-101738,Saily,eSIM Monde 50 Go 7 jours,WW,Monde,50,50 Go,7,67.82,EUR,4G,non
+saily-101739,Saily,eSIM Royaume-Uni 50 Go 30 jours,GB,Royaume-Uni,50,50 Go,30,69.13,EUR,5G,oui
+saily-101740,Saily,eSIM Indonésie Illimité 15 jours,ID,Indonésie,,Illimité,15,49.67,EUR,5G,oui
+saily-101741,Saily,eSIM États-Unis Illimité 7 jours,US,États-Unis,,Illimité,7,30.69,EUR,5G,non
+saily-101742,Saily,eSIM Singapour 3 Go 7 jours,SG,Singapour,3,3 Go,7,9.07,EUR,4G,oui
+saily-101743,Saily,eSIM Italie 1 Go 15 jours,IT,Italie,1,1 Go,15,7.03,EUR,4G,oui
+saily-101744,Saily,eSIM Amérique du Nord 1 Go 7 jours,NA,Amérique du Nord,1,1 Go,7,8.83,EUR,4G,oui
+saily-101745,Saily,eSIM Europe 5 Go 30 jours,EU,Europe,5,5 Go,30,22.64,EUR,4G,non
+saily-101746,Saily,eSIM Singapour 1 Go 7 jours,SG,Singapour,1,1 Go,7,6.2,EUR,4G,non
+saily-101747,Saily,eSIM Qatar 3 Go 15 jours,QA,Qatar,3,3 Go,15,11.2,EUR,5G,oui
+saily-101748,Saily,eSIM Norvège 5 Go 30 jours,NO,Norvège,5,5 Go,30,17.3,EUR,4G,non
+saily-101749,Saily,eSIM Nigeria 20 Go 15 jours,NG,Nigeria,20,20 Go,15,32.8,EUR,4G,oui
+saily-101750,Saily,eSIM Tanzanie 10 Go 30 jours,TZ,Tanzanie,10,10 Go,30,23.13,EUR,4G,oui
+saily-101751,Saily,eSIM Japon 5 Go 30 jours,JP,Japon,5,5 Go,30,14.89,EUR,4G,oui
+saily-101752,Saily,eSIM Suède 50 Go 7 jours,SE,Suède,50,50 Go,7,50.53,EUR,5G,oui
+saily-101753,Saily,eSIM Arabie saoudite 1 Go 30 jours,SA,Arabie saoudite,1,1 Go,30,7.34,EUR,4G,oui
+saily-101754,Saily,eSIM Portugal 1 Go 15 jours,PT,Portugal,1,1 Go,15,6.86,EUR,4G,non
+saily-101755,Saily,eSIM Norvège 5 Go 7 jours,NO,Norvège,5,5 Go,7,11.5,EUR,4G,oui
+saily-101756,Saily,eSIM Thaïlande 3 Go 30 jours,TH,Thaïlande,3,3 Go,30,12.8,EUR,4G,oui
+saily-101757,Saily,eSIM Qatar 20 Go 30 jours,QA,Qatar,20,20 Go,30,38.83,EUR,4G,oui
+saily-101758,Saily,eSIM Belgique 5 Go 15 jours,BE,Belgique,5,5 Go,15,13.03,EUR,5G,oui
+saily-101759,Saily,eSIM Rép. dominicaine Illimité 7 jours,DO,Rép. dominicaine,,Illimité,7,35.51,EUR,5G,non
+saily-101760,Saily,eSIM Belgique 5 Go 7 jours,BE,Belgique,5,5 Go,7,12.76,EUR,5G,non
+saily-101761,Saily,eSIM Amérique du Nord 20 Go 30 jours,NA,Amérique du Nord,20,20 Go,30,49.47,EUR,4G,oui
+saily-101762,Saily,eSIM Singapour 5 Go 15 jours,SG,Singapour,5,5 Go,15,14.78,EUR,4G,non
+saily-101763,Saily,eSIM Indonésie 3 Go 15 jours,ID,Indonésie,3,3 Go,15,11.18,EUR,4G,non
+saily-101764,Saily,eSIM Allemagne 20 Go 7 jours,DE,Allemagne,20,20 Go,7,28.41,EUR,4G,oui
+saily-101765,Saily,eSIM Suède 50 Go 15 jours,SE,Suède,50,50 Go,15,50.57,EUR,4G,oui
+saily-101766,Saily,eSIM Philippines Illimité 30 jours,PH,Philippines,,Illimité,30,84.36,EUR,5G,oui
+saily-101767,Saily,eSIM Suède 10 Go 7 jours,SE,Suède,10,10 Go,7,17.15,EUR,5G,oui
+saily-101768,Saily,eSIM Pays-Bas 50 Go 7 jours,NL,Pays-Bas,50,50 Go,7,45.34,EUR,5G,oui
+saily-101769,Saily,eSIM Égypte 5 Go 15 jours,EG,Égypte,5,5 Go,15,13.01,EUR,5G,non
+saily-101770,Saily,eSIM Japon 50 Go 7 jours,JP,Japon,50,50 Go,7,52.83,EUR,5G,non
+saily-101771,Saily,eSIM Qatar 3 Go 15 jours,QA,Qatar,3,3 Go,15,11.49,EUR,5G,non
+saily-101772,Saily,eSIM Malaisie 10 Go 7 jours,MY,Malaisie,10,10 Go,7,17.36,EUR,4G,oui
+saily-101773,Saily,eSIM Arabie saoudite 20 Go 15 jours,SA,Arabie saoudite,20,20 Go,15,33,EUR,4G,oui
+saily-101774,Saily,eSIM Royaume-Uni 1 Go 15 jours,GB,Royaume-Uni,1,1 Go,15,6.19,EUR,5G,oui
+saily-101775,Saily,eSIM Indonésie 50 Go 7 jours,ID,Indonésie,50,50 Go,7,51.93,EUR,5G,non
+saily-101776,Saily,eSIM Grèce Illimité 7 jours,GR,Grèce,,Illimité,7,34.59,EUR,4G,oui
+saily-101777,Saily,eSIM Irlande 10 Go 15 jours,IE,Irlande,10,10 Go,15,21.53,EUR,4G,oui
+saily-101778,Saily,eSIM Nigeria 5 Go 30 jours,NG,Nigeria,5,5 Go,30,17.61,EUR,5G,non
+saily-101779,Saily,eSIM Singapour 1 Go 15 jours,SG,Singapour,1,1 Go,15,6.63,EUR,5G,non
+saily-101780,Saily,eSIM Monde Illimité 7 jours,WW,Monde,,Illimité,7,48.08,EUR,4G,oui
+saily-101781,Saily,eSIM Japon 1 Go 30 jours,JP,Japon,1,1 Go,30,7.77,EUR,4G,non
+saily-101782,Saily,eSIM Singapour 10 Go 15 jours,SG,Singapour,10,10 Go,15,19.31,EUR,4G,non
+saily-101783,Saily,eSIM Monde 50 Go 30 jours,WW,Monde,50,50 Go,30,90.7,EUR,4G,non
+saily-101784,Saily,eSIM Indonésie 5 Go 15 jours,ID,Indonésie,5,5 Go,15,13.66,EUR,4G,non
+saily-101785,Saily,eSIM Inde 10 Go 7 jours,IN,Inde,10,10 Go,7,19.55,EUR,4G,oui
+saily-101786,Saily,eSIM France 20 Go 30 jours,FR,France,20,20 Go,30,37.7,EUR,4G,non
+saily-101787,Saily,eSIM Europe 5 Go 15 jours,EU,Europe,5,5 Go,15,17.72,EUR,5G,non
+saily-101788,Saily,eSIM Pays-Bas 3 Go 15 jours,NL,Pays-Bas,3,3 Go,15,9.57,EUR,4G,oui
+saily-101789,Saily,eSIM Singapour 20 Go 15 jours,SG,Singapour,20,20 Go,15,31.96,EUR,5G,non
+saily-101790,Saily,eSIM Brésil Illimité 7 jours,BR,Brésil,,Illimité,7,31.6,EUR,5G,non
+saily-101791,Saily,eSIM Indonésie 1 Go 7 jours,ID,Indonésie,1,1 Go,7,6.18,EUR,4G,oui
+saily-101792,Saily,eSIM Asie Illimité 7 jours,AS,Asie,,Illimité,7,45.2,EUR,5G,oui
+saily-101793,Saily,eSIM Inde 5 Go 15 jours,IN,Inde,5,5 Go,15,13.1,EUR,4G,oui
+saily-101794,Saily,eSIM Canada 1 Go 15 jours,CA,Canada,1,1 Go,15,6.38,EUR,4G,oui
+saily-101795,Saily,eSIM Nigeria 3 Go 7 jours,NG,Nigeria,3,3 Go,7,9.21,EUR,4G,non
+saily-101796,Saily,eSIM Jordanie 20 Go 30 jours,JO,Jordanie,20,20 Go,30,33.54,EUR,4G,non
+saily-101797,Saily,eSIM Monde 3 Go 15 jours,WW,Monde,3,3 Go,15,14,EUR,5G,non
+saily-101798,Saily,eSIM Arabie saoudite 20 Go 7 jours,SA,Arabie saoudite,20,20 Go,7,26.78,EUR,4G,non
+saily-101799,Saily,eSIM Turquie 1 Go 15 jours,TR,Turquie,1,1 Go,15,6.6,EUR,4G,oui
+saily-101800,Saily,eSIM Allemagne Illimité 7 jours,DE,Allemagne,,Illimité,7,32.69,EUR,5G,oui
+saily-101801,Saily,eSIM Monde 1 Go 15 jours,WW,Monde,1,1 Go,15,9.06,EUR,4G,non
+saily-101802,Saily,eSIM Inde 20 Go 7 jours,IN,Inde,20,20 Go,7,26.91,EUR,4G,oui
+saily-101803,Saily,eSIM Monde 10 Go 30 jours,WW,Monde,10,10 Go,30,35.81,EUR,4G,oui
+saily-101804,Saily,eSIM Émirats arabes unis 3 Go 30 jours,AE,Émirats arabes unis,3,3 Go,30,11.99,EUR,4G,oui
+saily-101805,Saily,eSIM Grèce 20 Go 30 jours,GR,Grèce,20,20 Go,30,37.29,EUR,5G,non
+saily-101806,Saily,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,15.03,EUR,5G,oui
+saily-101807,Saily,eSIM Vietnam 1 Go 7 jours,VN,Vietnam,1,1 Go,7,6.32,EUR,4G,oui
+saily-101808,Saily,eSIM Colombie 20 Go 30 jours,CO,Colombie,20,20 Go,30,36.59,EUR,5G,oui
+saily-101809,Saily,eSIM Australie 3 Go 30 jours,AU,Australie,3,3 Go,30,12.44,EUR,5G,oui
+saily-101810,Saily,eSIM Amérique du Nord 3 Go 30 jours,NA,Amérique du Nord,3,3 Go,30,17.82,EUR,5G,oui
+saily-101811,Saily,eSIM Royaume-Uni Illimité 15 jours,GB,Royaume-Uni,,Illimité,15,44.87,EUR,5G,oui
+saily-101812,Saily,eSIM Singapour 3 Go 7 jours,SG,Singapour,3,3 Go,7,10.12,EUR,5G,non
+saily-101813,Saily,eSIM Autriche 20 Go 15 jours,AT,Autriche,20,20 Go,15,33.34,EUR,5G,oui
+saily-101814,Saily,eSIM Maroc 50 Go 7 jours,MA,Maroc,50,50 Go,7,51.47,EUR,4G,oui
+saily-101815,Saily,eSIM Australie Illimité 30 jours,AU,Australie,,Illimité,30,71.94,EUR,4G,oui
+saily-101816,Saily,eSIM Asie 3 Go 30 jours,AS,Asie,3,3 Go,30,17.11,EUR,4G,non
+saily-101817,Saily,eSIM France Illimité 30 jours,FR,France,,Illimité,30,71.86,EUR,4G,non
+saily-101818,Saily,eSIM Singapour 10 Go 30 jours,SG,Singapour,10,10 Go,30,25.63,EUR,4G,oui
+saily-101819,Saily,eSIM Maroc 1 Go 7 jours,MA,Maroc,1,1 Go,7,5.49,EUR,4G,non
+saily-101820,Saily,eSIM Argentine Illimité 15 jours,AR,Argentine,,Illimité,15,46.54,EUR,4G,oui
+saily-101821,Saily,eSIM Norvège 10 Go 30 jours,NO,Norvège,10,10 Go,30,24.97,EUR,4G,oui
+saily-101822,Saily,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,25.61,EUR,4G,non
+saily-101823,Saily,eSIM Turquie 3 Go 7 jours,TR,Turquie,3,3 Go,7,9.21,EUR,4G,oui
+saily-101824,Saily,eSIM Autriche 1 Go 30 jours,AT,Autriche,1,1 Go,30,7.87,EUR,4G,oui
+saily-101825,Saily,eSIM Amérique du Nord 3 Go 30 jours,NA,Amérique du Nord,3,3 Go,30,16.94,EUR,4G,non
+saily-101826,Saily,eSIM Grèce 3 Go 7 jours,GR,Grèce,3,3 Go,7,10.29,EUR,5G,non
+saily-101827,Saily,eSIM Inde 10 Go 30 jours,IN,Inde,10,10 Go,30,26.04,EUR,4G,oui
+saily-101828,Saily,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,75.24,EUR,4G,oui
+saily-101829,Saily,eSIM Amérique du Nord 1 Go 7 jours,NA,Amérique du Nord,1,1 Go,7,8.36,EUR,5G,oui
+saily-101830,Saily,eSIM Mexique 3 Go 7 jours,MX,Mexique,3,3 Go,7,10.07,EUR,4G,non
+saily-101831,Saily,eSIM Asie 10 Go 15 jours,AS,Asie,10,10 Go,15,29.67,EUR,4G,oui
+saily-101832,Saily,eSIM Arabie saoudite 3 Go 30 jours,SA,Arabie saoudite,3,3 Go,30,11.35,EUR,4G,non
+saily-101833,Saily,eSIM Croatie Illimité 15 jours,HR,Croatie,,Illimité,15,50.63,EUR,5G,non
+saily-101834,Saily,eSIM Israël 3 Go 7 jours,IL,Israël,3,3 Go,7,8.73,EUR,4G,oui
+saily-101835,Saily,eSIM Inde 3 Go 7 jours,IN,Inde,3,3 Go,7,8.59,EUR,4G,non
+saily-101836,Saily,eSIM Suisse Illimité 15 jours,CH,Suisse,,Illimité,15,45.37,EUR,5G,non
+saily-101837,Saily,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,8.42,EUR,5G,non
+saily-101838,Saily,eSIM Qatar 1 Go 15 jours,QA,Qatar,1,1 Go,15,5.96,EUR,4G,non
+saily-101839,Saily,eSIM Royaume-Uni 50 Go 7 jours,GB,Royaume-Uni,50,50 Go,7,49.05,EUR,4G,oui
+saily-101840,Saily,eSIM Indonésie 50 Go 15 jours,ID,Indonésie,50,50 Go,15,53.23,EUR,4G,non
+saily-101841,Saily,eSIM Croatie 5 Go 15 jours,HR,Croatie,5,5 Go,15,12.97,EUR,4G,oui
+saily-101842,Saily,eSIM Égypte 3 Go 30 jours,EG,Égypte,3,3 Go,30,13.33,EUR,5G,non
+saily-101843,Saily,eSIM Allemagne 1 Go 7 jours,DE,Allemagne,1,1 Go,7,6.25,EUR,4G,non
+saily-101844,Saily,eSIM Tchéquie 20 Go 7 jours,CZ,Tchéquie,20,20 Go,7,29.02,EUR,5G,non
+saily-101845,Saily,eSIM Portugal Illimité 15 jours,PT,Portugal,,Illimité,15,48.74,EUR,4G,non
+saily-101846,Saily,eSIM Pérou 10 Go 30 jours,PE,Pérou,10,10 Go,30,25.74,EUR,5G,oui
+saily-101847,Saily,eSIM Europe 20 Go 30 jours,EU,Europe,20,20 Go,30,50.26,EUR,4G,non
+saily-101848,Saily,eSIM Corée du Sud 20 Go 7 jours,KR,Corée du Sud,20,20 Go,7,30.27,EUR,5G,oui
+saily-101849,Saily,eSIM Monde 10 Go 7 jours,WW,Monde,10,10 Go,7,24.06,EUR,4G,oui
+saily-101850,Saily,eSIM Belgique 10 Go 7 jours,BE,Belgique,10,10 Go,7,16.72,EUR,4G,oui
+saily-101851,Saily,eSIM Tanzanie 3 Go 15 jours,TZ,Tanzanie,3,3 Go,15,11.34,EUR,4G,oui
+saily-101852,Saily,eSIM Suisse 1 Go 7 jours,CH,Suisse,1,1 Go,7,6.38,EUR,5G,non
+saily-101853,Saily,eSIM Jordanie 5 Go 7 jours,JO,Jordanie,5,5 Go,7,12.83,EUR,4G,non
+saily-101854,Saily,eSIM Amérique du Nord 5 Go 7 jours,NA,Amérique du Nord,5,5 Go,7,17.89,EUR,4G,non
+saily-101855,Saily,eSIM Portugal 3 Go 15 jours,PT,Portugal,3,3 Go,15,10.26,EUR,4G,oui
+saily-101856,Saily,eSIM Asie 50 Go 15 jours,AS,Asie,50,50 Go,15,74.75,EUR,4G,oui
+saily-101857,Saily,eSIM Kenya 50 Go 7 jours,KE,Kenya,50,50 Go,7,48.11,EUR,4G,non
+saily-101858,Saily,eSIM Colombie 5 Go 15 jours,CO,Colombie,5,5 Go,15,14.07,EUR,4G,non
+saily-101859,Saily,eSIM États-Unis 20 Go 15 jours,US,États-Unis,20,20 Go,15,30.63,EUR,5G,oui
+saily-101860,Saily,eSIM Belgique 20 Go 30 jours,BE,Belgique,20,20 Go,30,34.54,EUR,5G,oui
+saily-101861,Saily,eSIM Argentine 3 Go 7 jours,AR,Argentine,3,3 Go,7,10.31,EUR,4G,oui
+saily-101862,Saily,eSIM Chine 5 Go 7 jours,CN,Chine,5,5 Go,7,11.23,EUR,4G,non
+saily-101863,Saily,eSIM Autriche 50 Go 30 jours,AT,Autriche,50,50 Go,30,68.29,EUR,5G,oui
+saily-101864,Saily,eSIM Tanzanie 50 Go 15 jours,TZ,Tanzanie,50,50 Go,15,50.4,EUR,4G,oui
+saily-101865,Saily,eSIM Brésil 50 Go 7 jours,BR,Brésil,50,50 Go,7,51.66,EUR,4G,non
+saily-101866,Saily,eSIM Portugal 1 Go 7 jours,PT,Portugal,1,1 Go,7,5.59,EUR,5G,oui
+saily-101867,Saily,eSIM Colombie 50 Go 7 jours,CO,Colombie,50,50 Go,7,50.63,EUR,4G,oui
+saily-101868,Saily,eSIM Canada 5 Go 15 jours,CA,Canada,5,5 Go,15,12.86,EUR,4G,non
+saily-101869,Saily,eSIM Mexique 50 Go 30 jours,MX,Mexique,50,50 Go,30,71.37,EUR,4G,non
+saily-101870,Saily,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,5.7,EUR,4G,oui
+saily-101871,Saily,eSIM Pologne 1 Go 7 jours,PL,Pologne,1,1 Go,7,6.26,EUR,5G,non
+saily-101872,Saily,eSIM Pérou 1 Go 15 jours,PE,Pérou,1,1 Go,15,6.5,EUR,4G,non
+saily-101873,Saily,eSIM Colombie 5 Go 15 jours,CO,Colombie,5,5 Go,15,14.75,EUR,4G,oui
+saily-101874,Saily,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,15.1,EUR,4G,oui
+saily-101875,Saily,eSIM Singapour Illimité 7 jours,SG,Singapour,,Illimité,7,36.27,EUR,4G,oui
+saily-101876,Saily,eSIM Espagne 3 Go 30 jours,ES,Espagne,3,3 Go,30,12.09,EUR,4G,oui
+saily-101877,Saily,eSIM Asie 1 Go 30 jours,AS,Asie,1,1 Go,30,10.56,EUR,4G,oui
+saily-101878,Saily,eSIM États-Unis 10 Go 15 jours,US,États-Unis,10,10 Go,15,19.07,EUR,4G,oui
+saily-101879,Saily,eSIM Philippines 10 Go 15 jours,PH,Philippines,10,10 Go,15,20.48,EUR,4G,oui
+saily-101880,Saily,eSIM Pologne 10 Go 15 jours,PL,Pologne,10,10 Go,15,18.3,EUR,4G,oui
+saily-101881,Saily,eSIM Égypte 5 Go 7 jours,EG,Égypte,5,5 Go,7,13.47,EUR,5G,oui
+saily-101882,Saily,eSIM Tanzanie 1 Go 15 jours,TZ,Tanzanie,1,1 Go,15,6.84,EUR,4G,oui
+saily-101883,Saily,eSIM Malaisie Illimité 15 jours,MY,Malaisie,,Illimité,15,45.88,EUR,5G,oui
+saily-101884,Saily,eSIM Chili 5 Go 7 jours,CL,Chili,5,5 Go,7,11.13,EUR,4G,non
+saily-101885,Saily,eSIM Malaisie Illimité 7 jours,MY,Malaisie,,Illimité,7,34.94,EUR,4G,non
+saily-101886,Saily,eSIM Asie 20 Go 15 jours,AS,Asie,20,20 Go,15,46.35,EUR,5G,oui
+saily-101887,Saily,eSIM Singapour 1 Go 15 jours,SG,Singapour,1,1 Go,15,6.3,EUR,4G,non
+saily-101888,Saily,eSIM Canada 20 Go 30 jours,CA,Canada,20,20 Go,30,33.28,EUR,4G,oui
+saily-101889,Saily,eSIM Nigeria 50 Go 15 jours,NG,Nigeria,50,50 Go,15,58.93,EUR,4G,oui
+saily-101890,Saily,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,6.27,EUR,4G,oui
+saily-101891,Saily,eSIM Afrique du Sud Illimité 30 jours,ZA,Afrique du Sud,,Illimité,30,84.38,EUR,5G,non
+saily-101892,Saily,eSIM Nigeria Illimité 15 jours,NG,Nigeria,,Illimité,15,52.66,EUR,5G,non
+saily-101893,Saily,eSIM Malaisie 3 Go 7 jours,MY,Malaisie,3,3 Go,7,9.21,EUR,4G,non
+saily-101894,Saily,eSIM Belgique 50 Go 30 jours,BE,Belgique,50,50 Go,30,64.03,EUR,5G,non
+saily-101895,Saily,eSIM Royaume-Uni 5 Go 15 jours,GB,Royaume-Uni,5,5 Go,15,13.24,EUR,4G,non
+saily-101896,Saily,eSIM Autriche 1 Go 30 jours,AT,Autriche,1,1 Go,30,7.9,EUR,5G,oui
+saily-101897,Saily,eSIM Belgique 3 Go 7 jours,BE,Belgique,3,3 Go,7,10.36,EUR,5G,non
+saily-101898,Saily,eSIM Pays-Bas Illimité 15 jours,NL,Pays-Bas,,Illimité,15,52.59,EUR,5G,oui
+saily-101899,Saily,eSIM Malaisie 50 Go 30 jours,MY,Malaisie,50,50 Go,30,60.67,EUR,4G,non
+saily-101900,Saily,eSIM Asie 20 Go 30 jours,AS,Asie,20,20 Go,30,45.96,EUR,4G,oui
+saily-101901,Saily,eSIM Arabie saoudite 10 Go 15 jours,SA,Arabie saoudite,10,10 Go,15,20.35,EUR,4G,non
+saily-101902,Saily,eSIM Amérique du Nord 20 Go 30 jours,NA,Amérique du Nord,20,20 Go,30,47.39,EUR,5G,oui
+saily-101903,Saily,eSIM Japon 1 Go 30 jours,JP,Japon,1,1 Go,30,7.1,EUR,5G,oui
+saily-101904,Saily,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,7.93,EUR,4G,non
+saily-101905,Saily,eSIM États-Unis 50 Go 7 jours,US,États-Unis,50,50 Go,7,47.81,EUR,4G,oui
+saily-101906,Saily,eSIM Suisse 1 Go 30 jours,CH,Suisse,1,1 Go,30,8.39,EUR,4G,non
+saily-101907,Saily,eSIM Grèce 10 Go 30 jours,GR,Grèce,10,10 Go,30,22.45,EUR,5G,oui
+saily-101908,Saily,eSIM Portugal 3 Go 15 jours,PT,Portugal,3,3 Go,15,11.03,EUR,5G,non
+saily-101909,Saily,eSIM Tanzanie 20 Go 15 jours,TZ,Tanzanie,20,20 Go,15,31.62,EUR,4G,oui
+saily-101910,Saily,eSIM Singapour 3 Go 7 jours,SG,Singapour,3,3 Go,7,8.82,EUR,4G,non
+saily-101911,Saily,eSIM Irlande 5 Go 15 jours,IE,Irlande,5,5 Go,15,13.48,EUR,4G,oui
+saily-101912,Saily,eSIM Asie 50 Go 30 jours,AS,Asie,50,50 Go,30,89.61,EUR,4G,oui
+saily-101913,Saily,eSIM Chine 10 Go 30 jours,CN,Chine,10,10 Go,30,25.68,EUR,5G,oui
+saily-101914,Saily,eSIM Portugal Illimité 30 jours,PT,Portugal,,Illimité,30,83.23,EUR,5G,oui
+saily-101915,Saily,eSIM Tchéquie 20 Go 30 jours,CZ,Tchéquie,20,20 Go,30,34.4,EUR,5G,oui
+saily-101916,Saily,eSIM Brésil 50 Go 7 jours,BR,Brésil,50,50 Go,7,46.4,EUR,4G,non
+saily-101917,Saily,eSIM Pays-Bas 3 Go 15 jours,NL,Pays-Bas,3,3 Go,15,10.27,EUR,5G,non
+saily-101918,Saily,eSIM Pays-Bas 3 Go 15 jours,NL,Pays-Bas,3,3 Go,15,11.31,EUR,5G,oui
+saily-101919,Saily,eSIM Europe 1 Go 30 jours,EU,Europe,1,1 Go,30,10.84,EUR,4G,oui
+saily-101920,Saily,eSIM Qatar 1 Go 30 jours,QA,Qatar,1,1 Go,30,8.14,EUR,4G,oui
+saily-101921,Saily,eSIM Portugal 3 Go 7 jours,PT,Portugal,3,3 Go,7,10.1,EUR,4G,oui
+saily-101922,Saily,eSIM Argentine 20 Go 15 jours,AR,Argentine,20,20 Go,15,32.26,EUR,5G,oui
+saily-101923,Saily,eSIM France 5 Go 7 jours,FR,France,5,5 Go,7,11.72,EUR,5G,non
+saily-101924,Saily,eSIM Colombie 5 Go 30 jours,CO,Colombie,5,5 Go,30,17.26,EUR,4G,non
+saily-101925,Saily,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,6.39,EUR,5G,non
+saily-101926,Saily,eSIM Corée du Sud 1 Go 30 jours,KR,Corée du Sud,1,1 Go,30,7.6,EUR,4G,oui
+saily-101927,Saily,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,80.57,EUR,5G,non
+saily-101928,Saily,eSIM Rép. dominicaine Illimité 15 jours,DO,Rép. dominicaine,,Illimité,15,50.01,EUR,4G,non
+saily-101929,Saily,eSIM Indonésie 3 Go 30 jours,ID,Indonésie,3,3 Go,30,11.17,EUR,5G,non
+saily-101930,Saily,eSIM Corée du Sud 20 Go 7 jours,KR,Corée du Sud,20,20 Go,7,29.46,EUR,5G,oui
+saily-101931,Saily,eSIM Nigeria 10 Go 30 jours,NG,Nigeria,10,10 Go,30,22.86,EUR,4G,non
+saily-101932,Saily,eSIM Brésil 20 Go 30 jours,BR,Brésil,20,20 Go,30,37.89,EUR,4G,non
+saily-101933,Saily,eSIM Maroc Illimité 30 jours,MA,Maroc,,Illimité,30,75.67,EUR,4G,non
+saily-101934,Saily,eSIM Philippines 10 Go 15 jours,PH,Philippines,10,10 Go,15,20.92,EUR,4G,oui
+saily-101935,Saily,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,75.81,EUR,5G,oui
+saily-101936,Saily,eSIM Israël 5 Go 15 jours,IL,Israël,5,5 Go,15,12.86,EUR,4G,oui
+saily-101937,Saily,eSIM Malaisie 20 Go 30 jours,MY,Malaisie,20,20 Go,30,36,EUR,4G,oui
+saily-101938,Saily,eSIM Nouvelle-Zélande 10 Go 7 jours,NZ,Nouvelle-Zélande,10,10 Go,7,17.11,EUR,5G,non
+saily-101939,Saily,eSIM Émirats arabes unis 50 Go 7 jours,AE,Émirats arabes unis,50,50 Go,7,49.16,EUR,4G,non
+saily-101940,Saily,eSIM Égypte 5 Go 7 jours,EG,Égypte,5,5 Go,7,11.83,EUR,4G,non
+saily-101941,Saily,eSIM Europe 10 Go 15 jours,EU,Europe,10,10 Go,15,26.08,EUR,4G,oui
+saily-101942,Saily,eSIM Afrique du Sud 3 Go 15 jours,ZA,Afrique du Sud,3,3 Go,15,10.03,EUR,5G,oui
+saily-101943,Saily,eSIM Chili 50 Go 7 jours,CL,Chili,50,50 Go,7,50.97,EUR,4G,oui
+saily-101944,Saily,eSIM Thaïlande 5 Go 30 jours,TH,Thaïlande,5,5 Go,30,15.28,EUR,5G,oui
+saily-101945,Saily,eSIM Irlande 5 Go 30 jours,IE,Irlande,5,5 Go,30,16.25,EUR,5G,oui
+saily-101946,Saily,eSIM Canada 5 Go 15 jours,CA,Canada,5,5 Go,15,14.17,EUR,5G,oui
+saily-101947,Saily,eSIM Turquie 20 Go 7 jours,TR,Turquie,20,20 Go,7,29.6,EUR,5G,non
+saily-101948,Saily,eSIM Qatar 3 Go 7 jours,QA,Qatar,3,3 Go,7,8.89,EUR,4G,oui
+saily-101949,Saily,eSIM États-Unis 3 Go 7 jours,US,États-Unis,3,3 Go,7,9.62,EUR,4G,oui
+saily-101950,Saily,eSIM Suède 10 Go 7 jours,SE,Suède,10,10 Go,7,17.5,EUR,4G,non
+saily-101951,Saily,eSIM Singapour 50 Go 7 jours,SG,Singapour,50,50 Go,7,52.05,EUR,4G,non
+saily-101952,Saily,eSIM Suède 10 Go 15 jours,SE,Suède,10,10 Go,15,20.76,EUR,4G,non
+saily-101953,Saily,eSIM Malaisie 20 Go 15 jours,MY,Malaisie,20,20 Go,15,32.61,EUR,4G,non
+saily-101954,Saily,eSIM Nigeria 1 Go 15 jours,NG,Nigeria,1,1 Go,15,6.63,EUR,4G,oui
+saily-101955,Saily,eSIM Argentine Illimité 30 jours,AR,Argentine,,Illimité,30,76.34,EUR,5G,oui
+saily-101956,Saily,eSIM Jordanie 10 Go 7 jours,JO,Jordanie,10,10 Go,7,18.48,EUR,4G,non
+saily-101957,Saily,eSIM Australie 50 Go 15 jours,AU,Australie,50,50 Go,15,59.86,EUR,4G,oui
+saily-101958,Saily,eSIM Croatie 20 Go 30 jours,HR,Croatie,20,20 Go,30,38.83,EUR,4G,non
+saily-101959,Saily,eSIM Tchéquie Illimité 15 jours,CZ,Tchéquie,,Illimité,15,50.9,EUR,4G,oui
+saily-101960,Saily,eSIM Suède 10 Go 30 jours,SE,Suède,10,10 Go,30,23.79,EUR,4G,non
+saily-101961,Saily,eSIM Chine 1 Go 7 jours,CN,Chine,1,1 Go,7,5.65,EUR,4G,oui
+saily-101962,Saily,eSIM Rép. dominicaine Illimité 7 jours,DO,Rép. dominicaine,,Illimité,7,37.14,EUR,4G,oui
+saily-101963,Saily,eSIM Vietnam 20 Go 15 jours,VN,Vietnam,20,20 Go,15,32.41,EUR,4G,oui
+saily-101964,Saily,eSIM Amérique du Nord 20 Go 15 jours,NA,Amérique du Nord,20,20 Go,15,41.82,EUR,4G,non
+saily-101965,Saily,eSIM Thaïlande 5 Go 15 jours,TH,Thaïlande,5,5 Go,15,14.33,EUR,4G,oui
+saily-101966,Saily,eSIM Émirats arabes unis 1 Go 15 jours,AE,Émirats arabes unis,1,1 Go,15,5.96,EUR,5G,non
+saily-101967,Saily,eSIM Grèce 20 Go 15 jours,GR,Grèce,20,20 Go,15,31.59,EUR,4G,oui
+saily-101968,Saily,eSIM Europe 50 Go 7 jours,EU,Europe,50,50 Go,7,71.48,EUR,4G,oui
+saily-101969,Saily,eSIM Irlande 3 Go 7 jours,IE,Irlande,3,3 Go,7,8.96,EUR,5G,non
+saily-101970,Saily,eSIM Israël 50 Go 7 jours,IL,Israël,50,50 Go,7,50.24,EUR,5G,non
+saily-101971,Saily,eSIM Monde 10 Go 30 jours,WW,Monde,10,10 Go,30,31.92,EUR,5G,oui
+saily-101972,Saily,eSIM Inde 3 Go 30 jours,IN,Inde,3,3 Go,30,12.33,EUR,4G,oui
+saily-101973,Saily,eSIM Amérique du Nord Illimité 15 jours,NA,Amérique du Nord,,Illimité,15,67.82,EUR,4G,oui
+saily-101974,Saily,eSIM États-Unis 5 Go 7 jours,US,États-Unis,5,5 Go,7,12.49,EUR,5G,oui
+saily-101975,Saily,eSIM Brésil Illimité 15 jours,BR,Brésil,,Illimité,15,50.61,EUR,5G,oui
+saily-101976,Saily,eSIM Europe 10 Go 15 jours,EU,Europe,10,10 Go,15,28.15,EUR,4G,non
+saily-101977,Saily,eSIM Colombie 20 Go 15 jours,CO,Colombie,20,20 Go,15,28.67,EUR,4G,oui
+saily-101978,Saily,eSIM Indonésie 1 Go 15 jours,ID,Indonésie,1,1 Go,15,6.12,EUR,4G,oui
+saily-101979,Saily,eSIM Norvège 3 Go 15 jours,NO,Norvège,3,3 Go,15,10.86,EUR,5G,non
+saily-101980,Saily,eSIM Chine 1 Go 15 jours,CN,Chine,1,1 Go,15,7.03,EUR,4G,oui
+saily-101981,Saily,eSIM Suisse 10 Go 7 jours,CH,Suisse,10,10 Go,7,16.52,EUR,5G,non
+saily-101982,Saily,eSIM Mexique 5 Go 30 jours,MX,Mexique,5,5 Go,30,17.51,EUR,4G,non
+saily-101983,Saily,eSIM Suède 3 Go 15 jours,SE,Suède,3,3 Go,15,11.32,EUR,4G,non
+saily-101984,Saily,eSIM Belgique 50 Go 30 jours,BE,Belgique,50,50 Go,30,59.51,EUR,5G,non
+saily-101985,Saily,eSIM Europe 5 Go 7 jours,EU,Europe,5,5 Go,7,17.93,EUR,4G,non
+saily-101986,Saily,eSIM Philippines 20 Go 7 jours,PH,Philippines,20,20 Go,7,25.1,EUR,5G,non
+saily-101987,Saily,eSIM Europe 10 Go 30 jours,EU,Europe,10,10 Go,30,34.94,EUR,5G,oui
+saily-101988,Saily,eSIM Vietnam 5 Go 7 jours,VN,Vietnam,5,5 Go,7,12.88,EUR,5G,oui
+saily-101989,Saily,eSIM Tanzanie 1 Go 7 jours,TZ,Tanzanie,1,1 Go,7,5.64,EUR,4G,non
+saily-101990,Saily,eSIM Japon 1 Go 30 jours,JP,Japon,1,1 Go,30,7.42,EUR,4G,non
+saily-101991,Saily,eSIM Irlande 50 Go 30 jours,IE,Irlande,50,50 Go,30,67.46,EUR,4G,oui
+saily-101992,Saily,eSIM Jordanie 50 Go 15 jours,JO,Jordanie,50,50 Go,15,60.4,EUR,4G,non
+saily-101993,Saily,eSIM Argentine 10 Go 15 jours,AR,Argentine,10,10 Go,15,19.28,EUR,4G,oui
+saily-101994,Saily,eSIM Tanzanie 20 Go 15 jours,TZ,Tanzanie,20,20 Go,15,31.75,EUR,4G,oui
+saily-101995,Saily,eSIM France Illimité 7 jours,FR,France,,Illimité,7,32.55,EUR,5G,oui
+saily-101996,Saily,eSIM Argentine 20 Go 15 jours,AR,Argentine,20,20 Go,15,32.71,EUR,4G,non
+saily-101997,Saily,eSIM Afrique du Sud Illimité 15 jours,ZA,Afrique du Sud,,Illimité,15,51.67,EUR,5G,non
+saily-101998,Saily,eSIM Malaisie 5 Go 7 jours,MY,Malaisie,5,5 Go,7,11.23,EUR,4G,oui
+saily-101999,Saily,eSIM Vietnam Illimité 7 jours,VN,Vietnam,,Illimité,7,34.5,EUR,4G,non
+saily-102000,Saily,eSIM Suède 5 Go 15 jours,SE,Suède,5,5 Go,15,13.08,EUR,4G,oui
+saily-102001,Saily,eSIM Corée du Sud 5 Go 30 jours,KR,Corée du Sud,5,5 Go,30,15.52,EUR,5G,non
+saily-102002,Saily,eSIM Pérou 20 Go 15 jours,PE,Pérou,20,20 Go,15,30.67,EUR,4G,non
+saily-102003,Saily,eSIM Australie 1 Go 30 jours,AU,Australie,1,1 Go,30,8.06,EUR,4G,non
+saily-102004,Saily,eSIM Émirats arabes unis 1 Go 7 jours,AE,Émirats arabes unis,1,1 Go,7,6.17,EUR,5G,oui
+saily-102005,Saily,eSIM Belgique 20 Go 7 jours,BE,Belgique,20,20 Go,7,27.19,EUR,4G,non
+saily-102006,Saily,eSIM Croatie 10 Go 7 jours,HR,Croatie,10,10 Go,7,17.71,EUR,5G,non
+saily-102007,Saily,eSIM Indonésie 1 Go 15 jours,ID,Indonésie,1,1 Go,15,6.63,EUR,4G,oui
+saily-102008,Saily,eSIM Belgique 1 Go 30 jours,BE,Belgique,1,1 Go,30,7.81,EUR,5G,oui
+saily-102009,Saily,eSIM Turquie 1 Go 30 jours,TR,Turquie,1,1 Go,30,8,EUR,4G,oui
+saily-102010,Saily,eSIM France 10 Go 15 jours,FR,France,10,10 Go,15,20.07,EUR,4G,oui
+saily-102011,Saily,eSIM Pays-Bas 50 Go 15 jours,NL,Pays-Bas,50,50 Go,15,51.12,EUR,4G,non
+saily-102012,Saily,eSIM Thaïlande 20 Go 30 jours,TH,Thaïlande,20,20 Go,30,36.34,EUR,5G,oui
+saily-102013,Saily,eSIM Thaïlande 10 Go 15 jours,TH,Thaïlande,10,10 Go,15,18.79,EUR,4G,oui
+saily-102014,Saily,eSIM Grèce 20 Go 15 jours,GR,Grèce,20,20 Go,15,33.23,EUR,4G,oui
+saily-102015,Saily,eSIM Qatar 3 Go 15 jours,QA,Qatar,3,3 Go,15,9.89,EUR,4G,oui
+saily-102016,Saily,eSIM Rép. dominicaine 3 Go 30 jours,DO,Rép. dominicaine,3,3 Go,30,12.54,EUR,4G,non
+saily-102017,Saily,eSIM Pays-Bas Illimité 7 jours,NL,Pays-Bas,,Illimité,7,36.67,EUR,4G,oui
+saily-102018,Saily,eSIM Singapour Illimité 7 jours,SG,Singapour,,Illimité,7,37.12,EUR,5G,non
+saily-102019,Saily,eSIM Malaisie 1 Go 30 jours,MY,Malaisie,1,1 Go,30,7.2,EUR,4G,oui
+saily-102020,Saily,eSIM Nouvelle-Zélande 5 Go 7 jours,NZ,Nouvelle-Zélande,5,5 Go,7,12.4,EUR,5G,non
+saily-102021,Saily,eSIM Suisse 3 Go 30 jours,CH,Suisse,3,3 Go,30,11.92,EUR,4G,non
+saily-102022,Saily,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,29.66,EUR,4G,non
+saily-102023,Saily,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,78.32,EUR,4G,oui
+saily-102024,Saily,eSIM Tchéquie 10 Go 7 jours,CZ,Tchéquie,10,10 Go,7,17.86,EUR,4G,non
+saily-102025,Saily,eSIM Pays-Bas 1 Go 15 jours,NL,Pays-Bas,1,1 Go,15,6.98,EUR,4G,non
+saily-102026,Saily,eSIM Italie 20 Go 7 jours,IT,Italie,20,20 Go,7,30.3,EUR,4G,oui
+saily-102027,Saily,eSIM Monde 10 Go 30 jours,WW,Monde,10,10 Go,30,32.19,EUR,4G,oui
+saily-102028,Saily,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,14.06,EUR,4G,oui
+saily-102029,Saily,eSIM Thaïlande 1 Go 7 jours,TH,Thaïlande,1,1 Go,7,6.11,EUR,4G,non
+saily-102030,Saily,eSIM Singapour Illimité 7 jours,SG,Singapour,,Illimité,7,36,EUR,5G,oui
+saily-102031,Saily,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,8.8,EUR,5G,non
+saily-102032,Saily,eSIM Autriche 10 Go 15 jours,AT,Autriche,10,10 Go,15,19.97,EUR,4G,oui
+saily-102033,Saily,eSIM Qatar 50 Go 15 jours,QA,Qatar,50,50 Go,15,51.73,EUR,4G,oui
+saily-102034,Saily,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,107.92,EUR,5G,oui
+saily-102035,Saily,eSIM Belgique 50 Go 15 jours,BE,Belgique,50,50 Go,15,51.57,EUR,4G,oui
+saily-102036,Saily,eSIM Singapour 1 Go 15 jours,SG,Singapour,1,1 Go,15,5.95,EUR,5G,non
+saily-102037,Saily,eSIM Malaisie 3 Go 7 jours,MY,Malaisie,3,3 Go,7,9.52,EUR,5G,oui
+saily-102038,Saily,eSIM Europe Illimité 7 jours,EU,Europe,,Illimité,7,45.62,EUR,4G,oui
+saily-102039,Saily,eSIM Thaïlande 3 Go 30 jours,TH,Thaïlande,3,3 Go,30,11.69,EUR,4G,non
+saily-102040,Saily,eSIM Indonésie Illimité 30 jours,ID,Indonésie,,Illimité,30,71.19,EUR,5G,oui
+saily-102041,Saily,eSIM Suisse Illimité 7 jours,CH,Suisse,,Illimité,7,34.1,EUR,5G,oui
+saily-102042,Saily,eSIM États-Unis 10 Go 15 jours,US,États-Unis,10,10 Go,15,19.57,EUR,5G,oui
+saily-102043,Saily,eSIM Qatar Illimité 15 jours,QA,Qatar,,Illimité,15,49.5,EUR,5G,oui
+saily-102044,Saily,eSIM Égypte 10 Go 30 jours,EG,Égypte,10,10 Go,30,25.65,EUR,5G,oui
+saily-102045,Saily,eSIM Monde 20 Go 30 jours,WW,Monde,20,20 Go,30,53.27,EUR,4G,oui
+saily-102046,Saily,eSIM Norvège 3 Go 15 jours,NO,Norvège,3,3 Go,15,10.79,EUR,4G,non
+saily-102047,Saily,eSIM Asie 10 Go 30 jours,AS,Asie,10,10 Go,30,31.03,EUR,4G,oui
+saily-102048,Saily,eSIM Europe 5 Go 15 jours,EU,Europe,5,5 Go,15,19.09,EUR,4G,non
+saily-102049,Saily,eSIM Grèce Illimité 7 jours,GR,Grèce,,Illimité,7,34.82,EUR,4G,oui
+saily-102050,Saily,eSIM Pérou 50 Go 7 jours,PE,Pérou,50,50 Go,7,46.72,EUR,4G,oui
+saily-102051,Saily,eSIM Rép. dominicaine 20 Go 30 jours,DO,Rép. dominicaine,20,20 Go,30,38.79,EUR,4G,oui
+saily-102052,Saily,eSIM Colombie 20 Go 7 jours,CO,Colombie,20,20 Go,7,27.01,EUR,4G,oui
+saily-102053,Saily,eSIM Rép. dominicaine 50 Go 30 jours,DO,Rép. dominicaine,50,50 Go,30,68.75,EUR,4G,oui
+saily-102054,Saily,eSIM Israël 10 Go 7 jours,IL,Israël,10,10 Go,7,18.12,EUR,4G,non
+saily-102055,Saily,eSIM Monde 5 Go 30 jours,WW,Monde,5,5 Go,30,21.51,EUR,5G,non
+saily-102056,Saily,eSIM Philippines 10 Go 7 jours,PH,Philippines,10,10 Go,7,16.56,EUR,4G,oui
+saily-102057,Saily,eSIM Europe 5 Go 15 jours,EU,Europe,5,5 Go,15,18.24,EUR,5G,non
+saily-102058,Saily,eSIM Maroc 10 Go 7 jours,MA,Maroc,10,10 Go,7,18.32,EUR,4G,non
+saily-102059,Saily,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,103.2,EUR,4G,non
+saily-102060,Saily,eSIM Amérique du Nord 20 Go 15 jours,NA,Amérique du Nord,20,20 Go,15,41.57,EUR,4G,oui
+saily-102061,Saily,eSIM Arabie saoudite 5 Go 7 jours,SA,Arabie saoudite,5,5 Go,7,12.87,EUR,5G,non
+saily-102062,Saily,eSIM Rép. dominicaine 3 Go 15 jours,DO,Rép. dominicaine,3,3 Go,15,9.82,EUR,4G,non
+saily-102063,Saily,eSIM Argentine 5 Go 7 jours,AR,Argentine,5,5 Go,7,13.22,EUR,4G,oui
+saily-102064,Saily,eSIM Norvège 10 Go 7 jours,NO,Norvège,10,10 Go,7,16.52,EUR,4G,non
+saily-102065,Saily,eSIM Japon 20 Go 15 jours,JP,Japon,20,20 Go,15,32.04,EUR,4G,non
+saily-102066,Saily,eSIM Grèce 5 Go 7 jours,GR,Grèce,5,5 Go,7,13.07,EUR,4G,oui
+saily-102067,Saily,eSIM Singapour 10 Go 30 jours,SG,Singapour,10,10 Go,30,26.1,EUR,4G,oui
+saily-102068,Saily,eSIM Colombie 50 Go 15 jours,CO,Colombie,50,50 Go,15,52.11,EUR,4G,non
+saily-102069,Saily,eSIM Monde Illimité 15 jours,WW,Monde,,Illimité,15,65.77,EUR,5G,oui
+saily-102070,Saily,eSIM Pays-Bas Illimité 30 jours,NL,Pays-Bas,,Illimité,30,73.45,EUR,5G,oui
+saily-102071,Saily,eSIM Croatie 20 Go 7 jours,HR,Croatie,20,20 Go,7,25.33,EUR,4G,oui
+saily-102072,Saily,eSIM Belgique Illimité 30 jours,BE,Belgique,,Illimité,30,85.83,EUR,4G,oui
+saily-102073,Saily,eSIM Afrique du Sud 3 Go 30 jours,ZA,Afrique du Sud,3,3 Go,30,12.95,EUR,4G,oui
+saily-102074,Saily,eSIM Brésil 1 Go 7 jours,BR,Brésil,1,1 Go,7,6.5,EUR,4G,non
+saily-102075,Saily,eSIM Thaïlande 20 Go 7 jours,TH,Thaïlande,20,20 Go,7,28.33,EUR,5G,oui
+saily-102076,Saily,eSIM Turquie 5 Go 15 jours,TR,Turquie,5,5 Go,15,14.64,EUR,4G,oui
+saily-102077,Saily,eSIM Colombie Illimité 30 jours,CO,Colombie,,Illimité,30,82.93,EUR,5G,non
+saily-102078,Saily,eSIM Suisse 20 Go 7 jours,CH,Suisse,20,20 Go,7,26.65,EUR,5G,non
+saily-102079,Saily,eSIM Kenya Illimité 7 jours,KE,Kenya,,Illimité,7,31.59,EUR,5G,non
+saily-102080,Saily,eSIM Portugal Illimité 15 jours,PT,Portugal,,Illimité,15,53.66,EUR,5G,oui
+saily-102081,Saily,eSIM Inde 10 Go 15 jours,IN,Inde,10,10 Go,15,19.62,EUR,4G,oui
+saily-102082,Saily,eSIM Irlande Illimité 7 jours,IE,Irlande,,Illimité,7,35.8,EUR,5G,non
+saily-102083,Saily,eSIM Chine 20 Go 30 jours,CN,Chine,20,20 Go,30,34.11,EUR,4G,non
+saily-102084,Saily,eSIM Grèce 50 Go 30 jours,GR,Grèce,50,50 Go,30,66.68,EUR,4G,oui
+saily-102085,Saily,eSIM Canada 10 Go 30 jours,CA,Canada,10,10 Go,30,25.54,EUR,4G,non
+saily-102086,Saily,eSIM Asie 3 Go 30 jours,AS,Asie,3,3 Go,30,16.84,EUR,5G,oui
+saily-102087,Saily,eSIM Indonésie 3 Go 30 jours,ID,Indonésie,3,3 Go,30,11.63,EUR,4G,oui
+saily-102088,Saily,eSIM Colombie 50 Go 7 jours,CO,Colombie,50,50 Go,7,50.79,EUR,5G,non
+saily-102089,Saily,eSIM Philippines Illimité 7 jours,PH,Philippines,,Illimité,7,33.51,EUR,4G,non
+saily-102090,Saily,eSIM Nigeria 20 Go 15 jours,NG,Nigeria,20,20 Go,15,33.66,EUR,5G,oui
+saily-102091,Saily,eSIM Suisse Illimité 30 jours,CH,Suisse,,Illimité,30,78.48,EUR,5G,oui
+saily-102092,Saily,eSIM France 20 Go 15 jours,FR,France,20,20 Go,15,29.33,EUR,5G,non
+saily-102093,Saily,eSIM Suède 3 Go 30 jours,SE,Suède,3,3 Go,30,12.33,EUR,5G,oui
+saily-102094,Saily,eSIM Allemagne 20 Go 7 jours,DE,Allemagne,20,20 Go,7,26.65,EUR,5G,non
+saily-102095,Saily,eSIM Grèce 1 Go 15 jours,GR,Grèce,1,1 Go,15,7.1,EUR,4G,oui
+saily-102096,Saily,eSIM Mexique 20 Go 7 jours,MX,Mexique,20,20 Go,7,28.78,EUR,4G,oui
+saily-102097,Saily,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,142.02,EUR,4G,oui
+saily-102098,Saily,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,135.32,EUR,5G,non

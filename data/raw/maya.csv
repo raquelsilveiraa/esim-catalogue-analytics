@@ -1,0 +1,153 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+maya-104691,Maya Mobile,eSIM Belgique 10 Go 7 jours,BE,Belgique,10,10 Go,7,18.87,EUR,4G,oui
+maya-104692,Maya Mobile,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,11.51,EUR,4G,oui
+maya-104693,Maya Mobile,eSIM France Illimité 30 jours,FR,France,,Illimité,30,74.66,EUR,4G,non
+maya-104694,Maya Mobile,eSIM Nouvelle-Zélande 5 Go 7 jours,NZ,Nouvelle-Zélande,5,5 Go,7,13.4,EUR,4G,oui
+maya-104695,Maya Mobile,eSIM Belgique 5 Go 15 jours,BE,Belgique,5,5 Go,15,14.35,EUR,5G,oui
+maya-104696,Maya Mobile,eSIM Mexique 20 Go 7 jours,MX,Mexique,20,20 Go,7,25.52,EUR,5G,non
+maya-104697,Maya Mobile,eSIM Belgique 3 Go 30 jours,BE,Belgique,3,3 Go,30,11.79,EUR,5G,non
+maya-104698,Maya Mobile,eSIM Émirats arabes unis 10 Go 30 jours,AE,Émirats arabes unis,10,10 Go,30,23.33,EUR,5G,oui
+maya-104699,Maya Mobile,eSIM Nigeria 3 Go 30 jours,NG,Nigeria,3,3 Go,30,12.92,EUR,5G,non
+maya-104700,Maya Mobile,eSIM Arabie saoudite 5 Go 7 jours,SA,Arabie saoudite,5,5 Go,7,12.28,EUR,4G,non
+maya-104701,Maya Mobile,eSIM Belgique 10 Go 7 jours,BE,Belgique,10,10 Go,7,19.18,EUR,5G,oui
+maya-104702,Maya Mobile,eSIM Qatar 5 Go 7 jours,QA,Qatar,5,5 Go,7,12.21,EUR,4G,non
+maya-104703,Maya Mobile,eSIM Mexique 3 Go 7 jours,MX,Mexique,3,3 Go,7,9.23,EUR,4G,non
+maya-104704,Maya Mobile,eSIM Asie 10 Go 15 jours,AS,Asie,10,10 Go,15,29.73,EUR,4G,oui
+maya-104705,Maya Mobile,eSIM Malaisie 10 Go 7 jours,MY,Malaisie,10,10 Go,7,18.39,EUR,5G,non
+maya-104706,Maya Mobile,eSIM Italie 20 Go 15 jours,IT,Italie,20,20 Go,15,28.7,EUR,4G,non
+maya-104707,Maya Mobile,eSIM Italie Illimité 30 jours,IT,Italie,,Illimité,30,72.78,EUR,4G,non
+maya-104708,Maya Mobile,eSIM Vietnam 10 Go 30 jours,VN,Vietnam,10,10 Go,30,23,EUR,4G,non
+maya-104709,Maya Mobile,eSIM Monde 10 Go 30 jours,WW,Monde,10,10 Go,30,36.55,EUR,4G,oui
+maya-104710,Maya Mobile,eSIM Autriche 20 Go 15 jours,AT,Autriche,20,20 Go,15,32.43,EUR,4G,oui
+maya-104711,Maya Mobile,eSIM Royaume-Uni 1 Go 15 jours,GB,Royaume-Uni,1,1 Go,15,6.33,EUR,4G,non
+maya-104712,Maya Mobile,eSIM Royaume-Uni 10 Go 30 jours,GB,Royaume-Uni,10,10 Go,30,23.94,EUR,4G,oui
+maya-104713,Maya Mobile,eSIM Qatar 20 Go 30 jours,QA,Qatar,20,20 Go,30,38.15,EUR,5G,non
+maya-104714,Maya Mobile,eSIM Afrique du Sud 5 Go 30 jours,ZA,Afrique du Sud,5,5 Go,30,15.05,EUR,4G,oui
+maya-104715,Maya Mobile,eSIM Corée du Sud 3 Go 15 jours,KR,Corée du Sud,3,3 Go,15,10.29,EUR,5G,non
+maya-104716,Maya Mobile,eSIM Chine 20 Go 15 jours,CN,Chine,20,20 Go,15,30.09,EUR,4G,non
+maya-104717,Maya Mobile,eSIM Croatie 20 Go 30 jours,HR,Croatie,20,20 Go,30,36.99,EUR,5G,non
+maya-104718,Maya Mobile,eSIM Tchéquie 10 Go 15 jours,CZ,Tchéquie,10,10 Go,15,18.79,EUR,4G,non
+maya-104719,Maya Mobile,eSIM Arabie saoudite 5 Go 30 jours,SA,Arabie saoudite,5,5 Go,30,16.88,EUR,4G,non
+maya-104720,Maya Mobile,eSIM Amérique du Nord 50 Go 30 jours,NA,Amérique du Nord,50,50 Go,30,91.55,EUR,4G,non
+maya-104721,Maya Mobile,eSIM Tchéquie 10 Go 15 jours,CZ,Tchéquie,10,10 Go,15,21.12,EUR,4G,non
+maya-104722,Maya Mobile,eSIM Italie 20 Go 15 jours,IT,Italie,20,20 Go,15,32.21,EUR,4G,oui
+maya-104723,Maya Mobile,eSIM Qatar 10 Go 7 jours,QA,Qatar,10,10 Go,7,18.89,EUR,4G,non
+maya-104724,Maya Mobile,eSIM Suède 1 Go 15 jours,SE,Suède,1,1 Go,15,6.24,EUR,5G,oui
+maya-104725,Maya Mobile,eSIM Israël Illimité 15 jours,IL,Israël,,Illimité,15,47.42,EUR,4G,non
+maya-104726,Maya Mobile,eSIM Pérou 20 Go 30 jours,PE,Pérou,20,20 Go,30,39.33,EUR,4G,oui
+maya-104727,Maya Mobile,eSIM Mexique 3 Go 15 jours,MX,Mexique,3,3 Go,15,9.55,EUR,4G,oui
+maya-104728,Maya Mobile,eSIM Colombie 50 Go 7 jours,CO,Colombie,50,50 Go,7,49.68,EUR,5G,oui
+maya-104729,Maya Mobile,eSIM Asie 50 Go 7 jours,AS,Asie,50,50 Go,7,66.95,EUR,4G,non
+maya-104730,Maya Mobile,eSIM Asie 50 Go 15 jours,AS,Asie,50,50 Go,15,72.87,EUR,4G,non
+maya-104731,Maya Mobile,eSIM Égypte 10 Go 15 jours,EG,Égypte,10,10 Go,15,18.91,EUR,5G,oui
+maya-104732,Maya Mobile,eSIM Israël 3 Go 30 jours,IL,Israël,3,3 Go,30,11.53,EUR,4G,non
+maya-104733,Maya Mobile,eSIM Brésil 3 Go 30 jours,BR,Brésil,3,3 Go,30,11.94,EUR,4G,non
+maya-104734,Maya Mobile,eSIM Asie 20 Go 30 jours,AS,Asie,20,20 Go,30,47.79,EUR,4G,oui
+maya-104735,Maya Mobile,eSIM Égypte 50 Go 7 jours,EG,Égypte,50,50 Go,7,46.5,EUR,4G,non
+maya-104736,Maya Mobile,eSIM Monde 1 Go 30 jours,WW,Monde,1,1 Go,30,11.17,EUR,4G,non
+maya-104737,Maya Mobile,eSIM Irlande 5 Go 7 jours,IE,Irlande,5,5 Go,7,11.22,EUR,4G,non
+maya-104738,Maya Mobile,eSIM Tchéquie 5 Go 30 jours,CZ,Tchéquie,5,5 Go,30,16.16,EUR,4G,non
+maya-104739,Maya Mobile,eSIM Égypte 50 Go 7 jours,EG,Égypte,50,50 Go,7,54.43,EUR,5G,non
+maya-104740,Maya Mobile,eSIM Monde 50 Go 30 jours,WW,Monde,50,50 Go,30,86.71,EUR,4G,non
+maya-104741,Maya Mobile,eSIM Colombie 50 Go 30 jours,CO,Colombie,50,50 Go,30,60.85,EUR,5G,non
+maya-104742,Maya Mobile,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,12.45,EUR,5G,non
+maya-104743,Maya Mobile,eSIM Turquie 5 Go 15 jours,TR,Turquie,5,5 Go,15,12.63,EUR,4G,oui
+maya-104744,Maya Mobile,eSIM Pays-Bas 5 Go 15 jours,NL,Pays-Bas,5,5 Go,15,13.67,EUR,4G,oui
+maya-104745,Maya Mobile,eSIM Chine 10 Go 15 jours,CN,Chine,10,10 Go,15,18.54,EUR,4G,non
+maya-104746,Maya Mobile,eSIM Égypte 1 Go 30 jours,EG,Égypte,1,1 Go,30,7.98,EUR,4G,non
+maya-104747,Maya Mobile,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,8.17,EUR,4G,oui
+maya-104748,Maya Mobile,eSIM Suède 5 Go 15 jours,SE,Suède,5,5 Go,15,14.71,EUR,4G,non
+maya-104749,Maya Mobile,eSIM États-Unis 10 Go 7 jours,US,États-Unis,10,10 Go,7,19.32,EUR,5G,non
+maya-104750,Maya Mobile,eSIM Corée du Sud 10 Go 7 jours,KR,Corée du Sud,10,10 Go,7,16.43,EUR,4G,oui
+maya-104751,Maya Mobile,eSIM Philippines Illimité 30 jours,PH,Philippines,,Illimité,30,72.95,EUR,5G,non
+maya-104752,Maya Mobile,eSIM Nigeria 5 Go 15 jours,NG,Nigeria,5,5 Go,15,13.39,EUR,4G,oui
+maya-104753,Maya Mobile,eSIM Colombie 20 Go 15 jours,CO,Colombie,20,20 Go,15,32.96,EUR,5G,non
+maya-104754,Maya Mobile,eSIM Norvège 10 Go 7 jours,NO,Norvège,10,10 Go,7,18.22,EUR,4G,non
+maya-104755,Maya Mobile,eSIM États-Unis 3 Go 7 jours,US,États-Unis,3,3 Go,7,9.77,EUR,5G,non
+maya-104756,Maya Mobile,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,6.1,EUR,4G,oui
+maya-104757,Maya Mobile,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,11.66,EUR,5G,oui
+maya-104758,Maya Mobile,eSIM Thaïlande 3 Go 30 jours,TH,Thaïlande,3,3 Go,30,11.7,EUR,5G,oui
+maya-104759,Maya Mobile,eSIM Suède 20 Go 30 jours,SE,Suède,20,20 Go,30,37.69,EUR,4G,non
+maya-104760,Maya Mobile,eSIM Tchéquie 50 Go 15 jours,CZ,Tchéquie,50,50 Go,15,54.6,EUR,5G,non
+maya-104761,Maya Mobile,eSIM États-Unis 5 Go 15 jours,US,États-Unis,5,5 Go,15,12.91,EUR,4G,non
+maya-104762,Maya Mobile,eSIM Monde 1 Go 15 jours,WW,Monde,1,1 Go,15,9.97,EUR,5G,oui
+maya-104763,Maya Mobile,eSIM Malaisie 3 Go 15 jours,MY,Malaisie,3,3 Go,15,9.93,EUR,4G,non
+maya-104764,Maya Mobile,eSIM Qatar Illimité 15 jours,QA,Qatar,,Illimité,15,53.09,EUR,5G,oui
+maya-104765,Maya Mobile,eSIM Kenya 5 Go 30 jours,KE,Kenya,5,5 Go,30,17.56,EUR,5G,non
+maya-104766,Maya Mobile,eSIM Italie 20 Go 7 jours,IT,Italie,20,20 Go,7,27.72,EUR,5G,oui
+maya-104767,Maya Mobile,eSIM Argentine 1 Go 15 jours,AR,Argentine,1,1 Go,15,6.26,EUR,5G,oui
+maya-104768,Maya Mobile,eSIM Amérique du Nord 5 Go 7 jours,NA,Amérique du Nord,5,5 Go,7,18.6,EUR,4G,non
+maya-104769,Maya Mobile,eSIM Monde 5 Go 7 jours,WW,Monde,5,5 Go,7,16.1,EUR,4G,non
+maya-104770,Maya Mobile,eSIM Pérou 3 Go 15 jours,PE,Pérou,3,3 Go,15,11.27,EUR,4G,non
+maya-104771,Maya Mobile,eSIM Autriche 5 Go 7 jours,AT,Autriche,5,5 Go,7,11.89,EUR,4G,oui
+maya-104772,Maya Mobile,eSIM Indonésie 50 Go 30 jours,ID,Indonésie,50,50 Go,30,69.12,EUR,5G,non
+maya-104773,Maya Mobile,eSIM Vietnam Illimité 15 jours,VN,Vietnam,,Illimité,15,49.09,EUR,5G,non
+maya-104774,Maya Mobile,eSIM Nouvelle-Zélande 5 Go 7 jours,NZ,Nouvelle-Zélande,5,5 Go,7,11.36,EUR,4G,non
+maya-104775,Maya Mobile,eSIM Tchéquie 5 Go 30 jours,CZ,Tchéquie,5,5 Go,30,16,EUR,4G,non
+maya-104776,Maya Mobile,eSIM Turquie 50 Go 7 jours,TR,Turquie,50,50 Go,7,54.91,EUR,5G,non
+maya-104777,Maya Mobile,eSIM Nouvelle-Zélande 50 Go 15 jours,NZ,Nouvelle-Zélande,50,50 Go,15,51.48,EUR,4G,oui
+maya-104778,Maya Mobile,eSIM Tanzanie 3 Go 30 jours,TZ,Tanzanie,3,3 Go,30,11.97,EUR,4G,non
+maya-104779,Maya Mobile,eSIM Égypte 20 Go 30 jours,EG,Égypte,20,20 Go,30,34.46,EUR,4G,oui
+maya-104780,Maya Mobile,eSIM Égypte 3 Go 7 jours,EG,Égypte,3,3 Go,7,10.24,EUR,5G,non
+maya-104781,Maya Mobile,eSIM Grèce 1 Go 7 jours,GR,Grèce,1,1 Go,7,6.34,EUR,4G,oui
+maya-104782,Maya Mobile,eSIM Égypte 50 Go 15 jours,EG,Égypte,50,50 Go,15,55.91,EUR,5G,oui
+maya-104783,Maya Mobile,eSIM Autriche 50 Go 15 jours,AT,Autriche,50,50 Go,15,56.99,EUR,4G,oui
+maya-104784,Maya Mobile,eSIM Royaume-Uni 1 Go 30 jours,GB,Royaume-Uni,1,1 Go,30,7.21,EUR,4G,non
+maya-104785,Maya Mobile,eSIM Tchéquie 10 Go 30 jours,CZ,Tchéquie,10,10 Go,30,22.61,EUR,4G,oui
+maya-104786,Maya Mobile,eSIM Corée du Sud 5 Go 7 jours,KR,Corée du Sud,5,5 Go,7,12.94,EUR,4G,oui
+maya-104787,Maya Mobile,eSIM Philippines 1 Go 15 jours,PH,Philippines,1,1 Go,15,6.12,EUR,4G,non
+maya-104788,Maya Mobile,eSIM Nigeria 20 Go 15 jours,NG,Nigeria,20,20 Go,15,28.54,EUR,4G,non
+maya-104789,Maya Mobile,eSIM Tanzanie 5 Go 7 jours,TZ,Tanzanie,5,5 Go,7,11.96,EUR,4G,non
+maya-104790,Maya Mobile,eSIM Croatie 1 Go 15 jours,HR,Croatie,1,1 Go,15,7.02,EUR,5G,oui
+maya-104791,Maya Mobile,eSIM Qatar 10 Go 15 jours,QA,Qatar,10,10 Go,15,18.71,EUR,4G,oui
+maya-104792,Maya Mobile,eSIM États-Unis Illimité 15 jours,US,États-Unis,,Illimité,15,47.8,EUR,5G,oui
+maya-104793,Maya Mobile,eSIM Italie Illimité 15 jours,IT,Italie,,Illimité,15,47.15,EUR,4G,non
+maya-104794,Maya Mobile,eSIM Philippines 3 Go 7 jours,PH,Philippines,3,3 Go,7,9.98,EUR,4G,non
+maya-104795,Maya Mobile,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,8.81,EUR,5G,oui
+maya-104796,Maya Mobile,eSIM Pérou Illimité 30 jours,PE,Pérou,,Illimité,30,77.9,EUR,5G,oui
+maya-104797,Maya Mobile,eSIM Irlande 5 Go 30 jours,IE,Irlande,5,5 Go,30,15.89,EUR,4G,non
+maya-104798,Maya Mobile,eSIM Chili 5 Go 30 jours,CL,Chili,5,5 Go,30,17.27,EUR,4G,oui
+maya-104799,Maya Mobile,eSIM Belgique 20 Go 7 jours,BE,Belgique,20,20 Go,7,30.28,EUR,4G,non
+maya-104800,Maya Mobile,eSIM Amérique du Nord 1 Go 30 jours,NA,Amérique du Nord,1,1 Go,30,10.09,EUR,4G,oui
+maya-104801,Maya Mobile,eSIM Turquie Illimité 15 jours,TR,Turquie,,Illimité,15,48.87,EUR,5G,non
+maya-104802,Maya Mobile,eSIM Suède 3 Go 15 jours,SE,Suède,3,3 Go,15,10.23,EUR,4G,oui
+maya-104803,Maya Mobile,eSIM Émirats arabes unis 1 Go 7 jours,AE,Émirats arabes unis,1,1 Go,7,5.98,EUR,4G,non
+maya-104804,Maya Mobile,eSIM Thaïlande Illimité 7 jours,TH,Thaïlande,,Illimité,7,31.77,EUR,5G,oui
+maya-104805,Maya Mobile,eSIM Chine 3 Go 30 jours,CN,Chine,3,3 Go,30,11.77,EUR,4G,oui
+maya-104806,Maya Mobile,eSIM Royaume-Uni 50 Go 15 jours,GB,Royaume-Uni,50,50 Go,15,51.13,EUR,5G,oui
+maya-104807,Maya Mobile,eSIM Israël 3 Go 15 jours,IL,Israël,3,3 Go,15,10.52,EUR,4G,non
+maya-104808,Maya Mobile,eSIM Indonésie 3 Go 15 jours,ID,Indonésie,3,3 Go,15,10.29,EUR,4G,oui
+maya-104809,Maya Mobile,eSIM Monde 20 Go 15 jours,WW,Monde,20,20 Go,15,39.31,EUR,4G,non
+maya-104810,Maya Mobile,eSIM Asie 20 Go 30 jours,AS,Asie,20,20 Go,30,53.19,EUR,4G,oui
+maya-104811,Maya Mobile,eSIM Grèce 3 Go 15 jours,GR,Grèce,3,3 Go,15,9.65,EUR,4G,non
+maya-104812,Maya Mobile,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,13.46,EUR,4G,non
+maya-104813,Maya Mobile,eSIM Nigeria 5 Go 15 jours,NG,Nigeria,5,5 Go,15,14.52,EUR,4G,oui
+maya-104814,Maya Mobile,eSIM Vietnam 1 Go 15 jours,VN,Vietnam,1,1 Go,15,6.84,EUR,4G,non
+maya-104815,Maya Mobile,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,102.91,EUR,4G,non
+maya-104816,Maya Mobile,eSIM Europe 20 Go 15 jours,EU,Europe,20,20 Go,15,44.41,EUR,4G,oui
+maya-104817,Maya Mobile,eSIM Suisse 1 Go 15 jours,CH,Suisse,1,1 Go,15,6.54,EUR,5G,oui
+maya-104818,Maya Mobile,eSIM Suède Illimité 15 jours,SE,Suède,,Illimité,15,52.28,EUR,5G,non
+maya-104819,Maya Mobile,eSIM Monde 5 Go 30 jours,WW,Monde,5,5 Go,30,22.82,EUR,5G,oui
+maya-104820,Maya Mobile,eSIM Chine 3 Go 30 jours,CN,Chine,3,3 Go,30,11.55,EUR,5G,non
+maya-104821,Maya Mobile,eSIM Tanzanie Illimité 15 jours,TZ,Tanzanie,,Illimité,15,44.78,EUR,4G,oui
+maya-104822,Maya Mobile,eSIM Émirats arabes unis 3 Go 30 jours,AE,Émirats arabes unis,3,3 Go,30,12.15,EUR,4G,non
+maya-104823,Maya Mobile,eSIM Malaisie 1 Go 30 jours,MY,Malaisie,1,1 Go,30,8.07,EUR,4G,non
+maya-104824,Maya Mobile,eSIM Chili 3 Go 7 jours,CL,Chili,3,3 Go,7,9.53,EUR,4G,oui
+maya-104825,Maya Mobile,eSIM Malaisie 5 Go 30 jours,MY,Malaisie,5,5 Go,30,16.25,EUR,5G,non
+maya-104826,Maya Mobile,eSIM Émirats arabes unis 10 Go 30 jours,AE,Émirats arabes unis,10,10 Go,30,24.72,EUR,5G,oui
+maya-104827,Maya Mobile,eSIM Égypte 10 Go 7 jours,EG,Égypte,10,10 Go,7,18.89,EUR,4G,oui
+maya-104828,Maya Mobile,eSIM Jordanie 10 Go 15 jours,JO,Jordanie,10,10 Go,15,21.94,EUR,4G,non
+maya-104829,Maya Mobile,eSIM Israël 50 Go 15 jours,IL,Israël,50,50 Go,15,60.03,EUR,5G,oui
+maya-104830,Maya Mobile,eSIM Amérique du Nord 50 Go 30 jours,NA,Amérique du Nord,50,50 Go,30,98.21,EUR,4G,non
+maya-104831,Maya Mobile,eSIM Chine 3 Go 7 jours,CN,Chine,3,3 Go,7,8.73,EUR,4G,non
+maya-104832,Maya Mobile,eSIM Kenya Illimité 7 jours,KE,Kenya,,Illimité,7,34.72,EUR,5G,oui
+maya-104833,Maya Mobile,eSIM Chili 20 Go 15 jours,CL,Chili,20,20 Go,15,28.61,EUR,5G,oui
+maya-104834,Maya Mobile,eSIM Belgique 50 Go 30 jours,BE,Belgique,50,50 Go,30,68.29,EUR,5G,oui
+maya-104835,Maya Mobile,eSIM Chine Illimité 30 jours,CN,Chine,,Illimité,30,72.47,EUR,5G,non
+maya-104836,Maya Mobile,eSIM Japon 3 Go 7 jours,JP,Japon,3,3 Go,7,9.19,EUR,4G,oui
+maya-104837,Maya Mobile,eSIM Nigeria 50 Go 15 jours,NG,Nigeria,50,50 Go,15,60.72,EUR,4G,oui
+maya-104838,Maya Mobile,eSIM Norvège 10 Go 15 jours,NO,Norvège,10,10 Go,15,18.83,EUR,4G,oui
+maya-104839,Maya Mobile,eSIM Turquie 10 Go 7 jours,TR,Turquie,10,10 Go,7,18.9,EUR,4G,oui
+maya-104840,Maya Mobile,eSIM Japon 1 Go 15 jours,JP,Japon,1,1 Go,15,6.13,EUR,4G,oui
+maya-104841,Maya Mobile,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,126.25,EUR,4G,non
+maya-104842,Maya Mobile,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,141.99,EUR,5G,oui

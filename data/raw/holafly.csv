@@ -1,0 +1,243 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+holafly-103297,Holafly,eSIM Italie 5 Go 15 jours,IT,Italie,5,5 Go,15,12.45,EUR,4G,oui
+holafly-103298,Holafly,eSIM Europe 5 Go 7 jours,EU,Europe,5,5 Go,7,17.97,EUR,4G,oui
+holafly-103299,Holafly,eSIM Chine 10 Go 30 jours,CN,Chine,10,10 Go,30,22.87,EUR,4G,non
+holafly-103300,Holafly,eSIM Pologne 5 Go 30 jours,PL,Pologne,5,5 Go,30,16.86,EUR,5G,oui
+holafly-103301,Holafly,eSIM Chine 5 Go 15 jours,CN,Chine,5,5 Go,15,14.75,EUR,5G,oui
+holafly-103302,Holafly,eSIM États-Unis 3 Go 7 jours,US,États-Unis,3,3 Go,7,9.07,EUR,4G,oui
+holafly-103303,Holafly,eSIM Pologne 50 Go 7 jours,PL,Pologne,50,50 Go,7,54.85,EUR,4G,oui
+holafly-103304,Holafly,eSIM Égypte 3 Go 15 jours,EG,Égypte,3,3 Go,15,10.06,EUR,4G,oui
+holafly-103305,Holafly,eSIM Grèce 20 Go 15 jours,GR,Grèce,20,20 Go,15,31.21,EUR,5G,non
+holafly-103306,Holafly,eSIM Malaisie 20 Go 15 jours,MY,Malaisie,20,20 Go,15,29.01,EUR,4G,non
+holafly-103307,Holafly,eSIM Europe 5 Go 15 jours,EU,Europe,5,5 Go,15,20.29,EUR,4G,oui
+holafly-103308,Holafly,eSIM Croatie 3 Go 15 jours,HR,Croatie,3,3 Go,15,9.58,EUR,4G,oui
+holafly-103309,Holafly,eSIM Suisse 5 Go 30 jours,CH,Suisse,5,5 Go,30,14.54,EUR,4G,oui
+holafly-103310,Holafly,eSIM Grèce 3 Go 15 jours,GR,Grèce,3,3 Go,15,10.13,EUR,4G,oui
+holafly-103311,Holafly,eSIM Tanzanie 5 Go 15 jours,TZ,Tanzanie,5,5 Go,15,13.7,EUR,5G,oui
+holafly-103312,Holafly,eSIM Suisse 3 Go 7 jours,CH,Suisse,3,3 Go,7,9.02,EUR,4G,oui
+holafly-103313,Holafly,eSIM Maroc 5 Go 15 jours,MA,Maroc,5,5 Go,15,12.74,EUR,5G,oui
+holafly-103314,Holafly,eSIM Italie 20 Go 30 jours,IT,Italie,20,20 Go,30,39.6,EUR,4G,oui
+holafly-103315,Holafly,eSIM Europe 50 Go 30 jours,EU,Europe,50,50 Go,30,99.39,EUR,4G,oui
+holafly-103316,Holafly,eSIM Vietnam 5 Go 15 jours,VN,Vietnam,5,5 Go,15,14.77,EUR,4G,oui
+holafly-103317,Holafly,eSIM États-Unis 20 Go 30 jours,US,États-Unis,20,20 Go,30,36.03,EUR,4G,non
+holafly-103318,Holafly,eSIM Chine 3 Go 15 jours,CN,Chine,3,3 Go,15,10.92,EUR,5G,oui
+holafly-103319,Holafly,eSIM Monde 5 Go 30 jours,WW,Monde,5,5 Go,30,22.96,EUR,4G,oui
+holafly-103320,Holafly,eSIM Allemagne 50 Go 30 jours,DE,Allemagne,50,50 Go,30,63.48,EUR,4G,oui
+holafly-103321,Holafly,eSIM Turquie 5 Go 15 jours,TR,Turquie,5,5 Go,15,14.95,EUR,5G,oui
+holafly-103322,Holafly,eSIM Indonésie 10 Go 30 jours,ID,Indonésie,10,10 Go,30,21.61,EUR,4G,oui
+holafly-103323,Holafly,eSIM Amérique du Nord 1 Go 15 jours,NA,Amérique du Nord,1,1 Go,15,9.8,EUR,5G,oui
+holafly-103324,Holafly,eSIM Nouvelle-Zélande 10 Go 15 jours,NZ,Nouvelle-Zélande,10,10 Go,15,18.45,EUR,4G,oui
+holafly-103325,Holafly,eSIM Singapour 50 Go 7 jours,SG,Singapour,50,50 Go,7,50.72,EUR,4G,oui
+holafly-103326,Holafly,eSIM Portugal 3 Go 7 jours,PT,Portugal,3,3 Go,7,9.36,EUR,4G,non
+holafly-103327,Holafly,eSIM Égypte 5 Go 15 jours,EG,Égypte,5,5 Go,15,13.67,EUR,4G,oui
+holafly-103328,Holafly,eSIM Nouvelle-Zélande 5 Go 15 jours,NZ,Nouvelle-Zélande,5,5 Go,15,14.31,EUR,4G,oui
+holafly-103329,Holafly,eSIM Nouvelle-Zélande 1 Go 30 jours,NZ,Nouvelle-Zélande,1,1 Go,30,8.09,EUR,4G,oui
+holafly-103330,Holafly,eSIM Indonésie 20 Go 15 jours,ID,Indonésie,20,20 Go,15,33.23,EUR,5G,oui
+holafly-103331,Holafly,eSIM Inde Illimité 30 jours,IN,Inde,,Illimité,30,73.99,EUR,5G,oui
+holafly-103332,Holafly,eSIM Kenya Illimité 7 jours,KE,Kenya,,Illimité,7,36.92,EUR,5G,non
+holafly-103333,Holafly,eSIM Nouvelle-Zélande 20 Go 15 jours,NZ,Nouvelle-Zélande,20,20 Go,15,32.66,EUR,4G,oui
+holafly-103334,Holafly,eSIM Philippines 3 Go 7 jours,PH,Philippines,3,3 Go,7,10.15,EUR,4G,oui
+holafly-103335,Holafly,eSIM Maroc 10 Go 15 jours,MA,Maroc,10,10 Go,15,20.87,EUR,4G,oui
+holafly-103336,Holafly,eSIM Amérique du Nord 50 Go 15 jours,NA,Amérique du Nord,50,50 Go,15,73.65,EUR,4G,oui
+holafly-103337,Holafly,eSIM Australie 1 Go 30 jours,AU,Australie,1,1 Go,30,8.46,EUR,4G,oui
+holafly-103338,Holafly,eSIM Chine Illimité 15 jours,CN,Chine,,Illimité,15,51.63,EUR,4G,non
+holafly-103339,Holafly,eSIM Espagne 5 Go 15 jours,ES,Espagne,5,5 Go,15,13.72,EUR,5G,non
+holafly-103340,Holafly,eSIM Amérique du Nord 10 Go 30 jours,NA,Amérique du Nord,10,10 Go,30,32.04,EUR,5G,non
+holafly-103341,Holafly,eSIM Arabie saoudite 10 Go 15 jours,SA,Arabie saoudite,10,10 Go,15,21.97,EUR,4G,oui
+holafly-103342,Holafly,eSIM Suisse 3 Go 30 jours,CH,Suisse,3,3 Go,30,13.53,EUR,5G,oui
+holafly-103343,Holafly,eSIM Amérique du Nord 50 Go 30 jours,NA,Amérique du Nord,50,50 Go,30,96.76,EUR,4G,oui
+holafly-103344,Holafly,eSIM Mexique Illimité 30 jours,MX,Mexique,,Illimité,30,77.52,EUR,4G,oui
+holafly-103345,Holafly,eSIM Espagne 20 Go 30 jours,ES,Espagne,20,20 Go,30,34.35,EUR,5G,oui
+holafly-103346,Holafly,eSIM Nouvelle-Zélande 10 Go 30 jours,NZ,Nouvelle-Zélande,10,10 Go,30,23.7,EUR,4G,oui
+holafly-103347,Holafly,eSIM France 20 Go 15 jours,FR,France,20,20 Go,15,29.4,EUR,4G,oui
+holafly-103348,Holafly,eSIM Tchéquie 3 Go 7 jours,CZ,Tchéquie,3,3 Go,7,9.8,EUR,4G,oui
+holafly-103349,Holafly,eSIM Inde 5 Go 7 jours,IN,Inde,5,5 Go,7,13.46,EUR,5G,oui
+holafly-103350,Holafly,eSIM Tchéquie 50 Go 30 jours,CZ,Tchéquie,50,50 Go,30,60.43,EUR,5G,non
+holafly-103351,Holafly,eSIM Italie 1 Go 7 jours,IT,Italie,1,1 Go,7,6.05,EUR,4G,non
+holafly-103352,Holafly,eSIM Émirats arabes unis 1 Go 15 jours,AE,Émirats arabes unis,1,1 Go,15,6.46,EUR,4G,oui
+holafly-103353,Holafly,eSIM Afrique du Sud 1 Go 15 jours,ZA,Afrique du Sud,1,1 Go,15,6.3,EUR,5G,non
+holafly-103354,Holafly,eSIM Corée du Sud 1 Go 7 jours,KR,Corée du Sud,1,1 Go,7,6.26,EUR,4G,non
+holafly-103355,Holafly,eSIM Turquie Illimité 7 jours,TR,Turquie,,Illimité,7,34.72,EUR,4G,non
+holafly-103356,Holafly,eSIM Tanzanie 50 Go 30 jours,TZ,Tanzanie,50,50 Go,30,63.11,EUR,5G,non
+holafly-103357,Holafly,eSIM Indonésie 20 Go 7 jours,ID,Indonésie,20,20 Go,7,26.08,EUR,5G,oui
+holafly-103358,Holafly,eSIM Asie 5 Go 7 jours,AS,Asie,5,5 Go,7,15.92,EUR,5G,oui
+holafly-103359,Holafly,eSIM Suisse Illimité 7 jours,CH,Suisse,,Illimité,7,30.97,EUR,4G,non
+holafly-103360,Holafly,eSIM Nigeria Illimité 30 jours,NG,Nigeria,,Illimité,30,81.92,EUR,5G,non
+holafly-103361,Holafly,eSIM Inde 20 Go 15 jours,IN,Inde,20,20 Go,15,31.83,EUR,4G,non
+holafly-103362,Holafly,eSIM États-Unis 5 Go 30 jours,US,États-Unis,5,5 Go,30,17.64,EUR,4G,oui
+holafly-103363,Holafly,eSIM Amérique du Nord 10 Go 30 jours,NA,Amérique du Nord,10,10 Go,30,36,EUR,4G,non
+holafly-103364,Holafly,eSIM Égypte 50 Go 30 jours,EG,Égypte,50,50 Go,30,67.69,EUR,5G,oui
+holafly-103365,Holafly,eSIM Italie 1 Go 15 jours,IT,Italie,1,1 Go,15,6.63,EUR,4G,oui
+holafly-103366,Holafly,eSIM Afrique du Sud 5 Go 15 jours,ZA,Afrique du Sud,5,5 Go,15,13.29,EUR,4G,non
+holafly-103367,Holafly,eSIM Singapour Illimité 7 jours,SG,Singapour,,Illimité,7,30.69,EUR,5G,oui
+holafly-103368,Holafly,eSIM Argentine 20 Go 7 jours,AR,Argentine,20,20 Go,7,27.2,EUR,4G,non
+holafly-103369,Holafly,eSIM Italie 1 Go 30 jours,IT,Italie,1,1 Go,30,8.2,EUR,4G,non
+holafly-103370,Holafly,eSIM Colombie 20 Go 15 jours,CO,Colombie,20,20 Go,15,31.25,EUR,5G,non
+holafly-103371,Holafly,eSIM Nigeria 3 Go 30 jours,NG,Nigeria,3,3 Go,30,12.26,EUR,4G,oui
+holafly-103372,Holafly,eSIM Chine 10 Go 30 jours,CN,Chine,10,10 Go,30,21.96,EUR,4G,oui
+holafly-103373,Holafly,eSIM Maroc 1 Go 7 jours,MA,Maroc,1,1 Go,7,5.98,EUR,4G,non
+holafly-103374,Holafly,eSIM Corée du Sud 5 Go 7 jours,KR,Corée du Sud,5,5 Go,7,11.12,EUR,4G,oui
+holafly-103375,Holafly,eSIM Afrique du Sud 3 Go 30 jours,ZA,Afrique du Sud,3,3 Go,30,11.2,EUR,4G,oui
+holafly-103376,Holafly,eSIM États-Unis 1 Go 7 jours,US,États-Unis,1,1 Go,7,5.37,EUR,5G,oui
+holafly-103377,Holafly,eSIM Arabie saoudite 1 Go 7 jours,SA,Arabie saoudite,1,1 Go,7,5.52,EUR,5G,non
+holafly-103378,Holafly,eSIM Vietnam 1 Go 7 jours,VN,Vietnam,1,1 Go,7,5.84,EUR,5G,non
+holafly-103379,Holafly,eSIM Singapour 1 Go 30 jours,SG,Singapour,1,1 Go,30,7.27,EUR,5G,oui
+holafly-103380,Holafly,eSIM Thaïlande 10 Go 30 jours,TH,Thaïlande,10,10 Go,30,22.06,EUR,4G,oui
+holafly-103381,Holafly,eSIM Suède 5 Go 15 jours,SE,Suède,5,5 Go,15,13.93,EUR,5G,oui
+holafly-103382,Holafly,eSIM Vietnam 5 Go 30 jours,VN,Vietnam,5,5 Go,30,15.1,EUR,5G,oui
+holafly-103383,Holafly,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,13.8,EUR,4G,non
+holafly-103384,Holafly,eSIM Italie 10 Go 30 jours,IT,Italie,10,10 Go,30,23.51,EUR,4G,oui
+holafly-103385,Holafly,eSIM Tchéquie 1 Go 15 jours,CZ,Tchéquie,1,1 Go,15,6.27,EUR,4G,non
+holafly-103386,Holafly,eSIM États-Unis 50 Go 15 jours,US,États-Unis,50,50 Go,15,58.46,EUR,4G,non
+holafly-103387,Holafly,eSIM Autriche 50 Go 15 jours,AT,Autriche,50,50 Go,15,51.54,EUR,5G,oui
+holafly-103388,Holafly,eSIM Afrique du Sud Illimité 15 jours,ZA,Afrique du Sud,,Illimité,15,45.6,EUR,4G,non
+holafly-103389,Holafly,eSIM Pérou 10 Go 15 jours,PE,Pérou,10,10 Go,15,21.66,EUR,4G,oui
+holafly-103390,Holafly,eSIM Qatar Illimité 15 jours,QA,Qatar,,Illimité,15,52.62,EUR,5G,oui
+holafly-103391,Holafly,eSIM Tanzanie Illimité 30 jours,TZ,Tanzanie,,Illimité,30,79.63,EUR,4G,non
+holafly-103392,Holafly,eSIM Nigeria 3 Go 7 jours,NG,Nigeria,3,3 Go,7,9.15,EUR,4G,oui
+holafly-103393,Holafly,eSIM Pérou 5 Go 30 jours,PE,Pérou,5,5 Go,30,17.45,EUR,5G,non
+holafly-103394,Holafly,eSIM Pologne 20 Go 30 jours,PL,Pologne,20,20 Go,30,39.77,EUR,5G,oui
+holafly-103395,Holafly,eSIM Monde 5 Go 30 jours,WW,Monde,5,5 Go,30,20.47,EUR,4G,non
+holafly-103396,Holafly,eSIM Chine 5 Go 15 jours,CN,Chine,5,5 Go,15,12.55,EUR,5G,non
+holafly-103397,Holafly,eSIM Inde 50 Go 30 jours,IN,Inde,50,50 Go,30,67.76,EUR,4G,oui
+holafly-103398,Holafly,eSIM Jordanie 10 Go 30 jours,JO,Jordanie,10,10 Go,30,24.55,EUR,4G,oui
+holafly-103399,Holafly,eSIM Suède 3 Go 15 jours,SE,Suède,3,3 Go,15,10.23,EUR,5G,oui
+holafly-103400,Holafly,eSIM Vietnam 10 Go 7 jours,VN,Vietnam,10,10 Go,7,18.33,EUR,4G,non
+holafly-103401,Holafly,eSIM Pays-Bas 5 Go 7 jours,NL,Pays-Bas,5,5 Go,7,12.11,EUR,5G,oui
+holafly-103402,Holafly,eSIM Royaume-Uni 5 Go 7 jours,GB,Royaume-Uni,5,5 Go,7,12.9,EUR,5G,non
+holafly-103403,Holafly,eSIM Italie 20 Go 15 jours,IT,Italie,20,20 Go,15,32.88,EUR,5G,non
+holafly-103404,Holafly,eSIM Irlande 1 Go 30 jours,IE,Irlande,1,1 Go,30,8.32,EUR,4G,oui
+holafly-103405,Holafly,eSIM Mexique 50 Go 7 jours,MX,Mexique,50,50 Go,7,48.55,EUR,4G,oui
+holafly-103406,Holafly,eSIM Nouvelle-Zélande 3 Go 15 jours,NZ,Nouvelle-Zélande,3,3 Go,15,9.88,EUR,4G,non
+holafly-103407,Holafly,eSIM Singapour 1 Go 7 jours,SG,Singapour,1,1 Go,7,6.01,EUR,5G,oui
+holafly-103408,Holafly,eSIM Portugal 50 Go 15 jours,PT,Portugal,50,50 Go,15,53.04,EUR,4G,oui
+holafly-103409,Holafly,eSIM Australie 50 Go 30 jours,AU,Australie,50,50 Go,30,59.19,EUR,4G,oui
+holafly-103410,Holafly,eSIM Maroc 20 Go 15 jours,MA,Maroc,20,20 Go,15,30.51,EUR,4G,oui
+holafly-103411,Holafly,eSIM Tchéquie Illimité 15 jours,CZ,Tchéquie,,Illimité,15,49.03,EUR,5G,non
+holafly-103412,Holafly,eSIM Chili 5 Go 7 jours,CL,Chili,5,5 Go,7,11.24,EUR,4G,oui
+holafly-103413,Holafly,eSIM Mexique 10 Go 7 jours,MX,Mexique,10,10 Go,7,17.7,EUR,4G,oui
+holafly-103414,Holafly,eSIM Thaïlande 1 Go 30 jours,TH,Thaïlande,1,1 Go,30,8.34,EUR,4G,oui
+holafly-103415,Holafly,eSIM Qatar 1 Go 7 jours,QA,Qatar,1,1 Go,7,5.55,EUR,4G,non
+holafly-103416,Holafly,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,106.32,EUR,5G,non
+holafly-103417,Holafly,eSIM Égypte 3 Go 15 jours,EG,Égypte,3,3 Go,15,11.15,EUR,4G,non
+holafly-103418,Holafly,eSIM Pérou 20 Go 7 jours,PE,Pérou,20,20 Go,7,26.17,EUR,4G,oui
+holafly-103419,Holafly,eSIM Australie 1 Go 7 jours,AU,Australie,1,1 Go,7,6.17,EUR,5G,oui
+holafly-103420,Holafly,eSIM Argentine 1 Go 7 jours,AR,Argentine,1,1 Go,7,5.41,EUR,5G,oui
+holafly-103421,Holafly,eSIM Espagne 5 Go 15 jours,ES,Espagne,5,5 Go,15,13.66,EUR,4G,non
+holafly-103422,Holafly,eSIM Tchéquie 1 Go 15 jours,CZ,Tchéquie,1,1 Go,15,6.73,EUR,5G,non
+holafly-103423,Holafly,eSIM Portugal 1 Go 30 jours,PT,Portugal,1,1 Go,30,8.43,EUR,4G,non
+holafly-103424,Holafly,eSIM Canada 1 Go 15 jours,CA,Canada,1,1 Go,15,7.04,EUR,4G,non
+holafly-103425,Holafly,eSIM Vietnam 50 Go 7 jours,VN,Vietnam,50,50 Go,7,54.07,EUR,4G,oui
+holafly-103426,Holafly,eSIM Irlande 3 Go 15 jours,IE,Irlande,3,3 Go,15,10.16,EUR,4G,non
+holafly-103427,Holafly,eSIM Grèce 20 Go 7 jours,GR,Grèce,20,20 Go,7,30.3,EUR,4G,oui
+holafly-103428,Holafly,eSIM Tchéquie 5 Go 7 jours,CZ,Tchéquie,5,5 Go,7,11.16,EUR,4G,oui
+holafly-103429,Holafly,eSIM Norvège 10 Go 30 jours,NO,Norvège,10,10 Go,30,22.18,EUR,4G,non
+holafly-103430,Holafly,eSIM Belgique 3 Go 15 jours,BE,Belgique,3,3 Go,15,10.79,EUR,5G,oui
+holafly-103431,Holafly,eSIM Grèce Illimité 15 jours,GR,Grèce,,Illimité,15,50.49,EUR,5G,oui
+holafly-103432,Holafly,eSIM Monde 1 Go 30 jours,WW,Monde,1,1 Go,30,11.28,EUR,4G,non
+holafly-103433,Holafly,eSIM Kenya 3 Go 15 jours,KE,Kenya,3,3 Go,15,11.43,EUR,4G,oui
+holafly-103434,Holafly,eSIM Malaisie 5 Go 30 jours,MY,Malaisie,5,5 Go,30,17.25,EUR,4G,non
+holafly-103435,Holafly,eSIM Amérique du Nord 50 Go 30 jours,NA,Amérique du Nord,50,50 Go,30,87.21,EUR,4G,non
+holafly-103436,Holafly,eSIM Brésil 10 Go 15 jours,BR,Brésil,10,10 Go,15,19.86,EUR,5G,non
+holafly-103437,Holafly,eSIM Philippines 5 Go 30 jours,PH,Philippines,5,5 Go,30,17.52,EUR,5G,non
+holafly-103438,Holafly,eSIM Colombie 10 Go 30 jours,CO,Colombie,10,10 Go,30,21.65,EUR,5G,oui
+holafly-103439,Holafly,eSIM Portugal Illimité 7 jours,PT,Portugal,,Illimité,7,36.08,EUR,5G,non
+holafly-103440,Holafly,eSIM Jordanie 1 Go 7 jours,JO,Jordanie,1,1 Go,7,5.54,EUR,4G,oui
+holafly-103441,Holafly,eSIM Norvège 50 Go 30 jours,NO,Norvège,50,50 Go,30,64.39,EUR,4G,oui
+holafly-103442,Holafly,eSIM Jordanie 10 Go 7 jours,JO,Jordanie,10,10 Go,7,17.82,EUR,4G,oui
+holafly-103443,Holafly,eSIM Argentine Illimité 15 jours,AR,Argentine,,Illimité,15,47.02,EUR,4G,non
+holafly-103444,Holafly,eSIM Mexique 3 Go 30 jours,MX,Mexique,3,3 Go,30,12.94,EUR,4G,non
+holafly-103445,Holafly,eSIM Pays-Bas 10 Go 30 jours,NL,Pays-Bas,10,10 Go,30,24.91,EUR,5G,oui
+holafly-103446,Holafly,eSIM Égypte 20 Go 7 jours,EG,Égypte,20,20 Go,7,27.7,EUR,4G,non
+holafly-103447,Holafly,eSIM France 20 Go 15 jours,FR,France,20,20 Go,15,33.26,EUR,4G,oui
+holafly-103448,Holafly,eSIM Japon Illimité 15 jours,JP,Japon,,Illimité,15,52.36,EUR,5G,non
+holafly-103449,Holafly,eSIM Portugal 10 Go 15 jours,PT,Portugal,10,10 Go,15,21.97,EUR,4G,oui
+holafly-103450,Holafly,eSIM Philippines 10 Go 30 jours,PH,Philippines,10,10 Go,30,21.51,EUR,4G,oui
+holafly-103451,Holafly,eSIM Égypte 3 Go 7 jours,EG,Égypte,3,3 Go,7,9.95,EUR,4G,non
+holafly-103452,Holafly,eSIM Nouvelle-Zélande 3 Go 30 jours,NZ,Nouvelle-Zélande,3,3 Go,30,13.38,EUR,4G,oui
+holafly-103453,Holafly,eSIM Japon 20 Go 15 jours,JP,Japon,20,20 Go,15,28.39,EUR,4G,oui
+holafly-103454,Holafly,eSIM Tanzanie 20 Go 7 jours,TZ,Tanzanie,20,20 Go,7,29.75,EUR,4G,oui
+holafly-103455,Holafly,eSIM Thaïlande 3 Go 15 jours,TH,Thaïlande,3,3 Go,15,10.55,EUR,5G,non
+holafly-103456,Holafly,eSIM Amérique du Nord 20 Go 15 jours,NA,Amérique du Nord,20,20 Go,15,44.96,EUR,4G,non
+holafly-103457,Holafly,eSIM Canada Illimité 30 jours,CA,Canada,,Illimité,30,83.55,EUR,5G,non
+holafly-103458,Holafly,eSIM France 3 Go 15 jours,FR,France,3,3 Go,15,10.05,EUR,4G,non
+holafly-103459,Holafly,eSIM Europe 3 Go 7 jours,EU,Europe,3,3 Go,7,13.97,EUR,4G,oui
+holafly-103460,Holafly,eSIM Colombie 3 Go 15 jours,CO,Colombie,3,3 Go,15,11.29,EUR,5G,oui
+holafly-103461,Holafly,eSIM Maroc 3 Go 15 jours,MA,Maroc,3,3 Go,15,10.8,EUR,5G,oui
+holafly-103462,Holafly,eSIM Nouvelle-Zélande 5 Go 7 jours,NZ,Nouvelle-Zélande,5,5 Go,7,13.12,EUR,4G,oui
+holafly-103463,Holafly,eSIM Grèce 20 Go 15 jours,GR,Grèce,20,20 Go,15,32.82,EUR,5G,oui
+holafly-103464,Holafly,eSIM Asie 20 Go 30 jours,AS,Asie,20,20 Go,30,54.93,EUR,5G,non
+holafly-103465,Holafly,eSIM Asie 5 Go 7 jours,AS,Asie,5,5 Go,7,18.69,EUR,4G,oui
+holafly-103466,Holafly,eSIM Japon 1 Go 15 jours,JP,Japon,1,1 Go,15,6.86,EUR,4G,non
+holafly-103467,Holafly,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,78.9,EUR,4G,non
+holafly-103468,Holafly,eSIM Kenya 50 Go 30 jours,KE,Kenya,50,50 Go,30,69.77,EUR,4G,oui
+holafly-103469,Holafly,eSIM Asie 10 Go 7 jours,AS,Asie,10,10 Go,7,27.78,EUR,5G,non
+holafly-103470,Holafly,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,7.77,EUR,4G,oui
+holafly-103471,Holafly,eSIM Suisse 5 Go 30 jours,CH,Suisse,5,5 Go,30,15.49,EUR,4G,non
+holafly-103472,Holafly,eSIM Nouvelle-Zélande 3 Go 15 jours,NZ,Nouvelle-Zélande,3,3 Go,15,9.66,EUR,5G,oui
+holafly-103473,Holafly,eSIM Monde 10 Go 7 jours,WW,Monde,10,10 Go,7,23.17,EUR,4G,non
+holafly-103474,Holafly,eSIM Philippines 5 Go 7 jours,PH,Philippines,5,5 Go,7,11.81,EUR,4G,oui
+holafly-103475,Holafly,eSIM Émirats arabes unis 50 Go 30 jours,AE,Émirats arabes unis,50,50 Go,30,63.13,EUR,4G,non
+holafly-103476,Holafly,eSIM Turquie 20 Go 7 jours,TR,Turquie,20,20 Go,7,30.49,EUR,4G,oui
+holafly-103477,Holafly,eSIM Australie 50 Go 15 jours,AU,Australie,50,50 Go,15,57.41,EUR,4G,oui
+holafly-103478,Holafly,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,8.89,EUR,4G,non
+holafly-103479,Holafly,eSIM Inde 3 Go 30 jours,IN,Inde,3,3 Go,30,12.95,EUR,4G,oui
+holafly-103480,Holafly,eSIM Turquie 50 Go 30 jours,TR,Turquie,50,50 Go,30,67.09,EUR,4G,oui
+holafly-103481,Holafly,eSIM Canada 20 Go 7 jours,CA,Canada,20,20 Go,7,30.42,EUR,4G,non
+holafly-103482,Holafly,eSIM Colombie 5 Go 30 jours,CO,Colombie,5,5 Go,30,14.76,EUR,4G,oui
+holafly-103483,Holafly,eSIM Suède 1 Go 7 jours,SE,Suède,1,1 Go,7,6.4,EUR,4G,oui
+holafly-103484,Holafly,eSIM Rép. dominicaine 1 Go 7 jours,DO,Rép. dominicaine,1,1 Go,7,5.81,EUR,5G,oui
+holafly-103485,Holafly,eSIM Inde 50 Go 30 jours,IN,Inde,50,50 Go,30,61.13,EUR,4G,oui
+holafly-103486,Holafly,eSIM Nigeria 10 Go 7 jours,NG,Nigeria,10,10 Go,7,19.58,EUR,5G,non
+holafly-103487,Holafly,eSIM Autriche 5 Go 7 jours,AT,Autriche,5,5 Go,7,12.25,EUR,5G,oui
+holafly-103488,Holafly,eSIM Suède Illimité 7 jours,SE,Suède,,Illimité,7,33.68,EUR,5G,non
+holafly-103489,Holafly,eSIM Maroc 10 Go 30 jours,MA,Maroc,10,10 Go,30,22.55,EUR,4G,oui
+holafly-103490,Holafly,eSIM Argentine 5 Go 30 jours,AR,Argentine,5,5 Go,30,16.01,EUR,4G,oui
+holafly-103491,Holafly,eSIM Pays-Bas 3 Go 15 jours,NL,Pays-Bas,3,3 Go,15,11.35,EUR,4G,oui
+holafly-103492,Holafly,eSIM Philippines 50 Go 30 jours,PH,Philippines,50,50 Go,30,69.48,EUR,4G,oui
+holafly-103493,Holafly,eSIM Allemagne Illimité 30 jours,DE,Allemagne,,Illimité,30,79.29,EUR,4G,non
+holafly-103494,Holafly,eSIM Pays-Bas 5 Go 15 jours,NL,Pays-Bas,5,5 Go,15,12.5,EUR,4G,non
+holafly-103495,Holafly,eSIM Chine 3 Go 15 jours,CN,Chine,3,3 Go,15,11.36,EUR,4G,non
+holafly-103496,Holafly,eSIM Europe 1 Go 7 jours,EU,Europe,1,1 Go,7,8.88,EUR,5G,non
+holafly-103497,Holafly,eSIM Maroc 3 Go 15 jours,MA,Maroc,3,3 Go,15,11.1,EUR,4G,oui
+holafly-103498,Holafly,eSIM Maroc 20 Go 30 jours,MA,Maroc,20,20 Go,30,36.38,EUR,4G,non
+holafly-103499,Holafly,eSIM Monde 3 Go 30 jours,WW,Monde,3,3 Go,30,17.7,EUR,4G,non
+holafly-103500,Holafly,eSIM Tchéquie 10 Go 15 jours,CZ,Tchéquie,10,10 Go,15,18.99,EUR,4G,non
+holafly-103501,Holafly,eSIM Arabie saoudite 5 Go 7 jours,SA,Arabie saoudite,5,5 Go,7,13.14,EUR,5G,non
+holafly-103502,Holafly,eSIM Mexique 1 Go 30 jours,MX,Mexique,1,1 Go,30,7.18,EUR,4G,oui
+holafly-103503,Holafly,eSIM Vietnam Illimité 7 jours,VN,Vietnam,,Illimité,7,32.4,EUR,4G,non
+holafly-103504,Holafly,eSIM Royaume-Uni 3 Go 30 jours,GB,Royaume-Uni,3,3 Go,30,12.6,EUR,4G,non
+holafly-103505,Holafly,eSIM France 10 Go 15 jours,FR,France,10,10 Go,15,20.75,EUR,4G,oui
+holafly-103506,Holafly,eSIM Jordanie 3 Go 30 jours,JO,Jordanie,3,3 Go,30,13.18,EUR,5G,oui
+holafly-103507,Holafly,eSIM Colombie 50 Go 15 jours,CO,Colombie,50,50 Go,15,54.56,EUR,5G,non
+holafly-103508,Holafly,eSIM France 50 Go 30 jours,FR,France,50,50 Go,30,70.79,EUR,5G,non
+holafly-103509,Holafly,eSIM Jordanie 50 Go 7 jours,JO,Jordanie,50,50 Go,7,50.07,EUR,4G,oui
+holafly-103510,Holafly,eSIM Qatar 5 Go 30 jours,QA,Qatar,5,5 Go,30,17.52,EUR,4G,oui
+holafly-103511,Holafly,eSIM Arabie saoudite 3 Go 7 jours,SA,Arabie saoudite,3,3 Go,7,9.51,EUR,4G,non
+holafly-103512,Holafly,eSIM Royaume-Uni 1 Go 30 jours,GB,Royaume-Uni,1,1 Go,30,7.52,EUR,4G,non
+holafly-103513,Holafly,eSIM Vietnam 10 Go 30 jours,VN,Vietnam,10,10 Go,30,23.38,EUR,5G,oui
+holafly-103514,Holafly,eSIM Israël Illimité 15 jours,IL,Israël,,Illimité,15,53.46,EUR,4G,non
+holafly-103515,Holafly,eSIM Australie 50 Go 7 jours,AU,Australie,50,50 Go,7,46.53,EUR,4G,oui
+holafly-103516,Holafly,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,30.11,EUR,4G,non
+holafly-103517,Holafly,eSIM Italie 20 Go 30 jours,IT,Italie,20,20 Go,30,33.99,EUR,4G,non
+holafly-103518,Holafly,eSIM Asie 10 Go 30 jours,AS,Asie,10,10 Go,30,30.78,EUR,4G,oui
+holafly-103519,Holafly,eSIM Belgique 5 Go 30 jours,BE,Belgique,5,5 Go,30,17.62,EUR,4G,non
+holafly-103520,Holafly,eSIM Jordanie 3 Go 7 jours,JO,Jordanie,3,3 Go,7,9.33,EUR,4G,non
+holafly-103521,Holafly,eSIM Asie 5 Go 30 jours,AS,Asie,5,5 Go,30,23.39,EUR,4G,oui
+holafly-103522,Holafly,eSIM Émirats arabes unis Illimité 15 jours,AE,Émirats arabes unis,,Illimité,15,50.41,EUR,5G,oui
+holafly-103523,Holafly,eSIM Grèce 5 Go 30 jours,GR,Grèce,5,5 Go,30,14.53,EUR,4G,non
+holafly-103524,Holafly,eSIM Royaume-Uni Illimité 15 jours,GB,Royaume-Uni,,Illimité,15,53.21,EUR,5G,non
+holafly-103525,Holafly,eSIM Australie Illimité 7 jours,AU,Australie,,Illimité,7,32.66,EUR,5G,oui
+holafly-103526,Holafly,eSIM Allemagne Illimité 15 jours,DE,Allemagne,,Illimité,15,53.96,EUR,5G,non
+holafly-103527,Holafly,eSIM Maroc 1 Go 30 jours,MA,Maroc,1,1 Go,30,7.29,EUR,5G,oui
+holafly-103528,Holafly,eSIM Tanzanie Illimité 15 jours,TZ,Tanzanie,,Illimité,15,47.62,EUR,5G,oui
+holafly-103529,Holafly,eSIM Portugal 20 Go 15 jours,PT,Portugal,20,20 Go,15,30.56,EUR,5G,non
+holafly-103530,Holafly,eSIM Israël 5 Go 30 jours,IL,Israël,5,5 Go,30,16.22,EUR,4G,non
+holafly-103531,Holafly,eSIM Irlande 5 Go 7 jours,IE,Irlande,5,5 Go,7,11.16,EUR,5G,oui
+holafly-103532,Holafly,eSIM Italie 50 Go 30 jours,IT,Italie,50,50 Go,30,69.52,EUR,4G,oui
+holafly-103533,Holafly,eSIM Indonésie 5 Go 15 jours,ID,Indonésie,5,5 Go,15,12.75,EUR,4G,oui
+holafly-103534,Holafly,eSIM États-Unis 5 Go 15 jours,US,États-Unis,5,5 Go,15,14.36,EUR,4G,non
+holafly-103535,Holafly,eSIM Philippines 50 Go 15 jours,PH,Philippines,50,50 Go,15,54.33,EUR,5G,non
+holafly-103536,Holafly,eSIM Pays-Bas 5 Go 15 jours,NL,Pays-Bas,5,5 Go,15,14.19,EUR,4G,oui
+holafly-103537,Holafly,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,126.91,EUR,5G,oui
+holafly-103538,Holafly,eSIM Asie Illimité 30 jours,AS,Asie,,Illimité,30,124.68,EUR,5G,oui

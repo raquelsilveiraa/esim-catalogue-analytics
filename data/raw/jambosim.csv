@@ -1,0 +1,183 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+jambosim-104175,JamboSIM,eSIM Turquie 50 Go 30 jours,TR,Turquie,50,50 Go,30,59.84,EUR,5G,non
+jambosim-104176,JamboSIM,eSIM Inde 50 Go 7 jours,IN,Inde,50,50 Go,7,51.18,EUR,4G,oui
+jambosim-104177,JamboSIM,eSIM Portugal 5 Go 7 jours,PT,Portugal,5,5 Go,7,11.68,EUR,4G,non
+jambosim-104178,JamboSIM,eSIM Pays-Bas 5 Go 15 jours,NL,Pays-Bas,5,5 Go,15,14.8,EUR,4G,non
+jambosim-104179,JamboSIM,eSIM Maroc 5 Go 30 jours,MA,Maroc,5,5 Go,30,16.73,EUR,4G,oui
+jambosim-104180,JamboSIM,eSIM Émirats arabes unis 5 Go 15 jours,AE,Émirats arabes unis,5,5 Go,15,13.63,EUR,4G,oui
+jambosim-104181,JamboSIM,eSIM Mexique 3 Go 7 jours,MX,Mexique,3,3 Go,7,8.7,EUR,4G,oui
+jambosim-104182,JamboSIM,eSIM Turquie 5 Go 7 jours,TR,Turquie,5,5 Go,7,11.44,EUR,4G,oui
+jambosim-104183,JamboSIM,eSIM Tanzanie 20 Go 15 jours,TZ,Tanzanie,20,20 Go,15,31.19,EUR,4G,non
+jambosim-104184,JamboSIM,eSIM Pays-Bas 1 Go 30 jours,NL,Pays-Bas,1,1 Go,30,8.36,EUR,4G,non
+jambosim-104185,JamboSIM,eSIM Vietnam 1 Go 30 jours,VN,Vietnam,1,1 Go,30,7.14,EUR,4G,non
+jambosim-104186,JamboSIM,eSIM Nouvelle-Zélande 20 Go 15 jours,NZ,Nouvelle-Zélande,20,20 Go,15,33.25,EUR,4G,non
+jambosim-104187,JamboSIM,eSIM États-Unis 20 Go 15 jours,US,États-Unis,20,20 Go,15,31.77,EUR,5G,oui
+jambosim-104188,JamboSIM,eSIM Indonésie Illimité 30 jours,ID,Indonésie,,Illimité,30,71.37,EUR,4G,oui
+jambosim-104189,JamboSIM,eSIM Arabie saoudite 3 Go 15 jours,SA,Arabie saoudite,3,3 Go,15,11.29,EUR,4G,non
+jambosim-104190,JamboSIM,eSIM Thaïlande 5 Go 30 jours,TH,Thaïlande,5,5 Go,30,14.59,EUR,4G,non
+jambosim-104191,JamboSIM,eSIM Égypte Illimité 7 jours,EG,Égypte,,Illimité,7,35.55,EUR,5G,non
+jambosim-104192,JamboSIM,eSIM Singapour 20 Go 15 jours,SG,Singapour,20,20 Go,15,33.2,EUR,4G,oui
+jambosim-104193,JamboSIM,eSIM Kenya 10 Go 15 jours,KE,Kenya,10,10 Go,15,18.74,EUR,5G,oui
+jambosim-104194,JamboSIM,eSIM Israël 10 Go 30 jours,IL,Israël,10,10 Go,30,22.63,EUR,4G,oui
+jambosim-104195,JamboSIM,eSIM Pologne 5 Go 7 jours,PL,Pologne,5,5 Go,7,11.97,EUR,4G,oui
+jambosim-104196,JamboSIM,eSIM Thaïlande 20 Go 7 jours,TH,Thaïlande,20,20 Go,7,27.21,EUR,4G,oui
+jambosim-104197,JamboSIM,eSIM Japon 20 Go 30 jours,JP,Japon,20,20 Go,30,33.57,EUR,5G,non
+jambosim-104198,JamboSIM,eSIM Australie Illimité 7 jours,AU,Australie,,Illimité,7,31.17,EUR,4G,non
+jambosim-104199,JamboSIM,eSIM Australie 1 Go 7 jours,AU,Australie,1,1 Go,7,6.03,EUR,5G,non
+jambosim-104200,JamboSIM,eSIM Europe 20 Go 30 jours,EU,Europe,20,20 Go,30,49.58,EUR,4G,non
+jambosim-104201,JamboSIM,eSIM Royaume-Uni 1 Go 30 jours,GB,Royaume-Uni,1,1 Go,30,8.47,EUR,5G,oui
+jambosim-104202,JamboSIM,eSIM Tanzanie 50 Go 7 jours,TZ,Tanzanie,50,50 Go,7,50.1,EUR,4G,oui
+jambosim-104203,JamboSIM,eSIM Inde 1 Go 15 jours,IN,Inde,1,1 Go,15,6.32,EUR,4G,oui
+jambosim-104204,JamboSIM,eSIM Singapour 50 Go 7 jours,SG,Singapour,50,50 Go,7,53.41,EUR,5G,oui
+jambosim-104205,JamboSIM,eSIM États-Unis 3 Go 7 jours,US,États-Unis,3,3 Go,7,10.13,EUR,4G,non
+jambosim-104206,JamboSIM,eSIM Portugal 10 Go 15 jours,PT,Portugal,10,10 Go,15,21.72,EUR,4G,oui
+jambosim-104207,JamboSIM,eSIM Pologne 3 Go 15 jours,PL,Pologne,3,3 Go,15,10.24,EUR,4G,oui
+jambosim-104208,JamboSIM,eSIM Arabie saoudite 10 Go 30 jours,SA,Arabie saoudite,10,10 Go,30,24,EUR,4G,oui
+jambosim-104209,JamboSIM,eSIM Monde 3 Go 30 jours,WW,Monde,3,3 Go,30,16.47,EUR,5G,non
+jambosim-104210,JamboSIM,eSIM Japon 50 Go 15 jours,JP,Japon,50,50 Go,15,56.99,EUR,4G,oui
+jambosim-104211,JamboSIM,eSIM Émirats arabes unis 10 Go 30 jours,AE,Émirats arabes unis,10,10 Go,30,22.1,EUR,4G,oui
+jambosim-104212,JamboSIM,eSIM Argentine 10 Go 30 jours,AR,Argentine,10,10 Go,30,25.08,EUR,5G,non
+jambosim-104213,JamboSIM,eSIM Qatar 1 Go 7 jours,QA,Qatar,1,1 Go,7,6.19,EUR,4G,non
+jambosim-104214,JamboSIM,eSIM Croatie 10 Go 30 jours,HR,Croatie,10,10 Go,30,21.95,EUR,4G,oui
+jambosim-104215,JamboSIM,eSIM Norvège 10 Go 30 jours,NO,Norvège,10,10 Go,30,24.02,EUR,5G,non
+jambosim-104216,JamboSIM,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,7.55,EUR,4G,non
+jambosim-104217,JamboSIM,eSIM Égypte 5 Go 30 jours,EG,Égypte,5,5 Go,30,15.04,EUR,5G,non
+jambosim-104218,JamboSIM,eSIM Australie 1 Go 15 jours,AU,Australie,1,1 Go,15,6.32,EUR,4G,oui
+jambosim-104219,JamboSIM,eSIM Arabie saoudite 50 Go 30 jours,SA,Arabie saoudite,50,50 Go,30,59.98,EUR,4G,oui
+jambosim-104220,JamboSIM,eSIM Irlande 3 Go 30 jours,IE,Irlande,3,3 Go,30,13.3,EUR,4G,oui
+jambosim-104221,JamboSIM,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,82.56,EUR,5G,non
+jambosim-104222,JamboSIM,eSIM États-Unis 20 Go 15 jours,US,États-Unis,20,20 Go,15,31.36,EUR,5G,non
+jambosim-104223,JamboSIM,eSIM Égypte 3 Go 15 jours,EG,Égypte,3,3 Go,15,10.67,EUR,4G,non
+jambosim-104224,JamboSIM,eSIM Europe 20 Go 7 jours,EU,Europe,20,20 Go,7,42.27,EUR,5G,non
+jambosim-104225,JamboSIM,eSIM Thaïlande 1 Go 15 jours,TH,Thaïlande,1,1 Go,15,6.27,EUR,4G,non
+jambosim-104226,JamboSIM,eSIM Europe 10 Go 30 jours,EU,Europe,10,10 Go,30,36.17,EUR,5G,non
+jambosim-104227,JamboSIM,eSIM Rép. dominicaine 5 Go 30 jours,DO,Rép. dominicaine,5,5 Go,30,16.35,EUR,4G,non
+jambosim-104228,JamboSIM,eSIM Europe 3 Go 7 jours,EU,Europe,3,3 Go,7,12.4,EUR,5G,non
+jambosim-104229,JamboSIM,eSIM Norvège 10 Go 7 jours,NO,Norvège,10,10 Go,7,19.71,EUR,5G,non
+jambosim-104230,JamboSIM,eSIM Amérique du Nord 50 Go 7 jours,NA,Amérique du Nord,50,50 Go,7,75.8,EUR,4G,oui
+jambosim-104231,JamboSIM,eSIM Corée du Sud 50 Go 7 jours,KR,Corée du Sud,50,50 Go,7,51.93,EUR,4G,non
+jambosim-104232,JamboSIM,eSIM Amérique du Nord 5 Go 15 jours,NA,Amérique du Nord,5,5 Go,15,17.76,EUR,4G,non
+jambosim-104233,JamboSIM,eSIM Émirats arabes unis 20 Go 7 jours,AE,Émirats arabes unis,20,20 Go,7,26.35,EUR,4G,oui
+jambosim-104234,JamboSIM,eSIM Allemagne 10 Go 30 jours,DE,Allemagne,10,10 Go,30,24.4,EUR,4G,non
+jambosim-104235,JamboSIM,eSIM Turquie 3 Go 15 jours,TR,Turquie,3,3 Go,15,9.74,EUR,4G,oui
+jambosim-104236,JamboSIM,eSIM Monde 20 Go 7 jours,WW,Monde,20,20 Go,7,38.28,EUR,4G,non
+jambosim-104237,JamboSIM,eSIM Royaume-Uni 50 Go 30 jours,GB,Royaume-Uni,50,50 Go,30,71.95,EUR,5G,non
+jambosim-104238,JamboSIM,eSIM Asie 3 Go 30 jours,AS,Asie,3,3 Go,30,16.52,EUR,5G,oui
+jambosim-104239,JamboSIM,eSIM Irlande 20 Go 15 jours,IE,Irlande,20,20 Go,15,33.51,EUR,4G,non
+jambosim-104240,JamboSIM,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,96.06,EUR,5G,non
+jambosim-104241,JamboSIM,eSIM Singapour 3 Go 30 jours,SG,Singapour,3,3 Go,30,11.32,EUR,5G,non
+jambosim-104242,JamboSIM,eSIM Amérique du Nord Illimité 15 jours,NA,Amérique du Nord,,Illimité,15,58.96,EUR,4G,oui
+jambosim-104243,JamboSIM,eSIM États-Unis 20 Go 30 jours,US,États-Unis,20,20 Go,30,39.4,EUR,4G,oui
+jambosim-104244,JamboSIM,eSIM Suisse 10 Go 15 jours,CH,Suisse,10,10 Go,15,18.29,EUR,4G,non
+jambosim-104245,JamboSIM,eSIM Brésil Illimité 30 jours,BR,Brésil,,Illimité,30,84.12,EUR,4G,non
+jambosim-104246,JamboSIM,eSIM Amérique du Nord 50 Go 7 jours,NA,Amérique du Nord,50,50 Go,7,66.73,EUR,5G,non
+jambosim-104247,JamboSIM,eSIM Kenya 3 Go 30 jours,KE,Kenya,3,3 Go,30,11.25,EUR,5G,oui
+jambosim-104248,JamboSIM,eSIM Argentine 10 Go 15 jours,AR,Argentine,10,10 Go,15,19.67,EUR,5G,oui
+jambosim-104249,JamboSIM,eSIM France Illimité 7 jours,FR,France,,Illimité,7,33.05,EUR,4G,oui
+jambosim-104250,JamboSIM,eSIM Europe 10 Go 7 jours,EU,Europe,10,10 Go,7,25.05,EUR,5G,oui
+jambosim-104251,JamboSIM,eSIM Rép. dominicaine 20 Go 15 jours,DO,Rép. dominicaine,20,20 Go,15,32.61,EUR,4G,non
+jambosim-104252,JamboSIM,eSIM Singapour 5 Go 15 jours,SG,Singapour,5,5 Go,15,12.85,EUR,4G,non
+jambosim-104253,JamboSIM,eSIM Mexique 1 Go 7 jours,MX,Mexique,1,1 Go,7,5.46,EUR,4G,oui
+jambosim-104254,JamboSIM,eSIM Brésil 10 Go 30 jours,BR,Brésil,10,10 Go,30,23.32,EUR,4G,oui
+jambosim-104255,JamboSIM,eSIM Monde Illimité 7 jours,WW,Monde,,Illimité,7,44.99,EUR,5G,oui
+jambosim-104256,JamboSIM,eSIM Amérique du Nord Illimité 7 jours,NA,Amérique du Nord,,Illimité,7,48.18,EUR,5G,oui
+jambosim-104257,JamboSIM,eSIM Autriche Illimité 7 jours,AT,Autriche,,Illimité,7,35.24,EUR,5G,oui
+jambosim-104258,JamboSIM,eSIM Arabie saoudite Illimité 7 jours,SA,Arabie saoudite,,Illimité,7,35.84,EUR,4G,oui
+jambosim-104259,JamboSIM,eSIM Brésil 10 Go 30 jours,BR,Brésil,10,10 Go,30,24.57,EUR,5G,oui
+jambosim-104260,JamboSIM,eSIM Pays-Bas 1 Go 15 jours,NL,Pays-Bas,1,1 Go,15,6.68,EUR,4G,non
+jambosim-104261,JamboSIM,eSIM Espagne 20 Go 30 jours,ES,Espagne,20,20 Go,30,37.49,EUR,4G,non
+jambosim-104262,JamboSIM,eSIM Belgique 5 Go 15 jours,BE,Belgique,5,5 Go,15,12.54,EUR,5G,non
+jambosim-104263,JamboSIM,eSIM Amérique du Nord 20 Go 7 jours,NA,Amérique du Nord,20,20 Go,7,40.53,EUR,4G,non
+jambosim-104264,JamboSIM,eSIM Pays-Bas 50 Go 7 jours,NL,Pays-Bas,50,50 Go,7,48.43,EUR,4G,oui
+jambosim-104265,JamboSIM,eSIM France 20 Go 30 jours,FR,France,20,20 Go,30,37.25,EUR,4G,oui
+jambosim-104266,JamboSIM,eSIM Singapour 20 Go 30 jours,SG,Singapour,20,20 Go,30,38.46,EUR,4G,non
+jambosim-104267,JamboSIM,eSIM Qatar 5 Go 15 jours,QA,Qatar,5,5 Go,15,12.65,EUR,4G,oui
+jambosim-104268,JamboSIM,eSIM Égypte 10 Go 30 jours,EG,Égypte,10,10 Go,30,25.93,EUR,4G,oui
+jambosim-104269,JamboSIM,eSIM Israël 50 Go 15 jours,IL,Israël,50,50 Go,15,56.69,EUR,4G,oui
+jambosim-104270,JamboSIM,eSIM Corée du Sud 1 Go 30 jours,KR,Corée du Sud,1,1 Go,30,7.18,EUR,4G,oui
+jambosim-104271,JamboSIM,eSIM Croatie 50 Go 30 jours,HR,Croatie,50,50 Go,30,66.39,EUR,5G,oui
+jambosim-104272,JamboSIM,eSIM Canada 10 Go 7 jours,CA,Canada,10,10 Go,7,18.47,EUR,4G,oui
+jambosim-104273,JamboSIM,eSIM Asie 50 Go 15 jours,AS,Asie,50,50 Go,15,81.24,EUR,4G,oui
+jambosim-104274,JamboSIM,eSIM Mexique 10 Go 7 jours,MX,Mexique,10,10 Go,7,17.64,EUR,4G,non
+jambosim-104275,JamboSIM,eSIM Canada 50 Go 15 jours,CA,Canada,50,50 Go,15,51.26,EUR,4G,non
+jambosim-104276,JamboSIM,eSIM Grèce 20 Go 30 jours,GR,Grèce,20,20 Go,30,32.78,EUR,4G,oui
+jambosim-104277,JamboSIM,eSIM Colombie Illimité 30 jours,CO,Colombie,,Illimité,30,73.15,EUR,4G,oui
+jambosim-104278,JamboSIM,eSIM Jordanie Illimité 7 jours,JO,Jordanie,,Illimité,7,31.77,EUR,5G,non
+jambosim-104279,JamboSIM,eSIM Malaisie Illimité 30 jours,MY,Malaisie,,Illimité,30,76.21,EUR,4G,oui
+jambosim-104280,JamboSIM,eSIM Indonésie Illimité 30 jours,ID,Indonésie,,Illimité,30,78.59,EUR,4G,non
+jambosim-104281,JamboSIM,eSIM Émirats arabes unis 3 Go 15 jours,AE,Émirats arabes unis,3,3 Go,15,11.35,EUR,4G,non
+jambosim-104282,JamboSIM,eSIM Malaisie 20 Go 30 jours,MY,Malaisie,20,20 Go,30,39.21,EUR,4G,oui
+jambosim-104283,JamboSIM,eSIM Europe 50 Go 15 jours,EU,Europe,50,50 Go,15,70.79,EUR,4G,non
+jambosim-104284,JamboSIM,eSIM Brésil 20 Go 15 jours,BR,Brésil,20,20 Go,15,32.22,EUR,5G,oui
+jambosim-104285,JamboSIM,eSIM Asie 5 Go 7 jours,AS,Asie,5,5 Go,7,15.67,EUR,4G,non
+jambosim-104286,JamboSIM,eSIM France 20 Go 7 jours,FR,France,20,20 Go,7,29.07,EUR,4G,oui
+jambosim-104287,JamboSIM,eSIM Colombie Illimité 7 jours,CO,Colombie,,Illimité,7,35.55,EUR,4G,non
+jambosim-104288,JamboSIM,eSIM France 5 Go 7 jours,FR,France,5,5 Go,7,11.3,EUR,4G,oui
+jambosim-104289,JamboSIM,eSIM Norvège Illimité 7 jours,NO,Norvège,,Illimité,7,31.81,EUR,5G,oui
+jambosim-104290,JamboSIM,eSIM Inde 50 Go 15 jours,IN,Inde,50,50 Go,15,56.77,EUR,5G,non
+jambosim-104291,JamboSIM,eSIM Tanzanie Illimité 30 jours,TZ,Tanzanie,,Illimité,30,78.38,EUR,4G,oui
+jambosim-104292,JamboSIM,eSIM Tchéquie 20 Go 30 jours,CZ,Tchéquie,20,20 Go,30,38.64,EUR,5G,oui
+jambosim-104293,JamboSIM,eSIM Chine 50 Go 7 jours,CN,Chine,50,50 Go,7,46.04,EUR,5G,oui
+jambosim-104294,JamboSIM,eSIM Japon 3 Go 15 jours,JP,Japon,3,3 Go,15,11.32,EUR,4G,non
+jambosim-104295,JamboSIM,eSIM Émirats arabes unis Illimité 15 jours,AE,Émirats arabes unis,,Illimité,15,47.54,EUR,5G,non
+jambosim-104296,JamboSIM,eSIM Brésil 50 Go 30 jours,BR,Brésil,50,50 Go,30,71.17,EUR,4G,non
+jambosim-104297,JamboSIM,eSIM Pays-Bas 3 Go 7 jours,NL,Pays-Bas,3,3 Go,7,8.81,EUR,5G,non
+jambosim-104298,JamboSIM,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,77.6,EUR,4G,non
+jambosim-104299,JamboSIM,eSIM Irlande 1 Go 15 jours,IE,Irlande,1,1 Go,15,6.03,EUR,4G,non
+jambosim-104300,JamboSIM,eSIM Monde 20 Go 15 jours,WW,Monde,20,20 Go,15,39.11,EUR,4G,non
+jambosim-104301,JamboSIM,eSIM Espagne Illimité 7 jours,ES,Espagne,,Illimité,7,37.26,EUR,4G,oui
+jambosim-104302,JamboSIM,eSIM Singapour 3 Go 15 jours,SG,Singapour,3,3 Go,15,11,EUR,4G,non
+jambosim-104303,JamboSIM,eSIM France 5 Go 15 jours,FR,France,5,5 Go,15,13.17,EUR,5G,non
+jambosim-104304,JamboSIM,eSIM Égypte 5 Go 15 jours,EG,Égypte,5,5 Go,15,12.92,EUR,5G,oui
+jambosim-104305,JamboSIM,eSIM Kenya 20 Go 7 jours,KE,Kenya,20,20 Go,7,28.96,EUR,4G,non
+jambosim-104306,JamboSIM,eSIM Royaume-Uni 50 Go 7 jours,GB,Royaume-Uni,50,50 Go,7,54.51,EUR,4G,non
+jambosim-104307,JamboSIM,eSIM Brésil 20 Go 15 jours,BR,Brésil,20,20 Go,15,30.25,EUR,4G,non
+jambosim-104308,JamboSIM,eSIM Japon 50 Go 7 jours,JP,Japon,50,50 Go,7,53.09,EUR,5G,oui
+jambosim-104309,JamboSIM,eSIM Chili 20 Go 15 jours,CL,Chili,20,20 Go,15,33.48,EUR,4G,non
+jambosim-104310,JamboSIM,eSIM Kenya 20 Go 30 jours,KE,Kenya,20,20 Go,30,35.67,EUR,4G,oui
+jambosim-104311,JamboSIM,eSIM Rép. dominicaine 5 Go 7 jours,DO,Rép. dominicaine,5,5 Go,7,11.11,EUR,4G,oui
+jambosim-104312,JamboSIM,eSIM Norvège 1 Go 15 jours,NO,Norvège,1,1 Go,15,6.52,EUR,4G,oui
+jambosim-104313,JamboSIM,eSIM Espagne 3 Go 30 jours,ES,Espagne,3,3 Go,30,13.52,EUR,4G,non
+jambosim-104314,JamboSIM,eSIM Émirats arabes unis 1 Go 15 jours,AE,Émirats arabes unis,1,1 Go,15,6.08,EUR,5G,non
+jambosim-104315,JamboSIM,eSIM Portugal 50 Go 7 jours,PT,Portugal,50,50 Go,7,51.39,EUR,4G,oui
+jambosim-104316,JamboSIM,eSIM Turquie 1 Go 7 jours,TR,Turquie,1,1 Go,7,5.97,EUR,5G,non
+jambosim-104317,JamboSIM,eSIM Maroc 1 Go 15 jours,MA,Maroc,1,1 Go,15,7.05,EUR,4G,oui
+jambosim-104318,JamboSIM,eSIM Pologne 50 Go 30 jours,PL,Pologne,50,50 Go,30,59.93,EUR,4G,non
+jambosim-104319,JamboSIM,eSIM Colombie 20 Go 30 jours,CO,Colombie,20,20 Go,30,35.48,EUR,5G,non
+jambosim-104320,JamboSIM,eSIM Canada 3 Go 7 jours,CA,Canada,3,3 Go,7,10,EUR,4G,non
+jambosim-104321,JamboSIM,eSIM Brésil 3 Go 15 jours,BR,Brésil,3,3 Go,15,10.23,EUR,5G,non
+jambosim-104322,JamboSIM,eSIM France 1 Go 15 jours,FR,France,1,1 Go,15,6.13,EUR,4G,oui
+jambosim-104323,JamboSIM,eSIM Égypte 1 Go 15 jours,EG,Égypte,1,1 Go,15,6.29,EUR,5G,oui
+jambosim-104324,JamboSIM,eSIM Jordanie Illimité 7 jours,JO,Jordanie,,Illimité,7,33.67,EUR,4G,oui
+jambosim-104325,JamboSIM,eSIM Corée du Sud 5 Go 30 jours,KR,Corée du Sud,5,5 Go,30,14.93,EUR,4G,non
+jambosim-104326,JamboSIM,eSIM Chili 1 Go 7 jours,CL,Chili,1,1 Go,7,6.15,EUR,4G,oui
+jambosim-104327,JamboSIM,eSIM Chili 3 Go 7 jours,CL,Chili,3,3 Go,7,8.95,EUR,5G,oui
+jambosim-104328,JamboSIM,eSIM Maroc 10 Go 15 jours,MA,Maroc,10,10 Go,15,18.85,EUR,5G,oui
+jambosim-104329,JamboSIM,eSIM Grèce 10 Go 15 jours,GR,Grèce,10,10 Go,15,19.42,EUR,4G,non
+jambosim-104330,JamboSIM,eSIM Nouvelle-Zélande 10 Go 15 jours,NZ,Nouvelle-Zélande,10,10 Go,15,18.28,EUR,4G,oui
+jambosim-104331,JamboSIM,eSIM Amérique du Nord 10 Go 15 jours,NA,Amérique du Nord,10,10 Go,15,27.94,EUR,4G,oui
+jambosim-104332,JamboSIM,eSIM Arabie saoudite 50 Go 30 jours,SA,Arabie saoudite,50,50 Go,30,62.35,EUR,4G,non
+jambosim-104333,JamboSIM,eSIM Pérou Illimité 30 jours,PE,Pérou,,Illimité,30,71.02,EUR,5G,non
+jambosim-104334,JamboSIM,eSIM Norvège 5 Go 15 jours,NO,Norvège,5,5 Go,15,14.5,EUR,4G,non
+jambosim-104335,JamboSIM,eSIM Portugal 5 Go 7 jours,PT,Portugal,5,5 Go,7,13.02,EUR,4G,non
+jambosim-104336,JamboSIM,eSIM Corée du Sud 5 Go 15 jours,KR,Corée du Sud,5,5 Go,15,14.65,EUR,4G,non
+jambosim-104337,JamboSIM,eSIM Canada 1 Go 7 jours,CA,Canada,1,1 Go,7,6.1,EUR,4G,oui
+jambosim-104338,JamboSIM,eSIM Suède 5 Go 7 jours,SE,Suède,5,5 Go,7,11.69,EUR,4G,non
+jambosim-104339,JamboSIM,eSIM Indonésie Illimité 7 jours,ID,Indonésie,,Illimité,7,35.25,EUR,5G,oui
+jambosim-104340,JamboSIM,eSIM Europe 10 Go 15 jours,EU,Europe,10,10 Go,15,27,EUR,4G,oui
+jambosim-104341,JamboSIM,eSIM Asie 10 Go 30 jours,AS,Asie,10,10 Go,30,30.3,EUR,5G,non
+jambosim-104342,JamboSIM,eSIM Chili 10 Go 30 jours,CL,Chili,10,10 Go,30,23.24,EUR,4G,non
+jambosim-104343,JamboSIM,eSIM Vietnam 50 Go 30 jours,VN,Vietnam,50,50 Go,30,67.47,EUR,5G,oui
+jambosim-104344,JamboSIM,eSIM Qatar 3 Go 30 jours,QA,Qatar,3,3 Go,30,11.51,EUR,4G,oui
+jambosim-104345,JamboSIM,eSIM Amérique du Nord 20 Go 15 jours,NA,Amérique du Nord,20,20 Go,15,39.01,EUR,4G,oui
+jambosim-104346,JamboSIM,eSIM Monde 3 Go 15 jours,WW,Monde,3,3 Go,15,15.83,EUR,5G,oui
+jambosim-104347,JamboSIM,eSIM Vietnam 20 Go 30 jours,VN,Vietnam,20,20 Go,30,35.93,EUR,4G,non
+jambosim-104348,JamboSIM,eSIM Royaume-Uni 5 Go 7 jours,GB,Royaume-Uni,5,5 Go,7,12.7,EUR,5G,oui
+jambosim-104349,JamboSIM,eSIM Nigeria 10 Go 30 jours,NG,Nigeria,10,10 Go,30,24.72,EUR,4G,non
+jambosim-104350,JamboSIM,eSIM Norvège 5 Go 7 jours,NO,Norvège,5,5 Go,7,12.74,EUR,4G,oui
+jambosim-104351,JamboSIM,eSIM Arabie saoudite 1 Go 7 jours,SA,Arabie saoudite,1,1 Go,7,5.65,EUR,5G,oui
+jambosim-104352,JamboSIM,eSIM Suisse 20 Go 15 jours,CH,Suisse,20,20 Go,15,32.95,EUR,5G,oui
+jambosim-104353,JamboSIM,eSIM Chili 1 Go 7 jours,CL,Chili,1,1 Go,7,5.77,EUR,5G,non
+jambosim-104354,JamboSIM,eSIM Chine 10 Go 7 jours,CN,Chine,10,10 Go,7,17.09,EUR,5G,non
+jambosim-104355,JamboSIM,eSIM Amérique du Nord Illimité 30 jours,NA,Amérique du Nord,,Illimité,30,132.12,EUR,4G,oui
+jambosim-104356,JamboSIM,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,140.24,EUR,5G,non

@@ -1,0 +1,203 @@
+sku,provider,product_name,country_code,country_name,data_gb,data_display,validity_days,price,currency,network,top_up
+truphone-103973,Truphone,eSIM Inde 3 Go 7 jours,IN,Inde,3,3 Go,7,9.16,EUR,5G,oui
+truphone-103974,Truphone,eSIM Colombie 1 Go 7 jours,CO,Colombie,1,1 Go,7,6.19,EUR,5G,non
+truphone-103975,Truphone,eSIM Brésil 20 Go 15 jours,BR,Brésil,20,20 Go,15,28.66,EUR,4G,non
+truphone-103976,Truphone,eSIM Égypte 3 Go 30 jours,EG,Égypte,3,3 Go,30,13.07,EUR,4G,non
+truphone-103977,Truphone,eSIM Malaisie Illimité 30 jours,MY,Malaisie,,Illimité,30,75.14,EUR,5G,oui
+truphone-103978,Truphone,eSIM Maroc 5 Go 30 jours,MA,Maroc,5,5 Go,30,14.64,EUR,4G,oui
+truphone-103979,Truphone,eSIM Thaïlande 20 Go 7 jours,TH,Thaïlande,20,20 Go,7,29.36,EUR,4G,non
+truphone-103980,Truphone,eSIM Croatie 50 Go 30 jours,HR,Croatie,50,50 Go,30,62.27,EUR,5G,oui
+truphone-103981,Truphone,eSIM France Illimité 15 jours,FR,France,,Illimité,15,52.19,EUR,4G,non
+truphone-103982,Truphone,eSIM Thaïlande 20 Go 7 jours,TH,Thaïlande,20,20 Go,7,26.44,EUR,4G,oui
+truphone-103983,Truphone,eSIM Amérique du Nord 1 Go 30 jours,NA,Amérique du Nord,1,1 Go,30,10.6,EUR,4G,oui
+truphone-103984,Truphone,eSIM Afrique du Sud 5 Go 7 jours,ZA,Afrique du Sud,5,5 Go,7,11.6,EUR,5G,non
+truphone-103985,Truphone,eSIM Singapour 3 Go 30 jours,SG,Singapour,3,3 Go,30,12.43,EUR,5G,oui
+truphone-103986,Truphone,eSIM Chili 3 Go 30 jours,CL,Chili,3,3 Go,30,13.27,EUR,4G,oui
+truphone-103987,Truphone,eSIM Chili 1 Go 7 jours,CL,Chili,1,1 Go,7,6.32,EUR,5G,non
+truphone-103988,Truphone,eSIM Kenya 3 Go 15 jours,KE,Kenya,3,3 Go,15,11.08,EUR,4G,non
+truphone-103989,Truphone,eSIM Japon 3 Go 7 jours,JP,Japon,3,3 Go,7,10.23,EUR,4G,non
+truphone-103990,Truphone,eSIM Amérique du Nord 3 Go 30 jours,NA,Amérique du Nord,3,3 Go,30,17.66,EUR,4G,non
+truphone-103991,Truphone,eSIM Thaïlande 10 Go 7 jours,TH,Thaïlande,10,10 Go,7,17.28,EUR,4G,non
+truphone-103992,Truphone,eSIM Thaïlande 5 Go 7 jours,TH,Thaïlande,5,5 Go,7,12.57,EUR,4G,non
+truphone-103993,Truphone,eSIM Malaisie Illimité 30 jours,MY,Malaisie,,Illimité,30,83.74,EUR,5G,non
+truphone-103994,Truphone,eSIM Norvège 3 Go 7 jours,NO,Norvège,3,3 Go,7,9.06,EUR,4G,non
+truphone-103995,Truphone,eSIM Maroc 3 Go 15 jours,MA,Maroc,3,3 Go,15,11.41,EUR,4G,oui
+truphone-103996,Truphone,eSIM Colombie Illimité 30 jours,CO,Colombie,,Illimité,30,85.82,EUR,5G,non
+truphone-103997,Truphone,eSIM Canada 10 Go 30 jours,CA,Canada,10,10 Go,30,24.25,EUR,4G,oui
+truphone-103998,Truphone,eSIM Singapour 1 Go 7 jours,SG,Singapour,1,1 Go,7,5.47,EUR,4G,non
+truphone-103999,Truphone,eSIM Grèce 1 Go 15 jours,GR,Grèce,1,1 Go,15,7.01,EUR,4G,non
+truphone-104000,Truphone,eSIM Amérique du Nord 1 Go 30 jours,NA,Amérique du Nord,1,1 Go,30,9.94,EUR,4G,oui
+truphone-104001,Truphone,eSIM Pays-Bas 20 Go 30 jours,NL,Pays-Bas,20,20 Go,30,35.5,EUR,4G,non
+truphone-104002,Truphone,eSIM Asie 1 Go 7 jours,AS,Asie,1,1 Go,7,8.91,EUR,4G,oui
+truphone-104003,Truphone,eSIM Espagne 20 Go 30 jours,ES,Espagne,20,20 Go,30,33.72,EUR,5G,non
+truphone-104004,Truphone,eSIM Thaïlande 1 Go 15 jours,TH,Thaïlande,1,1 Go,15,6.32,EUR,5G,oui
+truphone-104005,Truphone,eSIM Norvège 5 Go 7 jours,NO,Norvège,5,5 Go,7,11.74,EUR,5G,non
+truphone-104006,Truphone,eSIM Monde 1 Go 7 jours,WW,Monde,1,1 Go,7,8.75,EUR,5G,oui
+truphone-104007,Truphone,eSIM Kenya Illimité 7 jours,KE,Kenya,,Illimité,7,36.86,EUR,4G,oui
+truphone-104008,Truphone,eSIM Allemagne 20 Go 7 jours,DE,Allemagne,20,20 Go,7,29.15,EUR,4G,oui
+truphone-104009,Truphone,eSIM Canada 20 Go 7 jours,CA,Canada,20,20 Go,7,25.78,EUR,5G,non
+truphone-104010,Truphone,eSIM Jordanie 5 Go 15 jours,JO,Jordanie,5,5 Go,15,13.36,EUR,5G,oui
+truphone-104011,Truphone,eSIM Mexique 5 Go 15 jours,MX,Mexique,5,5 Go,15,13.37,EUR,4G,oui
+truphone-104012,Truphone,eSIM Vietnam 50 Go 7 jours,VN,Vietnam,50,50 Go,7,52.63,EUR,4G,oui
+truphone-104013,Truphone,eSIM Espagne 1 Go 7 jours,ES,Espagne,1,1 Go,7,6.04,EUR,4G,non
+truphone-104014,Truphone,eSIM Brésil 3 Go 7 jours,BR,Brésil,3,3 Go,7,10.29,EUR,5G,non
+truphone-104015,Truphone,eSIM Vietnam 1 Go 30 jours,VN,Vietnam,1,1 Go,30,7.95,EUR,4G,non
+truphone-104016,Truphone,eSIM Monde 50 Go 15 jours,WW,Monde,50,50 Go,15,80.19,EUR,4G,non
+truphone-104017,Truphone,eSIM Arabie saoudite 10 Go 30 jours,SA,Arabie saoudite,10,10 Go,30,23.95,EUR,4G,non
+truphone-104018,Truphone,eSIM Europe 3 Go 7 jours,EU,Europe,3,3 Go,7,13.06,EUR,4G,non
+truphone-104019,Truphone,eSIM États-Unis 50 Go 15 jours,US,États-Unis,50,50 Go,15,54.07,EUR,5G,non
+truphone-104020,Truphone,eSIM Norvège 5 Go 30 jours,NO,Norvège,5,5 Go,30,17.43,EUR,4G,oui
+truphone-104021,Truphone,eSIM Allemagne 1 Go 30 jours,DE,Allemagne,1,1 Go,30,8.41,EUR,4G,non
+truphone-104022,Truphone,eSIM États-Unis 20 Go 7 jours,US,États-Unis,20,20 Go,7,28.97,EUR,4G,oui
+truphone-104023,Truphone,eSIM Pérou 3 Go 7 jours,PE,Pérou,3,3 Go,7,8.64,EUR,5G,non
+truphone-104024,Truphone,eSIM États-Unis 1 Go 30 jours,US,États-Unis,1,1 Go,30,8.19,EUR,4G,oui
+truphone-104025,Truphone,eSIM Afrique du Sud 3 Go 30 jours,ZA,Afrique du Sud,3,3 Go,30,13.55,EUR,4G,non
+truphone-104026,Truphone,eSIM Espagne 1 Go 30 jours,ES,Espagne,1,1 Go,30,7.6,EUR,4G,non
+truphone-104027,Truphone,eSIM Amérique du Nord 10 Go 7 jours,NA,Amérique du Nord,10,10 Go,7,24.48,EUR,4G,non
+truphone-104028,Truphone,eSIM Philippines 3 Go 15 jours,PH,Philippines,3,3 Go,15,9.62,EUR,5G,oui
+truphone-104029,Truphone,eSIM Europe 5 Go 30 jours,EU,Europe,5,5 Go,30,23.99,EUR,4G,oui
+truphone-104030,Truphone,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,15.69,EUR,4G,oui
+truphone-104031,Truphone,eSIM Asie 5 Go 7 jours,AS,Asie,5,5 Go,7,15.8,EUR,5G,non
+truphone-104032,Truphone,eSIM Chili Illimité 15 jours,CL,Chili,,Illimité,15,53.94,EUR,5G,oui
+truphone-104033,Truphone,eSIM Thaïlande 3 Go 15 jours,TH,Thaïlande,3,3 Go,15,10.48,EUR,4G,non
+truphone-104034,Truphone,eSIM Turquie 10 Go 15 jours,TR,Turquie,10,10 Go,15,21.41,EUR,5G,non
+truphone-104035,Truphone,eSIM Irlande 10 Go 30 jours,IE,Irlande,10,10 Go,30,23.67,EUR,4G,oui
+truphone-104036,Truphone,eSIM Égypte 1 Go 15 jours,EG,Égypte,1,1 Go,15,6.1,EUR,5G,non
+truphone-104037,Truphone,eSIM Croatie Illimité 7 jours,HR,Croatie,,Illimité,7,33.79,EUR,4G,oui
+truphone-104038,Truphone,eSIM Rép. dominicaine 1 Go 30 jours,DO,Rép. dominicaine,1,1 Go,30,7.54,EUR,4G,non
+truphone-104039,Truphone,eSIM Asie 5 Go 30 jours,AS,Asie,5,5 Go,30,20.7,EUR,5G,oui
+truphone-104040,Truphone,eSIM Kenya 1 Go 30 jours,KE,Kenya,1,1 Go,30,8.21,EUR,5G,oui
+truphone-104041,Truphone,eSIM Asie 10 Go 7 jours,AS,Asie,10,10 Go,7,26.08,EUR,5G,oui
+truphone-104042,Truphone,eSIM Tanzanie 3 Go 7 jours,TZ,Tanzanie,3,3 Go,7,8.95,EUR,4G,oui
+truphone-104043,Truphone,eSIM Belgique 50 Go 15 jours,BE,Belgique,50,50 Go,15,57.46,EUR,4G,oui
+truphone-104044,Truphone,eSIM Pays-Bas 1 Go 7 jours,NL,Pays-Bas,1,1 Go,7,6.05,EUR,4G,oui
+truphone-104045,Truphone,eSIM Royaume-Uni 50 Go 7 jours,GB,Royaume-Uni,50,50 Go,7,48.41,EUR,4G,oui
+truphone-104046,Truphone,eSIM Singapour Illimité 30 jours,SG,Singapour,,Illimité,30,79.2,EUR,5G,oui
+truphone-104047,Truphone,eSIM Portugal 5 Go 7 jours,PT,Portugal,5,5 Go,7,11.71,EUR,4G,oui
+truphone-104048,Truphone,eSIM Mexique 3 Go 15 jours,MX,Mexique,3,3 Go,15,9.69,EUR,4G,non
+truphone-104049,Truphone,eSIM Amérique du Nord 10 Go 30 jours,NA,Amérique du Nord,10,10 Go,30,31.55,EUR,5G,oui
+truphone-104050,Truphone,eSIM Maroc 20 Go 15 jours,MA,Maroc,20,20 Go,15,33.54,EUR,4G,oui
+truphone-104051,Truphone,eSIM Espagne Illimité 15 jours,ES,Espagne,,Illimité,15,45.96,EUR,4G,oui
+truphone-104052,Truphone,eSIM Kenya Illimité 7 jours,KE,Kenya,,Illimité,7,33.26,EUR,5G,oui
+truphone-104053,Truphone,eSIM Chili 5 Go 30 jours,CL,Chili,5,5 Go,30,14.94,EUR,4G,oui
+truphone-104054,Truphone,eSIM Turquie 50 Go 15 jours,TR,Turquie,50,50 Go,15,52.41,EUR,4G,non
+truphone-104055,Truphone,eSIM Grèce 20 Go 7 jours,GR,Grèce,20,20 Go,7,27.16,EUR,4G,non
+truphone-104056,Truphone,eSIM Nigeria 3 Go 15 jours,NG,Nigeria,3,3 Go,15,10.26,EUR,4G,oui
+truphone-104057,Truphone,eSIM Tanzanie 3 Go 7 jours,TZ,Tanzanie,3,3 Go,7,8.79,EUR,5G,non
+truphone-104058,Truphone,eSIM Tanzanie 1 Go 15 jours,TZ,Tanzanie,1,1 Go,15,6.14,EUR,5G,oui
+truphone-104059,Truphone,eSIM Émirats arabes unis 50 Go 7 jours,AE,Émirats arabes unis,50,50 Go,7,45.75,EUR,5G,non
+truphone-104060,Truphone,eSIM Belgique 3 Go 7 jours,BE,Belgique,3,3 Go,7,9.58,EUR,5G,oui
+truphone-104061,Truphone,eSIM Monde Illimité 15 jours,WW,Monde,,Illimité,15,63.42,EUR,4G,non
+truphone-104062,Truphone,eSIM Canada 50 Go 15 jours,CA,Canada,50,50 Go,15,52.87,EUR,5G,oui
+truphone-104063,Truphone,eSIM Corée du Sud 50 Go 15 jours,KR,Corée du Sud,50,50 Go,15,58.9,EUR,4G,oui
+truphone-104064,Truphone,eSIM Singapour 10 Go 7 jours,SG,Singapour,10,10 Go,7,17.86,EUR,5G,non
+truphone-104065,Truphone,eSIM Indonésie Illimité 7 jours,ID,Indonésie,,Illimité,7,33.3,EUR,4G,non
+truphone-104066,Truphone,eSIM Grèce Illimité 7 jours,GR,Grèce,,Illimité,7,34.84,EUR,5G,non
+truphone-104067,Truphone,eSIM Israël 5 Go 15 jours,IL,Israël,5,5 Go,15,14.28,EUR,4G,non
+truphone-104068,Truphone,eSIM Espagne 3 Go 15 jours,ES,Espagne,3,3 Go,15,10.72,EUR,5G,oui
+truphone-104069,Truphone,eSIM Vietnam 50 Go 30 jours,VN,Vietnam,50,50 Go,30,62.69,EUR,4G,oui
+truphone-104070,Truphone,eSIM Nouvelle-Zélande Illimité 7 jours,NZ,Nouvelle-Zélande,,Illimité,7,34.44,EUR,5G,oui
+truphone-104071,Truphone,eSIM Suisse 1 Go 30 jours,CH,Suisse,1,1 Go,30,7.74,EUR,4G,oui
+truphone-104072,Truphone,eSIM Tchéquie 20 Go 30 jours,CZ,Tchéquie,20,20 Go,30,33.48,EUR,4G,oui
+truphone-104073,Truphone,eSIM Portugal 1 Go 30 jours,PT,Portugal,1,1 Go,30,7.91,EUR,4G,oui
+truphone-104074,Truphone,eSIM Mexique 50 Go 7 jours,MX,Mexique,50,50 Go,7,51.91,EUR,4G,non
+truphone-104075,Truphone,eSIM Europe 3 Go 15 jours,EU,Europe,3,3 Go,15,15.32,EUR,5G,non
+truphone-104076,Truphone,eSIM Italie 5 Go 7 jours,IT,Italie,5,5 Go,7,12.8,EUR,5G,non
+truphone-104077,Truphone,eSIM France 5 Go 15 jours,FR,France,5,5 Go,15,13.07,EUR,4G,oui
+truphone-104078,Truphone,eSIM Nigeria 5 Go 30 jours,NG,Nigeria,5,5 Go,30,16.06,EUR,4G,oui
+truphone-104079,Truphone,eSIM Thaïlande 3 Go 7 jours,TH,Thaïlande,3,3 Go,7,10.35,EUR,4G,oui
+truphone-104080,Truphone,eSIM Arabie saoudite 10 Go 15 jours,SA,Arabie saoudite,10,10 Go,15,21.99,EUR,4G,non
+truphone-104081,Truphone,eSIM Australie 50 Go 15 jours,AU,Australie,50,50 Go,15,59.37,EUR,5G,oui
+truphone-104082,Truphone,eSIM États-Unis 3 Go 30 jours,US,États-Unis,3,3 Go,30,12.77,EUR,4G,non
+truphone-104083,Truphone,eSIM Pays-Bas 3 Go 7 jours,NL,Pays-Bas,3,3 Go,7,10.31,EUR,4G,oui
+truphone-104084,Truphone,eSIM Amérique du Nord 50 Go 30 jours,NA,Amérique du Nord,50,50 Go,30,94.38,EUR,4G,non
+truphone-104085,Truphone,eSIM Brésil 50 Go 7 jours,BR,Brésil,50,50 Go,7,48.79,EUR,4G,oui
+truphone-104086,Truphone,eSIM Arabie saoudite 5 Go 30 jours,SA,Arabie saoudite,5,5 Go,30,15.49,EUR,4G,oui
+truphone-104087,Truphone,eSIM Suède 1 Go 30 jours,SE,Suède,1,1 Go,30,7.74,EUR,4G,oui
+truphone-104088,Truphone,eSIM Chine 3 Go 15 jours,CN,Chine,3,3 Go,15,10.74,EUR,4G,non
+truphone-104089,Truphone,eSIM Argentine 10 Go 7 jours,AR,Argentine,10,10 Go,7,19.41,EUR,4G,non
+truphone-104090,Truphone,eSIM Belgique 50 Go 30 jours,BE,Belgique,50,50 Go,30,61.28,EUR,4G,non
+truphone-104091,Truphone,eSIM Belgique 10 Go 30 jours,BE,Belgique,10,10 Go,30,23.57,EUR,4G,non
+truphone-104092,Truphone,eSIM Italie 20 Go 30 jours,IT,Italie,20,20 Go,30,34.8,EUR,5G,oui
+truphone-104093,Truphone,eSIM Espagne 5 Go 30 jours,ES,Espagne,5,5 Go,30,14.67,EUR,5G,non
+truphone-104094,Truphone,eSIM Pérou 3 Go 7 jours,PE,Pérou,3,3 Go,7,10.18,EUR,4G,oui
+truphone-104095,Truphone,eSIM Suisse 50 Go 15 jours,CH,Suisse,50,50 Go,15,51.47,EUR,4G,non
+truphone-104096,Truphone,eSIM Brésil 50 Go 30 jours,BR,Brésil,50,50 Go,30,65.05,EUR,4G,oui
+truphone-104097,Truphone,eSIM Pérou 50 Go 7 jours,PE,Pérou,50,50 Go,7,49.45,EUR,4G,oui
+truphone-104098,Truphone,eSIM Afrique du Sud 3 Go 30 jours,ZA,Afrique du Sud,3,3 Go,30,12.06,EUR,5G,non
+truphone-104099,Truphone,eSIM Japon 20 Go 7 jours,JP,Japon,20,20 Go,7,28.94,EUR,4G,oui
+truphone-104100,Truphone,eSIM Pologne 3 Go 30 jours,PL,Pologne,3,3 Go,30,12.32,EUR,5G,oui
+truphone-104101,Truphone,eSIM Espagne 10 Go 15 jours,ES,Espagne,10,10 Go,15,21.85,EUR,4G,non
+truphone-104102,Truphone,eSIM Malaisie 50 Go 15 jours,MY,Malaisie,50,50 Go,15,57.89,EUR,5G,non
+truphone-104103,Truphone,eSIM Asie 1 Go 15 jours,AS,Asie,1,1 Go,15,8.95,EUR,4G,oui
+truphone-104104,Truphone,eSIM Irlande 5 Go 7 jours,IE,Irlande,5,5 Go,7,12.03,EUR,4G,non
+truphone-104105,Truphone,eSIM Tanzanie Illimité 15 jours,TZ,Tanzanie,,Illimité,15,48.12,EUR,4G,oui
+truphone-104106,Truphone,eSIM Italie 10 Go 30 jours,IT,Italie,10,10 Go,30,24.84,EUR,4G,non
+truphone-104107,Truphone,eSIM Brésil Illimité 7 jours,BR,Brésil,,Illimité,7,36.96,EUR,5G,oui
+truphone-104108,Truphone,eSIM Italie 20 Go 30 jours,IT,Italie,20,20 Go,30,39.42,EUR,5G,non
+truphone-104109,Truphone,eSIM Chine 10 Go 15 jours,CN,Chine,10,10 Go,15,20.77,EUR,4G,non
+truphone-104110,Truphone,eSIM Amérique du Nord 20 Go 30 jours,NA,Amérique du Nord,20,20 Go,30,51.96,EUR,4G,oui
+truphone-104111,Truphone,eSIM Corée du Sud 1 Go 15 jours,KR,Corée du Sud,1,1 Go,15,6.67,EUR,4G,non
+truphone-104112,Truphone,eSIM Vietnam 3 Go 15 jours,VN,Vietnam,3,3 Go,15,10.28,EUR,4G,oui
+truphone-104113,Truphone,eSIM Chine 5 Go 7 jours,CN,Chine,5,5 Go,7,11.63,EUR,4G,non
+truphone-104114,Truphone,eSIM Inde Illimité 30 jours,IN,Inde,,Illimité,30,73.12,EUR,5G,oui
+truphone-104115,Truphone,eSIM Nigeria 3 Go 7 jours,NG,Nigeria,3,3 Go,7,9.34,EUR,5G,non
+truphone-104116,Truphone,eSIM Vietnam 20 Go 30 jours,VN,Vietnam,20,20 Go,30,35.99,EUR,5G,non
+truphone-104117,Truphone,eSIM Amérique du Nord 5 Go 30 jours,NA,Amérique du Nord,5,5 Go,30,22.29,EUR,5G,oui
+truphone-104118,Truphone,eSIM Turquie 5 Go 15 jours,TR,Turquie,5,5 Go,15,13.67,EUR,4G,non
+truphone-104119,Truphone,eSIM Suède 50 Go 15 jours,SE,Suède,50,50 Go,15,52.18,EUR,4G,oui
+truphone-104120,Truphone,eSIM Jordanie 10 Go 7 jours,JO,Jordanie,10,10 Go,7,18.95,EUR,4G,oui
+truphone-104121,Truphone,eSIM Irlande 5 Go 15 jours,IE,Irlande,5,5 Go,15,12.43,EUR,5G,non
+truphone-104122,Truphone,eSIM Égypte 3 Go 7 jours,EG,Égypte,3,3 Go,7,8.94,EUR,4G,non
+truphone-104123,Truphone,eSIM Afrique du Sud 10 Go 15 jours,ZA,Afrique du Sud,10,10 Go,15,18.27,EUR,5G,non
+truphone-104124,Truphone,eSIM Chine 10 Go 7 jours,CN,Chine,10,10 Go,7,19.58,EUR,5G,oui
+truphone-104125,Truphone,eSIM Pologne 20 Go 30 jours,PL,Pologne,20,20 Go,30,38.93,EUR,4G,non
+truphone-104126,Truphone,eSIM Allemagne 20 Go 30 jours,DE,Allemagne,20,20 Go,30,33.74,EUR,4G,oui
+truphone-104127,Truphone,eSIM Égypte Illimité 7 jours,EG,Égypte,,Illimité,7,35.36,EUR,5G,oui
+truphone-104128,Truphone,eSIM Singapour 3 Go 15 jours,SG,Singapour,3,3 Go,15,11.49,EUR,4G,oui
+truphone-104129,Truphone,eSIM Argentine 5 Go 15 jours,AR,Argentine,5,5 Go,15,14.3,EUR,4G,oui
+truphone-104130,Truphone,eSIM Asie 50 Go 7 jours,AS,Asie,50,50 Go,7,68.63,EUR,4G,oui
+truphone-104131,Truphone,eSIM Pérou 1 Go 30 jours,PE,Pérou,1,1 Go,30,7.46,EUR,4G,oui
+truphone-104132,Truphone,eSIM Espagne 3 Go 30 jours,ES,Espagne,3,3 Go,30,12.54,EUR,4G,non
+truphone-104133,Truphone,eSIM Philippines 1 Go 15 jours,PH,Philippines,1,1 Go,15,6.8,EUR,4G,oui
+truphone-104134,Truphone,eSIM Émirats arabes unis Illimité 30 jours,AE,Émirats arabes unis,,Illimité,30,78.51,EUR,4G,non
+truphone-104135,Truphone,eSIM Arabie saoudite 5 Go 30 jours,SA,Arabie saoudite,5,5 Go,30,15.05,EUR,5G,non
+truphone-104136,Truphone,eSIM Chine 20 Go 15 jours,CN,Chine,20,20 Go,15,31.32,EUR,4G,non
+truphone-104137,Truphone,eSIM Europe 10 Go 7 jours,EU,Europe,10,10 Go,7,25.81,EUR,4G,non
+truphone-104138,Truphone,eSIM Colombie 3 Go 7 jours,CO,Colombie,3,3 Go,7,9.99,EUR,4G,non
+truphone-104139,Truphone,eSIM Nouvelle-Zélande 20 Go 7 jours,NZ,Nouvelle-Zélande,20,20 Go,7,26.76,EUR,5G,oui
+truphone-104140,Truphone,eSIM Corée du Sud 20 Go 7 jours,KR,Corée du Sud,20,20 Go,7,28.12,EUR,4G,oui
+truphone-104141,Truphone,eSIM Arabie saoudite 1 Go 7 jours,SA,Arabie saoudite,1,1 Go,7,5.92,EUR,4G,oui
+truphone-104142,Truphone,eSIM Arabie saoudite 50 Go 30 jours,SA,Arabie saoudite,50,50 Go,30,63.3,EUR,5G,non
+truphone-104143,Truphone,eSIM Argentine 50 Go 7 jours,AR,Argentine,50,50 Go,7,47.91,EUR,5G,oui
+truphone-104144,Truphone,eSIM Kenya 20 Go 15 jours,KE,Kenya,20,20 Go,15,33.49,EUR,4G,non
+truphone-104145,Truphone,eSIM Brésil 3 Go 15 jours,BR,Brésil,3,3 Go,15,11.33,EUR,5G,oui
+truphone-104146,Truphone,eSIM Corée du Sud 5 Go 7 jours,KR,Corée du Sud,5,5 Go,7,12.02,EUR,5G,oui
+truphone-104147,Truphone,eSIM Thaïlande 1 Go 15 jours,TH,Thaïlande,1,1 Go,15,6.79,EUR,5G,oui
+truphone-104148,Truphone,eSIM Égypte 20 Go 15 jours,EG,Égypte,20,20 Go,15,33.45,EUR,4G,oui
+truphone-104149,Truphone,eSIM Espagne 50 Go 15 jours,ES,Espagne,50,50 Go,15,50.1,EUR,5G,oui
+truphone-104150,Truphone,eSIM Monde 5 Go 7 jours,WW,Monde,5,5 Go,7,16.62,EUR,4G,non
+truphone-104151,Truphone,eSIM Espagne 10 Go 7 jours,ES,Espagne,10,10 Go,7,17.04,EUR,5G,non
+truphone-104152,Truphone,eSIM Indonésie 5 Go 15 jours,ID,Indonésie,5,5 Go,15,13.05,EUR,5G,non
+truphone-104153,Truphone,eSIM Suède 5 Go 30 jours,SE,Suède,5,5 Go,30,17.07,EUR,4G,non
+truphone-104154,Truphone,eSIM Norvège 3 Go 15 jours,NO,Norvège,3,3 Go,15,11.36,EUR,5G,non
+truphone-104155,Truphone,eSIM Turquie 10 Go 7 jours,TR,Turquie,10,10 Go,7,19.18,EUR,5G,non
+truphone-104156,Truphone,eSIM Chili Illimité 30 jours,CL,Chili,,Illimité,30,74.28,EUR,4G,oui
+truphone-104157,Truphone,eSIM Indonésie 1 Go 15 jours,ID,Indonésie,1,1 Go,15,6.66,EUR,4G,non
+truphone-104158,Truphone,eSIM Croatie 3 Go 30 jours,HR,Croatie,3,3 Go,30,12.73,EUR,4G,non
+truphone-104159,Truphone,eSIM Asie 1 Go 30 jours,AS,Asie,1,1 Go,30,10.37,EUR,4G,non
+truphone-104160,Truphone,eSIM Indonésie 20 Go 30 jours,ID,Indonésie,20,20 Go,30,35.95,EUR,4G,non
+truphone-104161,Truphone,eSIM Italie 10 Go 7 jours,IT,Italie,10,10 Go,7,17.7,EUR,4G,non
+truphone-104162,Truphone,eSIM Australie 50 Go 7 jours,AU,Australie,50,50 Go,7,52.31,EUR,4G,oui
+truphone-104163,Truphone,eSIM Israël Illimité 7 jours,IL,Israël,,Illimité,7,34.06,EUR,5G,non
+truphone-104164,Truphone,eSIM Corée du Sud 3 Go 30 jours,KR,Corée du Sud,3,3 Go,30,12.1,EUR,5G,oui
+truphone-104165,Truphone,eSIM Chili 1 Go 7 jours,CL,Chili,1,1 Go,7,6.02,EUR,4G,non
+truphone-104166,Truphone,eSIM Maroc 50 Go 15 jours,MA,Maroc,50,50 Go,15,53.84,EUR,4G,oui
+truphone-104167,Truphone,eSIM Maroc Illimité 7 jours,MA,Maroc,,Illimité,7,36.26,EUR,4G,oui
+truphone-104168,Truphone,eSIM Égypte 5 Go 30 jours,EG,Égypte,5,5 Go,30,16.78,EUR,5G,non
+truphone-104169,Truphone,eSIM Afrique du Sud 10 Go 7 jours,ZA,Afrique du Sud,10,10 Go,7,18.16,EUR,5G,oui
+truphone-104170,Truphone,eSIM Singapour Illimité 7 jours,SG,Singapour,,Illimité,7,33.76,EUR,5G,non
+truphone-104171,Truphone,eSIM Inde 50 Go 7 jours,IN,Inde,50,50 Go,7,53.31,EUR,4G,oui
+truphone-104172,Truphone,eSIM Argentine 50 Go 7 jours,AR,Argentine,50,50 Go,7,52.51,EUR,4G,non
+truphone-104173,Truphone,eSIM Monde Illimité 30 jours,WW,Monde,,Illimité,30,152.96,EUR,5G,oui
+truphone-104174,Truphone,eSIM Europe Illimité 30 jours,EU,Europe,,Illimité,30,117.03,EUR,5G,non
